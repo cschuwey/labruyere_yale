@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpts from <hi rend="ital">Caractères,</hi> French and English
+               Compared</title>
+            <respStmt>
+               <resp>Transcribed by</resp>
+               <name>Jeanne Sauvage and Julee Tanner</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Jean de La Bruyère</author>
+               <title>Les Caracteres de Theophraste Traduits du Grec avec Les Caracteres ou Les
+                  Moeures de ce Siecle</title>
+               <edition>7th edition</edition>
+               <publisher>Estienne Michallet</publisher>
+               <pubPlace>Paris</pubPlace>
+               <date>1692</date>
+            </bibl>
+            <bibl>
+               <author>Jean de La Bruyère</author>
+               <editor role="translator">Unknown</editor>
+               <title>The Characters, or the Manners of the Age</title>
+               <edition>4th edition</edition>
+               <publisher>F. Leach</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1699</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="fr" type="chapter" n="16">
+            <head>Des Esprits Forts.</head>
+            <div type="maxim" n="1">
+               <p>
+                  <seg xml:id="f16_1_01">Les Esprits forts sçavent-ils qu'on les appelle ainsi par
+                     ironie?</seg>
+                  <seg xml:id="f16_1_02">quelle plus grande foiblesse que d'estre incertains quel
+                     est le principe de son estre, de sa vie, des ses sens, de ses connoissances,
+                     &amp; quelle en doit estre la fin?</seg>
+                  <seg xml:id="f16_03">Quel découragement plus grand que de douter si son ame n'est
+                     point matiere comme la pierre &amp; le reptile, &amp; si elle n'est point
+                     corruptible comme ces viles creatures.</seg>
+               </p>
+            </div>
+         </div>
+         <div xml:lang="en" type="chapter" n="16">
+            <head>Of The Wits, or Libertines.</head>
+            <div type="maxim" n="1">
+               <p>
+                  <seg xml:id="e16_1_01" corresp="#f16_1_01">Have the Libertines, <interp
+                        type="#exp"> who value themselves so much upon the title of Wits, have they,
+                        I say, Wit enough</interp> to perceive that they are only call'd so by
+                     Irony?</seg>
+                  <seg xml:id="e16_1_02" corresp="#f16_1_02">What greater want of Wit can there be,
+                     than to be doubtful of the principle of ones being, life, sense, knowledge, and
+                     of what ought to be the end of them?</seg>
+                  <seg xml:id="e16_1_03" corresp="#f16_1_03">What can more lessen any Man than his
+                     questioning whether his Soul is not material, like the Stone or <interp
+                        type="sense">Worm,</interp> or subject to corruption, like the vilest
+                     Creatures?</seg>
+               </p>
+            </div>
+         </div>
+      </body>
+      <interpGrp>
+         <interp xml:id="exp">expansion</interp>
+         <interp xml:id="abr">abridgement</interp>
+         <interp xml:id="sense">sense altered</interp>
+         <interp xml:id="tone">tone altered</interp>
+      </interpGrp>
+   </text>
+</TEI>

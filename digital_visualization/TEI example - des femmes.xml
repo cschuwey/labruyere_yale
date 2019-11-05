@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>wikisource https://fr.wikisource.org/wiki/Les_Caract%C3%A8res_(Garapon)</bibl>
+            <listWit>
+               <witness xml:id="edition1">
+                  <bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1688">1688</date></bibl>
+               </witness>
+               <witness xml:id="edition4"><bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1689">1689</date></bibl>
+               </witness>
+               <witness xml:id="edition5"><bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1690">1690</date></bibl>
+               </witness>
+               <witness xml:id="edition6"><bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1691">1691</date></bibl>
+               </witness>
+               <witness xml:id="edition7"><bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1692">1692</date></bibl>
+               </witness>
+               <witness xml:id="edition8"><bibl>
+                     <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                        Moeurs de ce Siècle</title>
+                     <date when="1694">1694</date></bibl>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapter" n="3">
+            <head>Des Femmes</head>
+            <div2 type="section" n="1">
+
+               <app>
+                  <rdg wit="edition1"><p>1 Les hommes et les femmes conviennent rarement sur le
+                        mérite d’une femme : leurs intérêts sont trop différents. Les femmes ne se
+                        plaisent point les unes aux autres par les mêmes agréments qu’elles plaisent
+                        aux hommes : mille manières qui allument dans ceux-ci les grandes passions,
+                        forment entre elles l’aversion et l’antipathie.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="2">
+
+               <app>
+                  <rdg wit="edition1"><p>2 Il y a dans quelques femmes une grandeur artificielle,
+                        attachée au mouvement des yeux, à un air de tête, aux façons de marcher, et
+                        qui ne va pas plus loin ; un esprit éblouissant qui impose, et que l’on
+                        n’estime que parce qu’il n’est pas approfondi. Il y a dans quelques autres
+                        une grandeur simple, naturelle, indépendante du geste et de la démarche, qui
+                        a sa source dans le cœur, et qui est comme une suite de leur haute naissance
+                        ; un mérite paisible, mais solide, accompagné de mille vertus qu’elles ne
+                        peuvent couvrir de toute leur modestie, qui échappent, et qui se montrent à
+                        ceux qui ont des yeux.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="3">
+               <app>
+                  <rdg wit="edition1"><p>3 J’ai vu souhaiter d’être fille, et une belle fille,
+                        depuis treize ans jusques à vingt-deux, et après cet âge, de devenir un
+                        homme.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="4">
+               <app>
+                  <rdg wit="edition4"><p>4 (IV) Quelques jeunes personnes ne connaissent point assez
+                        les avantages d’une heureuse nature, et combien il leur serait utile de s’y
+                        abandonner ; elles affaiblissent ces dons du ciel, si rares et si fragiles,
+                        par des manières affectées et par une mauvaise imitation : leur son de voix
+                        et leur démarche sont empruntés ; elles se composent, elles se recherchent,
+                        regardent dans un miroir si elles s’éloignent assez de leur naturel. Ce
+                        n’est pas sans peine qu’elles plaisent moins.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="5">
+               <app>
+                  <rdg wit="edition7"><p>5 (VII) Chez les femmes, se parer et se farder n’est pas,
+                        je l’avoue, parler contre sa pensée ; c’est plus aussi que le
+                        travestissement et la mascarade, où l’on ne se donne point pour ce que l’on
+                        paraît être, mais où l’on pense seulement à se cacher et à se faire ignorer
+                        : c’est chercher à imposer aux yeux, et vouloir paraître selon l’extérieur
+                        contre la vérité ; c’est une espèce de menterie.</p>
+                     <p>Il faut juger des femmes depuis la chaussure jusqu’à la coiffure
+                        exclusivement, à peu près comme on mesure le poisson entre queue et
+                        tête.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="6">
+               <app>
+                  <rdg wit="edition5"><p>6 (v) Si les femmes veulent seulement être belles à leurs
+                        propres yeux et se plaire à elles-mêmes, elles peuvent sans doute, dans la
+                        manière de s’embellir, dans le choix des ajustements et de la parure, suivre
+                        leur goût et leur caprice ; mais si c’est aux hommes qu’elles désirent de
+                        plaire, si c’est pour eux qu’elles se fardent ou qu’elles s’enluminent, j’ai
+                        recueilli les voix, et je leur prononce, de la part de tous les hommes ou de
+                        la plus grande partie, que le blanc et le rouge les rend affreuses et
+                        dégoûtantes ; que le rouge seul les vieillit et les déguise ; qu’ils
+                        haïssent autant à les voir avec de la céruse sur le visage, qu’avec de
+                        fausses dents en la bouche, et des boules de cire dans les mâchoires ;
+                        qu’ils protestent sérieusement contre tout l’artifice dont elles usent pour
+                        se rendre laides ; et que, bien loin d’en répondre devant Dieu, il semble au
+                        contraire qu’il leur ait réservé ce dernier et infaillible moyen de guérir
+                        des femmes. </p></rdg>
+               </app>
+               <app>
+                  <rdg wit="edition4"><p>(IV) Si les femmes étaient telles naturellement qu’elles le
+                        deviennent par un artifice, qu’elles perdissent en un moment toute la
+                        fraîcheur de leur teint, qu’elles eussent le visage aussi allumé et aussi
+                        plombé qu’elles se le font par le rouge et par la peinture dont elles se
+                        fardent, elles seraient inconsolables. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="7">
+               <app>
+                  <rdg wit="edition7"><p>7 (VII) Une femme coquette ne se rend point sur la passion
+                        de plaire, et sur l’opinion qu’elle a de sa beauté : elle regarde le temps
+                        et les années comme quelque chose seulement qui ride et qui enlaidit les
+                        autres femmes ; elle oublie du moins que l’âge est écrit sur le visage. La
+                        même parure qui a autrefois embelli sa jeunesse, défigure enfin sa personne,
+                        éclaire les défauts de sa vieillesse. La mignardise et l’affectation
+                        l’accompagnent dans la douleur et dans la fièvre : elle meurt parée et en
+                        rubans de couleur. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="8">
+               <app>
+                  <rdg wit="edition7"><p>8 (VII) Lise entend dire d’une autre coquette qu’elle se
+                        moque de se piquer de jeunesse, et de vouloir user d’ajustements qui ne
+                        conviennent plus à une femme de quarante ans. Lise les a accomplis ; mais
+                        les années pour elle ont moins de douze mois, et ne la vieillissent point :
+                        elle le croit ainsi, et pendant qu’elle se regarde au miroir, qu’elle met du
+                        rouge sur son visage et qu’elle place des mouches, elle convient qu’il n’est
+                        pas permis à un certain âge de faire la jeune, et que Clarice en effet, avec
+                        ses mouches et son rouge, est ridicule. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="9">
+               <app>
+                  <rdg wit="edition4"><p>9 (IV) Les femmes se préparent pour leurs amants, si elles
+                        les attendent ; mais si elles en sont surprises, elles oublient à leur
+                        arrivée l’état où elles se trouvent ; elles ne se voient plus. Elles ont
+                        plus de loisir avec les indifférents ; elles sentent le désordre où elles
+                        sont, s’ajustent en leur présence, ou disparaissent un moment, et reviennent
+                        parées.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="10">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Un beau visage est le plus beau de tous les spectacles ; et l’harmonie la
+                        plus douce est le son de voix de celle que l’on aime. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="11">
+               <app>
+                  <rdg wit="edition4"><p>II (IV) L’agrément est arbitraire la beauté est quelque
+                        chose de plus réel et de plus indépendant du goût et de l’opinion.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="12">
+               <app>
+                  <rdg wit="edition1">
+                     <p>I2 L’on peut être touché de certaines beautés si parfaites et d’un mérite si
+                        éclatant, que l’on se borne à les voir et à leur parler.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="13">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Une belle femme qui a les qualités d’un honnête homme est ce qu’il y a au
+                        monde d’un commerce plus délicieux : l’on trouve en elle tout le mérite des
+                        deux sexes.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="14">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Il échappe à une jeune personne de petites choses qui persuadent beaucoup,
+                        et qui flattent sensiblement celui pour qui elles sont faites. Il n’échappe
+                        presque rien aux hommes ; leurs caresses sont volontaires ; ils parlent, ils
+                        agissent, ils sont empressés, et persuadent moins.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="15">
+               <app>
+                  <rdg wit="edition4"><p>I5 (IV) Le caprice est dans les femmes tout proche de la
+                        beauté, pour être son contre-poison, et afin qu’elle nuise moins aux hommes,
+                        qui n’en guériraient pas sans remède.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="16">
+               <app>
+                  <rdg wit="edition1">
+                     <p>I6Les femmes s’attachent aux hommes par les faveurs qu’elles leur accordent
+                        : les hommes guérissent par ces mêmes faveurs.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="17">
+               <app>
+                  <rdg wit="edition1">
+                     <p>I7Une femme oublie d’un homme qu’elle n’aime plus jusques aux faveurs qu’il
+                        a reçues d’elle.</p></rdg>
+               </app>
+
+            </div2>
+            <div2 type="section" n="18">
+               <app>
+                  <rdg wit="edition1"><p>18 Une femme qui n’a qu’un galant croit n’être point
+                        coquette ; celle qui a plusieurs galants croit n’être que
+                        coquette.</p><p>Telle femme évite d’être coquette par un ferme attachement à
+                        un seul, qui passe pour folle par son mauvais choix.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="19">
+               <app>
+                  <rdg wit="edition4"><p>I9 (IV) Un ancien galant tient à si peu de chose, qu’il
+                        cède à un nouveau mari ; et celui-ci dure si peu, qu’un nouveau galant qui
+                        survient lui rend le change. </p>
+                     <p>Un ancien galant craint ou méprise un nouveau rival, selon le caractère de
+                        la personne qu’il sert. </p>
+                     <p>Il ne manque souvent à un ancien galant, auprès d’une femme qui l’attache,
+                        que le nom de mari : c’est beaucoup, et il serait mille fois perdu sans
+                        cette circonstance.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="20">
+               <app>
+                  <rdg wit="edition4"><p>20 (IV) Il semble que la galanterie dans une femme ajoute à
+                        la coquetterie. Un homme coquet au contraire est quelque chose de pire qu’un
+                        homme galant. L’homme coquet et la femme galante vont assez de
+                     pair.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="21">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Il y a peu de galanteries secrètes. Bien des femmes ne sont pas mieux
+                        désignées par le nom de leurs maris que par celui de leurs amants.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="22">
+               <app>
+                  <rdg wit="edition5"><p>22 (V) Une femme galante veut qu’on l’aime ; il suffit à
+                        une coquette d’être trouvée aimable et de passer pour belle. Celle-là
+                        cherche à engager ; celle-ci se contente de plaire. La première passe
+                        successivement d’un engagement à un autre ; la seconde a plusieurs
+                        amusements tout à la fois. Ce qui domine dans l’une, c’est la passion et le
+                        plaisir ; et dans l’autre, c’est la vanité et la légèreté. La galanterie est
+                        un faible du cœur, ou peut-être un vice de la complexion ; la coquetterie
+                        est un dérèglement de l’esprit. La femme galante se fait craindre et la
+                        coquette se fait haïr. L’on peut tirer de ces deux caractères de quoi en
+                        faire un troisième, le pire de tous.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="23">
+               <app>
+                  <rdg wit="edition5"><p>23 (V) Une femme faible est celle à qui l’on reproche une
+                        faute qui se la reproche à elle-même ; dont le cœur combat la raison ; qui
+                        veut guérir, qui ne guérira point, ou bien tard.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="24">
+               <app>
+                  <rdg wit="edition5"><p>24 (V) Une femme inconstante est celle qui n’aime plus ;
+                        une légère, celle qui déjà en aime un autre ; une volage, celle qui ne sait
+                        si elle aime et ce qu’elle aime ; une indifférente, celle qui n’aime
+                        rien.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="25">
+               <app>
+                  <rdg wit="edition5"><p>25 (V) La perfidie, si je l’ose dire, est un mensonge de
+                        toute la personne : c’est dans une femme l’art de placer un mot ou une
+                        action qui donne le change, et quelquefois de mettre en œuvre des serments
+                        et des promesses qui ne lui coûtent pas plus à faire qu’à violer.</p>
+                     <p>Une femme infidèle, si elle est connue pour telle de la personne intéressée,
+                        n’est qu’infidèle : s’il la croit fidèle, elle est perfide.</p>
+                     <p> On tire ce bien de la perfidie des femmes, qu’elle guérit de la
+                        jalousie.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="26">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Quelques femmes ont dans le cours de leur vie un double engagement à
+                        soutenir, également difficile à rompre et à dissimuler ; il ne manque à l’un
+                        que le contrat, et à l’autre que le cœur.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="27">
+               <app>
+                  <rdg wit="edition1"><p> A juger de cette femme par sa beauté, sa jeunesse, sa
+                        fierté et ses dédains, il n’y a personne qui doute que ce ne soit un héros
+                        qui doive un jour la charmer. Son choix est fait : c’est un petit monstre
+                        qui manque d’esprit.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="28">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Il y a des femmes déjà flétries, qui par leur complexion ou par leur mauvais
+                        caractère sont naturellement la ressource des jeunes gens qui n’ont pas
+                        assez de bien. Je ne sais qui est plus à plaindre, ou d’une femme avancée en
+                        âge qui a besoin d’un cavalier, ou d’un cavalier qui a besoin d’une
+                        vieille.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="29">
+               <app>
+                  <rdg wit="edition4"><p>29 (IV) Le rebut de la cour est reçu à la ville dans une
+                        ruelle, où il défait le magistrat même en cravate et en habit gris, ainsi
+                        que le bourgeois en baudrier, les écarte et devient maître de la place : il
+                        est écouté, il est aimé ; on ne tient guère plus d’un moment contre une
+                        écharpe d’or et une plume blanche, contre un homme qui parle au Roi et voit
+                        les ministres. Il fait des jaloux et des jalouses : on l’admire, il fait
+                        envie : à quatre lieues de là, il fait pitié. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="30">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Un homme de la ville est pour une femme de province ce qu’est pour une femme
+                        de ville un homme de la cour.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="31">
+               <app>
+                  <rdg wit="edition1">
+                     <p>3I A un homme vain, indiscret, qui est grand parleur et mauvais plaisant,
+                        qui parle de soi avec confiance et des autres avec mépris, impétueux,
+                        altier, entreprenant, sans mœurs ni probité, de nul jugement et d’une
+                        imagination très libre, il ne lui manque plus, pour être adoré de bien des
+                        femmes, que de beaux traits et la taille belle.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="32">
+               <app>
+                  <rdg wit="edition1"><p>32 Est-ce en vue du secret, ou par un goût hypocondre, que
+                        cette femme aime un valet, cette autre un moine, et Dorinne son médecin
+                        ?</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="33">
+               <app>
+                  <rdg wit="edition7"><p>33 (VII) Roscius entre sur la scène de bonne grâce : oui,
+                        Lélie ; et j’ajoute encore qu’il a les jambes bien tournées, qu’il joue
+                        bien, et de longs rôles, et que pour déclamer parfaitement il ne lui manque,
+                        comme on le dit, que de parler avec la bouche ; mais est-il le seul qui ait
+                        de l’agrément dans ce qu’il fait ? et ce qu’il fait, est-ce la chose la plus
+                        noble et la plus honnête que l’on puisse faire ? Roscius d’ailleurs ne peut
+                        être à vous, il est à une autre ; et quand cela ne serait pas ainsi, il est
+                        retenu : Claudie attend, pour l’avoir, qu’il se soit dégoûté de Messaline.
+                        Prenez Bathylle, Lélie : où trouverez-vous, je ne dis pas dans l’ordre des
+                        chevaliers, que vous dédaignez, mais même parmi les farceurs un jeune homme
+                        qui s’élève si haut en dansant, et qui passe mieux la capriole ?
+                        Voudriez-vous le sauteur Cobus, qui, jetant ses pieds en avant, tourne une
+                        fois en l’air avant que de tomber à terre ? Ignorez-vous qu’il n’est plus
+                        jeune ? Pour Bathylle, dites-vous, la presse y est trop grande, et il refuse
+                        plus de femmes qu’il n’en agrée ; mais vous avez Dracon, le joueur de flûte
+                        : nul autre de son métier n’enfle plus décemment ses joues en soufflant dans
+                        le hautbois ou le flageolet, car c’est une chose infinie que le nombre des
+                        instruments qu’il fait parler ; plaisant d’ailleurs, il fait rire jusqu’aux
+                        enfants et aux femmelettes. Qui mange et qui boit mieux que Dracon en un
+                        seul repas ? Il enivre toute une compagnie, et il se rend le dernier. Vous
+                        soupirez, Lélie : est-ce que Dracon aurait fait un choix, ou que
+                        malheureusement on vous aurait prévenue ? Se serait-il enfin engagé à
+                        Césonie, qui l’a tant couru, qui lui a sacrifié une si grande foule
+                        d’amants, je dirai même toute la fleur des Romains ? à Césonie, qui est
+                        d’une famille patricienne, qui est si jeune, si belle, et si sérieuse ? Je
+                        vous plains, Lélie, si vous avez pris par contagion ce nouveau goût qu’ont
+                        tant de femmes romaines pour ce qu’on appelle des hommes publics, et exposés
+                        par leur condition à la vue des autres. Que ferez-vous, lorsque le meilleur
+                        en ce genre vous est enlevé ? Il reste encore Bronte, le questionnaire : le
+                        peuple ne parle que de sa force et de son adresse ; c’est un jeune homme qui
+                        a les épaules larges et la taille ramassée, un nègre d’ailleurs, un homme
+                        noir. </p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="34">
+               <app>
+                  <rdg wit="edition1"><p>34 Pour les femmes du monde, un jardinier est un jardinier,
+                        et un maçon est un maçon ; pour quelques autres plus retirées, un maçon est
+                        un homme, un jardinier est un homme. Tout est tentation à qui la
+                     craint.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="35">
+               <app>
+                  <rdg wit="edition1">
+                     <p>35Quelques femmes donnent aux couvents et à leurs amants : galantes et
+                        bienfactrices, elles ont jusque dans l’enceinte de l’autel des tribunes et
+                        des oratoires où elles lisent des billets tendres, et où personne ne voit
+                        qu’elles ne prient point Dieu.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="36">
+               <app>
+                  <rdg wit="edition7"><p>36 (VII) Qu’est-ce qu’une femme que l’on dirige ? Est-ce
+                        une femme plus complaisante pour son mari, plus douce pour ses domestiques,
+                        plus appliquée à sa famille et à ses affaires, plus ardente et plus sincère
+                        pour ses amis ; qui soit moins esclave de son humeur, moins attachée à ses
+                        intérêts ; qui aime moins les commodités de la vie ; je ne dis pas qui fasse
+                        des largesses à ses enfants qui sont déjà riches, mais qui, opulente
+                        elle-même et accablée du superflu, leur fournisse le nécessaire, et leur
+                        rende au moins la justice qu’elle leur doit ; qui soit plus exempte d’amour
+                        de soi-même et d’éloignement pour les autres ; qui soit plus libre de tous
+                        attachements humains ? "Non, dites-vous, ce n’est rien de toutes ces
+                        choses." J’insiste, et je vous demande : "Qu’est-ce donc qu’une femme que
+                        l’on dirige ? " Je vous entends, c’est une femme qui a un
+                     directeur.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="37">
+               <app>
+                  <rdg wit="edition1">
+                     <p>37Si le confesseur et le directeur ne conviennent point sur une règle de
+                        conduite, qui sera le tiers qu’une femme prendra pour sur-arbitre
+                     ?</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="38">
+               <app>
+                  <rdg wit="edition1"><p>38 (I) Le capital pour une femme n’est pas d’avoir un
+                        directeur, mais de vivre si uniment qu’elle s’en puisse passer.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="39">
+               <app>
+                  <rdg wit="edition1">
+                     <p>Si une femme pouvait dire à son confesseur, avec ses autres faiblesses,
+                        celles qu’elle a pour son directeur ; et le temps qu’elle perd dans son
+                        entretien, peut-être lui serait-il donné pour pénitence d’y
+                     renoncer.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="40">
+               <app>
+                  <rdg wit="edition5"><p>40 (V) Je voudrais qu’il me fût permis de crier de toute ma
+                        force à ces hommes saints qui ont été autrefois blessés des femmes : "Fuyez
+                        les femmes, ne les dirigez point, laissez à d’autres le soin de leur
+                        salut."</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="41">
+               <app>
+                  <rdg wit="edition1">
+                     <p>4IC’est trop contre un mari d’être coquette et dévote ; une femme devrait
+                        opter.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="42">
+               <app>
+                  <rdg wit="edition6"><p>42 (VI) J’ai différé à le dire, et j’en ai souffert ; mais
+                        enfin il m’échappe, et j’espère même que ma franchise sera utile à celles
+                        qui n’ayant pas assez d’un confesseur pour leur conduite, n’usent d’aucun
+                        discernement dans le choix de leurs directeurs. Je ne sors pas d’admiration
+                        et d’étonnement à la vue de certains personnages que je ne nomme point ;
+                        j’ouvre de fort grands yeux sur eux ; je les contemple : ils parlent, je
+                        prête l’oreille ; je m’informe, on me dit des faits, je les recueille ; et
+                        je ne comprends pas comment des gens en qui je crois voir toutes choses
+                        diamétralement opposées au bon esprit, au sens droit, à l’expérience des
+                        affaires du monde, à la connaissance de l’homme, à la science de la religion
+                        et des mœurs, présument que Dieu doive renouveler en nos jours la merveille
+                        de l’apostolat, et faire un miracle en leurs personnes, en les rendant
+                        capables, tout simples et petits esprits qu’ils sont, du ministère des âmes,
+                        celui de tous le plus délicat et le plus sublime ; et si au contraire ils se
+                        croient nés pour un emploi si relevé, si difficile, et accordé à si peu de
+                        personnes, et qu’ils se persuadent de ne faire en cela qu’exercer leurs
+                        talents naturels et suivre une vocation ordinaire, je le comprends encore
+                        moins.</p>
+                     <p>Je vois bien que le goût qu’il y a à devenir le dépositaire du secret des
+                        familles, à se rendre nécessaire pour les réconciliations, à procurer des
+                        commissions ou à placer des domestiques, à trouver toutes les portes
+                        ouvertes dans les maisons des grands, à manger souvent à de bonnes tables, à
+                        se promener en carrosse dans une grande ville, et à faire de délicieuses
+                        retraites à la campagne, à voir plusieurs personnes de nom et de distinction
+                        s’intéresser à sa vie et à sa santé, et à ménager pour les autres et pour
+                        soi-même tous les intérêts humains, je vois bien, encore une fois, que cela
+                        seul a fait imaginer le spécieux et irrépréhensible prétexte du soin des
+                        âmes, et semé dans le monde cette pépinière intarissable de
+                     directeurs.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="43">
+               <app>
+                  <rdg wit="edition6"><p>43 (VI) La dévotion vient à quelques-uns, et surtout aux
+                        femmes, comme une passion, ou comme le faible d’un certain âge, ou comme un
+                        mode qu’il faut suivre. Elles comptaient autrefois une semaine par les jours
+                        de jeu, de spectacle, de concert, de mascarade, ou d’un joli sermon : elles
+                        allaient le lundi perdre leur argent chez Ismène, le mardi leur temps chez
+                        Climène, et le mercredi leur réputation chez Célimène ; elles savaient dès
+                        la veille toute la joie qu’elles devaient avoir le jour d’après et le
+                        lendemain ; elles jouissaient tout à la fois du plaisir présent et de celui
+                        qui ne leur pouvait manquer ; elles auraient souhaité de les pouvoir
+                        rassembler tous en un seul jour : c’était alors leur unique inquiétude et
+                        tout le sujet de leurs distractions ; et si elles se trouvaient quelquefois
+                        à l’Opéra, elles y regrettaient la comédie. Autres temps, autres mœurs :
+                        elles outrent l’austérité et la retraite ; elles n’ouvrent plus les yeux qui
+                        leur sont donnés pour voir ; elles ne mettent plus leurs sens à aucun usage
+                        ; et chose incroyable ! elles parlent peu ; elles pensent encore et assez
+                        bien d’elles-mêmes, comme assez mal des autres ; il y a chez elles une
+                        émulation de vertu et de réforme qui tient quelque chose de la jalousie ;
+                        elles ne haïssent pas de primer dans ce nouveau genre de vie, comme elles
+                        faisaient dans celui qu’elles viennent de quitter par politique ou par
+                        dégoût. Elles se perdaient gaiement par la galanterie, par la bonne chère et
+                        par l’oisiveté ; et elles se perdent tristement par la présomption et par
+                        l’envie.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="44">
+               <app>
+                  <rdg wit="edition7"><p>44 (VII) Si j’épouse, Hermas, une femme avare, elle ne me
+                        ruinera point ; si une joueuse, elle pourra s’enrichir ; si une savante,
+                        elle saura m’instruire ; si une prude, elle ne sera point emportée ; si une
+                        emportée, elle exercera ma patience ; si une coquette, elle voudra me plaire
+                        ; si une galante, elle le sera peut-être jusqu’à m’aimer ; si une dévote,
+                        répondez, Hermas, que dois-je attendre de celle qui veut tromper Dieu, et
+                        qui se trompe elle-même ?</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="45">
+               <app>
+                  <rdg wit="edition4"><p>45 (IV) Une femme est aisée à gouverner, pourvu que ce soit
+                        un homme qui s’en donne la peine. Un seul même en gouverne plusieurs ; il
+                        cultive leur esprit et leur mémoire, fixe et détermine leur religion ; il
+                        entreprend même de régler leur cœur. Elles n’approuvent et ne désapprouvent,
+                        ne louent et ne condamnent, qu’après avoir consulté ses yeux et son visage.
+                        Il est le dépositaire de leurs joies et de leurs chagrins, de leurs désirs,
+                        de leurs jalousies, de leurs haines et de leurs amours il les fait rompre
+                        avec leurs galants ; il les brouille et les réconcilie avec leurs maris, et
+                        il profite des interrègnes. Il prend soin de leurs affaires, sollicite leurs
+                        procès, et voit leurs juges ; il leur donne son médecin, son marchand, ses
+                        ouvriers ; il s’ingère de les loger, de les meubler, et il ordonne de leur
+                        équipage. On le voit avec elles dans leurs carrosses, dans les rues d’une
+                        ville et aux promenades, ainsi que dans leur banc à un sermon, et dans leur
+                        loge à la comédie ; il fait avec elles les mêmes visites ; il les accompagne
+                        au bain, aux eaux, dans les voyages ; il a le plus commode appartement chez
+                        elles à la campagne. Il vieillit sans déchoir de son autorité : un peu
+                        d’esprit et beaucoup de temps à perdre lui suffit pour la conserver ; les
+                        enfants, les héritiers, la bru, la nièce, les domestiques, tout en dépend.
+                        Il a commencé par se faire estimer ; il finit par se faire craindre. Cet ami
+                        si ancien, si nécessaire, meurt sans qu’on le pleure ; et dix femmes dont il
+                        était le tyran héritent par sa mort de la liberté.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="46">
+               <app>
+                  <rdg wit="edition5"><p>46 (V) Quelques femmes ont voulu cacher leur conduite sous
+                        les dehors de la modestie ; et tout ce que chacune a pu gagner par une
+                        continuelle affectation, et qui ne s’est jamais démentie, a été de faire
+                        dire de soi : On l’aurait prise pour une vestale.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="47">
+               <app>
+                  <rdg wit="edition4"><p>47 (IV) C’est dans les femmes une violente preuve d’une
+                        réputation bien nette et bien établie, qu’elle ne soit pas même effleurée
+                        par la familiarité de quelques-unes qui ne leur ressemblent point ; et
+                        qu’avec toute la pente qu’on a aux malignes explications, on ait recours à
+                        une tout autre raison de ce commerce qu’à celle de la convenance des
+                        mœurs.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="48">
+               <app>
+                  <rdg wit="edition7"><p>48 (VII) Un comique outre sur la scène ses personnages ; un
+                        poète charge ses descriptions ; un peintre qui fait d’après nature force et
+                        exagère une passion, un contraste, des attitudes ; et celui qui copie, s’il
+                        ne mesure au compas les grandeurs et les proportions, grossit ses figures,
+                        donne à toutes les pièces qui entrent dans l’ordonnance de son tableau plus
+                        de volume que n’en ont celles de l’original : de même la pruderie est une
+                        imitation de la sagesse.</p>
+                     <p>Il y a une fausse modestie qui est vanité, une fausse gloire qui est
+                        légèreté, une fausse grandeur qui est petitesse ; une fausse vertu qui est
+                        hypocrisie, une fausse sagesse qui est pruderie. </p>
+                     <p>Une femme prude paye de maintien et de parole ; une femme sage paye de
+                        conduite. Celle-là suit son humeur et sa complexion, celle-ci sa raison et
+                        son cœur. L’une est sérieuse et austère ; l’autre est dans les diverses
+                        rencontres précisément ce qu’il faut qu’elle soit. La première cache des
+                        faibles sous de plausibles dehors ; la seconde couvre un riche fonds sous un
+                        air libre et naturel. La pruderie contraint l’esprit, ne cache ni l’âge ni
+                        la laideur ; souvent elle les suppose : la sagesse au contraire pallie les
+                        défauts du corps, ennoblit l’esprit, ne rend la jeunesse que plus piquante
+                        et la beauté que plus périlleuse.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="49">
+               <app>
+                  <rdg wit="edition7"><p>49 (VII) Pourquoi s’en prendre aux hommes de ce que les
+                        femmes ne sont pas savantes ? Par quelles lois, par quels édits, par quels
+                        rescrits leur a-t-on défendu d’ouvrir les yeux et de lire, de retenir ce
+                        qu’elles ont lu, et d’en rendre compte ou dans leur conversation ou par
+                        leurs ouvrages ? Ne se sont-elles pas au contraire établies elles-mêmes dans
+                        cet usage de ne rien savoir, ou par la faiblesse de leur complexion, ou par
+                        la paresse de leur esprit ou par le soin de leur beauté, ou par une certaine
+                        légèreté qui les empêche de suivre une longue étude, ou par le talent et le
+                        génie qu’elles ont seulement pour les ouvrages de la main, ou par les
+                        distractions que donnent les détails d’un domestique, ou par un éloignement
+                        naturel des choses pénibles et sérieuses, ou par une curiosité toute
+                        différente de celle qui contente l’esprit, ou par un tout autre goût que
+                        celui d’exercer leur mémoire ? Mais à quelque cause que les hommes puissent
+                        devoir cette ignorance des femmes, ils sont heureux que les femmes, qui les
+                        dominent d’ailleurs par tant d’endroits, aient sur eux cet avantage de
+                        moins.</p>
+                     <p>On regarde une femme savante comme on fait une belle arme : elle est ciselée
+                        artistement, d’une polissure admirable et d’un travail fort recherché ;
+                        c’est une pièce de cabinet, que l’on montre aux curieux, qui n’est pas
+                        d’usage, qui ne sert ni à la guerre ni à la chasse, non plus qu’un cheval de
+                        manège, quoique le mieux instruit du monde.</p>
+                     <p>Si la science et la sagesse se trouvent unies en un même sujet, je ne
+                        m’informe plus du sexe, j’admire ; et si vous me dites qu’une femme sage ne
+                        songe guère à être savante, ou qu’une femme savante n’est guère sage, vous
+                        avez déjà oublié ce que vous venez de lire, que les femmes ne sont
+                        détournées des sciences que par de certains défauts : concluez donc
+                        vous-même que moins elles auraient de ces défauts, plus elles seraient
+                        sages, et qu’ainsi une femme sage n’en serait que plus propre à devenir
+                        savante, ou qu’une femme savante, n’étant telle que parce qu’elle aurait pu
+                        vaincre beaucoup de défauts, n’en est que plus sage.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="50">
+               <app>
+                  <rdg wit="edition1">
+                     <p>50La neutralité entre des femmes qui nous sont également amies, quoiqu’elles
+                        aient rompu pour des intérêts où nous n’avons nulle part, est un point
+                        difficile : il faut choisir souvent entre elles, ou les perdre toutes
+                        deux.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="51">
+               <app>
+                  <rdg wit="edition1">
+                     <p>5IIl y a telle femme qui aime mieux son argent que ses amis, et ses amants
+                        que son argent.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="52">
+               <app>
+                  <rdg wit="edition1">
+                     <p>52 Il est étonnant de voir dans le cœur de certaines femmes quelque chose de
+                        plus vif et de plus fort que l’amour pour les hommes, je veux dire
+                        l’ambition et le jeu : de telles femmes rendent les hommes chastes ; elles
+                        n’ont de leur sexe que les habits.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="53">
+               <app>
+                  <rdg wit="edition1"><p>53 Les femmes sont extrêmes : elles sont meilleures ou
+                        pires que les hommes.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="54">
+               <app>
+                  <rdg wit="edition1"><p>54 La plupart des femmes n’ont guère de principes ; elles
+                        se conduisent par le cœur, et dépendent pour leurs mœurs de ceux qu’elles
+                        aiment.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="55">
+               <app>
+                  <rdg wit="edition4"><p>55 (IV) Les femmes vont plus loin en amour que la plupart
+                        des hommes ; mais les hommes l’emportent sur elles en amitié. </p>
+                     <p>Les hommes sont cause que les femmes ne s’aiment point.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="56">
+               <app>
+                  <rdg wit="edition5"><p>56 (V) Il y a du péril à contrefaire. Lise, déjà vieille,
+                        veut rendre une jeune femme ridicule, et elle-même devient difforme ; elle
+                        me fait peur. Elle use pour l’imiter de grimaces et de contorsions : la
+                        voilà aussi laide qu’il faut pour embellir celle dont elle se
+                     moque.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="57">
+               <app>
+                  <rdg wit="edition7"><p>57 (VII) On veut à la ville que bien des idiots et des
+                        idiotes aient de l’esprit ; on veut à la cour que bien des gens manquent
+                        d’esprit qui en ont beaucoup ; et entre les personnes de ce dernier genre
+                        une belle femme ne se sauve qu’à peine avec d’autres femmes.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="58">
+               <app>
+                  <rdg wit="edition1">
+                     <p>58Un homme est plus fidèle au secret d’autrui qu’au sien propre ; une femme
+                        au contraire garde mieux son secret que celui d’autrui.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="59">
+               <app>
+                  <rdg wit="edition1">
+                     <p>59Il n’y a point dans le cœur d’une jeune personne un si violent amour
+                        auquel l’intérêt ou l’ambition n’ajoute quelque chose.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="60">
+               <app>
+                  <rdg wit="edition1"><p>60 Il y a un temps où les filles les plus riches doivent
+                        prendre parti ; elles n’en laissent guère échapper les premières occasions
+                        sans se préparer un long repentir : il semble que la réputation des biens
+                        diminue en elles avec celle de leur beauté. Tout favorise au contraire une
+                        jeune personne, jusques à l’opinion des hommes, qui aiment à lui accorder
+                        tous les avantages qui peuvent la rendre plus souhaitable.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="61">
+               <app>
+                  <rdg wit="edition1"><p>6I Combien de filles à qui une grande beauté n’a jamais
+                        servi qu’à leur faire espérer une grande fortune !</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="62">
+               <app>
+                  <rdg wit="edition7"><p>62 (VII) Les belles filles sont sujettes à venger ceux de
+                        leurs amants qu’elles ont maltraités, ou par de laids, ou par de vieux, ou
+                        par d’indignes maris.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="63">
+               <app>
+                  <rdg wit="edition4"><p>63 (IV) La plupart des femmes jugent du mérite et de la
+                        bonne mine d’un homme par l’impression qu’ils font sur elles, et n’accordent
+                        presque ni l’un ni l’autre à celui pour qui elles ne sentent rien.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="64">
+               <app>
+                  <rdg wit="edition4"><p>64 (IV) Un homme qui serait en peine de connaître s’il
+                        change, s’il commence à vieillir, peut consulter les yeux d’une jeune femme
+                        qu’il aborde, et le ton dont elle lui parle : il apprendra ce qu’il craint
+                        de savoir. Rude école.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="65">
+               <app>
+                  <rdg wit="edition4"><p>65 (IV) Une femme qui n’a jamais les yeux que sur une même
+                        personne, ou qui les en détourne toujours, fait penser d’elle la même
+                        chose.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="66">
+               <app>
+                  <rdg wit="edition4"><p>66 (IV) Il coûte peu aux femmes de dire ce qu’elles ne
+                        sentent point : il coûte encore moins aux hommes de dire ce qu’ils
+                        sentent.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="67">
+               <app>
+                  <rdg wit="edition1"><p>67 (I) Il arrive quelquefois qu’une femme cache à un homme
+                        toute la passion qu’elle sent pour lui, pendant que de son côté il feint
+                        pour elle toute celle qu’il ne sent pas.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="68">
+               <app>
+                  <rdg wit="edition1">
+                     <p>68L’on suppose un homme indifférent, mais qui voudrait persuader à une femme
+                        une passion qu’il ne sent pas ; et l’on demande s’il ne lui serait pas plus
+                        aisé d’imposer à celle dont il est aimé qu’à celle qui ne l’aime
+                     point.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="69">
+               <app>
+                  <rdg wit="edition1"><p>69 Un homme peut tromper une femme par un feint
+                        attachement, pourvu qu’il n’en ait pas ailleurs un véritable.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="70">
+               <app>
+                  <rdg wit="edition1">
+                     <p>70 Un homme éclate contre une femme qui ne l’aime plus, et se console ; une
+                        femme fait moins de bruit quand elle est quittée, et demeure longtemps
+                        inconsolable.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="71">
+               <app>
+                  <rdg wit="edition1">
+                     <p>7ILes femmes guérissent de leur paresse par la vanité ou par l’amour.</p>
+                     <p>(IV) La paresse au contraire dans les femmes vives est le présage de
+                        l’amour.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="72">
+               <app>
+                  <rdg wit="edition4"><p>72 (IV) Il est fort sûr qu’une femme qui écrit avec
+                        emportement est emportée ; il est moins clair qu’elle soit touchée. Il
+                        semble qu’une passion vive et tendre est morne et silencieuse ; et que le
+                        plus pressant intérêt d’une femme qui n’est plus libre, celui qui l’agite
+                        davantage, est moins de persuader qu’elle aime, que de s’assurer si elle est
+                        aimée.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="73">
+               <app>
+                  <rdg wit="edition7"><p>73 (VII) Glycère n’aime pas les femmes ; elle hait leur
+                        commerce et leurs visites, se fait celer pour elles, et souvent pour ses
+                        amis, dont le nombre est petit, à qui elle est sévère, qu’elle resserre dans
+                        leur ordre, sans leur permettre rien de ce qui passe l’amitié ; elle est
+                        distraite avec eux, leur répond par des monosyllabes, et semble chercher à
+                        s’en défaire ; elle est solitaire et farouche dans sa maison ; sa porte est
+                        mieux gardée et sa chambre plus inaccessible que celles de Monthoron et
+                        d’Héniery. Une seule, Corinne, y est attendue, y est reçue, et à toutes les
+                        heures ; on l’embrasse à plusieurs reprises ; on croit l’aimer ; on lui
+                        parle à l’oreille dans un cabinet où elles sont seules ; on a soi-même plus
+                        de deux oreilles pour l’écouter ; on se plaint à elle de tout autre que
+                        d’elle ; on lui dit toutes choses, et on ne lui apprend rien : elle a la
+                        confiance de tous les deux. L’on voit Glycère en partie carrée au bal, au
+                        théâtre dans les jardins publics, sur le chemin de Venouze, où l’on mange
+                        les premiers fruits ; quelquefois seule en litière sur la route du grand
+                        faubourg, où elle a un verger délicieux, ou à la porte de Canidie, qui a de
+                        si beaux secrets, qui promet aux jeunes femmes de secondes noces, qui en dit
+                        le temps et les circonstances. Elle paraît ordinairement avec une coiffure
+                        plate et négligée, en simple déshabillé, sans corps et avec des mules : elle
+                        est belle en cet équipage, et il ne lui manque que de la fraîcheur. On
+                        remarque néanmoins sur elle une riche attache, qu’elle dérobe avec soin aux
+                        yeux de son mari. Elle le flatte, elle le caresse ; elle invente tous les
+                        jours pour lui de nouveaux noms ; elle n’a pas d’autre lit que celui de ce
+                        cher époux, et elle ne veut pas découcher. Le matin, elle se partage entre
+                        sa toilette et quelques billets qu’il faut écrire. Un affranchi vient lui
+                        parler en secret ; c’est Parménon, qui est favori, qu’elle soutient contre
+                        l’antipathie du maître et la jalousie des domestiques. Qui à la vérité fait
+                        mieux connaître des intentions, et rapporte mieux une réponse que Parménon ?
+                        qui parle moins de ce qu’il faut taire ? qui sait ouvrir une porte secrète
+                        avec moins de bruit ? qui conduit plus adroitement par le petit escalier ?
+                        qui fait mieux sortir par où l’on est entré ?</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="74">
+               <app>
+                  <rdg wit="edition1">
+                     <p>74Je ne comprends pas comment un mari qui s’abandonne à son humeur et à sa
+                        complexion, qui ne cache aucun de ses défauts, et se montre au contraire par
+                        ses mauvais endroits, qui est avare, qui est trop négligé dans son
+                        ajustement, brusque dans ses réponses, incivil, froid et taciturne, peut
+                        espérer de défendre le cœur d’une jeune femme contre les entreprises de son
+                        galant, qui emploie la parure et la magnificence, la complaisance, les
+                        soins, l’empressement, les dons, la flatterie.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="75">
+               <app>
+                  <rdg wit="edition7"><p>75 (VII) Un mari n’a guère un rival qui ne soit de sa main,
+                        et comme un présent qu’il a autrefois fait à sa femme. Il le loue devant
+                        elle de ses belles dents et de sa belle tête ; il agrée ses soins ; il
+                        reçoit ses visites ; et après ce qui lui vient de son cru, rien ne lui
+                        paraît de meilleur goût que le gibier et les truffes que cet ami lui envoie.
+                        Il donne à souper, et il dit aux conviés : "Goûtez bien cela ; il est de
+                        Léandre, et il ne me coûte qu’un grand merci."</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="76">
+               <app>
+                  <rdg wit="edition6"><p>76 (VI) Il y a telle femme qui anéantit ou qui enterre son
+                        mari au point qu’il n’en est fait dans le monde aucune mention : vit-il
+                        encore ? ne vit-il plus ? on en doute. Il ne sert dans sa famille qu’à
+                        montrer l’exemple d’un silence timide et d’une parfaite soumission. Il ne
+                        lui est dû ni douaire ni conventions ; mais à cela près, et qu’il n’accouche
+                        pas, il est la femme, et elle le mari. Ils passent les mois entiers dans une
+                        même maison sans le moindre danger de se rencontrer ; il est vrai seulement
+                        qu’ils sont voisins. Monsieur paye le rôtisseur et le cuisinier, et c’est
+                        toujours chez Madame qu’on a soupé. Ils n’ont souvent rien de commun, ni le
+                        lit, ni la table, pas même le nom : ils vivent à la romaine ou à la grecque
+                        ; chacun a le sien ; et ce n’est qu’avec le temps, et après qu’on est initié
+                        au jargon d’une ville, qu’on sait enfin que M. B… est publiquement depuis
+                        vingt années le mari de Mme L…</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="77">
+               <app>
+                  <rdg wit="edition7"><p>77 (VII) Telle autre femme, à qui le désordre manque pour
+                        mortifier son mari, y revient par sa noblesse et ses alliances, par la riche
+                        dot qu’elle a apportée, par les charmes de sa beauté, par son mérite, par ce
+                        que quelques-uns appellent vertu.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="78">
+               <app>
+                  <rdg wit="edition7"><p>78 (VII) Il y a peu de femmes si parfaites, qu’elles
+                        empêchent un mari de se repentir du moins une fois le jour d’avoir une
+                        femme, ou de trouver heureux celui qui n’en a point.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="79">
+               <app>
+                  <rdg wit="edition4"><p>79 (IV) Les douleurs muettes et stupides sont hors d’usage
+                        : on pleure, on récite, on répète, on est si touchée de la mort de son mari,
+                        qu’on n’en oublie pas la moindre circonstance.</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="80">
+               <app>
+                  <rdg wit="edition1">
+                     <p>80 Ne pourrait-on point découvrir l’art de se faire aimer de sa femme
+                     ?</p></rdg>
+               </app>
+            </div2>
+            <div2 type="section" n="81">
+               <app>
+                  <rdg wit="edition4"><p>8I (IV) Une femme insensible est celle qui n’a pas encore
+                        vu celui qu’elle doit aimer.</p>
+                     <p>Il y avait à Smyrne une très belle fille qu’on appelait Emire, et qui était
+                        moins connue dans toute la ville par sa beauté que par la sévérité de ses
+                        mœurs, et surtout par l’indifférence qu’elle conservait pour tous les
+                        hommes, qu’elle voyait, disait-elle, sans aucun péril, et sans d’autres
+                        dispositions que celles où elle se trouvait pour ses amies ou pour ses
+                        frères. Elle ne croyait pas la moindre partie de toutes les folies qu’on
+                        disait que l’amour avait fait faire dans tous les temps ; et celles qu’elle
+                        avait vues elle-même, elle ne les pouvait comprendre : elle ne connaissait
+                        que l’amitié. Une jeune et charmante personne, à qui elle devait cette
+                        expérience la lui avait rendue si douce qu’elle ne pensait qu’à la faire
+                        durer, et n’imaginait pas par quel autre sentiment elle pourrait jamais se
+                        refroidir sur celui de l’estime et de la confiance, dont elle était si
+                        contente. Elle ne parlait que d’Euphrosyne : c’était le nom de cette fidèle
+                        amie, et tout Smyrne ne parlait que d’elle et d’Euphrosyne leur amitié
+                        passait en proverbe. Emire avait deux frères qui étaient jeunes, d’une
+                        excellente beauté, et dont toutes les femmes de la ville étaient éprises ;
+                        et il est vrai qu’elle les aima toujours comme une sœur aime ses frères. Il
+                        y eut un prêtre de Jupiter, qui avait accès dans la maison de son père, à
+                        qui elle plut, qui osa le lui déclarer, et ne s’attira que du mépris. Un
+                        vieillard, qui, se confiant en sa naissance et en ses grands biens, avait eu
+                        la même audace, eut aussi la même aventure. Elle triomphait cependant ; et
+                        c’était jusqu’alors au milieu de ses frères, d’un prêtre et d’un vieillard,
+                        qu’elle se disait insensible. Il sembla que le ciel voulut l’exposer à de
+                        plus fortes épreuves, qui ne servirent néanmoins qu’à la rendre plus vaine,
+                        et qu’à l’affermir dans la réputation d’une fille que l’amour ne pouvait
+                        toucher. De trois amants que ses charmes lui acquirent successivement, et
+                        dont elle ne craignit pas de voir toute la passion, le premier, dans un
+                        transport amoureux, se perça le sein à ses pieds ; le second, plein de
+                        désespoir de n’être pas écouté, alla se faire tuer à la guerre de Crète et
+                        le troisième mourut de langueur et d’insomnie. Celui qui les devait venger
+                        n’avait pas encore paru. Ce vieillard qui avait été si malheureux dans ses
+                        amours s’en était guéri par des réflexions sur son âge et sur le caractère
+                        de la personne à qui il voulait plaire : il désira de continuer de la voir,
+                        et elle le souffrit. Il lui amena un jour son fils, qui était jeune, d’une
+                        physionomie agréable, et qui avait une taille fort noble. Elle le vit avec
+                        intérêt ; et comme il se tut beaucoup en la présence de son père, elle
+                        trouva qu’il n’avait pas assez d’esprit, et désira qu’il en eût eu
+                        davantage. Il la vit seul, parla assez, et avec esprit ; mais comme il la
+                        regarda peu, et qu’il parla encore moins d’elle et de sa beauté, elle fut
+                        surprise et comme indignée qu’un homme si bien fait et si spirituel ne fût
+                        pas galant. Elle s’entretint de lui avec son amie, qui voulut le voir. Il
+                        n’eut des yeux que pour Euphrosyne, il lui dit qu’elle était belle ; et
+                        Emire si indifférente, devenue jalouse, comprit que Ctésiphon était persuadé
+                        de ce qu’il disait, et que non seulement était galant, mais même qu’il était
+                        tendre. Elle se trouva depuis ce temps moins libre avec son amie. Elle
+                        désira de les voir ensemble une seconde fois pour être plus éclaircie ; et
+                        une seconde entrevue lui fit voir encore plus qu’elle ne craignait de voir,
+                        et changea ses soupçons en certitude. Elle s’éloigne d’Euphrosyne, ne lui
+                        connaît plus le mérite qui l’avait charmée, perd le goût de sa conversation
+                        ; elle ne l’aime plus ; et ce changement lui fait sentir que l’amour dans
+                        son cœur a pris la place de l’amitié. Ctésiphon et Euphrosyne se voient tous
+                        les jours, s’aiment, songent à s’épouser, s’épousent. La nouvelle s’en
+                        répand par toute la ville ; et l’on publie que deux personnes enfin ont eu
+                        cette joie si rare de se marier à ce qu’ils aimaient. Emire l’apprend, et
+                        s’en désespère. Elle ressent tout son amour : elle recherche Euphrosyne pour
+                        le seul plaisir de revoir Ctésiphon ; mais ce jeune mari est encore l’amant
+                        de sa femme, et trouve une maîtresse dans une nouvelle épouse ; il ne voit
+                        dans Emire que l’amie d’une personne qui lui est chère. Cette fille
+                        infortunée perd le sommeil, et ne veut plus manger : elle s’affaiblit ; son
+                        esprit s’égare ; elle prend son frère pour Ctésiphon, et elle lui parle
+                        comme à un amant ; elle se détrompe, rougit de son égarement ; elle retombe
+                        bientôt dans de plus grands, et n’en rougit plus ; elle ne les connaît plus.
+                        Alors elle craint les hommes ; mais trop tard : c’est sa folie. Elle a des
+                        intervalles où sa raison lui revient, et où elle gémit de la retrouver. La
+                        jeunesse de Smyrne, qui l’a vue si fière et si insensible, trouve que les
+                        Dieux l’ont trop punie.</p></rdg>
+               </app>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

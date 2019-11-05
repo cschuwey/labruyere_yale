@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> 
+               <hi rend="bold">THE CHARACTERS, OR THE Manners of the Age 
+                  </hi> 
+            </title>
+            <author> BY Monsieur DE LA BRUYERE, of the <hi rend="ital">French</hi> Academy</author>
+            <editor role="translator"> Made <hi rend="ital"> English </hi> by several Hands</editor>
+           
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>I  Borrow’d the subject Matter of this Book from
+            the  Publick,   and I now restore what it lent
+            me.  Indeed having finish’d the whole Work,
+            with the utmost regard  to Truth that I was
+            capable of,’tis but just I should make it Restitution.
+            The   World  may  here  view  the  Picture  I have
+            drawn of it from Nature, and if I have hit on any
+            defects,  which  it  agrees with me  to be such,  it
+            may at leisure correct  them.   This is what a Man
+            ought chiefly to propose to himself in Writing, tho
+            he can’t always be sure  of success.   However, as
+            long as Men distaste  Vice so little as they do,   we
+            should  never  give over  reproaching them:   They
+            would  perhaps be worse,  were  it not for censure
+            and  Reproof, which makes Writing and Preaching
+            of   absolute   necessity.   The  Orator  and  Writer
+            can’t stifle the Joy they feel when they are applaud-
+            ed,  but they ought to blush in themselves,  if they
+            aim  at  nothing more  than Praise,   by   their  Dis-
+            courses or Writings.  Besides, that the most certain
+            and least equivocal  Approbation,  is the change of
+            Manners
+            
+            
+            
+            2                                   The characters,  or
+            Manners in their Readers  or Hearers :  We should
+            neither write  nor  speak  but  for  Instruction ;  yet
+            we may lawfully  rejoyce,  if we   at   the same time
+            please those to whom weaddress, and by this means
+            make the Truths we should advance,  the more insi-
+            nuating, and the better receiv’d.  When any thoughts
+            or reflections  slide into  a  Book, which have neither
+            fire,  turn,  nor vivacity  agreeable to  the rest,   tho
+            they  seem at first to be admitted for variety,  to di-
+            vert  our Minds,   and render  them more  attentive
+            on what is to follow,  but otherwise are not proper,
+            sensible,   or accommodated to the capacity of the
+            People,   ( whom  we must by  no means neglect  )
+            both the Reader and the Author ought  to condemn
+            ‘em.   This is one Rule:  There’s another, which my
+            particular Interest obliges  me to  request  may not
+            be forgot,  that is, always to have my Title in view,
+            and to think,  as often as this. Book is read,   that I
+            describe  the characters,   or Manners of the Age ;
+            for  tho  I  frequently   take  ‘em from the court of
+            France,   and Men  of  my  own  Nation,   yet they
+            cannot  be  confin’d  to  any one  court  or  country,
+            without losing a great deal of the compass and use-
+            fulness of my Book,  and destroying the design of
+            the Work,   which  is  to  paint Mankind in  general,
+            as the order of the chapters,  and a certain insensi-
+            ble connexion,   which the reflexions that compose
+            them,  have one with another,   do  plainly demon-
+            strate.   After  this  so  necessary a precaution,  the
+            consequences  of which. ‘this  easie enough for any
+            body to penetrate,    I must protest against  all cha-
+            grin,   complaint,    malicious  Interpretation,   false
+            Application and censure ;  against the insipid Rail-
+            liers,  and the ill-meaning Readers.    Men ought to
+            know how to Read,  and then  hold  their Tongues,
+            or else to be able  to relate  what  they  have read,
+            and
+            
+            
+            
+            
+            Manners  of  the  Age.               3
+            
+            and    nothing more  or   less  than  what  they  have
+            read ;   which   if   they  are  sometimes able  to  do,
+            ‘this not enough,  unless they have the Will to do it.
+            Without these conditions, which an exact and scru-
+            pulous  Author  has a right  to require of  some Peo-
+            ple,   as the  only     Recompence of  his    Labour,    I  
+            question whether he ought  to continue Writing,   if
+            he prefers  his   private  satisfaction  to   the publick
+            Good,  and  a  Zeal  for  promoting Truth.   I confess,
+            from the  year 1690,   and before the publishing the
+            5th Edition,  I  was divided  between an  Impatience,
+            to give my Book another Figure,   and a better Form,
+            by  new   characters, and a  fear   left   some People
+            should  say, Will these characters never be finisht?
+            shall we never see any thing else from this  Author?
+            On one side,  several   Men of  good  sense told me,
+            the matter is solid,  useful, pleasant, inexhaustible ;
+            live  long,  and treat  on’t   without   interruptions as
+            long  as you  live :   What   can you  do  better ?  The   
+            Follies  of  Mankind will every  year furnish you with
+            a Volume.  While  others,  with  a  great  deal of Rea-
+            son,  made me apprehend the capriciousness of the
+            Multitude,  and    the   levity  of   the  People,  (  with
+            whom,   however,  I  have   good  sause  to   be  con-
+            tent. )   These  were always  suggesting  to me,  that
+            for  these thirty years past,  few have  read with any
+            other intent,  than for the sake of reading,  and that
+            to amuse the World,  there ought  to be new  chap-
+            ters and a new Title ;  that  this  humour  of  indiffe-
+            rence had fill’d the shops,  and  stockt the Age with
+            piles  of  dull and  tedious  Books,   without  stile  or
+            Meaning,  Rules or Order,   contrary  to  Decency or
+            Manners, written in haste,  read with precipitati on,
+            and  only  read for their  Novelty.   They  added  far-
+            ther,  if I could not  enlarge  a  sensible Book,   I had
+            best sit still,   and do   nothing   I in  some  measure
+            took
+            
+            
+            
+            
+            
+            4           The characters,  or
+            took both their Advices,  as opposite as they seem’d
+            to be,  and observ’d a medium which disagreed with
+            neither.   I  did  not  scruple to  add   some  new  Re-
+            marks,   to   those  which   already had  doubled  the
+            bulk  of   the first Edition  of my  Book,  but that  the
+            Publick   might   not  be  oblig’d  to  read   over what
+            was done before,  to come at what has  been added
+            since,  and that  they  might  immmediately find out
+            what they  would  only  read,  I  took care to   distin-
+            guish the second augmentation  by a   greater mark,
+            and the first by a less,  as well to shew the progress
+            of  my  characters,   as  to  guide  the Reader  in  the
+            choice  he might be willing  to  make.    And  lest   he
+            should be afraid that  I shou'd never have done with
+            these  Additions,  I  added to  all my  exactness,  the
+            sincere  promise to venture on nothing more of this
+            kind    If  any   one  accuses   me  with   breaking  my
+            word,   by  adding in   the  three  ensuing Editions  a
+            great many  new  Remarks,  I  confess ingenuously I
+            had not the  power  to suppress  'em.   He may  per-
+            ceive,  by  mingling  what  was new with  what   was
+            old,   without  any  mark  of distinction, I did  not so
+            much  endeavour  to entertain  the  World  with  No
+            velties,   as to  deliver down to Posterity,  a Book  of
+            Manners,   more  pure,   regular  and   compleat.  To
+            conclude,  what I have written are not design'ed for
+            maxims ;   those  are  like  Laws   in  Morality,  and I
+            have   neither  Genius  nor  Authority  sufficient   to
+            qualifie me  for a  Legislator.    I  know well  enough,
+            I have offended against the custom of writing Max-
+            ims, which are deliver'd in short and concise Terms,
+            like   the   manner   of    Oracles.    some of  my   Re-
+            marks are  of this kind,   others are more  extended.
+            We think  of  things differently, and we express 'em
+            in a turn  altogether  as   different :   By a  sentence,
+            an  Argument,   a Metaphor,   or some other Figure,
+            a
+            
+            
+            
+            
+            
+            Manners  of   the  Age.                      
+            
+            a  Parallel,   a  simple  comparison,    by   a   story at
+            length,   or  a  single Passage,   by  a  Description  or
+            a  Picture,   from   whence proceeds   the length   or
+            shortness  of   my   Reflections.    Those  who  write
+            Maxims,  would be thought infaillible ;   on the  con-
+            trary,   I  allow   any   body   to   say  of  me,  my  Re-
+            marks are not  always good,  provided  he  will  him-
+            self   make  better.
+         </p>
+      </body>
+  </text>
+</TEI>

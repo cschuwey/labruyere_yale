@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+      <!ENTITY longs "&#x015C;">
+      <!ENTITY amp "&#x0026;">
+      <!ENTITY pilcrow "&#x00B6;"> 
+   ]>
+<!--Drama TEI schema won't allow certain tags so I've disabled it until we 
+   can figure out how to edit schemas. Mising tags so far include: rend, fw
+   
+   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+-->
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <castList>
+           <head rend="upper">Persons.</head>
+           <castGroup>
+              <head rend="upper" place="center">Men.</head>
+               <castItem>
+               <role xml:id="gruel">Doctor Gruel,</role>
+               <actor>Mr. Hur<choice>
+               <orig>&longs;</orig>
+               <reg>s</reg>
+               </choice>t.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="shatter">Shatterbrain,</role>
+                  <actor>Mr. King.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="weldon">Welldon,</role>
+                  <actor>Mr. Cautherly.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="coxcomb">Coxcomb,</role>
+                  <actor>Mr. Fawcet.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="slang">Captain Slang,</role>
+                  <actor>Mr. J. Palmer.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="frank">Frank,</role>
+                  <actor>Mr. Palmer.</actor>
+               </castItem>
+               <castItem>
+                  <role xml:id="robin">Robin,</role>
+                  <actor>Mr. J. Burton.</actor>
+               </castItem>
+           </castGroup>
+           <castGroup>
+              <head rend="upper" place="center">Women.</head>
+              <castItem>
+                 <role xml:id="junket">Mrs. Junket,</role>
+                 <actor>Mrs. Johnson.</actor>
+              </castItem>
+                 <castItem>
+                    <role xml:id="frolick">Mi<choice>
+               <orig>&longs;</orig>
+               <reg>s</reg>
+               </choice>s Frolick,</role>
+                    <actor>Mi<choice>
+               <orig>&longs;</orig>
+               <reg>s</reg>
+               </choice>s. Reynolds.</actor>
+                 </castItem>
+                 <castItem>
+                    <role xml:id="flavia">Flavia,</role>
+                    <actor>Mrs. Barry.</actor>
+                 </castItem>
+                 <castItem>
+                    <role xml:id="land">Landlady,</role>
+                    <actor>Mrs. Brad<choice>
+               <orig>&longs;</orig>
+               <reg>s</reg>
+               </choice>haw.</actor>
+                 </castItem>
+           </castGroup>
+        </castList>
+     </front>
+      <body>
+         <div type="act" n="1">
+            <pb n="1"/>
+            <figure>
+               <figDesc>A decorative border composed of small hexagonal snowflake
+               shapes in a line across the top of the page, with two smaller lines 
+               top and bottom.</figDesc>
+            </figure>
+            <head>The Absent Man</head>
+            <figure>
+               <figDesc>A line prefacing the start of the text.</figDesc>
+            </figure>
+            <head>Act 1.</head>
+               <div type="scene" n="1">
+               <head>Scene 1.</head>
+                  <!--I used the <choice> tag with <orig> and <reg> for the long s.
+                     It's crazy and messy and I'm not sure it's worth it, but at least
+                     it's cool!-->
+               <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dre<choice>
+                  <orig>&longs;&longs;</orig>
+                  <reg>ss</reg>
+                  </choice>ing-Table, with a 
+               Gla<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>s, &amp;c. Frank a<choice>
+                     <orig>&longs;</orig>
+                     <reg>s</reg>
+                     </choice>leep in a Chair. <hi rend="sc">Landlady</hi> 
+               enters in a hurry.</stage>
+               <sp who="#land"> 
+                  <speaker>Land.</speaker>
+                  <p>Mr. Frank--Mr. Frank!</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>What's the matter?</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>Rou<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>e, rou<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>e, man!</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>Is my ma<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ter come home?</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>Your ma<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ter come home? no, he's not-
+               but there's the Doctor below in his chariot, come to 
+               carry him to his bride.</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>Yaw-have I <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>lpt long?</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>You are a<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>leep <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>till, one would think-I 
+               tell you there is your ma<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ter's father-in-law that is to
+               be, come to fetch him away!</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>My ma<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ter's father-in-law that is to be, 
+               come to fetch him away!</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>Ay.</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>Well-what <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>hall we do?</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>Nay, I don't know-I come to a<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>k you.</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>If I was not acquainted with my ma<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ter
+               now, I <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>hould naturally conclude that the had either
+               hanged, or drown'd him<choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>elf in order to aviod being
+               married.</p></sp>
+               <sp who="#land">
+                  <speaker>Land.</speaker>
+                  <p>Oh, he's a <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ad gentleman!</p></sp>
+               <sp who="#frank">
+                  <speaker>Frank.</speaker>
+                  <p>He is a little out of the way <choice>
+                  <orig>&longs;</orig>
+                  <reg>s</reg>
+                  </choice>ometimes, 
+               indeed.</p></sp>
+               <fw type="footer" place="bottom-center">B</fw>
+               <fw type="footer" place="bottom-right">Land.</fw> 
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

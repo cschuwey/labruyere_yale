@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+      <!ENTITY longs "&#x015C;">
+      <!ENTITY st "&#xFB06;">
+      <!ENTITY amp "&#x0026;">
+      <!ENTITY pilcrow "&#x00B6;"> 
+   ]>
+<front>
+    <titlePage>
+        <doctitle>
+            <titlePart type="main" rend="center"><hi rend="all-caps">
+                <lb/>THE
+                <lb/>ABSENT MAN:
+                <lb/>A
+                <lb/>FARCE.
+            </hi></titlePart>
+            <titlePart type="main" rend="center"><hi rend="all-caps">ABSENT MAN</hi></titlePart>
+            <titlePart type="sub" rend="center">
+                <lb/>As it is acted by
+                <hi rendition="all-caps">
+                <lb/>HIS MAJESTY'S SERVANTS,
+                <lb/>AT THE
+                <lb/>THEATRE ROYAL,
+                <lb/>IN
+                <lb/>DRURY-LANE
+                </hi>
+            </titlePart>
+            <figDesc>Possible Printers Ornament placed between title and imprint</figDesc>
+            <docImprint type="sub" rend="center">
+                <lb/><name place="London"><hi rend="all-caps">LONDON</hi></name>
+                <lb/>Printed for<name><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name place="Catharine-Street">Catharine-
+                <lb/>Street</name>in, the <name place="Strand">Strand.</name>
+                <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
+            </docImprint>
+        </doctitle>
+    </titlePage>
+    <pb n="1"/>
+    <gap reason="blank" extent="1 page"/>
+    <div type="dedication">
+        <head rend="center">
+            <lb/><hi rend="all-caps">TO</hi>
+            <lb/><hi rend="all-caps">MR. KING.</hi>
+            <lb/><hi rend="all-caps" style="text align: left">SIR</hi>
+        </head>
+        <p n="1">
+            <lb/><hi rend="all-caps">IT</hi>was cu<choice><orig>&longs;</orig><reg>s</reg></choice>om with the Grecian Fi<choice><orig>&longs;</orig><reg>s</reg></choice>her-
+            <lb/>men of old, when they had e<choice><orig>&longs;</orig><reg>s</reg></choice>caped
+            <lb/>any danger at <choice><orig>&longs;</orig><reg>s</reg></choice>ea, to dedicate their
+            <lb/>little <choice><orig>&longs;</orig><reg>s</reg></choice>kiffs to whatever Tutelary Being
+            <lb/>they attributed its pre<choice><orig>&longs;</orig><reg>s</reg></choice>ervation: there
+            <lb/>is nothing more certain, than that the
+            <lb/><hi rend="all-caps">ABSENT MAN</hi> is chiefly, was I not the
+            <lb/>Author my<choice><orig>&longs;</orig><reg>s</reg></choice>elf, perhaps, I might <choice><orig>&longs;</orig><reg>s</reg></choice>ay
+            <lb/>wholly, indebted, for its <choice><orig>&longs;</orig><reg>s</reg></choice>ucce<choice><orig>&longs;</orig><reg>s</reg></choice>s, to your
+            <lb/>excellent performance ; it is therefore,
+            <lb/>with great plea<choice><orig>&longs;</orig><reg>s</reg></choice>ure I take this method
+            <lb/>of expre<choice><orig>&longs;&longs;</orig><reg>ss</reg></choice>ing my obligations to you.
+        </p>
+        <p n="2">
+            
+        </p>
+    </div>
+</front>
+
+
+<!--head rend="center"></head>-->
