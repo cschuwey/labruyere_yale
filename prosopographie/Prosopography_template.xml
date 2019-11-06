@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson>
+   
+   <person xml:id="last_name">
+      <persName type="actual">
+         <surname>Last name</surname>
+         <forename>First name, if available (leave this element out if not). You can include multiple names here: eg. Pierre Michel</forename>
+         <roleName>Title, if available. Include things like "duc" or "abbé" but not professions</roleName>
+      </persName>
+      <persName type="pseudo" source="#1765">Enter the pseudonym here. If you find the same pseudonym in another source, such as the 1697 edition which came with a key, you can simply add that as a 2nd value: "#1765 #1697"</persName>
+      <persName type="pseudo" source="source">If the same person has another pseudonym in the same or another source, enter that here, with the source.</persName>
+      <note type="personinfo">
+         <p>You can add biographical text here that could be pulled into an interface.</p>               
+      </note>
+      <note type="personlocations"> <!-- this is optional for now, too, but if you want to record where the person appears in the text, you can use this format -->
+         <ptr target="ch_remark"/> <!-- ex: target="II_23"-->
+         <ref target="ch_remark">You can use REF instead, if you want to indicate the specific text from the location</ref>
+         <!-- you can list multiple locations: either multiple values of target ("II_23 XI_18") or multiple <ref> elements, if there's distinct text in each case -->
+      </note>
+   </person>
+   
+   <person xml:id="last_name2">
+      [...]
+   </person>
+   
+</listPerson>
