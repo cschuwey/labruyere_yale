@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Excerpts from <hi rend="ital">Caractères,</hi> French and English
+		 <title><hi rend="ital">Caractères,</hi> and <hi rend="ital">Characters,</hi> 
                Compared</title>
             <respStmt>
                <resp>Transcribed by</resp>
@@ -18,7 +18,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Jean de La Bruyèreeeeee</author>
+               <author>Jean de La Bruyère</author>
                <title>Les Caracteres de Theophraste Traduits du Grec avec Les Caracteres ou Les
                   Moeures de ce Siecle</title>
                <edition>7th edition</edition>
@@ -42,31 +42,32 @@
       <body>
          <div xml:lang="fr" type="chapter" n="16">
             <head>Des Esprits Forts.</head>
-            <div type="maxim" n="1">
+            <div type="remark" n="1">
                <p>
-                  <seg xml:id="f16_1_01">Les Esprits forts sçavent-ils qu'on les appelle ainsi par
+                  <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on les appelle ainsi par
                      ironie?</seg>
-                  <seg xml:id="f16_1_02">quelle plus grande foiblesse que d'estre incertains quel
+                  <seg xml:id="FEF_01_02" corresp="#EWL_01_02">quelle plus grande foiblesse que d'estre incertains quel
                      est le principe de son estre, de sa vie, des ses sens, de ses connoissances,
                      &amp; quelle en doit estre la fin?</seg>
-                  <seg xml:id="f16_03">Quel découragement plus grand que de douter si son ame n'est
-                     point matiere comme la pierre &amp; le reptile, &amp; si elle n'est point
+                  <seg xml:id="FEF_01_03" corresp+"EWL_01_03">Quel découragement plus grand que de douter si son ame n'est
+			  point matiere comme la pierre &amp; le <interp type="sense">reptile</interp>, &amp; si elle n'est point
                      corruptible comme ces viles creatures.</seg>
                </p>
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="16">
             <head>Of The Wits, or Libertines.</head>
-            <div type="maxim" n="1">
+            <div type="remark" n="1">
                <p>
-                  <seg xml:id="e16_1_01" corresp="#f16_1_01">Have the Libertines, <interp
-                        type="#exp"> who value themselves so much upon the title of Wits, have they,
-                        I say, Wit enough</interp> to perceive that they are only call'd so by
+	<!-- Ok to code expansion in a seg with @ana, and is this also how we would code spans of text that are abridg, omit, add? -->
+                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, 
+                        who value themselves so much upon the title of Wits, have they,
+                        I say, Wit enough to perceive that they are only call'd so by
                      Irony?</seg>
-                  <seg xml:id="e16_1_02" corresp="#f16_1_02">What greater want of Wit can there be,
+                  <seg xml:id="EWL_01_02" corresp="#FEF_01_02">What greater want of Wit can there be,
                      than to be doubtful of the principle of ones being, life, sense, knowledge, and
                      of what ought to be the end of them?</seg>
-                  <seg xml:id="e16_1_03" corresp="#f16_1_03">What can more lessen any Man than his
+                  <seg xml:id="EWL_01_03" corresp="#FEF_01_03">What can more lessen any Man than his
                      questioning whether his Soul is not material, like the Stone or <interp
                         type="sense">Worm,</interp> or subject to corruption, like the vilest
                      Creatures?</seg>
@@ -75,10 +76,12 @@
          </div>
       </body>
       <interpGrp>
-         <interp xml:id="exp">expansion</interp>
-         <interp xml:id="abr">abridgement</interp>
-         <interp xml:id="sense">sense altered</interp>
-         <interp xml:id="tone">tone altered</interp>
+         <interp xml:id="sense">difference in sense between French and English</interp>
+         <interp xml:id="tone">difference in tone between French and English</interp>
+         <interp xml:id="omit">text in French omitted in English</interp>
+         <interp xml:id="add">text in English not present in French</interp>
+	 <interp xml:id="expan">English requires more words than French to convey same idea</interp>
+	 <interp xml:id="abridg">English requires fewer words than French to convey same idea</interp>
       </interpGrp>
    </text>
 </TEI>
