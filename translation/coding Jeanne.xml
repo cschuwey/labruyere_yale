@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Excerpts from <hi rend="ital">Caractères,</hi> French and English
+                    Compared</title>
+                <respStmt>
+                    <resp>Transcribed by</resp>
+                    <name>Jeanne Sauvage and Julee Tanner</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jean de La Bruyère</author>
+                    <title>Les Caracteres de Theophraste Traduits du Grec avec Les Caracteres ou Les
+                        Moeurs de ce Siecle</title>
+                    <edition>7th edition</edition>
+                    <publisher>Estienne Michallet</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1692</date>
+                </bibl>
+                <bibl>
+                    <author>Jean de La Bruyère</author>
+                    <editor role="translator">Unknown</editor>
+                    <title>The Characters, or the Manners of the Age</title>
+                    <edition>4th edition</edition>
+                    <publisher>F. Leach</publisher>
+                    <pubPlace>London</pubPlace>
+                    <date>1699</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="fr" type="chapter" n="5">
+                <head>De la Société</head>
+                <div type="maxim" n="69">
+                    <p>
+                        <seg xml:id="f5_69_01" corresp="#e5_69_01"> Quelques femmes de la ville ont la délicatesse de ne pas savoir ou de n’oser dire le nom des rues, des places, et de quelques endroits publics,</seg> 
+                        <seg xml:id="f5_69_02" corresp="#e5_69_01"> qu’elles ne croient pas assez nobles pour être connus</seg>
+                        <seg xml:id="f5_69_03" corresp="#e5_69_01"> Elles disent : <emph style="font-style: italic">le Louvre, la place Royale </emph>, mais elles usent de tours et de phrases plutôt que de prononcer de certains noms ;</seg>
+                        <seg xml:id="f5_69_04" corresp="#e5_69_01"> et s’ils leur échappent, c’est du moins avec quelque altération du mot, et après quelques façons qui les rassurent :</seg>
+                        <seg xml:id="f5_69_05" corresp="#e5_69_01"> en cela moins naturelles que les femmes de la cour, qui ayant besoin dans le discours <emph style="font-style: italic"> des Halles, du Châtelet </emph>, ou de choses semblables, disent :.</seg>
+                        <seg xml:id="f5_69_06" corresp="#e5_69_01"> <emph style="font-style: italic"> les Halles, le Châtelet. </emph>
+                            
+                        </seg>
+                    </p>
+                </div>
+            </div>
+            <div xml:lang="en" type="chapter" n="5">
+                <head>Of Society and Conversation</head>
+                <div type="maxim" n="69">
+                    <p>
+                        <seg xml:id="e5_69_01" corresp="#f5_69_01">Some City ladies are so nice, that they will by no means learn to speak the Names of Streets, Lanes, or publick Places,</seg>
+                        <seg xml:id="e5_69_02" corresp="#f5_69_02"> which they fancy are not noble enough to be known.</seg>
+                        <seg xml:id="e5_69_03" corresp="#f5_69_03">They say nothing plainly but the <emph style="font-style: italic">Louvre </emph> and the <emph style="font-style: italic"> Place Royal </emph>; they use Terms and Phrases for the Names of some other Places;</seg>
+                        <seg xml:id="e5_69_04" corresp="#f5_69_04"> or if by chance they let such a word slip, they will excuse it as if it were criminal;</seg>
+                        <seg xml:id="e5_69_05" corresp="#f5_69_05"> in this much more unnatural than the Court ladies, who having occasion to speak of the Market-place, the Prison, or the like, say,</seg>
+                        <seg xml:id="e16_1_03" corresp="#f5_69_06"> the Market-place and the Prison.</seg>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+        
