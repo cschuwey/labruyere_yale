@@ -48,7 +48,7 @@
                         <seg xml:id="FSC_69_02" corresp="#ESC_69_01"> qu’elles ne croient pas assez nobles pour être connus</seg>
                         <seg xml:id="FSC_69_03" corresp="#ESC_69_01"> Elles disent : <emph style="font-style: italic">le Louvre, la place Royale </emph>, mais elles usent de tours et de phrases plutôt que de prononcer de certains noms ;</seg>
                         <seg xml:id="FSC_69_04" corresp="#ESC_69_01"> et s’ils leur échappent, c’est du moins avec quelque altération du mot, et après quelques façons qui les rassurent :</seg>
-                        <seg xml:id="FSC_69_05" corresp="#ESC_69_01"> en cela moins naturelles que les femmes de la cour, qui ayant besoin dans le discours <emph style="font-style: italic"> des Halles, du Châtelet </emph>, ou de choses semblables, disent :.</seg>
+                        <seg xml:id="FSC_69_05" corresp="#ESC_69_01"> en cela moins naturelles que les femmes de la cour, qui ayant besoin dans le discours <emph style="font-style: italic"> des Halles, du Châtelet </emph>, ou de choses semblables, disent :</seg>
                         <seg xml:id="FSC_69_06" corresp="#ESC_69_01"> <emph style="font-style: italic"> les Halles, le Châtelet. </emph>
                             
                         </seg>
@@ -68,6 +68,40 @@
                     </p>
                 </div>
             </div>
+            
+            <div xml:lang="fr" type="chapter" n="7">
+                <head>De la Ville</head>
+                <div type="maxim" n="12">
+                    <p>
+                        <seg xml:id="FVL_12_01" corresp="#ECY_12_01"> Narcisse se lève le matin pour se coucher le soir ;</seg> 
+                        <seg xml:id="FVL_12_02" corresp="#ECY_12_02"> il a ses heures de toilette comme une femme ;</seg>
+                        <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort régulièrement à la belle messe aux Feuillants ou aux Minimes ;</seg>
+                        <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce, et l’on compte sur lui au quartier de pour un tiers ou pour un cinquième à l’hombre ou au reversi</seg>
+                        <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> Là il tient le fauteuil quatre heures de suite chez Aricie, où il risque chaque soir cinq pistoles d’or.</seg>
+                        <seg xml:id="FVL_12_06" corresp="#ECY_12_06"> Il lit exactement la Gazette de Hollande et le Mercure Galant ; il a lu Bergerac, des Marets, Lesclache, les Historiettes de Barbin, et quelques recueils de poésies. </seg>
+                        <seg xml:id="FVL_12_07" corresp="#ECY_12_07"> Il se promène avec des femmes à la Plaine ou au Cours, et il est d’une ponctualité religieuse sur les visites.</seg>
+                        <seg xml:id="FVL_12_08" corresp="#ECY_12_08"> Il fera demain ce qu’il fait aujourd’hui et ce qu’il fit hier ; </seg>
+                        <seg xml:id="FVL_12_09" corresp="#ECY_12_09"> et il meurt ainsi après avoir vécu.</seg>
+                    </p>
+                </div>
+            </div>
+            <div xml:lang="en" type="chapter" n="7">
+                <head>Of the City</head>
+                <div type="maxim" n="12">
+                    <p>
+                        <seg xml:id="ECY_12_01" corresp="#FVL_12_01"> Narcissus rises in the Morning to lye down at Night,</seg>
+                        <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as regularly as a Woman,</seg>
+                        <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to Morning and Evening Prayer ;</seg>
+                        <seg xml:id="ECY_12_04" corresp="#FVL_12_04"> he is good Company, and serves to make a third Man at Ombre;</seg>
+                        <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he fits four hours together at Aracias, where he ventures his 5 or 6 pistoles e'ry night;</seg>
+                        <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch Gazette, Barbins News, and the Mercure Gallant, and some Collections of Poetry; </seg>
+                        <seg xml:id="ECY_12_07" corresp="#FVL_12_07"> he walks with the Ladies in the Park or Meadows, and is religiously punctual in his Visits:</seg>
+                        <seg xml:id="ECY_12_08" corresp="#FVL_12_08"> he will do the same tomorrow, which he has done today, and did yesterday.</seg>
+                        <seg xml:id="ECY_12_09" corresp="#FVL_12_09"> Thus he lives, and in this manner he will die.</seg>
+                    </p>
+                </div>
+            </div>
+            
         </body>
     </text>
 </TEI>
