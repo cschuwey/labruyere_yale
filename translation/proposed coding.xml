@@ -6,11 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-		 <title><hi rend="ital">Caractères</hi> and <hi rend="ital">Characters,</hi> 
-               Compared</title>
+            <title><hi rend="ital">Caractères</hi> and <hi rend="ital">Characters,</hi> Compared</title>
             <respStmt>
                <resp>Transcribed by</resp>
-               <name>Jeanne Sauvage and Julee Tanner</name>
+               <name>Jeanne Sauvage and Julee Tanner Did this work?</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -42,28 +41,28 @@
       <body>
          <div xml:lang="fr" type="chapter" n="16">
             <head>Des Esprits Forts.</head>
-            <div type="remark" n="1">
+            <div type="maxim" n="1">
                <p>
-                  <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on les appelle ainsi par
-                     ironie?</seg>
-                  <seg xml:id="FEF_01_02" corresp="#EWL_01_02">quelle plus grande foiblesse que d'estre incertains quel
-                     est le principe de son estre, de sa vie, des ses sens, de ses connoissances,
-                     &amp; quelle en doit estre la fin?</seg>
-                  <seg xml:id="FEF_01_03" corresp+"EWL_01_03">Quel découragement plus grand que de douter si son ame n'est
-			  point matiere comme la pierre &amp; le <interp type="sense">reptile</interp>, &amp; si elle n'est point
-                     corruptible comme ces viles creatures.</seg>
+                  <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on les
+                     appelle ainsi par ironie?</seg>
+                  <seg xml:id="FEF_01_02" corresp="#EWL_01_02">quelle plus grande foiblesse que
+                     d'estre incertains quel est le principe de son estre, de sa vie, des ses sens,
+                     de ses connoissances, &amp; quelle en doit estre la fin?</seg>
+                  <seg xml:id="FEF_01_03" corresp="#EWL_01_03">Quel découragement plus grand que de
+                     douter si son ame n'est point matiere comme la pierre &amp; le <interp
+                        type="sense">reptile</interp>, &amp; si elle n'est point corruptible comme
+                     ces viles creatures.</seg>
                </p>
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="16">
             <head>Of The Wits, or Libertines.</head>
-            <div type="remark" n="1">
+            <div type="maxim" n="1">
                <p>
-	<!-- Ok to code expansion in a seg with @ana, and is this also how we would code spans of text that are abridg, omit, add? -->
-                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, 
-                        who value themselves so much upon the title of Wits, have they,
-                        I say, Wit enough to perceive that they are only call'd so by
-                     Irony?</seg>
+                  <!-- Correct to use @ana for segs that show expansion (also for abridg, omit, add?) -->
+                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, who value
+                     themselves so much upon the title of Wits, have they, I say, Wit enough to
+                     perceive that they are only call'd so by Irony?</seg>
                   <seg xml:id="EWL_01_02" corresp="#FEF_01_02">What greater want of Wit can there be,
                      than to be doubtful of the principle of ones being, life, sense, knowledge, and
                      of what ought to be the end of them?</seg>
@@ -80,8 +79,8 @@
          <interp xml:id="tone">difference in tone between French and English</interp>
          <interp xml:id="omit">text in French omitted in English</interp>
          <interp xml:id="add">text in English not present in French</interp>
-	 <interp xml:id="expan">English requires more words than French to convey same idea</interp>
-	 <interp xml:id="abridg">English requires fewer words than French to convey same idea</interp>
+         <interp xml:id="expan">English requires more words than French</interp>
+         <interp xml:id="abridg">English requires fewer words than French</interp>
       </interpGrp>
    </text>
 </TEI>
