@@ -6,7 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><hi rend="ital">Caractères</hi> and <hi rend="ital">Characters,</hi> Compared</title>
+            <title><hi rend="ital">Caractères</hi> and <hi rend="ital">Characters,</hi>
+               Compared</title>
             <respStmt>
                <resp>Transcribed by</resp>
                <name>Jeanne Sauvage and Julee Tanner</name>
@@ -39,37 +40,149 @@
    </teiHeader>
    <text>
       <body>
+         <div xml:lang="fr" type="chapter" n="1">
+            <head>1. Des Ouvrages de l'Esprit.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="2">
+            <head>2. Du Merite personnel.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="3">
+            <head>3. Des Femmes.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="4">
+            <head>4. Du Coeur.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="5">
+            <head>5. De la Societé et de la Conversation.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="6">
+            <head>6. Des Biens de Fortune.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="7">
+            <head>7. De la Ville.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="8">
+            <head>8. De la Cour.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="9">
+            <head>9. Des Grands.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="10">
+            <head>10. Du Souverain, ou de la Republique.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="11">
+            <head>11. De l'Homme.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="12">
+            <head>12. Des Jugemens.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="13">
+            <head>13. De la Mode.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="14">
+            <head>14. De quelques Usages.</head>
+         </div>
+         <div xml:lang="fr" type="chapter" n="15">
+            <head>15. De la Chaire.</head>
+         </div>
          <div xml:lang="fr" type="chapter" n="16">
-            <head>Des Esprits Forts.</head>
-            <div type="maxim" n="1">
+            <head>16. Des Esprits Forts.</head>
+            <div type="remark" n="1">
                <p>
-                  <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on les
-                     appelle ainsi par ironie?</seg>
+                  <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on
+                     les appelle ainsi par ironie? </seg>
                   <seg xml:id="FEF_01_02" corresp="#EWL_01_02">quelle plus grande foiblesse que
                      d'estre incertains quel est le principe de son estre, de sa vie, des ses sens,
-                     de ses connoissances, &amp; quelle en doit estre la fin?</seg>
+                     de ses connoissances, &amp; quelle en doit estre la fin? </seg>
                   <seg xml:id="FEF_01_03" corresp="#EWL_01_03">Quel découragement plus grand que de
                      douter si son ame n'est point matiere comme la pierre &amp; le <interp
                         type="sense">reptile</interp>, &amp; si elle n'est point corruptible comme
-                     ces viles creatures.</seg>
+                     ces viles creatures. </seg>
+               </p>
+            </div>
+            <div type="remark" n="2">
+               <p ana="omit">
+                  <seg xml:id="FEF_02_01">Le docile &amp; le foible<note type="context">The second
+                        remark from <hi rend="ital">Caractères</hi> was not included in the English
+                        translation, possibly because it associates the failure to recognize "la
+                        vraye religion"--by implication Catholicism--with stubbornness and
+                        corruption. Since 1534 the Church of England had been independent of Rome,
+                        and Catholics were intentionally excluded from the 1688 the Act of
+                        Toleration, which extended freedom of worship to other dissenters.</note></seg>
+                  <seg xml:id="FEF_02_02"> sont susceptibles d'impressions, l'un en recoit de
+                     bonnes, l'autre de mauvaises, </seg>
+                  <seg xml:id="FEF_02_03">c'est à dire que le premier est persuadé &amp; fidele,
+                     &amp; que le second est entêté &amp; corrompu; </seg>
+                  <seg xml:id="FEF_02_04">ainsi l'esprit docile admet la vraye religion, &amp;
+                     l'esprit foible, ou n'en admet aucune ou en admet une fausse : </seg>
+                  <seg xml:id="FEF_02_05">or l'esprit fort ou n'a point de religion ou se fait une
+                     religion, donc l'esprit fort, c'est l'esprit foible. </seg>
                </p>
             </div>
          </div>
+         <div xml:lang="en" type="chapter" n="1">
+            <head>1. Of Polite Learning.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="2">
+            <head>2. Of Personal Merit.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="3">
+            <head>3. Of Women.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="4">
+            <head>4. Of the Heart.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="5">
+            <head>5. Of Society and Conversation.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="6">
+            <head>6. Of the Goods of Fortune.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="7">
+            <head>7. Of the City.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="8">
+            <head>8. Of the Court.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="9">
+            <head>9. Of the Great.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="10">
+            <head>10. Of the Soveraign, or Commonwealth.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="11">
+            <head>11. Of Man.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="12">
+            <head>12. Of Judgement.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="13">
+            <head>13. Of the Fashion.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="14">
+            <head>14. Of Certain Customs.</head>
+         </div>
+         <div xml:lang="en" type="chapter" n="15">
+            <head>15. Of the Pulpit.</head>
+         </div>
          <div xml:lang="en" type="chapter" n="16">
-            <head>Of The Wits, or Libertines.</head>
-            <div type="maxim" n="1">
+            <head>16. Of The Wits, or Libertines.</head>
+            <div type="remark" n="1">
                <p>
-                  <!-- Correct to use @ana for segs that show expansion (also for abridg, omit, add?) -->
-                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, who value
-                     themselves so much upon the title of Wits, have they, I say, Wit enough to
-                     perceive that they are only call'd so by Irony?</seg>
-                  <seg xml:id="EWL_01_02" corresp="#FEF_01_02">What greater want of Wit can there be,
-                     than to be doubtful of the principle of ones being, life, sense, knowledge, and
-                     of what ought to be the end of them?</seg>
+                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, who
+                     value themselves so much upon the title of Wits, have they, I say, Wit enough
+                     to perceive that they are only call'd so by Irony? <note type="editorial">The
+                        humor of the "Strong minds" <hi rend="ital">(Esprits forts)</hi> not
+                        realizing they are called so by irony cannot be conveyed as succinctly in
+                        English, which requires adding the term "Wits" to "Libertines" in order to
+                        explain the joke.</note></seg>
+                  <seg xml:id="EWL_01_02" corresp="#FEF_01_02">What greater want of Wit can there
+                     be, than to be doubtful of the principle of ones being, life, sense, knowledge,
+                     and of what ought to be the end of them? </seg>
                   <seg xml:id="EWL_01_03" corresp="#FEF_01_03">What can more lessen any Man than his
                      questioning whether his Soul is not material, like the Stone or <interp
                         type="sense">Worm</interp>, or subject to corruption, like the vilest
-                     Creatures?</seg>
+                     Creatures? </seg>
                </p>
             </div>
          </div>
