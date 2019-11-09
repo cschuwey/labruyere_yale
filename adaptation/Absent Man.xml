@@ -2,18 +2,21 @@
 <!DOCTYPE TEI [
       <!ENTITY longs "&#x015C;">
       <!ENTITY amp "&#x0026;">
+      <!ENTITY st "&#xFB06;">
       <!ENTITY pilcrow "&#x00B6;"> 
    ]>
-<!--Drama TEI schema won't allow certain tags so I've disabled it until we 
-   can figure out how to edit schemas. Mising tags so far include: rend, fw
    
-   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
--->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!--Drama TEI schema won't allow certain tags so I've disabled it until we 
+   can figure out how to edit schemas. Mising tags so far include: rend, fw, figure
+   
+   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -28,9 +31,10 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
+   
   <text>
      <front>
-        <castList>
+       <castList>
            <head rend="upper">Persons.</head>
            <castGroup>
               <head rend="upper" place="center">Men.</head>
@@ -94,7 +98,7 @@
                </choice>haw.</actor>
                  </castItem>
            </castGroup>
-        </castList>
+        </castList> 
      </front>
       <body>
          <div type="act" n="1">
@@ -110,123 +114,88 @@
             </figure>
             <head>Act 1.</head>
                <div type="scene" n="1">
-               <head>Scene 1.</head>
-                  <!--I used the <choice> tag with <orig> and <reg> for the long s.
-                     It's crazy and messy and I'm not sure it's worth it, but at least
-                     it's cool!-->
-               <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dre<choice>
-                  <orig>&longs;&longs;</orig>
-                  <reg>ss</reg>
-                  </choice>ing-Table, with a 
-               Gla<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>s, &amp;c. Frank a<choice>
-                     <orig>&longs;</orig>
-                     <reg>s</reg>
-                     </choice>leep in a Chair. <hi rend="sc">Landlady</hi> 
+               <head>Scene I.</head>
+               <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
+               Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
                enters in a hurry.</stage>
                <sp who="#land"> 
                   <speaker>Land.</speaker>
-                  <p>Mr. Frank--Mr. Frank!</p></sp>
+                  <p>Mr. Frank-Mr. Frank!</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
                   <p>What's the matter?</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
-                  <p>Rou<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>e, rou<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>e, man!</p></sp>
+                  <p>Rouse, rouse, man!</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>Is my ma<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ter come home?</p></sp>
+                  <p>Is my master come home?</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
-                  <p>Your ma<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ter come home? no, he's not-
+                  <p>Your master come home? no, he's not-
                but there's the Doctor below in his chariot, come to 
                carry him to his bride.</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>Yaw-have I <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>lpt long?</p></sp>
+                  <p>Yaw-have I slept long?</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
-                  <p>You are a<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>leep <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>till, one would think-I 
-               tell you there is your ma<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ter's father-in-law that is to
+                  <p>You are asleep still, one would think-I 
+               tell you there is your master's father-in-law that is to
                be, come to fetch him away!</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>My ma<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ter's father-in-law that is to be, 
+                  <p>My master's father-in-law that is to be, 
                come to fetch him away!</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
                   <p>Ay.</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>Well-what <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>hall we do?</p></sp>
+                  <p>Well-what shall we do?</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
-                  <p>Nay, I don't know-I come to a<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>k you.</p></sp>
+                  <p>Nay, I don't know-I come to ask you.</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>If I was not acquainted with my ma<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ter
-               now, I <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>hould naturally conclude that the had either
-               hanged, or drown'd him<choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>elf in order to aviod being
+                  <p>If I was not acquainted with my master
+               now, I should naturally conclude that the had either
+               hanged, or drown'd himself in order to aviod being
                married.</p></sp>
                <sp who="#land">
                   <speaker>Land.</speaker>
-                  <p>Oh, he's a <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ad gentleman!</p></sp>
+                  <p>Oh, he's a sad gentleman!</p></sp>
                <sp who="#frank">
                   <speaker>Frank.</speaker>
-                  <p>He is a little out of the way <choice>
-                  <orig>&longs;</orig>
-                  <reg>s</reg>
-                  </choice>ometimes, 
+                  <p>He is a little out of the way sometimes, 
                indeed.</p></sp>
-               <fw type="footer" place="bottom-center">B</fw>
-               <fw type="footer" place="bottom-right">Land.</fw> 
+               <!--<fw type="footer" place="bottom-center">B</fw>
+               <fw type="footer" place="bottom-right">Land.</fw> -->
+               <pb n="2"/>
+               <sp who="#land">
+                  <speaker>Land.</speaker> 
+                  <p>But the doctor waits-what excuse will
+                     you make him?</p></sp>
+                  <sp who="#frank">
+                     <speaker>Frank.</speaker> 
+                     <p>Why none-I remember it was a maxim
+                     with an attorney I once served, always to tell the 
+                     truth-when a lie <!--lye--> could not serve his purpose better
+                     -and I think we must e'en follow his example, at
+                     present.</p></sp>
+                  <sp who="#land">
+                     <speaker>Land.</speaker> 
+                     <p>Then I'll run down again, tho' I make a 
+                     strange dirty figure. <stage><hi rend="italic">(Looking at herself in the Glass.)</hi></stage>
+                     Lord! How I'm alter'd withiin these twelve years.</p></sp>
+                  <sp who="#frank">
+                     <speaker>Frank.</speaker> 
+                     <p>I will but rub my eyes, and follow you.</p></sp>
+            </div>
+            <div type="scene" n="2">
+               <head>Scene II.</head>
+               
+               
             </div>
          </div>
       </body>
