@@ -88,6 +88,7 @@
          <div xml:lang="fr" type="chapter" n="16">
             <head>16. Des Esprits Forts.</head>
             <div type="remark" n="1">
+               <head>1</head>
                <p>
                   <seg xml:id="FEF_01_01" corresp="#EWL_01_01">Les Esprits forts sçavent-ils qu'on
                      les appelle ainsi par ironie? </seg>
@@ -100,8 +101,9 @@
                      ces viles creatures. </seg>
                </p>
             </div>
-            <div type="remark" n="2">
-               <p ana="omit">
+            <div type="remark" n="2" ana="omit">
+               <head>2</head>
+               <p>
                   <seg xml:id="FEF_02_01">Le docile &amp; le foible<note type="context">The second
                         remark from <hi rend="ital">Caractères</hi> was not included in the English
                         translation, possibly because it associates the failure to recognize "la
@@ -168,6 +170,7 @@
          <div xml:lang="en" type="chapter" n="16">
             <head>16. Of The Wits, or Libertines.</head>
             <div type="remark" n="1">
+               <head>1</head>
                <p>
                   <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, who
                      value themselves so much upon the title of Wits, have they, I say, Wit enough
