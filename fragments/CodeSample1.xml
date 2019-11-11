@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Caractères / The Characters</title>
+                <author>Jean de La Bruyère</author>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name xml:id="NA">Nicola Angeli</name>
+                    <name xml:id="KS">Kallie Strode</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Project developed under the supervision of Christophe Schuwey and Geoffrey Turnovsky. Modernized transcription.</p>        
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Jean de La Bruyère</author>
+                        <title type="main">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+                        <edition>Tenth edition</edition>
+                        <imprint>
+                            <publisher>Estienne Michallet</publisher>
+                            <pubPlace>Paris</pubPlace>
+                            <date>1699</date>
+                        </imprint>
+                    </monogr>
+                    <monogr>
+                        <author>Jean de La Bruyère</author>
+                        <title type="main">The Characters, or the Manners of the Age</title>
+                        <title type="sub">With the Characters of Theophrastus, Translated from the Greek and a Prefatory Discourse to them</title>
+                        <edition>Fourth edition. Made English by several Hands.</edition>
+                        <imprint>
+                            <publisher>Leach</publisher>
+                            <pubPlace>London</pubPlace>
+                            <date>1705</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div corresp="#eng_A" xml:lang="french" type="chapter" n="1" xml:id="fr_A">
+                <head>Des ouvrages de l'esprit</head>
+                <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
+                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <ref target="#HOMME"><hi>hommes</hi></ref>, et qui pensent. 
+                        Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; 
+                        l’on ne fait que glaner après les anciens et les habiles d’entre les modernes.</p>
+                </div>
+                <div corresp="#eng_A2" type="remark" n="1.2" xml:id="fr_A2">
+                    <p>Il faut chercher seulement à penser et à parler juste, sans vouloir amener les autres à notre goût et à nos sentiments ; 
+                        c’est une trop grande entreprise.</p>
+                </div>
+                <div corresp="#eng_A3" type="remark" n="1.3" xml:id="fr_A3">
+                    <p>C’est un métier que de faire un livre, comme de faire une pendule ; il faut plus que de l’esprit pour être auteur. 
+                        Un Magistrat allait par son mérite à la première dignité ; il était <ref target="#HOMME"><hi>homme</hi></ref> délié et pratique dans les affaires ; 
+                        il a fait imprimer un ouvrage moral qui est rare par le ridicule?</p>
+                </div>
+                <div corresp="#eng_A4" type="remark" n="1.4" xml:id="fr_A4">
+                    <p>Il n’est pas si aisé de se faire un nom par un ouvrage parfait, que d’en faire valoir 
+                        un médiocre par le nom qu’on s’est déjà acquis.</p>
+                </div>
+                <div corresp="#eng_A5" type="remark" n="1.5" xml:id="fr_A5">
+                    <p>Un ouvrage satirique ou qui contient des faits, qui est donné en feuilles sous le manteau, 
+                        aux conditions d’être rendu de même, s’il est médiocre, passe pour merveilleux ; l’impression est l’écueil.</p>
+                </div>
+                <div corresp="#eng_A6" type="remark" n="1.6" xml:id="fr_A6">
+                    <p>Si l’on ôte de beaucoup d’ouvrages de Morale l’Avertissement au lecteur, l’Epître Dédicatoire, la Préface, la Table, les Approbations, 
+                        il reste à peine assez de pages pour mériter le nom de livre.</p>
+                </div>
+                <div corresp="#eng_A7" type="remark" n="1.7" xml:id="fr_A7">
+                    <p>Il y a de certaines choses dont la médiocrité est insupportable : la Poésie, la Musique, la Peinture, le Discours public.</p>
+                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid discours, ou prononcer de médiocres vers avec toute l’emphase d’un mauvais Poète !</p>
+                </div>
+                <div corresp="#eng_A8" type="remark" n="1.8" xml:id="fr_A8">
+                    <p>Certains Poètes sont sujets dans le Dramatique à de longues suites de vers pompeux, qui semblent forts, élevés et remplis de grands sentiments ; 
+                        le peuple écoute avidement les yeux élevés et la bouche ouverte, croit que cela lui plaît, et, à mesure qu’il y comprend moins, l’admire davantage, 
+                        il n’a pas le temps de respirer, il a à peine celui de se récrier et d’applaudir : j’ai cru autrefois et dans ma première jeunesse que ces endroits 
+                        étaient clairs et intelligibles pour les Acteurs, pour le Parterre et l’Amphithéâtre, que leurs Auteurs s’entendaient eux-mêmes, 
+                        et qu’avec toute l’attention que je donnais à leur récit, j’avais tort de n’y rien entendre : je suis détrompé.</p>
+                </div>
+                <div corresp="#eng_A9" type="remark" n="1.9" xml:id="fr_A9">
+                    <p>L’on n’a guère vu jusqu’à présent un chef-d’œuvre d’esprit qui soit l’ouvrage de plusieurs : 
+                        Homère a fait l’Iliade, Virgile l’Enéide, Tite-Live ses Décades, et l’Orateur Romain ses Oraisons.</p>
+                </div>
+                <div corresp="#eng_A10" type="remark" n="1.10" xml:id="fr_A10">
+                    <p>Il y a dans l’art un point de perfection comme de bonté ou de maturité dans la nature, 
+                        celui qui le sent et qui l’aime a le goût parfait ; celui qui ne le sent pas, et qui aime en deçà ou au delà, a le goût défectueux. 
+                        Il y a donc un bon et un mauvais goût, et l’on dispute des goûts avec fondement.</p>
+                </div>
+            </div>
+            <div corresp="#fr_A" xml:lang="english" type="chapter" n="1" xml:id="eng_A">
+                <head>Of Polite Learning</head>
+                <div corresp="#fr_A1" type="remark" n="1.1" xml:id="eng_A1">
+                    <p>We are come too late, after above seven
+                        thousand <hi>Years</hi>, that there have been <ref target="#MAN"><hi>Men</hi></ref>,
+                        and <ref target="#MAN"><hi>Men</hi></ref> have thought, to say any thing which
+                        has not been said already.  The finest and most
+                        beautiful <hi>Thoughts</hi> concerning <hi>Manners</hi> have been
+                        carried away before our times, and we can do nothing now, but glean after the 
+                        <hi>Ancients</hi>, and the most ingenious of the 
+                        <hi>Moderns</hi>.</p>
+                </div>
+                <div corresp="#fr_A2" type="remark" n="1.2" xml:id="eng_A2">
+                    <p>We must only endeavor to think and speak
+                        justly to our selves, without aiming to bring others
+                        over to taste and sentiments; that would be too
+                        great an <hi>Enterprise</hi>.</p>
+                </div>
+                <div corresp="#fr_A3" type="remark" n="1.3" xml:id="eng_A3">
+                    <p>WThis as much a <hi>Trade</hi> to make a <hi>Book</hi>, as to
+                        make a <hi>Clock</hi>; there’s something more than <hi>Wit</hi>
+                        necessary to make an <hi>Author</hi>. A certain <hi>Magistrate</hi>
+                        was advancing his <hi>Merits</hi>to the first <hi>Dignities</hi> of
+                        the <hi>Gown</hi>, a <ref target="#MAN"><hi>Man</hi></ref> Subtle and Practiced in Business;
+                        he printed a <hi>Treatise</hi> of <hi>Morality</hi>, 
+                        that was extraordinary for its <hi>Ridiculousness</hi>.</p>
+                </div>
+                <div corresp="#fr_A4" type="remark" n="1.4" xml:id="eng_A4">
+                    <p>It's not so easy to raise a <hi>Reputation</hi> by a
+                        complete <hi>Work</hi> as to make an indifference one valid 
+                        by a <hi>Reputation</hi>already acquired.</p>
+                </div>
+                <div corresp="#fr_A5" type="remark" n="1.5" xml:id="eng_A5">
+                    <p>A <hi>Satyr</hi> or a <hi>Libel</hi>, when it's handed privately 
+                        in <hi>Manuscript</hi> from one to another, with strict charge of Secrecy,
+                        if this is but mean in itself, passes for wonderful; the <hi>Printing</hi>
+                        is what ruins it.</p>
+                </div>
+                <div corresp="#fr_A6" type="remark" n="1.6" xml:id="eng_A6">
+                    <p>Take away from most of our <hi>Moral</hi>
+                        <hi>Discourses</hi>,
+                        the <hi>Advertisement</hi> to the <hi>Reader</hi>,
+                        the <hi>Epistle</hi> <hi>Dedicatory</hi>, 
+                        the <hi>Preface</hi>, the <hi>Table</hi> 
+                        and the <hi>Commendatory</hi><hi>Verses</hi>, 
+                        there will seldom be enough left to deserve the name of a <hi>Book</hi>.</p>
+                </div>
+                <div corresp="#fr_A7" type="remark" n="1.7" xml:id="eng_A7">
+                    <p>Several things are insupportable if they are
+                        but indifferent, as <hi>Poetry</hi>, <hi>Music</hi>, 
+                        <hi>Painting</hi> and <hi>Speeches</hi>.
+                        What a cruel <hi>Punishment</hi>is it to hear a <hi>Dull</hi>
+                        <hi>Declamation</hi>delivered with <hi>Pomp</hi> and 
+                        <hi>Solemnity</hi>, and bad <hi>Verses</hi> 
+                        rehearsed with the <hi>Emphasis</hi> of a wretched
+                        <hi>Poet</hi>!</p>
+                </div>
+                <div corresp="#fr_A8" type="remark" n="1.8" xml:id="eng_A8">
+                    <p>Some poets in their <hi>Dramatic</hi> <hi>Pieces</hi>are fond
+                        of big <hi>Words</hi>and founding <hi>Verses</hi>, which seem
+                        strong, elevated, and sublime; the <hi>People</hi>stare, 
+                        gape, and hear them greedily; they are transported
+                        at what they fancy is rare, and where they understand least, 
+                        are sure to admire most; they scarce
+                        allow themselves time to breathe, and are loth to
+                        be interrupted by <hi>Claps</hi> or <hi>Applauses</hi>: 
+                        When I was young, I imagined these passages were clear and
+                        intelligible to the <hi>Actors</hi>, the <hi>Pit</hi>,
+                        <hi>Boxes</hi> and <hi>Galleries</hi>; that the 
+                        <hi>Authors</hi> themselves understood them, and that I was in the wrong to know nothing of
+                        the matter after much attention: But I am now undeceived.</p>
+                </div>
+                <div corresp="#fr_A9" type="remark" n="1.9" xml:id="eng_A9">
+                    <p>There hardly was ever seen any <hi>Piece</hi>excellent
+                        in its kind, that was the joint <hi>Labor</hi>of several
+                        <ref target="#MAN"><hi>Men</hi></ref>: <hi>Homer</hi> wrote his <hi>Illiads</hi>,
+                        <hi>Virgil</hi> his <hi>Eneids</hi>, 
+                        <hi>Livy</hi> his <hi>Decades</hi>, and <hi>Cicero</hi>
+                        his <hi>Orations</hi>.</p>
+                </div>
+                <div corresp="#fr_A10" type="remark" n="1.10" xml:id="eng_A10">
+                    <p>As there is in <hi>Nature</hi>, so there is in <hi>Art</hi>, a
+                        point of <hi>Perfection</hi>.  He who is sensible of it, and
+                        is in touch with it, has good taste: He who is not
+                        sensible of it, but loves what is below or above
+                        that point, has a vicious taste. Since then there is
+                        a good and bad taste, we may with reason dispute
+                        the difference.</p>
+                </div>
+            </div>
+        </body>
+        <!-- ... -->
+        <join corresp="#MAN" xml:lang="french" xml:id="HOMME" target="#fr_A1 #fr_A3">
+            <desc>collection of "HOMME" occurrences</desc>
+        </join>
+        <join corresp="#HOMME" xml:lang="english" xml:id="MAN" target="#eng_A1 #eng_A3 #eng_A9">
+            <desc>collection of "MAN" occurrences</desc>
+        </join>
+    </text>
+</TEI>
