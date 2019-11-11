@@ -45,53 +45,53 @@
             <lb/><hi rend="all-caps" style="text align: left">SIR</hi>
         </head>
         <p n="2">
-            <lb/><hi rend="all-caps">IT</hi>was cusom with the Grecian Fisher-
-            <lb/>men of old, when they had escaped
-            <lb/>any danger at sea, to dedicate their
-            <lb/>little skiffs to whatever Tutelary Being
-            <lb/>they attributed its preservation: there
-            <lb/>is nothing more certain, than that the
-            <lb/><hi rend="all-caps">ABSENT MAN</hi> is chiefly, was I not the
-            <lb/>Author myself, perhaps, I might say
-            <lb/>wholly, indebted, for its success, to your
-            <lb/>excellent performance ; it is therefore,
-            <lb/>with great pleasure I take this method
-            <lb/>of expressing my obligations to you.
+            <hi rend="all-caps">IT</hi>was cusom with the Grecian Fisher-
+            men of old, when they had escaped
+            any danger at sea, to dedicate their
+            little skiffs to whatever Tutelary Being
+            they attributed its preservation: there
+            is nothing more certain, than that the
+            <hi rend="all-caps">ABSENT MAN</hi> is chiefly, was I not the
+            Author myself, perhaps, I might say
+            wholly, indebted, for its success, to your
+            excellent performance ; it is therefore,
+            with great pleasure I take this method
+            of expressing my obligations to you.
         </p>
-        <p n="3" rend="indent">
-            <lb/>Indeed, when I consider your punci-
-            <lb/>tuality in attending the rehearsals of
-            <lb/>this little piece, though out of the
-            <lb/>common business of the theatre; and
-            <lb/>the care you took, not only to be perfect
-            <lb/>yourself, but that it should be, in every
-            <lb/>respect, produced as complete as possi-
-            <lb/>ble; I cannot help congratulating all
+        <p n="3" rend="-first-indent">
+            Indeed, when I consider your punci-
+            tuality in attending the rehearsals of
+            this little piece, though out of the
+            common business of the theatre; and
+            the care you took, not only to be perfect
+            yourself, but that it should be, in every
+            respect, produced as complete as possi-
+            ble; I cannot help congratulating all
         <pb n="3"/>
-            <lb/>our present writers on the stage, on
-            <lb/>the acquisition of a performer of such
-            <lb/>uncommon merit; and so great
-            <lb/>a favorite with the public; who,
-            <lb/>they may be assured, will consider their
-            <lb/>advantage and reputation, as well as his
-            <lb/>own; and do their pieces, at least, all
-            <lb/>the justice they are capable of receiv-
-            <lb/>ing.
+            our present writers on the stage, on
+            the acquisition of a performer of such
+            uncommon merit; and so great
+            a favorite with the public; who,
+            they may be assured, will consider their
+            advantage and reputation, as well as his
+            own; and do their pieces, at least, all
+            the justice they are capable of receiv-
+            ing.
         </p>
-        <p n="4" rend="indent">
-            <lb/>Had I an inclination to indulge my-
-            <lb/>self in the dedicatory style, I might
-            <lb/>now tell you, with truth, that few
-            <lb/>men have filled so many characters
-            <lb/>with the same propriety that you have;
-            <lb/>but I leave this to some news-
-            <lb/>paper essayist, who might be fond of
-            <lb/>playing upon meanings and words;
-            <lb/>and vary your appearance upon the
-            <lb/>theatre how you please, I will venture
-            <lb/>to say, your acquaintance in private life,
-            <lb/>will always find you an honest, a sen-
-            <lb/>sible, and a gentleman like man.
+        <p n="4" rend="first-indent">
+            Had I an inclination to indulge my-
+            self in the dedicatory style, I might
+            now tell you, with truth, that few
+            men have filled so many characters
+            with the same propriety that you have;
+            but I leave this to some news-
+            paper essayist, who might be fond of
+            playing upon meanings and words;
+            and vary your appearance upon the
+            theatre how you please, I will venture
+            to say, your acquaintance in private life,
+            will always find you an honest, a sen-
+            sible, and a gentleman like man.
         </p>
         <p n="5">
             <lb rend="indent2"/>I am, Sir
@@ -102,21 +102,63 @@
     </div>
     <pb n="3"/>
     <div type="preface">
-        <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R E F A C E.</head>
-        <p n="6">
-            <lb/><hi rend="all-caps">THIS</hi> farce was written some years
-            <lb/>ago, since which time it has lain by
-            <lb/>the author, without being offered to the
-            <lb/>stage; nor should he have ventured it there
-            <lb/>at all, but to serve <name type="person">Mr. Holland</name> at his be-
-            <lb/>nifit; upon which occasion, he thought the
-            <lb/>public, through favor to so deserving a per-
-            <lb/>former, would be willing to be pleased with 
-            <lb/>any thing.
+        <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R E F A C E.</head> <!-- play with this a little -->
+        <p n="6" rend="first-indent">
+            <hi rend="all-caps">THIS</hi> farce was written some years
+            ago, since which time it has lain by
+            the author, without being offered to the
+            stage; nor should he have ventured it there
+            at all, but to serve <name type="person">Mr. Holland</name> at his be-
+            nefit; upon which occasion, he thought the
+            public, through favor to so deserving a per-
+            former, would be willing to be pleased with 
+            any thing.
         </p>
-        <p n="7" rend="indent1">
-            <lb/>The event has greatly exceeded his hopes;
-            <lb/>the farce was not only received with general
+        <p n="7" rend="first-indent">
+            The event has greatly exceeded his hopes;
+            the farce was not only received with general
+            approbation the first night, but that sort of
+            approbation which a writer may depend upon 
+            with greatest safety.
+        </p>
+        <p n="8">
+            <quote rend="center" style="font-size:10px; font-family:serif; font-weight:100; font-style:italics;">"For smiles are honest when the hands are not"</quote>
+        </p>
+        <p n="9" rend="first-indent">
+            And on the second night,it met with marks
+            of favour still more manifest; this engaged
+            the author to look over it with greater care
+            than he had before done, and having heighten-
+            ed some places where he thought it most de-
+            ficient, he now submits it to the public, in a
+            form, in which, he hopes it will not utterly
+            displease, though it is needless to say that
+            things of this kind have their principal merit
+            in representation.
+        </p>
+        <pb n="4"/>
+        <p n="10" rend="first-indent">
+            Regnard one of the most famous French
+            comic poets, ranked by his countrymen next
+            to <name type="person">Moliere</name>, has written a play of five acts
+            upon this subject, called, <title type="play">le <hi rend="all-caps">DISTRAIT</hi></title> how
+            ever, exclusive of their great disparity in merit;
+            no two pieces can be less alike than that, and
+            <title type="play">the <hi rend="all-caps">ABSENT MAN</hi></title>; atleast, where the ma-
+            terials have been drawn from the same source.
+            <title type="play">The <hi rend="all-caps">DISTRAIT</hi></title> of Regnard is exactly the
+            <!--must figure this line out -->Menalcas of La Bruyere's characters, a few 
+            things only left out, which, though possessed
+            of a pleasant extravagance in recital, would be
+            too absurd for actual representation; the hint
+            of <title type="play">the <hi rend="all-caps">ABSENT MAN</hi></title>, and no more, is taken
+            from the same character of Menalcas, tran-
+            slated in one of the numbers of the Spectator;
+            with the assistance of which, if the present
+            writer has been able to produce a laughable
+            farce, it is all he aimed at, and he pretends to
+            no more praise than such a trifling composition
+            may deserve.
         </p>
     </div>
     
