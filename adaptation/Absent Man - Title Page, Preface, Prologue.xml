@@ -8,16 +8,17 @@
 <front>
     <titlePage>
         <doctitle>
-            <titlePart type="main" rend="center"><hi rend="all-caps">
-                <lb/>THE
-                <lb/>ABSENT MAN:
-                <lb/>A
-                <lb/>FARCE.
-            </hi></titlePart>
-            <titlePart type="main" rend="center"><hi rend="all-caps">ABSENT MAN</hi></titlePart>
-            <titlePart type="sub" rend="center">
+                <titlePart type="main" rend="center" style="font-size:16px; font-family:serif; font-weight:100; font-style:regular;">
+                        <hi rend="all-caps">
+                            <lb/>THE
+                            <lb/>ABSENT MAN:
+                            <lb/>A
+                            <lb/>FARCE.
+                        </hi>
+                </titlePart>
+            <titlePart type="sub" rend="center" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">
                 <lb/>As it is acted by
-                <hi rendition="all-caps">
+                <hi rend="all-caps" style="font-size:14px; font-family:serif; font-weight:100; font-style:regular;">
                 <lb/>HIS MAJESTY'S SERVANTS,
                 <lb/>AT THE
                 <lb/>THEATRE ROYAL,
@@ -27,7 +28,7 @@
             </titlePart>
             <figDesc>Possible Printers Ornament placed between title and imprint</figDesc>
             <docImprint type="sub" rend="center">
-                <lb/><name place="London"><hi rend="all-caps">LONDON</hi></name>
+                <lb/><name place="London"><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
                 <lb/>Printed for<name><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name place="Catharine-Street">Catharine-
                 <lb/>Street</name>in, the <name place="Strand">Strand.</name>
                 <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
@@ -36,31 +37,305 @@
     </titlePage>
     <pb n="1"/>
     <gap reason="blank" extent="1 page"/>
+    <pb n="2"/>
     <div type="dedication">
-        <head rend="center">
+        <head>
             <lb/><hi rend="all-caps">TO</hi>
             <lb/><hi rend="all-caps">MR. KING.</hi>
             <lb/><hi rend="all-caps" style="text align: left">SIR</hi>
         </head>
-        <p n="1">
-            <lb/><hi rend="all-caps">IT</hi>was cu<choice><orig>&longs;</orig><reg>s</reg></choice>om with the Grecian Fi<choice><orig>&longs;</orig><reg>s</reg></choice>her-
-            <lb/>men of old, when they had e<choice><orig>&longs;</orig><reg>s</reg></choice>caped
-            <lb/>any danger at <choice><orig>&longs;</orig><reg>s</reg></choice>ea, to dedicate their
-            <lb/>little <choice><orig>&longs;</orig><reg>s</reg></choice>kiffs to whatever Tutelary Being
-            <lb/>they attributed its pre<choice><orig>&longs;</orig><reg>s</reg></choice>ervation: there
+        <p n="2">
+            <l><hi rend="all-caps">IT</hi>was cusom with the Grecian Fisher-</l>
+            <l>men of old, when they had escaped</l>
+            <lb/>any danger at sea, to dedicate their
+            <lb/>little skiffs to whatever Tutelary Being
+            <lb/>they attributed its preservation: there
             <lb/>is nothing more certain, than that the
             <lb/><hi rend="all-caps">ABSENT MAN</hi> is chiefly, was I not the
-            <lb/>Author my<choice><orig>&longs;</orig><reg>s</reg></choice>elf, perhaps, I might <choice><orig>&longs;</orig><reg>s</reg></choice>ay
-            <lb/>wholly, indebted, for its <choice><orig>&longs;</orig><reg>s</reg></choice>ucce<choice><orig>&longs;</orig><reg>s</reg></choice>s, to your
+            <lb/>Author myself, perhaps, I might say
+            <lb/>wholly, indebted, for its success, to your
             <lb/>excellent performance ; it is therefore,
-            <lb/>with great plea<choice><orig>&longs;</orig><reg>s</reg></choice>ure I take this method
-            <lb/>of expre<choice><orig>&longs;&longs;</orig><reg>ss</reg></choice>ing my obligations to you.
+            <lb/>with great pleasure I take this method
+            <lb/>of expressing my obligations to you.
         </p>
-        <p n="2">
-            
+        <p n="3" rend="indent">
+            <lb/>Indeed, when I consider your punci-
+            <lb/>tuality in attending the rehearsals of
+            <lb/>this little piece, though out of the
+            <lb/>common business of the theatre; and
+            <lb/>the care you took, not only to be perfect
+            <lb/>yourself, but that it should be, in every
+            <lb/>respect, produced as complete as possi-
+            <lb/>ble; I cannot help congratulating all
+        <pb n="3"/>
+            <lb/>our present writers on the stage, on
+            <lb/>the acquisition of a performer of such
+            <lb/>uncommon merit; and so great
+            <lb/>a favorite with the public; who,
+            <lb/>they may be assured, will consider their
+            <lb/>advantage and reputation, as well as his
+            <lb/>own; and do their pieces, at least, all
+            <lb/>the justice they are capable of receiv-
+            <lb/>ing.
         </p>
+        <p n="4" rend="indent">
+            <lb/>Had I an inclination to indulge my-
+            <lb/>self in the dedicatory style, I might
+            <lb/>now tell you, with truth, that few
+            <lb/>men have filled so many characters
+            <lb/>with the same propriety that you have;
+            <lb/>but I leave this to some news-
+            <lb/>paper essayist, who might be fond of
+            <lb/>playing upon meanings and words;
+            <lb/>and vary your appearance upon the
+            <lb/>theatre how you please, I will venture
+            <lb/>to say, your acquaintance in private life,
+            <lb/>will always find you an honest, a sen-
+            <lb/>sible, and a gentleman like man.
+        </p>
+        <p n="5">
+            <lb rend="indent2"/>I am, Sir
+            <lb rend="indent4"/>with great esteem,
+            <lb rend="indent6"/>your obliged,
+            <lb rend="indent8"/>humble servant.
+        </p>
+    </div>
+    <pb n="3"/>
+    <div type="preface">
+        <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R E F A C E.</head>
+        <p n="6">
+            <lb/><hi rend="all-caps">THIS</hi> farce was written some years
+            <lb/>ago, since which time it has lain by
+            <lb/>the author, without being offered to the
+            <lb/>stage; nor should he have ventured it there
+            <lb/>at all, but to serve <name type="person">Mr. Holland</name> at his be-
+            <lb/>nifit; upon which occasion, he thought the
+            <lb/>public, through favor to so deserving a per-
+            <lb/>former, would be willing to be pleased with 
+            <lb/>any thing.
+        </p>
+        <p n="7" rend="indent1">
+            <lb/>The event 
+        </p>
+    </div>
+    
+    
+    <div xml:id="dramatispersonae" type="castList">
+        <head rend="all-caps">P E R S O N S.</head>
+        <subhead>M E N.</subhead>
+        <castList>
+            <castItem type="role">
+                <role xml:id="Coriolanus">Caius Marcius</role>
+                <roleDesc>afterwards Caius Marcius Coriolanus</roleDesc>
+            </castItem>
+            <castGroup>
+                <head>Generals against the Volscians</head>
+                <castItem type="role">
+                    <role xml:id="Lartius">Titus Lartius</role>
+                </castItem>
+                <castItem type="role">
+                    <role xml:id="Cominius">Cominius</role>
+                </castItem>
+            </castGroup>
+            <castItem type="role">
+                <role xml:id="Menenius">Menenius Agrippa</role>
+                <roleDesc>friend to Coriolanus</roleDesc>
+            </castItem>
+            <castGroup>
+                <head>Tribunes of the people</head>
+                <castItem type="role">
+                    <role xml:id="Velutus">Sicinius Velutus</role>
+                </castItem>
+                <castItem type="role">
+                    <role xml:id="BrutusJ2">Junius Brutus</role>
+                </castItem>
+            </castGroup>
+            <castItem type="role">
+                <role xml:id="cor-young-mar.">Young Marcius</role>
+                <roleDesc>son to Coriolanus</roleDesc>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-her.">A Roman Herald</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="Aufidius">Tullus Aufidius</role>
+                <roleDesc>general of the Volscians</roleDesc>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-lieu.">Lieutenant to Aufidius</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role11">Conspirators with Aufidius</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-consp1.">First Conpirator</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-consp2.">Second Conspirator</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-consp3.">Third Conspirator</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-antium.">A Citizen of Antium</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role16">Two Volscian Guards</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sen1.">First Sentinel</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sen2.">Second Sentinel</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="Volumnia">Volumnia</role>
+                <roleDesc>mother to Coriolanus</roleDesc>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="Virgilia">Virgilia</role>
+                <roleDesc>wife to Coriolanus</roleDesc>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="Valeria">Valeria</role>
+                <roleDesc>friend to Virgilia</roleDesc>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-gent.">Gentlewoman</role>
+                <roleDesc>attending on Virgilia</roleDesc>
+            </castItem>
+        </castList>
+        <castList>
+            <castItem type="role">
+                <role xml:id="Adrian1">Adrian</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role24">Ladies</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-lords.">Lords</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-lord1.">First Lord</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-lord2.">Second Lord</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-lord3.">Third Lord</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-aed.">Aedile, an</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-mess.">Messenger</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="Nicanor">Nicanor</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role32">Noble, a</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role33">Officers</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-off.">Officer</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-off1.">First Officer</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-off2.">Second Officer</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-pat.">Patrician, a</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-pat2.">Second Patrician</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role39">Roman, a</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role40">Romans</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-rom1.">First Roman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-rom2.">Second Roman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-rom3.">Third Roman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sens.">Senators</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role45">Senators (Of Corioles)</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sen1-cor.">First Senator</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sen2-cor.">Second Senator</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role48">Servingmen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-serv1.">First Servingman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-serv2.">Second Servingman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-serv3.">Third Servingman</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role52">Soldiers</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sold1.">First Soldier</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-sold2.">Second Soldier</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="sha-cor-role55">Volsce, a</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit.">Citizens</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit1.">First Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit2.">Second Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit3.">Third Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit4.">Fourth Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit5.">Fifth Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit6.">Sixth Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-cit7.">Seventh Citizen</role>
+            </castItem>
+            <castItem type="role">
+                <role xml:id="cor-all">All</role>
+            </castItem>
+        </castList>
     </div>
 </front>
 
 
 <!--head rend="center"></head>-->
+<!--            <titlePart type="main" rend="center"><hi rend="all-caps">ABSENT MAN</hi></titlePart> -->
