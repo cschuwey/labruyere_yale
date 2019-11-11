@@ -45,8 +45,8 @@
             <lb/><hi rend="all-caps" style="text align: left">SIR</hi>
         </head>
         <p n="2">
-            <l><hi rend="all-caps">IT</hi>was cusom with the Grecian Fisher-</l>
-            <l>men of old, when they had escaped</l>
+            <lb/><hi rend="all-caps">IT</hi>was cusom with the Grecian Fisher-
+            <lb/>men of old, when they had escaped
             <lb/>any danger at sea, to dedicate their
             <lb/>little skiffs to whatever Tutelary Being
             <lb/>they attributed its preservation: there
@@ -125,212 +125,89 @@
         <subhead>M E N.</subhead>
         <castList>
             <castItem type="role">
-                <role xml:id="Coriolanus">Caius Marcius</role>
-                <roleDesc>afterwards Caius Marcius Coriolanus</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castGroup>
-                <head>Generals against the Volscians</head>
+                <head></head>
                 <castItem type="role">
-                    <role xml:id="Lartius">Titus Lartius</role>
+                    <role xml:id=""></role>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="Cominius">Cominius</role>
+                    <role xml:id=""></role>
                 </castItem>
             </castGroup>
             <castItem type="role">
-                <role xml:id="Menenius">Menenius Agrippa</role>
-                <roleDesc>friend to Coriolanus</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castGroup>
-                <head>Tribunes of the people</head>
+                <head></head>
                 <castItem type="role">
-                    <role xml:id="Velutus">Sicinius Velutus</role>
+                    <role xml:id=""></role>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="BrutusJ2">Junius Brutus</role>
+                    <role xml:id=""></role>
                 </castItem>
             </castGroup>
             <castItem type="role">
-                <role xml:id="cor-young-mar.">Young Marcius</role>
-                <roleDesc>son to Coriolanus</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-her.">A Roman Herald</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="Aufidius">Tullus Aufidius</role>
-                <roleDesc>general of the Volscians</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-lieu.">Lieutenant to Aufidius</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="sha-cor-role11">Conspirators with Aufidius</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-consp1.">First Conpirator</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-consp2.">Second Conspirator</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-consp3.">Third Conspirator</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-antium.">A Citizen of Antium</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="sha-cor-role16">Two Volscian Guards</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-sen1.">First Sentinel</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-sen2.">Second Sentinel</role>
+                <role xml:id=""></role>
             </castItem>
             <castItem type="role">
-                <role xml:id="Volumnia">Volumnia</role>
-                <roleDesc>mother to Coriolanus</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castItem type="role">
-                <role xml:id="Virgilia">Virgilia</role>
-                <roleDesc>wife to Coriolanus</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castItem type="role">
-                <role xml:id="Valeria">Valeria</role>
-                <roleDesc>friend to Virgilia</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
             <castItem type="role">
-                <role xml:id="cor-gent.">Gentlewoman</role>
-                <roleDesc>attending on Virgilia</roleDesc>
+                <role xml:id=""></role>
+                <roleDesc></roleDesc>
             </castItem>
         </castList>
         <castList>
             <castItem type="role">
-                <role xml:id="Adrian1">Adrian</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role24">Ladies</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-lords.">Lords</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-lord1.">First Lord</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-lord2.">Second Lord</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-lord3.">Third Lord</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-aed.">Aedile, an</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-mess.">Messenger</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="Nicanor">Nicanor</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role32">Noble, a</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role33">Officers</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-off.">Officer</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-off1.">First Officer</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-off2.">Second Officer</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-pat.">Patrician, a</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-pat2.">Second Patrician</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role39">Roman, a</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role40">Romans</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-rom1.">First Roman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-rom2.">Second Roman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-rom3.">Third Roman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-sens.">Senators</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role45">Senators (Of Corioles)</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-sen1-cor.">First Senator</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-sen2-cor.">Second Senator</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role48">Servingmen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-serv1.">First Servingman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-serv2.">Second Servingman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-serv3.">Third Servingman</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role52">Soldiers</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-sold1.">First Soldier</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-sold2.">Second Soldier</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="sha-cor-role55">Volsce, a</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit.">Citizens</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit1.">First Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit2.">Second Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit3.">Third Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit4.">Fourth Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit5.">Fifth Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit6.">Sixth Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-cit7.">Seventh Citizen</role>
-            </castItem>
-            <castItem type="role">
-                <role xml:id="cor-all">All</role>
+                <role xml:id=""></role>
             </castItem>
         </castList>
     </div>
