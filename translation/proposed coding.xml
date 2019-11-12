@@ -6,8 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><hi rend="ital">Caractères</hi> and <hi rend="ital">Characters,</hi>
-               Compared</title>
+            <title>Excerpts from <hi rend="ital">Caractères</hi> French and English Compared</title>
             <respStmt>
                <resp>Transcribed by</resp>
                <name>Jeanne Sauvage and Julee Tanner</name>
@@ -54,12 +53,59 @@
          </div>
          <div xml:lang="fr" type="chapter" n="5">
             <head>5. De la Societé et de la Conversation.</head>
+            <div type="remark" n="69">
+               <head>69</head>
+               <p>
+                  <seg xml:id="FSC_69_01" corresp="#ESC_69_01">Quelques femmes de la ville ont la
+                     délicatesse de ne pas savoir ou de n’oser dire le nom des rues, des places, et
+                     de quelques endroits publics,</seg>
+                  <seg xml:id="FSC_69_02" corresp="#ESC_69_02"> qu’elles ne croient pas assez nobles
+                     pour être connus</seg>
+                  <seg xml:id="FSC_69_03" corresp="#ESC_69_03"> Elles disent : <hi rend="ital">le
+                        Louvre, la place Royale,</hi> mais elles usent de tours et de phrases plutôt
+                     que de prononcer de certains noms ;</seg>
+                  <seg xml:id="FSC_69_04" corresp="#ESC_69_04"> et s’ils leur échappent, c’est du
+                     moins avec quelque altération du mot, et après quelques façons qui les
+                     rassurent :</seg>
+                  <seg xml:id="FSC_69_05" corresp="#ESC_69_05"> en cela moins naturelles que les
+                     femmes de la cour, qui ayant besoin dans le discours <hi rend="ital">des
+                        Halles, du Châtelet,</hi> ou de choses semblables, disent : </seg>
+                  <seg xml:id="FSC_69_06" corresp="#ESC_69_06">
+                     <hi rend="ital">les Halles, le Châtelet.</hi></seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="6">
             <head>6. Des Biens de Fortune.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="7">
             <head>7. De la Ville.</head>
+            <div type="remark" n="12">
+               <head>12</head>
+               <p>
+                  <seg xml:id="FVL_12_01" corresp="#ECY_12_01">Narcisse se lève le matin pour se
+                     coucher le soir ;</seg>
+                  <seg xml:id="FVL_12_02" corresp="#ECY_12_02"> il a ses heures de toilette comme
+                     une femme ;</seg>
+                  <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort
+                     régulièrement à la belle messe aux Feuillants ou aux Minimes ;</seg>
+                  <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce, et
+                     l’on compte sur lui au quartier de pour un tiers ou pour un cinquième à
+                     l’hombre ou au reversi</seg>
+                  <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> Là il tient le fauteuil quatre
+                     heures de suite chez Aricie, où il risque chaque soir cinq pistoles d’or.</seg>
+                  <seg xml:id="FVL_12_06" corresp="#ECY_12_06"> Il lit exactement la Gazette de
+                     Hollande et le Mercure Galant ; il a lu Bergerac, des Marets, Lesclache, les
+                     Historiettes de Barbin, et quelques recueils de poésies.</seg>
+                  <seg xml:id="FVL_12_07" corresp="#ECY_12_07"> Il se promène avec des femmes à la
+                     Plaine ou au Cours, et il est d’une ponctualité religieuse sur les
+                     visites.</seg>
+                  <seg xml:id="FVL_12_08" corresp="#ECY_12_08"> Il fera demain ce qu’il fait
+                     aujourd’hui et ce qu’il fit hier ;</seg>
+                  <seg xml:id="FVL_12_09" corresp="#ECY_12_09"> et il meurt ainsi après avoir
+                     vécu.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="8">
             <head>8. De la Cour.</head>
@@ -75,6 +121,26 @@
          </div>
          <div xml:lang="fr" type="chapter" n="12">
             <head>12. Des Jugemens.</head>
+            <div type="remark" n="80">
+               <head>80</head>
+               <p>
+                  <seg xml:id="FJG_80_01" corresp="#EJG_89_01">Un homme est <interp type="sense"
+                        >fidele à de certaines pratiques</interp> de Religion,</seg>
+                  <seg xml:id="FJG_80_02" corresp="#EJG_89_02"> on le voit s'en acquiter avec
+                     exactitude,</seg>
+                  <seg xml:id="FJG_80_03" corresp="#EJG_89_03"> personne ne le louë, ny ne le
+                     desapprouve, on n'y pense pas ;</seg>
+                  <seg xml:id="FJG_80_04" corresp="#EJG_89_04"> tel autre <interp type="sense">y
+                        revient</interp> aprés les avoir negligées dix années entieres,</seg>
+                  <seg xml:id="FJG_80_05" corresp="#EJG_89_05"> on se récrie, on l'exalte ;</seg>
+                  <seg xml:id="FJG_80_06" corresp="#EJG_89_06">
+                     <interp type="tone">cela est libre</interp> :</seg>
+                  <seg xml:id="FJG_80_07" corresp="#EJG_89_07"> moy je le blâme d'un si long oubli
+                     de ses devoirs,</seg>
+                  <seg xml:id="FJG_80_08" corresp="#EJG_89_08"> &amp; je le trouve heureux <interp
+                        type="sense">d'y estre rentré</interp>.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="13">
             <head>13. De la Mode.</head>
@@ -110,7 +176,8 @@
                         vraye religion"--by implication Catholicism--with stubbornness and
                         corruption. Since 1534 the Church of England had been independent of Rome,
                         and Catholics were intentionally excluded from the 1688 the Act of
-                        Toleration, which extended freedom of worship to other dissenters.</note></seg>
+                        Toleration, which extended freedom of worship to other
+                     dissenters.</note></seg>
                   <seg xml:id="FEF_02_02"> sont susceptibles d'impressions, l'un en recoit de
                      bonnes, l'autre de mauvaises, </seg>
                   <seg xml:id="FEF_02_03">c'est à dire que le premier est persuadé &amp; fidele,
@@ -136,12 +203,60 @@
          </div>
          <div xml:lang="en" type="chapter" n="5">
             <head>5. Of Society and Conversation.</head>
+            <div type="remark" n="69">
+               <head>69</head>
+               <p>
+                  <seg xml:id="ESC_69_01" corresp="#FSC_69_01">Some City ladies are so nice, that
+                     they will by no means learn to <interp type="omit">speak</interp>
+                     <note type="translation"> misses the irony </note> the Names of Streets, Lanes,
+                     or publick Places,</seg>
+                  <seg xml:id="ESC_69_02" corresp="#FSC_69_02"> which they fancy are not noble
+                     enough to be known.</seg>
+                  <seg xml:id="ESC_69_03" corresp="#FSC_69_03"> They say nothing plainly but the <hi
+                        rend="ital">Louvre</hi> and the <hi rend="ital">Place Royal;</hi> they use
+                        <interp type="sense">Terms</interp> and Phrases for the Names <interp
+                        type="exp">of some other Places;</interp></seg>
+                  <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <interp type="exp">by chance
+                        they let such</interp> a word slip, <interp type="omit"> </interp>
+                     <interp type="sense">they will excuse it as if it were criminal;</interp></seg>
+                  <seg xml:id="ESC_69_05" corresp="#FSC_69_05"> in this much more unnatural than the
+                     Court ladies, who having occasion to speak of <interp type="sense">the
+                        Market-place, the Prison,</interp> or the like, say,</seg>
+                  <seg xml:id="ESC_69_06" corresp="#FSC_69_06"><interp type="sense"> the
+                        Market-place and the Prison.</interp>
+                     <note type="editorial"> blablabla chatelet halles </note>
+                  </seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="6">
             <head>6. Of the Goods of Fortune.</head>
          </div>
          <div xml:lang="en" type="chapter" n="7">
             <head>7. Of the City.</head>
+            <div type="remark" n="12">
+               <head>12</head>
+               <p>
+                  <seg xml:id="ECY_12_01" corresp="#FVL_12_01">Narcissus rises in the Morning to lye
+                     down at Night,</seg>
+                  <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as
+                     regularly as a Woman,</seg>
+                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to Morning and
+                     Evening Prayer;</seg>
+                  <seg xml:id="ECY_12_04" corresp="#FVL_12_04"> he is good Company, and serves to
+                     make a third Man at Ombre;</seg>
+                  <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he fits four hours together at
+                     Aracias, where he ventures his 5 or 6 pistoles e'ry night;</seg>
+                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch Gazette,
+                     Barbins News, and the Mercure Gallant, and some Collections of Poetry;</seg>
+                  <seg xml:id="ECY_12_07" corresp="#FVL_12_07"> he walks with the Ladies in the Park
+                     or Meadows, and is religiously punctual in his Visits:</seg>
+                  <seg xml:id="ECY_12_08" corresp="#FVL_12_08"> he will do the same tomorrow, which
+                     he has done today, and did yesterday.</seg>
+                  <seg xml:id="ECY_12_09" corresp="#FVL_12_09"> Thus he lives, and in this manner he
+                     will die.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="8">
             <head>8. Of the Court.</head>
@@ -157,6 +272,27 @@
          </div>
          <div xml:lang="en" type="chapter" n="12">
             <head>12. Of Judgement.</head>
+            <div type="remark" n="80">
+               <head>80</head>
+               <p>
+                  <seg xml:id="EJG_89_01" corresp="#FJG_80_01">A Man is <interp type="sense">just to
+                        some practical rules</interp> of Religion,</seg>
+                  <seg xml:id="EJG_89_02" corresp="#FJG_80_02"> we see him nicely observe
+                     them;</seg>
+                  <seg xml:id="EJG_89_03" corresp="#FJG_80_03"> no Man commends or discommends him,
+                     he is not thought of;</seg>
+                  <seg xml:id="EJG_89_04" corresp="#FJG_80_04"> another <interp type="sense"
+                        >reclaims</interp>, after ten years neglect of all Religious duties,</seg>
+                  <seg xml:id="EJG_89_05" corresp="#FJG_80_05"> he is cry'd up and applauded for
+                     it;</seg>
+                  <seg xml:id="EJG_89_06" corresp="#FJG_80_06">
+                     <interp type="tone">every man's judgement is free</interp>;</seg>
+                  <seg xml:id="EJG_89_07" corresp="#FJG_80_07"> for my part, I blame his long
+                     forgetfulness of his duty,</seg>
+                  <seg xml:id="EJG_89_08" corresp="#FJG_80_08"> and think him happy <interp
+                        type="sense">in his Reformation</interp>.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="13">
             <head>13. Of the Fashion.</head>
