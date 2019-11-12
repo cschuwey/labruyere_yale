@@ -29,7 +29,7 @@
             <figDesc>Possible Printers Ornament placed between title and imprint</figDesc>
             <docImprint type="sub" rend="center">
                 <lb/><name place="London"><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
-                <lb/>Printed for<name><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name place="Catharine-Street">Catharine-
+                <lb/>Printed for<name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name place="Catharine-Street">Catharine-
                 <lb/>Street</name>in, the <name place="Strand">Strand.</name>
                 <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
             </docImprint>
@@ -40,8 +40,8 @@
     <pb n="2"/>
     <div type="dedication">
         <head>
-            <lb/><hi rend="all-caps">TO</hi>
-            <lb/><hi rend="all-caps">MR. KING.</hi>
+            <lb/><hi rend="all-caps">T O</hi>
+            <lb/><hi rend="all-caps">MR. K I N G.</hi>
             <lb/><hi rend="all-caps" style="text align: left">SIR</hi>
         </head>
         <p n="2">
@@ -151,7 +151,7 @@
             things only left out, which, though possessed
             of a pleasant extravagance in recital, would be
             too absurd for actual representation; the hint
-            of <title type="play">the <hi rend="all-caps">ABSENT MAN</hi></title>, and no more, is taken
+            of <name type="play">the <hi rend="all-caps">ABSENT MAN</hi></name>, and no more, is taken<!--doublecheck titles/names -->
             from the same character of Menalcas, tran-
             slated in one of the numbers of the Spectator;
             with the assistance of which, if the present
@@ -160,6 +160,59 @@
             no more praise than such a trifling composition
             may deserve.
         </p>
+    </div>
+    <pb n="5"/>
+    <div>
+        <prologue>
+        <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R O L O G U E.</head>
+        <subhead style="font-size:16px; font-family:serif; font-weight:100; font-style:regular;"><hi rend="italics">Written by the</hi> <hi rend="all-caps">AUTHOR</hi><hi rend="italics"> of the</hi><hi rend="all-caps"> FARCE</hi></subhead>
+        <sp>
+            <lg n="1">
+                <l>Ere the curtain draws up, lift a little to me:</l>
+                <l>Are you all in a very good humour? Let's see;</l>
+                <l>Good humour you have, howe'er you come by it,</l>
+                <l>And I'm glad to my soul; for, by Jove, we shall try it.</l>
+                <l>Our farce is so very a farce, I'm in doubt,</l>
+                <l>If the pit and the boxes, will suffer it out;</l>
+                <l>But when we're in danger of such a mishap,</l>
+                <l>My dear friends above, drown their hiss in a clap;</l>
+                <l>And if you are pleas'd with our farcical man,</l>
+                <l>In spite of their airs, laugh as loud as you can.</l>
+                </lg>
+            <lg n="2" rend="first-indent">
+                <l>To give you a sketch, now, by way of portraying,</l>
+                <l>His character's this—pray observe what I'm saying:</l>
+                <l>An odd kind of whimsical, blundering being,</l>
+                <l>Who has ears without hearing, and eyes without seeing;</l>
+                <l>Takes things by all handles, except by the right,</l>
+                <l>Ask a question in black, he answers in white.</l>
+                <l>Yes for no, no for yes; confuses, mistakes;</l>
+                <l>All he does so like dreaming, you'd scarce think he wakes.</l>
+                <l>Suppose to back-gammon my gentleman falls,</l>
+                <l>Box and dice in his hand, for some water he calls;</l>
+                <l>'Tis brought in a tumbler, when pop, in a trice,</l>
+                <l>He throws out the liquor, and swallows the dice.</l>
+            </lg>
+            <lg n="2" rend="first-indent">
+                <l>Hard set are poor bards for your pleasures to cater,</l>
+                <l>And thus one provides for you, from the Spectator;</l>
+                <l>From volume the first, page three hundred and nine,</l>
+                <l>Number seventy-seven, he takes his design;</l>
+                <l>Let that be his sanction for what you behold:</l>
+                <l>Can the figure be had from so perfect a mold?</l>
+                <l>'Tis polish'd and varnish'd as well as he's able,</l>
+                <l>And he hopes you'll find something like conduct and fable.</l>
+            </lg>
+            <lg n="3" rend="first-indent">
+                <l>Yet still this curst absence-in short here's the thing,</l>
+                <l>lf the character hits, thence his actions all spring;</l>
+                <l>And nought will disgust you, and nought will alarm you,</l>
+                <l>You'll takee ev'ry blunder, his follies will charm you;</l>
+                <l>But if—Gad we're all in a terrible fright,</l>
+                <l>So, begging for mercy, I wish you good night.</l>
+            </lg>
+        </sp>
+        </prologue>
     </div>
     
     
