@@ -11,13 +11,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<!--Drama TEI schema won't allow certain tags so I've disabled it until we 
-   can figure out how to edit schemas. Mising tags so far include: rend, fw, figure
-   
-   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_drama.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -41,10 +34,7 @@
               <head rend="upper" place="center">Men.</head>
                <castItem>
                <role xml:id="doctor">Doctor Gruel,</role>
-               <actor>Mr. Hur<choice>
-               <orig>&longs;</orig>
-               <reg>s</reg>
-               </choice>t.</actor>
+               <actor>Mr. Hurst.</actor>
                </castItem>
                <castItem>
                   <role xml:id="shatter">Shatterbrain,</role>
@@ -78,14 +68,8 @@
                  <actor>Mrs. Johnson.</actor>
               </castItem>
                  <castItem>
-                    <role xml:id="frolick">Mi<choice>
-               <orig>&longs;</orig>
-               <reg>s</reg>
-               </choice>s Frolick,</role>
-                    <actor>Mi<choice>
-               <orig>&longs;</orig>
-               <reg>s</reg>
-               </choice>s. Reynolds.</actor>
+                    <role xml:id="frolick">Miss Frolick,</role>
+                    <actor>Miss. Reynolds.</actor>
                  </castItem>
                  <castItem>
                     <role xml:id="flavia">Flavia,</role>
@@ -93,10 +77,7 @@
                  </castItem>
                  <castItem>
                     <role xml:id="land">Landlady,</role>
-                    <actor>Mrs. Brad<choice>
-               <orig>&longs;</orig>
-               <reg>s</reg>
-               </choice>haw.</actor>
+                    <actor>Mrs. Bradshaw.</actor>
                  </castItem>
            </castGroup>
         </castList> 
@@ -114,7 +95,7 @@
                <figDesc>A line prefacing the start of the text.</figDesc>
             </figure>
             <head>Act 1.</head>
-               <div type="scene" n="1">
+            <div type="scene" n="1">
                <head>Scene I.</head>
                <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
                Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
@@ -221,124 +202,401 @@
                marching up staris&emdash;perhaps he may be able to give
                a physical reason for this.</p> 
                </sp>
-               <div type="scene" n="3">
-                  <head>Scene III.</head>
-                  <stage>Frank, Doctor, Gruel, Landlady.</stage>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker> 
-                     <p>So young man, where's your master?</p></sp>
+            <div type="scene" n="3">
+               <head>Scene III.</head>
+               <stage>Frank, Doctor Gruel, Landlady.</stage>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker> 
+                  <p>So young man, where's your master?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Really, Sir, I don't know.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>When will he come in?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Upon my word, Sir, I can't tell.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Did he say nothing to you when he was going out?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Not a syllable, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Nor to you, Madam?</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>Nor to me sir, as I'm a chistian.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Mercy on us, I suppose you know what
+                  engagements he had upon his hands this evening></p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Yes, sure, Sir, very well, and I thought
+                  he had known it himself; but it seems I was mistaken.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Seriously, I am afraid some accident has
+                     happened to him</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>No Sir, I don't believe any accident has 
+                  happened to him.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>Nor I niether, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>What's your opinion then?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>I believe I need not tell you, Sir, that my 
+                     master is, one or other,the most absent man this
+                     day upon the case of the earth</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Truly I have opten heard him remarked 
+                     for it; nay, I have myself taken notice of several
+                     glaring instances of it in him; but, that is a failing
+                     he will soon get the better of when his thoughts are
+                     properly employed; and matrimony&emdash;</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Will in all likelyhood perfectly cure him. 
+                  'tis granted, Sir, matrimony is without a doubt an
+                  excellent remedy, in such distempers; a kind of 
+                  manna and cream of tartat; a mixture of sweet
+                  and <!--sower--> sour; wonderfully adapted to purge the mind
+                  of it's gross humours, and reduce the understanding
+                  to a perfect regularity of constitution.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>A good comical fellow this.</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>But you cannot expect that the patient
+                  should recover, Sir, before you have administer'd 
+                  the remedy you intend to prescribe for his disease:
+                  therefore, you must not be surprised if my master 
+                  happens to labour under a very violent fit of his
+                  out of the way malady, at this present moment.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>How do you mean?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Neither more, nor less, than that he has
+                  forgot he was to me married to your daughter to 
+                  night, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Forgot!</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>As sure as he can be he as Doctor.</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Ay, Sir, forgot&emdash;and giving the reins to 
+                  his wild imagination, suffer'd it to run away with
+                  him the Lord knows whither. Why, Sir, when he is
+                  in the forgetting mood, his memory is a perfect sieve
+                  &emdash;Any thing will fall thro' it&emdash;I have known him
+                  forget his own name before now.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>I am unwillig to think my friend 
+                  Shatterbrain design'd to affront me&emdash;But if his 
+                  memory was a seive, to which you compare it, that
+                  only yeilds a passage to minuter particles, while the
+                  more gross remain behind&emdash;And an affair of consequence, 
+                  like&emdash;</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Lord, Sir!, I could tell you such stories of 
+                  him, as would make you credit this with very little 
+                  difficulry&emdash;for instance, the other day, he was sitting
+                  in a coffee-house, when a fly which had buzz'd
+                  about him a good while, and he was watching an
+                  oppertunity to kill, unluckily settled upon the cheek
+                  of a person who stood near him&emdash;Ha! says he, I 
+                  believe I have you now; and with that, Sir, he up
+                  with his hand, and hit the poor gentleman such a 
+                  confounded slap, as made the room ring again; one
+                  started, the other stared, in short, swords were
+                  drawn, and the cafe would infalliably have been
+                  transferred to Hyde Park, had not the acquaintance
+                  on both sides interposed; so he begged pardon, 
+                  confessed he did not know what he was doing; it ended
+                  in a hearty laugh, and the general astonishment of 
+                  the whole company.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>About a fortnight ago, Sir, he looked up 
+                  a lady, and a gentleman, i nhis bed-chamber here, 
+                  in the way of a joke only; was call'd down about 
+                  some business; forgot it by the time he came to the 
+                  foot of the stairs, went our with the key in his 
+                  pocket, and ti was six o'clock before we could set 
+                  the pounded couple at liberty.</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>His ideas are so confused sometimes, Sir,
+                  that I have known him write a letter to one person, 
+                  direct it to another, and sent it to a third, who 
+                  could not devise who it came from; because, he had 
+                  forgot to put his name to the bottom on't.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>A beggar takes off his hat to him in the
+                  street, in hopes of recieving an alms; Mr. Shatter-
+                  brainmakes him a low bow, tells him, he's his 
+                  most obedient humble servant, and walks on.</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>But the best thing I have heard of him a 
+                  goos while, was, what he did lately at a gentleman's 
+                  house in the city; where taking his leave with an 
+                  intention to go away; in one of his absent fits, he
+                  mounted up three pair of stars into the garret; the
+                  maids that by chance were ironing there, wonder'd 
+                  what the plague kept such a stamping about the
+                  rooms, when one of them taking a candle to see
+                  what it was, found my poor paster; who, in the
+                  utmost confusion, told her, he fancy'd he had made
+                  some mistake, and begg'd to know if that was not
+                  the way to the street door.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Well, I don't know; but, if his present
+                  behavior proceeds from his forgetfulness, it is the
+                  most extrodinary instance of the kind that ever was
+                  heard of; and, how shall I proceed in this case; my
+                  daughter is at home ready dressed; the lawyer will
+                  be there presently with the writings; I have taken
+                  out a licence; appointed the clergyman to come
+                  and marry the; how shall I put it off after this, 
+                  without making us all ridiculous?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>'Tis very true, Sir, I am sure I have been 
+                  at my wits end about it all day.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>Suppose, Mr. Frank, you were to go and 
+                  look for your master again; what if you gave a 
+                  peep into the Bedford coffee-house?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>Shall I, Sir?</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>If you think you will find him there.</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>It can be no harm to try, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Very well, I'll wait for you; go, and
+                  make what haste you can.</p></sp>
+            </div>
+            <div type="scene" n="3"> <!--the text has this section marked off as
+               Scene III again, I think because Frank has exited. I'm including the
+               disignation here, but cautious that having two n="3" will cause a problem-->
+               <head>Scene III.</head>
+               <stage rend="smallcaps">Doctor Gruel, Landlady.</stage>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>I hope he may find him.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>So do I with all my heart; for, on many 
+                  acounts, I would not wish to have my daughter's 
+                  marriage delay'd; her own indiscretion, Madam, has 
+                  occasioned me to treat her with a severity of late, 
+                  very irksome both to herself and me.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>That's a pity, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>In truth and so it is: few father have
+                  taken greater care in the education of a child, nor
+                  has that care been wholly unprofitable; for I think 
+                  I may say without vanity, that there is not a young
+                  woman in England, of her age and station, more
+                  <!--compleatly-->completely accomplished than my Flavia.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>And yet she has no more pride, I warrant, 
+                  than a boarding-school girl, in the first row of her
+                  <!--samplar-->sampler.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>That's her fault, Madam&emdash;a proper pride 
+                  is woman's virtue&emdash;I should be sorry to see my
+                  daughter give herself airs, but at the same time I 
+                  would have her know her proper value; I would 
+                  not have her throw herself away.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>No, to be sure, Sir.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>And yet, had I not interposed my parental
+                  authority, such was her purpose, Madam; if I may
+                  call it throwing herself away, to marry a young
+                  fellow not worth a groat.</p></sp>
+            <div type="scene" n="4">
+               <head>Scene IV.</head>
+               <stage rend="smallcaps">Doctor Gruel, Landlady, Frank <hi rend="italics">out of breath.</hi></stage>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>My master's coming, Sir.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>As I'm a Christian, I'm glad on't.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Where did you meet him?</p></sp>
+               <sp who="#frank">
+                  <speaker rend="italics">Frank.</speaker>
+                  <p>I met him, Sir&emdash;O Lord&emdash;I met him at
+                  the end of the street, Sir&emdash;where he has been
+                  Heaven knows, but such a figure&emdash;So, Sir, I told
+                  him I had been in search after him all day, and 
+                  how you were waiting here&emdash;but if I had snapped a 
+                  pistol at his breast, it could not have put him in 
+                  greater consternation&emdash;he took to his heels, directly, 
+                  like a madman; and I have almost run myself 
+                  breathles in order to get home before him, and
+                  bring the tidings to your worship.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>Why, this is as it should be, Madam.</p></sp>
+               <sp who="#land">
+                  <speaker rend="italics">Land.</speaker>
+                  <p>Ay, ay, Sir, all's right again&emdash;but I hear
+                  Mr. Shatterbrain coming up, so I'll take my leave.</p></sp>
+               <sp who="#doctor">
+                  <speaker rend="italics">Doctor.</speaker>
+                  <p>I wish you a good evening; we shall 
+                     hear now what this whimsical gentleman will have to 
+                     say for himself</p></sp>
+               <div type="scene" n="5">
+                  <head>Scene V.</head>
+                  <stage rend="smallcaps">Doctor Gruel, Frank, Shatterbrain.</stage>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Come, my things. to dress quickly&emdash;my
+                     things to dress.&emdash;Doctor Gruel you most obedient 
+                     humble servant&emdash;I beg ten thousand pardons, but
+                     I'll be ready to wait on you immediately&emdash;Frank,
+                     why don't you make haste?</p></sp>
                   <sp who="#frank">
                      <speaker rend="italics">Frank.</speaker>
-                     <p>Really, Sir, I don't know.</p></sp>
+                     <p>I am making all the haste I can, Sir.</p></sp>
                   <sp who="#doctor">
                      <speaker rend="italics">Doctor.</speaker>
-                     <p>When will he come in?</p></sp>
+                     <p>Time enough, time enough.</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>I hope, Sir, your mother's very well?</p></sp>
+                  <sp who="#doctor">
+                     <speaker rend="italics">Doctor.</speaker>
+                     <p>My mother! Sir?</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Yes, Sir, I hope she is&emdash;a&emdash;</p></sp>
+                  <sp who="#doctor">
+                     <speaker rend="italics">Doctor.</speaker>
+                     <p>I hope she is happy, Mr. Shatterbrain&emdash;
+                     Poor woman, she has been dead these nine years&emdash;
+                     but I believe you mean to ask me for my daughter.</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>For your daughter! Upon my word, and 
+                     so I do&emdash;bless my soul, what was I thinking of.
+                     Did I say your mother? No, no; your daughter 
+                     to be sure. How does Miss Gruel, Sir?</p></sp>
+                  <sp who="#doctor">
+                     <speaker rend="italics">Doctor.</speaker>
+                     <p>Very well, and at your service heartily&emdash;
+                     if you recollect we agreed to comsummate our affairs
+                     this evening. Accordingly I have disposed every
+                     thing for that purpose; and having a patient to 
+                     visit in your neighborhood here, called in my 
+                     return home to take you along with me&emdash;guess 
+                     then how I was surprised when the people told me 
+                     you had gone our early, and nobody knew whither.</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Really, Sir, I am quite ashamed&emdash;but up-
+                     on my word it went out if my head.</p></sp>
+                  <sp who="#doctor">
+                     <speaker rend="italics">Doctor.</speaker>
+                     <p>Why, so your servant said he was sure it 
+                     had,; and I am very well pleased to find he was not 
+                     mistaken&emdash;for in truth I was apprehensive that it
+                     proceeded from a worse cause, and some ill accident
+                     detain'd you&emdash;but where the duce have you been
+                     with your shoes and stockings?</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Frank, what are you doing? my shoes
+                     and stockings, Sir? Why they are in a very beastly 
+                     pickle, that's the truth on't&emdash;and now I look at 
+                     them again, upon my soul I am amazed how I could 
+                     conrive to make them so&emdash;though the roads were 
+                     confounded deep; and if they had been a fathom, 
+                     it would have been just the same&emdash;for I never pick 
+                     my steps, but wade through the middle of every 
+                     thing&emdash;I had like to have been run over once or 
+                     twice.</p></sp>
+                  <sp who="#doctor">
+                     <speaker rend="italics">Doctor.</speaker>
+                     <p>Then you walked in to the country?</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Faith, Sir, I had no thoughts of it when 
+                     I left home&emdash;but, I don't know how it was, the 
+                     beauty of the weather had <!--inticed-->enticed me as far as 
+                     Putney, before I percieved that I was in t'other 
+                     side the river; where, meeting with a party of friends
+                     going to dine at Richmond, I made a fifth in their 
+                     vehicle&emdash;by the way I was obliged to get one of the 
+                     ladies to pay my reckoning&emdash;for when I came to put 
+                     my hand in my pocket&emdash;the duce a farthing had I 
+                     about me.</p></sp>
                   <sp who="#frank">
                      <speaker rend="italics">Frank.</speaker>
-                     <p>Upon my word, Sir, I can't tell.</p></sp>
+                     <p>No, that I will answer for&emdash;here is your 
+                     purse, Sir, you left it on the hall table, last night, 
+                     when you were discharging the chairman&emdash;and 
+                     'twas very well I went down as I did, or ten to one 
+                     but somebody might have whipped it away.</p></sp>
+                  <sp who="#shatter">
+                     <speaker rend="italics">Shatter.</speaker>
+                     <p>Which would have been a loss to me, 
+                     I see&emdash;tho' I don't knwo how much was in it.</p></sp>
                   <sp who="#doctor">
                      <speaker rend="italics">Doctor.</speaker>
-                     <p>Did he say nothing to you when he was going out?</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>Not a syllable, Sir.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>Nor to you, Madam?</p></sp>
-                  <sp who="#land">
-                     <speaker rend="italics">Land.</speaker>
-                     <p>Nor to me sir, as I'm a chistian.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>Mercy on us, I suppose you know what
-                     engagements he had upon his hands this evening></p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>Yes, sure, Sir, very well, and I thought
-                     he had known it himself; but it seems I was mistaken.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>Seriously, I am afraid some accident has
-                        happened to him</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>No Sir, I don't believe any accident has 
-                     happened to him.</p></sp>
-                  <sp who="#land">
-                     <speaker rend="italics">Land.</speaker>
-                     <p>Nor I niether, Sir.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>What's your opinion then?</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>I believe I need not tell you, Sir, that my 
-                        master is, one or other,the most absent man this
-                        day upon the case of the earth</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>Truly I have opten heard him remarked 
-                        for it; nay, I have myself taken notice of several
-                        glaring instances of it in him; but, that is a failing
-                        he will soon get the better of when his thoughts are
-                        properly employed; and matrimony&emdash;</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>Will in all likelyhood perfectly cure him. 
-                     'tis granted, Sir, matrimony is without a doubt an
-                     excellent remedy, in such distempers; a kind of 
-                     manna and cream of tartat; a mixture of sweet
-                     and <!--sower--> sour; wonderfully adapted to purge the mind
-                     of it's gross humours, and reduce the understanding
-                     to a perfect regularity of constitution.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>A good comical fellow this.</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>But you cannot expect that the patient
-                     should recover, Sir, before you have administer'd 
-                     the remedy you intend to prescribe for his disease:
-                     therefore, you must not be surprised if my master 
-                     happens to labour under a very violent fit of his
-                     out of the way malady, at this present moment.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>How do you mean?</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>Neither more, nor less, than that he has
-                     forgot he was to me married to your daughter to 
-                     night, Sir.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>Forgot!</p></sp>
-                  <sp who="#land">
-                     <speaker rend="italics">Land.</speaker>
-                     <p>As sure as he can be he as Doctor.</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p>Ay, Sir, forgot&emdash;and giving the reins to 
-                     his wild imagination, suffer'd it to run away with
-                     him the Lord knows whither. Why, Sir, when he is
-                     in the forgetting mood, his memory is a perfect sieve
-                     &emdash;Any thing will fall thro' it&emdash;I have known him
-                     forget his own name before now.</p></sp>
-                  <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
-                     <p>I am unwillig to think my friend 
-                     Shatterbrain design'd to affront me&emdash;But if his 
-                     memory was a seive, to which you compare it, that
-                     only yeilds a passage to minuter particles, while the
-                     more gross remain behind&emdash;And an affair of consequence, 
-                     like&emdash;</p></sp>
-                  <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
-                     <p></p></sp>
+                     <p>But did not you talk of dressing? If you 
+                     have any such intention, you had better do it 
+                     speedily, and as you will be some little time about 
+                     it, I will make use of the oppertunity to dispatch 
+                     a few visits, which I must necessarily make this 
+                     afternoon&emdash;you will come as soon as you are ready&emdash;
+                     and believe me, when I assure you, I long to see you 
+                     one of my family.</p></sp>
+
                   
                   
                </div>
-              
+                  </div>
+               </div>
             </div>
          </div>
       </body>
