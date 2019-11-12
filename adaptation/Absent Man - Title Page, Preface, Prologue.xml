@@ -35,7 +35,7 @@
             </docImprint>
         </doctitle>
     </titlePage>
-    <pb n="1"/>
+    <pb n="1"/> <!-- probably going to get rid of page breaks since we're going for rolling/scrolling expandable -->
     <gap reason="blank" extent="1 page"/>
     <pb n="2"/>
     <div type="dedication">
@@ -214,16 +214,76 @@
         </sp>
         </prologue>
     </div>
-    
-    
     <div xml:id="dramatispersonae" type="castList">
-        <head rend="all-caps">P E R S O N S.</head>
-        <subhead>M E N.</subhead>
+        <head rend="all-caps" style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P E R S O N S.</head>
+        <subhead style="font-size:18px; font-family:serif; font-weight:100; font-style:regular;">M E N.</subhead>
         <castList>
+          <castGroup n="1">
             <castItem type="role">
-                <role xml:id=""></role>
+                <role xml:id="gruel">Doctor Gruel</role>
                 <roleDesc></roleDesc>
+                <actor>Mr. Hurst</actor>
             </castItem>
+            <castItem type="role">
+                <role xml:id="shatterbrain">Shatterbrain</role>
+                <roleDesc></roleDesc>
+                <actor>Mr. King</actor>
+            </castItem>
+              <castItem type="role">
+                  <role xml:id="welldon">Welldon</role>
+                  <roleDesc></roleDesc>
+                  <actor>Mr. Cautherly</actor>
+              </castItem>
+              <castItem type="role">
+                  <role xml:id="captainslang">Captain Slang</role>
+                  <roleDesc></roleDesc>
+                  <actor>Mr. J. Palmer</actor>
+              </castItem>
+              <castItem type="role">
+                  <role xml:id="coxcomb">Coxcomb</role>
+                  <roleDesc></roleDesc>
+                  <actor>Mr. Fawcet</actor>
+              </castItem>
+              <castItem type="role">
+                  <role xml:id="frank">Frank</role>
+                  <roleDesc></roleDesc>
+                  <actor>Mr. Palmer</actor>
+              </castItem>
+              <castItem type="role">
+                  <role xml:id="robin">Robin</role>
+                  <roleDesc></roleDesc>
+                  <actor>Mr. J. Burton</actor>
+              </castItem>
+          </castGroup>
+            <subhead style="font-size:18px; font-family:serif; font-weight:100; font-style:regular;">W O M E N.</subhead>
+            <castGroup n="2">
+                <castItem type="role">
+                    <role xml:id="junket">Mrs. Junket</role>
+                    <roleDesc></roleDesc>
+                    <actress>Mrs. Jonhston</actress>
+                </castItem>
+                <castItem type="role">
+                    <role xml:id="frolick">Miss Frolick</role>
+                    <roleDesc></roleDesc>
+                    <actress>Miss Reynolds</actress>
+                </castItem>
+                <castItem type="role">
+                    <role xml:id="flavia">Flavia</role>
+                    <roleDesc></roleDesc>
+                    <actress>Mrs. Barry</actress>
+                </castItem>
+                <castItem type="role">
+                    <role xml:id="captainslang">Landlady</role>
+                    <roleDesc></roleDesc>
+                    <actress>Mrs. Bradshaw</actress>
+                </castItem>
+            </castGroup>            
+            
+            
+            
+            
+            
+            
             <castGroup>
                 <head></head>
                 <castItem type="role">
