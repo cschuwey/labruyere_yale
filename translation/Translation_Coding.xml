@@ -73,8 +73,8 @@
                  <seg xml:id="FSC_7_11" corresp="#ESC_7_11"> qu'importe, Acis, est-ce un si grand mal 
                         d'être entendu quand on parle, &amp; de parler comme tout le monde ?</seg>
                  <seg xml:id="FSC_7_12" corresp="#ESC_7_12"> Une chose vous manque, Acis, à vous
-                    &amp; à vos semblables diseurs de <hi rend="italic">Phoebus</hi><note type= "editorial"> A "Phoebus" 
-                           is a histrionic, overcomplicated style, derived from "Phébus", a periphrasis 
+                    &amp; à vos semblables diseurs de <hi rend="italic">Phoebus</hi><note type= "editorial"> 
+                       A "Phoebus" is a histrionic, overcomplicated style, derived from "Phébus", a periphrasis 
                         for the Sun and Apollo which was a widespread imagery during the reign of Louis
                         XIV – a topical language dismissed by the English translation.</note>,</seg>
                   <seg xml:id="FSC_7_13" corresp="#ESC_7_13"> <interp type= "omit">vous ne vous en défiez point,
@@ -106,16 +106,16 @@
                <head>69</head>
                <p>
                   <seg xml:id="FSC_69_01" corresp="#ESC_69_01">Quelques femmes de la ville ont la
-                     délicatesse de ne pas savoir ou de n’oser dire le nom des rues, des places, et
-                     de quelques endroits publics,</seg>
+                     délicatesse de <interp typpe="omit">ne pas savoir ou </interp> de n’oser dire 
+                     le nom des rues, des places, et de quelques endroits publics,</seg>
                   <seg xml:id="FSC_69_02" corresp="#ESC_69_02"> qu’elles ne croient pas assez nobles
                      pour être connus</seg>
                   <seg xml:id="FSC_69_03" corresp="#ESC_69_03"> Elles disent : <hi rend="ital">le
                         Louvre, la place Royale,</hi> mais elles usent de tours et de phrases plutôt
                      que de prononcer de certains noms ;</seg>
-                  <seg xml:id="FSC_69_04" corresp="#ESC_69_04"> et s’ils leur échappent, c’est du
-                     moins avec quelque altération du mot, et après quelques façons qui les
-                     rassurent :</seg>
+                  <seg xml:id="FSC_69_04" corresp="#ESC_69_04"> et s’ils leur échappent, <interp type= "omit">
+                  c’est du moins avec quelque altération du mot, et après quelques façons qui les
+                     rassurent :</interp></seg>
                   <seg xml:id="FSC_69_05" corresp="#ESC_69_05"> en cela moins naturelles que les
                      femmes de la cour, qui ayant besoin dans le discours <hi rend="ital">des
                         Halles, du Châtelet,</hi> ou de choses semblables, disent : </seg>
@@ -264,7 +264,7 @@
             <seg xml:id="ESC_7_03" corresp="#FSC_7_03"> for my part I do but guess at your meaning:
             </seg>
             <seg xml:id="ESC_7_04" corresp="#FSC_7_04"> if you would tell'em, 'tis Cold <note type="editorial">
-               Throughout this remark, the translator resorts to many contractions in order to convey the 
+               Throughout remark 7, the translator resorts to many contractions in order to convey the 
                conversationalflavor of the original</note></seg>
             <seg xml:id="ESC_7_05" corresp="#FSC_7_06"> that it Rains, and it Snows;</seg>
             <seg xml:id="ESC_7_06" corresp="#FSC_7_05"> say 'tis Cold,</seg>
@@ -304,8 +304,7 @@
                <head>69</head>
                <p>
                   <seg xml:id="ESC_69_01" corresp="#FSC_69_01">Some City ladies are so nice, that
-                     they will by no means learn to <interp type="omit">speak</interp>
-                     <note type="translation"> misses the irony </note> the Names of Streets, Lanes,
+                     they will by no means learn to speak the Names of Streets, Lanes,
                      or publick Places,</seg>
                   <seg xml:id="ESC_69_02" corresp="#FSC_69_02"> which they fancy are not noble
                      enough to be known.</seg>
@@ -314,14 +313,19 @@
                         <interp type="sense">Terms</interp> and Phrases for the Names <interp
                         type="exp">of some other Places;</interp></seg>
                   <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <interp type="exp">by chance
-                        they let such</interp> a word slip, <interp type="omit"> </interp>
-                     <interp type="sense">they will excuse it as if it were criminal;</interp></seg>
+                        they let such</interp> a word slip, 
+                     they will excuse it <interp type="add">as if it were criminal</interp>;</seg>
                   <seg xml:id="ESC_69_05" corresp="#FSC_69_05"> in this much more unnatural than the
                      Court ladies, who having occasion to speak of <interp type="sense">the
                         Market-place, the Prison,</interp> or the like, say,</seg>
                   <seg xml:id="ESC_69_06" corresp="#FSC_69_06"><interp type="sense"> the
                         Market-place and the Prison.</interp>
-                     <note type="editorial"> blablabla chatelet halles </note>
+                     <note type="editorial"> Ironically, by erasing the topical allusion to  
+                        Parisian geography – le Chatelet, les Halles – and replacing it
+                        with a generic, descriptive language – the prison, the marketplace –
+                        the translation misses La Bruyère's very point, namely that court ladies
+                        dont hesitate to call a spade a spade instead of resorting to periphrases.
+                     </note>
                   </seg>
                </p>
             </div>
