@@ -106,16 +106,16 @@
                <head>69</head>
                <p>
                   <seg xml:id="FSC_69_01" corresp="#ESC_69_01">Quelques femmes de la ville ont la
-                     délicatesse de <interp typpe="omit">ne pas savoir ou </interp> de n’oser dire 
+                     délicatesse de <interp type="omit">ne pas savoir ou </interp> de n’oser dire 
                      le nom des rues, des places, et de quelques endroits publics,</seg>
                   <seg xml:id="FSC_69_02" corresp="#ESC_69_02"> qu’elles ne croient pas assez nobles
                      pour être connus</seg>
                   <seg xml:id="FSC_69_03" corresp="#ESC_69_03"> Elles disent : <hi rend="ital">le
                         Louvre, la place Royale,</hi> mais elles usent de tours et de phrases plutôt
                      que de prononcer de certains noms ;</seg>
-                  <seg xml:id="FSC_69_04" corresp="#ESC_69_04"> et s’ils leur échappent, <interp type= "omit">
+                  <seg xml:id="FSC_69_04" corresp="#ESC_69_04" ana= "omit"> et s’ils leur échappent, 
                   c’est du moins avec quelque altération du mot, et après quelques façons qui les
-                     rassurent :</interp></seg>
+                     rassurent :</seg>
                   <seg xml:id="FSC_69_05" corresp="#ESC_69_05"> en cela moins naturelles que les
                      femmes de la cour, qui ayant besoin dans le discours <hi rend="ital">des
                         Halles, du Châtelet,</hi> ou de choses semblables, disent : </seg>
@@ -138,20 +138,27 @@
                      une femme ;</seg>
                   <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort
                      régulièrement à la belle messe aux Feuillants ou aux Minimes ;</seg>
-                  <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce, et
-                     l’on compte sur lui au quartier de pour un tiers ou pour un cinquième à
-                     l’hombre ou au reversi</seg>
+                  <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce, &amp;
+                     <interp type="omit"> l’on compte sur lui au quartier de **</interp> pour un tiers
+                     ou pour un cinquième à l’ombre <interp type="omit">ou au reversi</interp>
+                     <note type= "context">"Ombre" and 'reversi" were seventeenth-century card games 
+                        imported from Spain. Ombre seems to have been fairly popular in England, reversi
+                        less so: this might be why the translator only indicated the former.</note></seg>
                   <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> Là il tient le fauteuil quatre
-                     heures de suite chez Aricie, où il risque chaque soir cinq pistoles d’or.</seg>
+                     heures de suite chez <hi rend="italic">Aricie</hi>, où il risque chaque soir cinq 
+                     pistoles d’or.</seg>
                   <seg xml:id="FVL_12_06" corresp="#ECY_12_06"> Il lit exactement la Gazette de
-                     Hollande et le Mercure Galant ; il a lu Bergerac, des Marets, Lesclache, les
-                     Historiettes de Barbin, et quelques recueils de poésies.</seg>
-                  <seg xml:id="FVL_12_07" corresp="#ECY_12_07"> Il se promène avec des femmes à la
-                     Plaine ou au Cours, et il est d’une ponctualité religieuse sur les
+                     Hollande </seg>
+                  <seg xml:id="FVL_12_07" corresp="#ECY_12_08"> et le Mercure Galant ; </seg>
+                     <seg xml:id="FVL_12_08" corresp="#ECY_12_09"> il a lu Bergerac, des Marets, Lesclache, </seg>
+                        <seg xml:id="FVL_12_09" corresp="#ECY_12_07"> les Historiettes de Barbin, </seg>
+                  <seg xml:id="FVL_12_10" corresp="#ECY_12_10">&amp; quelques recüeils de poësies.</seg>
+                  <seg xml:id="FVL_12_11" corresp="#ECY_12_07"> Il se promène avec des femmes à la
+                     Plaine ou au Cours, &amp; il est d’une ponctualité religieuse sur les
                      visites.</seg>
-                  <seg xml:id="FVL_12_08" corresp="#ECY_12_08"> Il fera demain ce qu’il fait
-                     aujourd’hui et ce qu’il fit hier ;</seg>
-                  <seg xml:id="FVL_12_09" corresp="#ECY_12_09"> et il meurt ainsi après avoir
+                  <seg xml:id="FVL_12_12" corresp="#ECY_12_08"> Il fera demain ce qu’il fait
+                     aujourd’huy &amp; ce qu’il fit hier ;</seg>
+                  <seg xml:id="FVL_12_13" corresp="#ECY_12_09"> &amp; il meurt ainsi après avoir
                      vécu.</seg>
                </p>
             </div>
@@ -189,6 +196,29 @@
                   <seg xml:id="FJG_80_08" corresp="#EJG_89_08"> &amp; je le trouve heureux <interp
                      type="sense">d'y estre rentré</interp>.</seg>
                </p>
+            </div>
+            <div type= "remark" n="118">
+               <head>118</head>
+            <p>
+               Vous avez surtout un homme pâle et livide qui n’a pas sur soi dix onces de chair, 
+               et que l’on croirait jeter à terre du moindre souffle. Il fait néanmoins plus de 
+               bruit que quatre autres, et met tout en combustion : il vient de pêcher en eau troublé
+               une île tout entière ; ailleurs à la vérité, il est battu et poursuivi, mais il se 
+               sauve par les marais, et ne veut écouter ni paix ni trêve. Il a montré de bonne heure
+               ce qu’il savait faire : il a mordu le sein de sa nourrice ; elle en est morte, la 
+               pauvre femme : je m’entends, il suffit. En un mot il était né sujet, et il ne l’est plus ;
+               au contraire il est le maître, et ceux qu’il a domptés et mis sous le joug vont à la
+               charrue et labourent de bon courage : ils semblent même appréhender, les bonnes gens,
+               de pouvoir se délier un jour et de devenir libres, car ils ont étendu la courroie et
+               allongé le fouet de celui qui les fait marcher ; ils n’oublient rien pour accroître
+               leur servitude ; ils lui font passer l’eau pour se faire d’autres vassaux et 
+               s’acquérir de nouveaux domaines : il s’agit, il est vrai, de prendre son père et
+               sa mère par les épaules et de les jeter hors de leur maison ; et ils l’aident dans
+               une si honnête entreprise. Les gens de delà l’eau et ceux d’en deçà se cotisent et
+               mettent chacun du leur pour se le rendre à eux tous de jour en jour plus redoutable :
+               les Pictes et les Saxons imposent silence aux Bataves, et ceux-ci aux Pictes et aux Saxons ;
+               tous se peuvent vanter d’être ses humbles esclaves, et autant qu’ils le souhaitent.
+            </p>
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="13">
@@ -265,7 +295,7 @@
             </seg>
             <seg xml:id="ESC_7_04" corresp="#FSC_7_04"> if you would tell'em, 'tis Cold <note type="editorial">
                Throughout remark 7, the translator resorts to many contractions in order to convey the 
-               conversationalflavor of the original</note></seg>
+               conversational flavor of the original</note></seg>
             <seg xml:id="ESC_7_05" corresp="#FSC_7_06"> that it Rains, and it Snows;</seg>
             <seg xml:id="ESC_7_06" corresp="#FSC_7_05"> say 'tis Cold,</seg>
             <seg xml:id="ESC_7_07" corresp="#FSC_7_07"> it Rains, and it Snows;</seg>
@@ -276,8 +306,8 @@
             <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> 'tell 'em they look well: </seg>
             <seg xml:id="ESC_7_10" corresp="#FSC_7_10"> Oh! but, say you, that is so plain, 
                and so conspicuous, any one might have said as much.</seg>
-            <seg xml:id="ESC_7_11" corresp="#FSC_7_11"> <interp type= "add">'Tis true, and 
-               what does that signifie?</interp> besides, what harm is there, <hi rend="italic">Acis</hi>, in being
+            <seg xml:id="ESC_7_11" corresp="#FSC_7_11" ana= "add">'Tis true, and 
+               what does that signifie? besides, what harm is there, <hi rend="italic">Acis</hi>, in being
                intelligible, or speaking like your Neighbours?</seg>
             <seg xml:id="ESC_7_12" corresp="#FSC_7_12">There is one thing, <hi rend="italic">Acis</hi>, which you and
                some <interp type= "sense">Gentlemen of your Complexion</interp> want very much,</seg>
@@ -312,7 +342,7 @@
                         rend="ital">Louvre</hi> and the <hi rend="ital">Place Royal;</hi> they use
                         <interp type="sense">Terms</interp> and Phrases for the Names <interp
                         type="exp">of some other Places;</interp></seg>
-                  <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <interp type="exp">by chance
+                  <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <interp type="add">by chance
                         they let such</interp> a word slip, 
                      they will excuse it <interp type="add">as if it were criminal</interp>;</seg>
                   <seg xml:id="ESC_69_05" corresp="#FSC_69_05"> in this much more unnatural than the
@@ -338,23 +368,31 @@
             <div type="remark" n="12">
                <head>12</head>
                <p>
-                  <seg xml:id="ECY_12_01" corresp="#FVL_12_01">Narcissus rises in the Morning to
-                     lye down at Night,</seg>
+                  <seg xml:id="ECY_12_01" corresp="#FVL_12_01"><hi rend="italic">Narcissus</hi> 
+                     rises in the Morning to lye down at Night,</seg>
                   <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as
                      regularly as a Woman,</seg>
-                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to Morning and
-                     Evening Prayer;</seg>
+                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to 
+                     <interp type="sense">Morning and Evening Prayer;</interp> 
+                     <note type="editorial">"Feuillants" and 'Minimes" refer to the 
+                     congregations celebrating the mass, not the time of the day when it takes place.
+                    </note></seg>
                   <seg xml:id="ECY_12_04" corresp="#FVL_12_04"> he is good Company, and serves to
                      make a third Man at Ombre;</seg>
                   <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he fits four hours together at
-                     Aracias, where he ventures his 5 or 6 pistoles e'ry night;</seg>
-                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch Gazette,
-                     Barbins News, and the Mercure Gallant, and some Collections of Poetry;</seg>
-                  <seg xml:id="ECY_12_07" corresp="#FVL_12_07"> he walks with the Ladies in the Park
+                     <hi rend="italic">Aracia's</hi>, where he ventures his 5 <interp type="add">or 6 </interp>
+                     pistoles e'ry night;</seg>
+                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch Gazette,</seg>
+                  <seg xml:id="ECY_12_07" corresp="#FVL_12_09"> <hi rend="italic">Barbins</hi> News, </seg>
+                     <seg xml:id="ECY_12_08" corresp="#FVL_12_07"> and the <hi rend="italic">Mercure Gallant</hi>;</seg>
+                     <seg xml:id="ECY_12_09" corresp="#FVL_12_08"> he has read <hi rend="italic">Bergerac, 
+                        Du Marets, Lesclache,</hi></seg>
+                        <seg xml:id="ECY_12_10" corresp="#FVL_12_10"> and some Collections of Poetry;</seg>
+                  <seg xml:id="ECY_12_11" corresp="#FVL_12_07"> he walks with the Ladies in the Park
                      or Meadows, and is religiously punctual in his Visits:</seg>
-                  <seg xml:id="ECY_12_08" corresp="#FVL_12_08"> he will do the same tomorrow, which
+                  <seg xml:id="ECY_12_12" corresp="#FVL_12_08"> he will do the same tomorrow, which
                      he has done today, and did yesterday.</seg>
-                  <seg xml:id="ECY_12_09" corresp="#FVL_12_09"> Thus he lives, and in this manner he
+                  <seg xml:id="ECY_12_13" corresp="#FVL_12_09"> Thus he lives, and in this manner he
                      will die.</seg>
                </p>
             </div>
