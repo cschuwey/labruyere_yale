@@ -197,27 +197,37 @@
                      type="sense">d'y estre rentré</interp>.</seg>
                </p>
             </div>
-            <div type= "remark" n="118">
+            <div type= "remark" n="118" ana="omit">
                <head>118</head>
             <p>
-               Vous avez surtout un homme pâle et livide qui n’a pas sur soi dix onces de chair, 
-               et que l’on croirait jeter à terre du moindre souffle. Il fait néanmoins plus de 
-               bruit que quatre autres, et met tout en combustion : il vient de pêcher en eau troublé
-               une île tout entière ; ailleurs à la vérité, il est battu et poursuivi, mais il se 
-               sauve par les marais, et ne veut écouter ni paix ni trêve. Il a montré de bonne heure
-               ce qu’il savait faire : il a mordu le sein de sa nourrice ; elle en est morte, la 
-               pauvre femme : je m’entends, il suffit. En un mot il était né sujet, et il ne l’est plus ;
-               au contraire il est le maître, et ceux qu’il a domptés et mis sous le joug vont à la
-               charrue et labourent de bon courage : ils semblent même appréhender, les bonnes gens,
-               de pouvoir se délier un jour et de devenir libres, car ils ont étendu la courroie et
-               allongé le fouet de celui qui les fait marcher ; ils n’oublient rien pour accroître
-               leur servitude ; ils lui font passer l’eau pour se faire d’autres vassaux et 
-               s’acquérir de nouveaux domaines : il s’agit, il est vrai, de prendre son père et
-               sa mère par les épaules et de les jeter hors de leur maison ; et ils l’aident dans
-               une si honnête entreprise. Les gens de delà l’eau et ceux d’en deçà se cotisent et
-               mettent chacun du leur pour se le rendre à eux tous de jour en jour plus redoutable :
-               les Pictes et les Saxons imposent silence aux Bataves, et ceux-ci aux Pictes et aux Saxons ;
-               tous se peuvent vanter d’être ses humbles esclaves, et autant qu’ils le souhaitent.
+               <seg xml:id="FJG_118_01"> Vous avez surtout un homme pâle et livide qui n’a pas sur 
+                  soi dix onces de chair, et que l’on croirait jeter à terre du moindre souffle. 
+                  Il fait néanmoins plus de  bruit que quatre autres, et met tout en combustion :
+                  il vient de pêcher en eau trouble une île tout entière ; ailleurs à la vérité, il 
+                  est battu et poursuivi, mais il se sauve par les marais, et ne veut écouter ni paix
+                  ni trêve. Il a montré de bonne heure ce qu’il savait faire : il a mordu le sein de
+                  sa nourrice ; elle en est morte, la pauvre femme : je m’entends, il suffit. 
+                  En un mot il était né sujet, et il ne l’est plus ;au contraire il est le maître,
+                  et ceux qu’il a domptés et mis sous le joug vont à la charrue et labourent de bon
+                  courage : ils semblent même appréhender, les bonnes gens,de pouvoir se délier un
+                  jour et de devenir libres, car ils ont étendu la courroie et allongé le fouet de
+                  celui qui les fait marcher ; ils n’oublient rien pour accroîtreleur servitude ;
+                  ils lui font passer l’eau pour se faire d’autres vassaux et s’acquérir de nouveaux
+                  domaines : il s’agit, il est vrai, de prendre son père et sa mère par les épaules
+                  et de les jeter hors de leur maison ; et ils l’aident dansune si honnête entreprise.
+                  Les gens de delà l’eau et ceux d’en deçà se cotisent et mettent chacun du leur pour
+                  se le rendre à eux tous de jour en jour plus redoutable : les Pictes et les Saxons
+                  imposent silence aux Bataves, et ceux-ci aux Pictes et aux Saxons ;tous se peuvent
+                  vanter d’être ses humbles esclaves, et autant qu’ils le souhaitent.
+               <note type="context">La Bruyere adds this derogatory passage on William III 
+                (William of Orange) and his reign in the 6th edition published in 1692, that is,
+                not long after the Glorious Revolution of 1688 and more specifically the 1690 
+                Battle of the Boyne which annihilated Louis XIV's hopes to see James II access 
+                the throne: William III had become the champion of the coalition against France.
+               The 4th English edition overlooks this passage, even though the rest of the 
+               chapter includes remarks that only appeared in the French 8th edition, meaning 
+               that this removal was voluntary. Rowe's 1713 edition translates the passage on William III
+               in a "Supplement to Chapter XII" rather than including it in the main body of the text.</note></seg>
             </p>
             </div>
          </div>
@@ -383,7 +393,9 @@
                      <hi rend="italic">Aracia's</hi>, where he ventures his 5 <interp type="add">or 6 </interp>
                      pistoles e'ry night;</seg>
                   <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch Gazette,</seg>
-                  <seg xml:id="ECY_12_07" corresp="#FVL_12_09"> <hi rend="italic">Barbins</hi> News, </seg>
+                  <seg xml:id="ECY_12_07" corresp="#FVL_12_09"> <hi rend="italic">Barbins</hi> News,
+                  <note type="editorial">This loose translation of "historiette" seems to indicate that
+                  the literary genre didn't know the same popularity in England at the time</note></seg>
                      <seg xml:id="ECY_12_08" corresp="#FVL_12_07"> and the <hi rend="italic">Mercure Gallant</hi>;</seg>
                      <seg xml:id="ECY_12_09" corresp="#FVL_12_08"> he has read <hi rend="italic">Bergerac, 
                         Du Marets, Lesclache,</hi></seg>
@@ -432,6 +444,9 @@
                      type="sense">in his Reformation</interp>.</seg>
                </p>
             </div>
+            <div type= "remark" n="118">
+               <head>118</head>
+         </div>
          </div>
          <div xml:lang="en" type="chapter" n="13">
             <head>13. Of the Fashion.</head>
