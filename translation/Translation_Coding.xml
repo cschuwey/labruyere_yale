@@ -62,15 +62,48 @@
                <head>1</head>
                <p>
                   <seg xml:id="FOE_01_01" corresp="#EPL_01_04">Tout est dit,</seg>
-                  <seg xml:id="FOE_01_02" corresp="#EPL_01_01"> &amp; l'on vient trop tard depuis plus de sept mille
-                     ans</seg>
+                  <seg xml:id="FOE_01_02" corresp="#EPL_01_01"> &amp; l'on vient trop tard depuis
+                     plus de sept mille ans</seg>
                   <seg xml:id="FOE_01_03" corresp="#EPL_01_02"> qu'ily a des hommes,</seg>
                   <seg xml:id="FOE_01_04" corresp="#EPL_01_03"> &amp; qui pensent.</seg>
-                  <seg xml:id="FOE_01_05" corresp="EPL_01_05"> Sur ce qui concerne les moeurs le plus beau &amp; le
-                     meilleur</seg>
+                  <seg xml:id="FOE_01_05" corresp="EPL_01_05"> Sur ce qui concerne les moeurs le
+                     plus beau &amp; le meilleur</seg>
                   <seg xml:id="FOE_01_06" corresp="EPL_01_06"> est enlevé;</seg>
-                  <seg xml:id="FOE_01_07" corresp="EPL_01_07"> l'on ne fait que glaner aprés les anciens</seg>
-                  <seg xml:id="FOE_01_08" corresp="EPL_01_08"> &amp; les habiles d'entre les modernes.</seg>
+                  <seg xml:id="FOE_01_07" corresp="EPL_01_07"> l'on ne fait que glaner aprés les
+                     anciens</seg>
+                  <seg xml:id="FOE_01_08" corresp="EPL_01_08"> &amp; les habiles d'entre les
+                     modernes.</seg>
+               </p>
+            </div>
+            <div type="remark" n="44">
+               <head>44</head>
+               <p>
+                  <seg xml:id="FOE_44_01" corresp="EPL_43_01">Le M***G***<note type="editorial">The <hi rend="ital"
+                           >Mercure Galant</hi></note></seg>
+                  <seg xml:id="FOE_44_02" corresp="EPL_43_02">est immediatement au dessous du rien;</seg>
+                  <seg xml:id="FOE_44_03" corresp="EPL_43_03">il y a bien d'autres ouvrages qui lui ressemblent:</seg>
+                  <seg xml:id="FOE_44_04" corresp="EPL_43_04">il ya a autant d'invention à s'enrichir par un sot
+                     livre,</seg>
+                  <seg xml:id="FOE_44_05" corresp="EPL_43_05">qu'il y a de sotise à l'acheter;</seg>
+                  <seg xml:id="FOE_44_06" corresp="EPL_43_06">c'est ignorer le goût du peuple,</seg>
+                  <seg xml:id="FOE_44_07" corresp="EPL_43_07">que de ne pas hazarder quelquefois de grandes
+                     fadaises.</seg>
+               </p>
+            </div>
+            <div type="remark" n="63">
+               <head>63</head>
+               <p>
+                  <seg xml:id="FOE_63_01" corresp="#EPL_59_01">Un homme né Chrétien &amp;
+                     François</seg>
+                  <seg xml:id="FOE_63_02" corresp="#EPL_59_02"> se trove contraint dans la
+                     satyre,</seg>
+                  <seg xml:id="FOE_63_03" corresp="#EPL_59_03"> les grands sujets luy sont
+                     défendus,</seg>
+                  <seg xml:id="FOE_63_04" corresp="#EPL_59_04"> il les entame quelquefois,</seg>
+                  <seg xml:id="FOE_63_05" corresp="#EPL_59_05"> &amp; se détourne ensuite sur de
+                     petites choses</seg>
+                  <seg xml:id="FOE_63_06" corresp="#EPL_59_06"> qu'il releve par la beauté de son
+                     genie &amp; de son sitle.</seg>
                </p>
             </div>
          </div>
@@ -371,15 +404,53 @@
                      seven thousand Years,</seg>
                   <seg xml:id="EPL_01_02" corresp="FOE_01_03">that there have been Men,</seg>
                   <seg xml:id="EPL_01_03" corresp="FOE_01_04">and Men have thought,</seg>
-                  <seg xml:id="EPL_01_04" corresp="FOE_01_01" ana="expan">to say any thing which has not been
-                     said already.</seg>
+                  <seg xml:id="EPL_01_04" corresp="FOE_01_01" ana="expan">to say any thing which has
+                     not been said already.</seg>
                   <seg xml:id="EPL_01_05" corresp="FOE_01_05">The finest and most beautiful Thoughts
                      concerning Manners</seg>
-                  <seg xml:id="EPL_01_06" corresp="FOE_01_06">have been carried away <seg ana="add">before our
-                     times</seg>,</seg>
+                  <seg xml:id="EPL_01_06" corresp="FOE_01_06">have been carried away <seg ana="add"
+                        >before our times</seg>,</seg>
                   <seg xml:id="EPL_01_07" corresp="FOE_01_07">and we can do nothing now, but glean
                      after the Ancients,</seg>
-                  <seg xml:id="EPL_01_08" corresp="FOE_01_08">and the <seg ana="add">most</seg> ingenious of the Moderns.</seg>
+                  <seg xml:id="EPL_01_08" corresp="FOE_01_08">and the <seg ana="add">most</seg>
+                     ingenious of the Moderns.</seg>
+               </p>
+            </div>
+            <div type="remark" n="43">
+               <head>43</head>
+               <p>
+                  <seg xml:id="EPL_43_01" corresp="#FOE_44_01">The <hi rend="ital">Mercure
+                        Gallant</hi><note>The <hi rend="ital">Mercure Galant</hi> was a periodical
+                        that brought the news, gossip, fashion trends, and artistic and intellectual
+                        debates from the court of Louis XIV to elegant society to the provinces and
+                        abroad. In the quarrel between the Ancients and Moderns, the <hi rend="ital"
+                           >Mercure</hi> represented the Moderns.</note></seg>
+                  <seg xml:id="EPL_43_02">is a trifle below nothing,</seg>
+                  <seg xml:id="EPL_43_03" corresp="#FOE_44_03">and there are many Works of the same
+                     importance;</seg>
+                  <seg xml:id="EPL_43_04" corresp="#FOE_44_04">there is as much invention in Men to
+                     grow rich by dull Books,</seg>
+                  <seg xml:id="EPL_43_05" corresp="#FOE_44_05">as there is want of Sense in buying
+                     them:</seg>
+                  <seg xml:id="EPL_43_06" corresp="#FOE_44_06">'tis Ignorance of the Peoples
+                     Judgment, c'est ignorer le goût du peuple,</seg>
+                  <seg xml:id="EPL_43_07" corresp="#FOE_44_07">which makes Men sometimes fearful to
+                     venture abroad a great many dull Pieces.</seg>
+               </p>
+            </div>
+            <div type="remark" n="63">
+               <head>63</head>
+               <p>
+                  <seg xml:id="EPL_63_01" corresp="#FOE_59_01">A man born a Christian and a <hi
+                        rend="ital">Frenchman,</hi></seg>
+                  <seg xml:id="EPL_63_02" corresp="#FOE_59_02"> is confin'd in Satire:</seg>
+                  <seg xml:id="EPL_63_03" corresp="#FOE_59_03"> The great Subjects are forbidden
+                     him,</seg>
+                  <seg xml:id="EPL_63_04" corresp="#FOE_59_04"> he attempts 'em sometimes,</seg>
+                  <seg xml:id="EPL_63_05" corresp="#FOE_59_05"> and then turns off to the little
+                     things</seg>
+                  <seg xml:id="EPL_63_06" corresp="#FOE_59_06"> which he raises by the beauty of his
+                     Genius and his Style.</seg>
                </p>
             </div>
          </div>
@@ -459,7 +530,6 @@
                      some your self.</seg>
                </p>
             </div>
-
             <div type="remark" n="69">
                <head>69</head>
                <p>
