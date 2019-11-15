@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+     <fileDesc>
+      <titleStmt>
+       <title>Les Caractères</title>
+       <author>Jean de La Bruyère</author>
+       <respStmt>
+        <resp>Transcribed and encoded by</resp>
+          <name>Abigail Fields</name>
+       </respStmt>
+      </titleStmt>
+      <publicationStmt>
+       <p>Project developed under the supervision of Christophe Schuwey and Geoffrey Turnovsky. Orthography has been modernized. </p>        
+      </publicationStmt>
+      <sourceDesc>
+       <listBibl>
+        <biblStruct>
+         <monogr>
+          <author>Jean de La Bruyère</author>
+          <title type="main">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+          <edition>Tenth edition</edition>
+          <imprint>
+            <publisher>Le Livre de Poche</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1995</date>
+          </imprint>
+         </monogr>
+        </biblStruct>
+        <bibl xml:id="KeyC">
+         <title>Clé de Cochin</title>
+           <date when="fill in"></date>
+             <author>
+              <persName>
+                <forename>fill in</forename>
+                <surname>fill in</surname>
+              </persName>
+             </author>
+        </bibl>
+        <bibl xml:id="Key1697">
+          <title>Clé de 167</title>
+          <date when="1697"></date>
+          <author>
+            <persName>
+              <forename>fill in</forename>
+              <surname>fill in</surname>
+            </persName>
+          </author>
+        </bibl>
+        <bibl xml:id="Key1720">
+           <title>Clé de 1720</title>
+           <date when="fill in"></date>
+           <author>
+             <persName>
+              <forename>fill in</forename>
+              <surname>fill in</surname>
+             </persName>
+           </author>
+       </bibl>          
+       <bibl xml:id="KeyS">
+         <title>Clé de Servois</title>
+         <date when="fill in"></date>
+         <author>
+           <persName>
+             <forename>fill in</forename>
+             <surname>fill in</surname>
+           </persName>
+         </author>
+       </bibl>
+       </listBibl>
+     </sourceDesc>
+   </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="chapter" n="1">
+        <head>Des ouvrages de l'esprit</head>
+        <div2 type="section" n="15">
+          <head>XV</head>
+          <p>On a dû faire du style ce qu’on a faite de de l’architecture ; on a entièrement abandonné l’ordre gothique, que la barbarie avait introduit pour les palais et pour les temples ; on a rappelé le dorique, l’ionique et le corinthien : ce qu’on ne voyait plus que dans les ruines de l’ancienne Rome et de la vieille Grèce, devenu moderne, éclate dans nos portiques et dans nos péristyles. De même on ne saurait en écrivant rencontrer le parfait, et s’il se peut, surpasser les anciens que par leur imitation.</p>
+          <p>Combien de siècles se sont écoulés avant que les hommes dans les sciences et dans les arts aient pu revenir au goût des anciens, et reprendre enfin le simples et le naturel</p>
+          <p>On se nourrit des Anciens et des habiles modernes, on les press, on en tire le plus que l’on peut, on en renfle ses ouvrages ; et quand enfin l’on est auteur, et que l’on croit marcher tout seul, on s’élève contre eux, on les maltraite, semblable à ces enfants 
+            <ref>drus
+                <note type="gloss">Assez mature pour quitter la maison de leurs parents</note>
+            </ref>
+           et fort d;un bon lait qu’ils ont sucé, qui battent leur 
+            <ref>nourrice.
+                <note type="gloss">Wet nurse</note>
+            </ref>
+           </p>
+           <p>
+             <app>
+               <lem rend="bold" xml:id="1/15d">Un auteur modene</lem>
+               <rdg source="#KeyC">
+                   <persName>
+                      <ptr target="#Perrault"></ptr>
+                        <name rend="bold">Perrault</name>
+                     </persName></rdg>
+               <rdg source="#Key1697">Perrault
+                 <persName>
+                     <ptr target="#Perrault" ></ptr>
+                     <name rend="bold">Perrault</name>
+                 </persName></rdg>
+               <rdg source="#Key1720">Perrault
+                   <persName>
+                       <ptr target="Perrault" ></ptr>
+                       <name rend="bold">Perrault</name>
+                   </persName></rdg>
+               <rdg source="#KeyS">Fontenelle
+                   <persName>
+                       <ptr target="#Fontenelle" ></ptr>
+                       <name rend="bold">Fontenelle</name>
+                   </persName></rdg>
+             </app>
+           prouve ordinairement qu les Anciens nous sont inférieurs en deux manières, par  raison et par exemple ; il tire la raison de son goût particulier, et l’exemple de ses ouvrages.
+          </p>
+          <p>Il avoue que les Anciens, quelque inégaux et peu corrects qu’ils soient, on de beaux traits, il les cite, et ils sont si beaux qu’ils font lire sa critique. 
+          </p>
+          <p>
+           <app>
+             <lem rend="bold">Quelques habiles</lem>
+               <rdg source="KeyC">Racine et Boileau
+                   <persName>
+                      <ptr target="#Racine" ></ptr>
+                      <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
+               <rdg source="#Key1697">Racine et Boileau
+                   <persName>
+                       <ptr target="#Racine" ></ptr>
+                       <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
+               <rdg source="#Key1720">Racine et Boileau
+                   <persName>
+                       <ptr target="#Racine" ></ptr>
+                       <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
+               <rdg source="#KeyS">Racine et Boileau
+                   <persName>
+                       <ptr target="#Racine" ></ptr>
+                       <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
+           </app>
+          Prononcent en faveur des Anciens contre les Modernes, mais ils sont suspects et semblent juger en leur propre cause, tant leurs ouvrages sont faits sur le goût de l’antiquité : on les récuse. 
+         </p> 
+        </div2>
+        <div2 type="section" n="64">
+         <head>LXIV</head>
+         <p> Je conseille à
+           <app>
+            <lem rend="bold">un auteur né copiste</lem>
+            <rdg source="#Key1720">
+                <persName>
+                    <ptr target="#Villiers"/>
+                    <name rend="bold">l'Abbé de Villiers</name>
+                </persName>
+            </rdg>
+               <rdg source="#KeyS">
+                   <persName>
+                       <ptr target="#Brillon"/>
+                       <name rend="bold">Jacques Brillon</name>
+                   </persName>
+               </rdg>
+           </app>
+          , et qui a l’extrême modestie de travailler d’après quelqu’un, de ne se choisir pour exemplaires que ces sortes d’ouvrages où il entre de l’esprit, de l’imagination, ou même de l’érudition : S’il n’atteint pas ses originaux, du moins il en approche et il se fait lire. Il doit au contraire éviter comme un écueil de vouloir imiter ceux qui écrivent par humeur, que le cœur fait parler, à qui il inspire les termes et les figures, et qui tirent, pour ainsi dire, de leurs entrailles tout ce qu’ils expriment sur le papier ; dangereux modèles et tout propres à faire tomber dans le froid, dans le bas, et dans le ridicule ceux qui s’ingèrent de les suivre : en effet je rirais d’un homme qui voudrait sérieusement parler mon ton de voix, ou me ressembler de visage. 
+         </p>
+        </div2> 
+      </div1>
+      <div1 type="chapter" n="2">
+        <head>Du Mérite Personnel</head>
+      </div1>
+      <div1 type="chapter" n="3">
+        <head>Des Femmes</head>
+      </div1>
+      <div1 type="chapter" n="4">
+        <head>Du Cœur</head>
+      </div1>
+      <div1 type="chapter" n="5">
+        <head>De la Société et de la Conversation</head>
+      </div1>
+      <div1 type="chapter" n="6">
+        <head>Des Biens de Fortune</head>
+        <div2 type="section" n="17">
+          <head>XVII</head>
+          <p>L'on porte
+             <app>
+               <lem rend="bold">
+                 <emph rend="ital">Crésus</emph></lem>
+                 <rdg source="#KeyC">
+                     <persName>
+                         <ptr target="Aubert"/>
+                         <name rend="bold">
+                             <emph rend="ital">Aubert</emph></name>
+                     </persName>
+                 </rdg>
+                 <rdg source="#Key1697">
+                     <persName>
+                         <ptr target="#Raymond"/>
+                         <name rend="bold">
+                             <emph rend="ital">Raymond</emph></name>
+                     </persName>
+                 </rdg>
+                 <rdg source="#Key1720">
+                     <persName>
+                         <ptr target="#Guénégaud"/>
+                         <name rend="bold">
+                             <emph rend="ital">Guénégaud</emph></name>
+                     </persName>
+                     ou
+                    <persName>
+                             <ptr target="#Aubert"/>
+                             <name rend="bold">
+                                 <emph rend="ital">Aubert</emph></name>
+                         </persName>
+                     </rdg>
+             </app> 
+          au cimetière : de toutes ses immenses richesses que le vol et la concussion lui avaient acquises, et qu'il a épuisées par le luxe et par la bonne chère, il ne lui est pas demeuré de quoi se faire enterrer ; il est mort insolvable, sans biens, et ainsi privé de tous les secours : l'on n'a vu chez lui ni
+            <ref>julep
+                <note type="gloss">Potion composée avec des eaux distillés et avec des sirops</note>
+            </ref>
+          , ni
+            <ref>cordiaux
+                <note type="gloss">Boissons alcoolisés qui stimulent le corps et l'esprit</note>
+            </ref>
+           , ni médecins, ni le moindre docteur qui l'ait assuré de son salut.
+          </p>
+        </div2>
+     </div1>
+   </body>
+   <back>
+     <div1 type="prosopography">
+         <head type="sub">Qui est qui dans 
+            <title>Les Caractères</title>
+         ?</head>
+         <listPerson>
+             <person xml:id="Perrault" source="descPerrault">
+                 <figure>
+                     <graphic scale="1" url="https://www.computerhope.com/people/pictures/claude_perrault.jpg"></graphic>
+                 </figure>
+                 <name>
+                 <forename>Claude</forename>
+                 <surname>Perrault</surname>
+                </name>
+             </person>    
+         </listPerson>
+     </div1>
+     <div1 type="profile">
+         <person xml:id="PerraultDesc">
+            <header>
+                <head type="profile">
+                 <title type="sub">Profile de Personnage</title>
+                    <persName>
+                        <forename>Claude</forename>
+                        <surname>Perrault</surname>
+                    </persName>
+                </head>
+            </header>
+            <figure>
+                 <graphic scale="2" url="https://www.computerhope.com/people/pictures/claude_perrault.jpg"></graphic>
+            </figure>
+            <note type="descrip">
+                <title type="category">À Propos</title>
+                    <p>blah blah blah</p>
+            </note>
+            <note type="relation">
+                <title type="category">Rapport avec La Bruyère</title>
+                <p>blah blah blah</p>
+            </note>
+            <note type="reference">
+                <title type="category">Caractères</title>
+                <list type="index">
+                    <item>
+                        <ptr target="#1/15d">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
+                        </ptr>
+                    </item>
+                </list>
+            </note>
+        </person>
+     </div1>
+   </back>
+
+IGNORE BELOW THIS TEXT 
+
+            </person>
+            <person xml:id=Fontenelle>
+                <persName>
+                    <forename>de Fontenelle</forename>
+                    <surname>Bernard le Bovier</surname>
+                </persName>
+            </person> 
+            <person xml:id=Racine>
+                <persName>
+                    <forename>Jean</forename>
+                    <surname>Racine</surname>
+                </persName>
+            </person>  
+            <person xml:id=Boileau>
+                <persName>
+                    <forename>Nicolas</forename>
+                    <surname>Boileau-Despréaux</surname>
+                </persName>
+            </person>
+
+
