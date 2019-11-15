@@ -401,7 +401,7 @@
                            <interp type="tone">Prithee, </interp><hi rend="italic">Acis</hi>, for
                            the satisfaction of your Friends, <note type="editorial"> The 1705
                               translation is less caustic, toning down the strong French authorial
-                              voice and the irony of the original dialogism. </note></seg>
+                              voice and the irony of the original dialogism.</note></seg>
                   <seg xml:id="ESC_7_02" corresp="#FSC_7_02">endeavour to speak as they 
                      may understand you,</seg>
                   <seg xml:id="ESC_7_03" corresp="#FSC_7_03">
@@ -464,8 +464,8 @@
                   <seg xml:id="ESC_69_03" corresp="#FSC_69_03"> They say nothing plainly but the <hi
                         rend="ital">Louvre</hi> and the <hi rend="ital">Place <choice><sic>Royal;
                         <corr>Royale</corr></sic></choice></hi> they use
-                        <interp type="sense">Terms</interp> and Phrases for the Names <interp
-                        type="exp">of some other Places;</interp></seg>
+                        <interp type="sense">Terms</interp> and Phrases for the Names <seg
+                        ana="expan">of some other Places;</seg></seg>
                   <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <seg type="add">by chance
                         they let such</seg> a word slip, they will excuse it <seg ana="add">
                            as if it were criminal</seg>;</seg>
