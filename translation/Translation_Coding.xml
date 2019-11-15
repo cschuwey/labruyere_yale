@@ -148,7 +148,7 @@
                         widespread imagery during the reign of Louis XIV – a topical language
                         dismissed by the English translation.</note>,</seg>
                   <seg xml:id="FSC_7_13" corresp="#ESC_7_13">
-                     <interp type="omit">vous ne vous en défiez point, &amp;</interp> je vais vous
+                     <seg ana="omit">vous ne vous en défiez point, &amp;</seg> je vais vous
                      jeter dans l'étonnement;</seg>
                   <seg xml:id="FSC_7_14" corresp="#ESC_7_14"> une chose vous manque, c'est
                      l'esprit;</seg>
@@ -159,8 +159,8 @@
                   <seg xml:id="FSC_7_17" corresp="#ESC_7_18"> de vos phrases embroüillées,</seg>
                   <seg xml:id="FSC_7_18" corresp="#ESC_7_17"> &amp; de vos grands mots qui ne
                      signifient rien.</seg>
-                  <seg xml:id="FSC_7_19" corresp="#ESC_7_19"> Vous abordez cet homme, <interp
-                        type="omit"> ou vous entrez dans cette chambre,</interp></seg>
+                  <seg xml:id="FSC_7_19" corresp="#ESC_7_19"> Vous abordez cet homme, <seg ana="omit">
+                     ou vous entrez dans cette chambre,</seg></seg>
                   <seg xml:id="FSC_7_20" corresp="#ESC_7_20"> je vous tire par votre habit et vous
                      dis à l'oreille,</seg>
                   <seg xml:id="FSC_7_21" corresp="#ESC_7_21"> ne songez point à avoir de l'esprit,
@@ -212,12 +212,12 @@
                   <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort
                      régulièrement à la belle messe aux Feuillants ou aux Minimes ;</seg>
                   <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce,
-                     &amp; <interp type="omit"> l’on compte sur lui au quartier de **</interp> pour
-                     un tiers ou pour un cinquième à l’ombre <interp type="omit">ou au
-                        reversi</interp>
+                     &amp; <seg ana="omit"> l’on compte sur lui au quartier de **</seg> pour
+                     un tiers ou pour un cinquième à l’ombre <seg ana="omit">ou au
+                        reversi</seg>
                      <note type="context">"Ombre" and 'reversi" were seventeenth-century card games
                         imported from Spain. Ombre seems to have been fairly popular in England,
-                        reversi less so: this might be why the translator only indicated the
+                        reversi less so: this might explain why the translator only indicated the
                         former.</note></seg>
                   <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> Là il tient le fauteuil quatre
                      heures de suite chez <hi rend="italic">Aricie</hi>, où il risque chaque soir
@@ -469,24 +469,17 @@
                <head>7</head>
                <p>
                   <seg xml:id="ESC_7_01" corresp="#FSC_7_01">
-                     <app>
-                        <rdg wit="E4">
                            <interp type="tone">Prithee, </interp><hi rend="italic">Acis</hi>, for
                            the satisfaction of your Friends, <note type="editorial"> The 1705
                               translation is less caustic, toning down the strong French authorial
-                              voice and the irony of the original dialogism. </note></rdg>
-                     </app></seg>
-                  <seg xml:id="ESC_7_02" corresp="#FSC_7_02">
-                     <app>
-                        <rdg wit="E4">endeavour to speak as they may understand you,</rdg>
-                     </app></seg>
+                              voice and the irony of the original dialogism.</note></seg>
+                  <seg xml:id="ESC_7_02" corresp="#FSC_7_02">endeavour to speak as they 
+                     may understand you,</seg>
                   <seg xml:id="ESC_7_03" corresp="#FSC_7_03">
-                     <app>
-                        <rdg wit="E4">for my part I do but guess at your meaning:</rdg>
-                     </app></seg>
+                    for my part I do but guess at your meaning: </seg>
                   <seg xml:id="ESC_7_04" corresp="#FSC_7_04"> if you would tell'em, 'tis Cold <note
                         type="editorial"> Throughout remark 7, the translator resorts to many
-                        contractions in order to convey the conversational flavor of the
+                        contractions, probably in order to convey the conversational flavor of the
                         original</note></seg>
                   <seg xml:id="ESC_7_05" corresp="#FSC_7_06"> that it Rains, and it Snows;</seg>
                   <seg xml:id="ESC_7_06" corresp="#FSC_7_05"> say 'tis Cold,</seg>
@@ -499,8 +492,8 @@
                   <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> 'tell 'em they look well: </seg>
                   <seg xml:id="ESC_7_10" corresp="#FSC_7_10"> Oh! but, say you, that is so plain,
                      and so conspicuous, any one might have said as much.</seg>
-                  <seg xml:id="ESC_7_11" corresp="#FSC_7_11" ana="add">'Tis true, and what does that
-                     signifie? besides, what harm is there, <hi rend="italic">Acis</hi>, in being
+                  <seg xml:id="ESC_7_11" corresp="#FSC_7_11"> <seg ana="add">'Tis true, and what does that
+                     signifie?</seg> besides, what harm is there, <hi rend="italic">Acis</hi>, in being
                      intelligible, or speaking like your Neighbours?</seg>
                   <seg xml:id="ESC_7_12" corresp="#FSC_7_12">There is one thing, <hi rend="italic"
                         >Acis</hi>, which you and some <interp type="sense">Gentlemen of your
@@ -539,12 +532,13 @@
                   <seg xml:id="ESC_69_02" corresp="#FSC_69_02"> which they fancy are not noble
                      enough to be known.</seg>
                   <seg xml:id="ESC_69_03" corresp="#FSC_69_03"> They say nothing plainly but the <hi
-                        rend="ital">Louvre</hi> and the <hi rend="ital">Place Royal;</hi> they use
-                        <interp type="sense">Terms</interp> and Phrases for the Names <interp
-                        type="exp">of some other Places;</interp></seg>
-                  <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <interp type="add">by chance
-                        they let such</interp> a word slip, they will excuse it <interp type="add"
-                        >as if it were criminal</interp>;</seg>
+                        rend="ital">Louvre</hi> and the <hi rend="ital">Place <choice><sic>Royal;
+                        <corr>Royale</corr></sic></choice></hi> they use
+                        <interp type="sense">Terms</interp> and Phrases for the Names <seg
+                        ana="expan">of some other Places;</seg></seg>
+                  <seg xml:id="ESC_69_04" corresp="#FSC_69_04"> or if <seg type="add">by chance
+                        they let such</seg> a word slip, they will excuse it <seg ana="add">
+                           as if it were criminal</seg>;</seg>
                   <seg xml:id="ESC_69_05" corresp="#FSC_69_05"> in this much more unnatural than the
                      Court ladies, who having occasion to speak of <interp type="sense">the
                         Market-place, the Prison,</interp> or the like, say,</seg>
@@ -554,7 +548,7 @@
                         geography – le Chatelet, les Halles – and replacing it with a generic,
                         descriptive language – the prison, the marketplace – the translation misses
                         La Bruyère's very point, namely that court ladies dont hesitate to call a
-                        spade a spade instead of resorting to periphrases. </note>
+                        spade a spade instead of resorting to periphrases.</note>
                   </seg>
                </p>
             </div>
@@ -579,14 +573,14 @@
                   <seg xml:id="ECY_12_04" corresp="#FVL_12_04"> he is good Company, and serves to
                      make a third Man at Ombre;</seg>
                   <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he fits four hours together at <hi
-                        rend="italic">Aracia's</hi>, where he ventures his 5 <interp type="add">or 6
-                     </interp> pistoles e'ry night;</seg>
+                        rend="italic"><choice><sic>Aracia's</sic><corr>Aricia's</corr></choice></hi>,
+                     where he ventures his 5 <seg ana="add">or 6</seg> pistoles e'ry night;</seg>
                   <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch
                      Gazette,</seg>
                   <seg xml:id="ECY_12_07" corresp="#FVL_12_09"><hi rend="italic">Barbins</hi> News,
                         <note type="editorial">This loose translation of "historiette" seems to
                         indicate that the literary genre didn't know the same popularity in England
-                        at the time</note></seg>
+                        at the time.</note></seg>
                   <seg xml:id="ECY_12_08" corresp="#FVL_12_07"> and the <hi rend="italic">Mercure
                         Gallant</hi>;</seg>
                   <seg xml:id="ECY_12_09" corresp="#FVL_12_08"> he has read <hi rend="italic"

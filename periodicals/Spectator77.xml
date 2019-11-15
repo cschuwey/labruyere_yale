@@ -4,287 +4,191 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title></title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>La Bruyère, The Spectator, and Periodicity</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Our digital edition explores the connections between La Bruyère’s portrait of Ménalque,
+          the absent-minded man, and Eustace Budgell’s essay on Will Honeycombe, which appears in
+          Addison and Steele’s Spectator issue number 77, originally published May 29, 1711.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p> This digital edition describes a microfilm of the Spectator issue number 77 (May 29,
+          1711), courtesy of the British Periodical Digital Collection at the New York Public
+          Library, as well as selected text from the ninth and final edition of Les Caractères by La
+          Bruyère‎. We have chosen to mark-up the periodical in its original context, including
+          headings, notations, and advertisements. Due to its inclusion of character keys that
+          correspond with the French keys, we  also reference editorial materials from the 1891
+          bound edition of the Spectator, edited by Henry Morley and published by Routledge and
+          Sons.</p>
+      </sourceDesc>
+    </fileDesc>
   </teiHeader>
   <text>
-        
-         <pb>    
-            NUMB. LXXVII
-         THE SPECTATOR. 
-         Non convivere licet, nec Urbe tota 
-         Quisquam est tam propè tam proculq; nobis. Mart.
-         Tuesday, May 29, 1711.
-         My friend WILL. HONEYCOMBE is 
-         one of those Sort of Men who are very of-
-         ten absent in Conversation, and what the 
-         French call a reveur and a distrait. A 
-         little before our Club-time last Night, we were walk- 
-         ing together in Somerset Garden, where WILL had 
-         picked up a small Pebble of so odd a make, that he 
-         said he would present it to a Friend of his, an eminent 
-         Virtuoso. After we had walked some time, I made 
-         a full stop with my Face towards the West, which 
-         WILL. knowing to be my usual Method of asking 
-         what's o'Clock, in an Afternoon, immediately pulled 
-         out his Watch, and told me we had seven Minutes 
-         good. We took a turn or two more, when, to my 
-         great Surprize I saw him squirr away his Watch a 
-         considerable way into the Thames, and with great Se-
-         dateness in his Looks put up the Pebble, he had 
-         before found, in his fob. As I have naturally an 
-         Aversion to much Speaking, and do not love to be 
-         the Messenger of Ill News, especially when it comes 
-         too late to be useful, I left him to be convinced of 
-         his mistake in due time, and continued my Walk, 
-         reflecting on these little Absences and Distractions in
-         Mankind, and resolving to make them the Subject
-         of a future Speculation. 
-            I was the more confirmed in my Design, when I 
-         considered that they were very often Blemishes in the 
-         Characters of Men of Excellent Sense; and helped 
-         to keep up the Reputation of that Latin proverb,
-         which Mr. Dryden has Translated in the following 
-         Lines: 
-         Great Wit to Madness Sure is near ally'd, 
-         And thin Partitions do their Bounds divide. 
-           My reader does, I hope, perceive, that I distin-
-         guish a man who is Absent, because he thinks of some-
-         thing else, from one who is Absent because he thinks 
-         of nothing at all: The latter is too Innocent a Crea-
-         ture to be taken notice of; but the Distractions of 
-         the former may, I believe, be generally accounted 
-         for from one of these Reasons.
-           Either their Minds are wholly fixed on some par-
-         ticular Science, which is often the Case of Mathe-
-         maticians and other Learned Men; or are wholly 
-         taken up with some violent Passion, such as Anger, 
-         Fear, or Love, which ties the Mind to some distant 
-         Object; or, lastly, these Distractions proceed from a 
-         certain Vivacity and Fickleness in a Man's Temper, 
-         which, while it raises up infinite Numbers of Idea's 
-         in the Mind, is continually pushing it on, with-
-         out allowing it to rest on any particular Image. 
-         Nothing therefore is more unnatural than the 
-         Thoughts and Conceptions of such a Man, which are 
-         seldom occasioned either by the Company he is in, 
-         or any of those Objects which are placed before 
-         him. While you fancy he is Admiring a Beautiful 
-         Woman, 'tis an even Wager that he is solving a Pro-
-         position in Euclid; and while you may imagine he 
-         is reading the Paris Gazette, 'tis far from being imp-
-         ossible that he is pulling down and rebuilding the 
-         Front of his Country-House. 
-           At the same time that I am endeavouring to ex-
-         pose this Weakness in others, I shall readily confess 
-         that I once laboured under the same Infirmity my 
-         self. The Method I took to Conquer it was a firm 
-         Resolution to learn something from whatever I was 
-         obliged to see or hear. There is a way of Thinking, 
-         if a Man can attain to it, by which he may strike 
-         somewhat out of any thing. I can at present ob- 
-         serve those Starts of good Sense and Struggles of un-
-         improved Reason in the Conversation of a Clown, 
-         with as much Satisfaction as the most shining Periods 
-         of the most finished Orator; and can make a shift to 
-         command my Attention at a Puppet-Show or an 
-         Opera, as well as at Hamlet or Othello. I always 
-         make one of the Company I am in ; for though I 
-         say little myself, my Attention to others, and those 
-         Nods of Approbation which I never bestow unme-
-         rited, sufficiently show that I am among them. 
-         Whereas WILL. HONEYCOMBE, tho' a Fellow 
-         of good Sense, is every Day doing and saying an 
-         hundred Things, which he afterwards confesses, with 
-         a well-bred Frankness, were somewhat mal a propos, 
-         and undesigned.
-           I chanced the other Day to go into a Coffee-house, 
-         where WILL. was standing in the midst of several
-         Auditors whom he had gathered around him, and 
-         was giving them an Account of the Person and 
-         Character of Moll Hinton. My Appearance be-
-         fore him just put him in mind of me, without 
-         making him reflect that I was actually present. 
-         So that keeping his Eyes full upon me, to the great 
-         Surprize of his Audience, he broke off his first Ha-
-         rangue, and proceeded thus,-—‘ Why now there's 
-         ' my Friend (mentioning me by Name) he is a Fel-
-         ' low that thinks a great deal, but never opens his 
-         ' Mouth; I warrant you he is now thrusting his short 
-         ' Face into some Coffee-house about 'Change. I was 
-         ' his Bail in the time of the Popish-Plot, when he was 
-         ' taken up for a Jesuit.' If he had looked on me a 
-         little longer, he had certainly described me so particu-
-         larly, without ever considering what led him into it, 
-         that the whole Company must necessarily have found 
-         me out; for which reason, remembering the old Pro-
-         verb, Out of sight out of mind, I left the Room; 
-         </pb>
-         <pb>
-         and upon meeting him an Hour afterwards, was 
-         asked by him, with a great deal of good Humour, 
-         in what Part of the World I had lived, that he had 
-         not seen me these three Days. 
-           Monsieur Bruyere has given us the Character of 
-         an absent Man, with a great deal of Humour, which 
-         he has pushed to an agreeable Extravagance; with 
-         the Heads of it I shall conclude my present Paper. 
-          ‘ Menalcas (says that excellent author) comes 
-         ' down in a Morning, opens his Door to go out, 
-         ' but shuts it again, because he perceives that he has 
-         ' his Night-cap on; and, examining himself further 
-         ' finds that he is but half shaved, that he has 
-         ' stuck his Sword on his right side, that his Stock-
-         ' ings are about his Heels, and that his Shirt is 
-         ' over his Breeches. When he is dress'd, he goes 
-         ' to Court, comes into the Drawing-room, and 
-         ' walking bolt upright under a branch of Candle-
-         ' sticks his Wigg is caught up by one of them, and 
-         ' hangs dangling in the Air. All the Courtiers 
-         ' fall a laughing, but Menalcas laughs louder than 
-         ' any of them, and looks about for the Person that 
-         ' is the Jest of the Company. Coming down to 
-         ' the Court-gate he finds a Coach, which taking for 
-         ' his own, he whips into it, and the Coachman 
-         ' drives off, not doubting but he carries his Ma-
-         ' ster. As soon as he stops, Menalcas throws 
-         ' himself out of the Coach, crosses the Court, as-
-         ' cends the Stair-case, and runs thro' all the Cham-
-         ' bers with the greatest Familiarity, reposes him-
-         ' self on a Couch, and fancies himself at home. 
-         ' The Master of the House at last comes in, Me-
-         ' nalcas rises to receive him, and desires him to 
-         ' sit down; he talks, muses, and then talks again. 
-         ' The Gentleman of the House is tired and ama-
-         ' zed; Menalcas is no less so, but is every Moment 
-         ' in hopes that his impertinent Guest will at last end 
-         ' his tedious Visit. Night comes on, when Menal=
-         ' cas is hardly undeceived. 
-            ' When he is playing at bBckgammon, he calls 
-         ' for a full Glass of Wine and Water; 'tis his turn 
-         ' to throw, he has the Box in one Hand, and his 
-         ' Glass in the other, and being extremely dry, and 
-         ' unwilling to lose Time, he swallows down both 
-         ' the Dice, and at the same time throws his Wine 
-         ' into the Tables. He writes a Letter, and flings 
-         ' the Sand into the Ink-bottle; he writes a second, 
-         ' and mistakes the Superscription : A Noble-man 
-         ' receives one of them, and upon opening it reads 
-         ' as follows. I would have you, honest Jack, imme-
-         ' diately on the Receipt of this, take in Hay enough 
-         ' to serve me the Winter. His farmer receives the 
-         ' other, and is amazed to see in it, My lord, I re-
-         ' ceived your Grace's Commands, with an intire Sub-
-         ' mission to--  If he is at an Entertainment, you 
-         ' may see the Pieces of Bread continually multiply-
-         ' ing around his Plate: 'Tis true the rest of the 
-         ' Company want it, as well as their Knives and 
-         ' Forks, which Menalcas does not let them keep 
-         ' long. Sometimes in a Morning he puts his whole 
-         ' Family in a hurry, and at last goes out without 
-         ' being able to stay for his Coach or Dinner; and 
-         ' for that Day you may see him in every part of the 
-         ' Town, except the very Place where he had ap-
-         ' pointed to be upon a Business of Importance. You 
-         ' would often take him for every thing that he is 
-         ' not; for a Fellow quite Stupid, for he hears no-
-         ' thing; for a Fool, for he talks to himself, and has 
-         ' an hundred Grimaces and Motions with his Head, 
-         ' which are altogether involuntary; for a proud 
-         ' Man, for he looks full upon you, and takes no 
-         ' notice of your Saluting him: The Truth on't is, 
-         ' his Eyes are open, but he makes no use of them, 
-         ' and neither sees you, nor any Man, nor any thing 
-         ' else. He came once from his Country-house, and 
-         ' his own Footmen undertook to rob him, and 
-         ' succeeded; They held a Flambeau to his Throat, 
-         ' and bid him deliver his Purse; he did so, and 
-         ' coming home told his Friends he had been rob-
-         ' bed; they desired to know the Particulars. Ask my 
-         ' Servants, says Menalcas, for they were with 
-         ' me.
-         
-         ADVERTISMENTS.
-         
-         For the Benefit of Mr. Elrington and Mrs. Mills.
-         At the Desire of Several Ladies of Quality
-         By Her Majesty's Company of Comedians.
-         At the Theatre Royal in Drury-lane, this present
-         Tuesday, the 29th of May, will be presented a Comedy, called,
-         The Gamester. The part of the Gamester is to be preform'd by Mr.
-         Mills, [Unreadable] by Mr. Pack, Sir. Thm Valere by Mr. Bullock, [Unreadable]
-         [Unreadable] Hazard by Mr. Bowen, Count Cog-Die by Mr. Bullock, [Unreadable]
-         Lady Wealthy by Mrs. Porter, Angelica by Mrs. Bradshaw, Mrs. {Unreadable]-
-         rity by Mr. Willis, Favourite by Mrs. Mills, Boxkeeper to the Ga[Unreadable]
-         Tube by Mr. Leigh.
-         This Play is sold by Jacob Tenfon at Shakespear's Head over-against
-         Catherine Street in the Strand
-         
-         The Entertainment of Musick, consisting of a Poets
-         ca'led, The Passion of Sappho, Written by Mr. Harison, and The F[Unreadable]
-         of Alexander, Written by Mr. Dryden, as they are Set to Musick by Mr.
-         Thomas Clayton (Author of [Unreadable]) will be Preformed at his [Unreadable]
-         in York-Buildings, this Day, being the 29th of [Unreadable], Beginning at [Unreadable] in
-         the Evening. Tickets; at 5 s. each, may be had at Mr. Charles [Unreadable]
-         the Corner of the Bedford-Buildings, and at Mr. Eliot's St. James's
-         Coffee-house. No Mony receiv'd, or Tickets given out at the House.
-         This Poem is Sold by Jacob Tenfon at Shakespear's Head over-
-         against Catherine Street in the Strand
-         
-         Just Publish'd,
-         An Account of the present State and Govenrment
-         of the Empire of Germany: In a Letter to Thomas Foley of Whit-
-         ley in the County of Worcester, Esq. by Mr. Vassor. Printed for
-         Jacob Tenfon at Shakespear's Head over-against Catherine Street 
-         in the Strand.
-         
-         To be Sold, at a lower Rate than ordinary, at the
-         Queen's Head, joining to the Church Gate in Bedford Street, Covent
-         Garden, all Sorts of Duggers, Hair, and Worsted, Camlets, [Unreadable]
-         Duroys, Shagreens, Shalloons, Durants. Padua Serges, Shags, Serge de
-         Nisms, Calamaneoes, and all other Goods fit for Mens Apparel. The
-         Persons who now keep the Shop designing to have off the Trade, and
-         the House and Shop to ne Lett at Michaelmas next.
-         
-         A convenient House to be Lett at East-Acton in
-         Middlesex, four Rooms on a Floor, wall'd in, with Caoch-house,
-         Stabling, Orchard, Garden, and all Conveniencies belonging to it, in
-         very good Repair. Whosoever takes it may into it as soon as
-         they please. Inquire at Mr. Lumley's, or at the House, both in East-
-         Acton aforesaid.
-         
-         All sorts of Silk Gowns, being in fresh Parcel of rich
-         Brocades, Venetians, Tissues, Tabbies, Damasks, and Sattins, bought
-         up the last Sale, and made into Gowns, with gentile and suitable
-         Linings, to be Sold very cheap at Mrs. Attaway's in Deveroux Court
-         in the Passage from the Temple to the Essex Buildings, the lowest Price
-         being writ upon each Gown. Note, there is a fresh Parcel of thread
-         Sattin Gowns lined with thread Sattins.
-         
-         A most Incomparable Paste for the Hands, far exeeding
-         anything ever yet in Print. It makes them Delicately white, sleeke
-         and plump; fortifies them against the Scortching heat of the Fire or
-         Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but 
-         the use o' it will recover them. Sold only at Mr. Aller[Unreadable]
-         shop, over against the Royal Exchanges, at 2 s. 6 d. a pot, with di-
-         rections; where is also sold the excellent Germans powder for the 
-         Scurvey in the Gums and Teeth which by only scouring them every
-         Morning, whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a [Unreadable]
-         
-         LONDON: Printed for Sam. Buckley, at the Dolphin in Little-Britain; and
-         Sold by A. Baldwin in Warwick-Lane, where Advertisements are in;
-         as also by Charles Lillie, Perfumer, at the Corner of Beauford-Buildings in
-         the Stand.                                                                X
-         
-         </pb>
-       </text>
+    <body>
+      <p>LXXVII THE SPECTATOR. Non convivere licet, nec Urbe tota Quisquam est tam propè tam
+        proculq; nobis. Mart. <date>Tuesday, May 29, 1711.</date></p>
+
+      <p>My friend <persName><hi rend="sc">WILL. HONEYCOMBE</hi></persName> is one of those Sort of
+        Men who are very of- ten absent in Conversation, and what the French call a reveur and a
+        distrait. A little before our Club-time last Night, we were walk- ing together in Somerset
+        Garden, where WILL had picked up a small Pebble of so odd a make, that he said he would
+        present it to a Friend of his, an eminent Virtuoso. After we had walked some time, I made a
+        full stop with my Face towards the West, which <persName><hi rend="sc">WILL</hi></persName>.
+        knowing to be my usual Method of asking what's o'Clock, in an Afternoon, immediately pulled
+        out his Watch, and told me we had seven Minutes good. We took a turn or two more, when, to
+        my great Surprize I saw him squirr away his Watch a considerable way into the Thames, and
+        with great Se- dateness in his Looks put up the Pebble, he had before found, in his fob. As
+        I have naturally an Aversion to much Speaking, and do not love to be the Messenger of Ill
+        News, especially when it comes too late to be useful, I left him to be convinced of his
+        mistake in due time, and continued my Walk, reflecting on these little Absences and
+        Distractions in Mankind, and resolving to make them the Subject of a future Speculation.</p>
+
+      <p>I was the more confirmed in my Design, when I considered that they were very often
+        Blemishes in the Characters of Men of Excellent Sense; and helped to keep up the Reputation
+        of that Latin proverb, which Mr. Dryden has Translated in the following Lines:</p>
+
+      <p><quote><l>Great Wit to Madness Sure is near ally'd,</l>
+          <l>And thin Partitions do their Bounds divide.</l></quote></p>
+
+      <p>My reader does, I hope, perceive, that I distin- guish a man who is Absent, because he
+        thinks of some- thing else, from one who is Absent because he thinks of nothing at all: The
+        latter is too Innocent a Crea- ture to be taken notice of; but the Distractions of the
+        former may, I believe, be generally accounted for from one of these Reasons.</p>
+
+      <p>Either their Minds are wholly fixed on some par- ticular Science, which is often the Case
+        of Mathe- maticians and other Learned Men; or are wholly taken up with some violent Passion,
+        such as Anger, Fear, or Love, which ties the Mind to some distant Object; or, lastly, these
+        Distractions proceed from a certain Vivacity and Fickleness in a Man's Temper, which, while
+        it raises up infinite Numbers of Idea's in the Mind, is continually pushing it on, with- out
+        allowing it to rest on any particular Image. Nothing therefore is more unnatural than the
+        <cb/> Thoughts and Conceptions of such a Man, which are seldom occasioned either by the
+        Company he is in, or any of those Objects which are placed before him. While you fancy he is
+        Admiring a Beautiful Woman, 'tis an even Wager that he is solving a Pro- position in Euclid;
+        and while you may imagine he is reading the Paris Gazette, 'tis far from being imp- ossible
+        that he is pulling down and rebuilding the Front of his Country-House.</p>
+
+      <p>At the same time that I am endeavouring to ex- pose this Weakness in others, I shall
+        readily confess that I once laboured under the same Infirmity my self. The Method I took to
+        Conquer it was a firm Resolution to learn something from whatever I was obliged to see or
+        hear. There is a way of Thinking, if a Man can attain to it, by which he may strike somewhat
+        out of any thing. I can at present ob- serve those Starts of good Sense and Struggles of un-
+        improved Reason in the Conversation of a Clown, with as much Satisfaction as the most
+        shining Periods of the most finished Orator; and can make a shift to command my Attention at
+        a Puppet-Show or an Opera, as well as at <title><hi rend="italics">Hamlet</hi></title> or
+            <title><hi rend="italics">Othello</hi></title>. I always make one of the Company I am in
+        ; for though I say little myself, my Attention to others, and those Nods of Approbation
+        which I never bestow unme- rited, sufficiently show that I am among them. Whereas
+            <persName><hi rend="sc">WILL. HONEYCOMBE</hi></persName>, tho' a Fellow of good Sense,
+        is every Day doing and saying an hundred Things, which he afterwards confesses, with a
+        well-bred Frankness, were somewhat mal a propos, and undesigned.</p>
+
+      <p>I chanced the other Day to go into a Coffee-house, where <persName><hi rend="sc"
+          >WILL.</hi></persName> was standing in the midst of several Auditors whom he had gathered
+        around him, and was giving them an Account of the Person and Character of <persName>Moll
+          Hinton</persName>. My Appearance be- fore him just put him in mind of me, without making
+        him reflect that I was actually present. So that keeping his Eyes full upon me, to the great
+        Surprize of his Audience, he broke off his first Ha- rangue, and proceeded thus,-—‘ Why now
+        there's ' my Friend (mentioning me by Name) he is a Fel- ' low that thinks a great deal, but
+        never opens his ' Mouth; I warrant you he is now thrusting his short ' Face into some
+        Coffee-house about 'Change. I was ' his Bail in the time of the Popish-Plot, when he was '
+        taken up for a Jesuit.' If he had looked on me a little longer, he had certainly described
+        me so particu- larly, without ever considering what led him into it, that the whole Company
+        must necessarily have found me out; for which reason, remembering the old Pro- verb, Out of
+        sight out of mind, I left the Room; and <pb/> and upon meeting him an Hour afterwards, was
+        asked by him, with a great deal of good Humour, in what Part of the World I had lived, that
+        he had not seen me these three Days.</p>
+
+      <p><persName>Monsieur Bruyere</persName> has given us the Character of <hi rend="italics">an
+          absent Man</hi>, with a great deal of Humour, which he has pushed to an agreeable
+        Extravagance; with the Heads of it I shall conclude my present Paper.</p>
+      <p>‘ <persName>Menalcas</persName> (says that excellent author) comes ' down in a Morning,
+        opens his Door to go out, ' but shuts it again, because he perceives that he has ' his
+        Night-cap on; and, examining himself further ' finds that he is but half shaved, that he has
+        ' stuck his Sword on his right side, that his Stock- ' ings are about his Heels, and that
+        his Shirt is ' over his Breeches. When he is dress'd, he goes ' to Court, comes into the
+        Drawing-room, and ' walking bolt upright under a branch of Candle- ' sticks his Wigg is
+        caught up by one of them, and ' hangs dangling in the Air. All the Courtiers ' fall a
+        laughing, but Menalcas laughs louder than ' any of them, and looks about for the Person that
+        ' is the Jest of the Company. Coming down to ' the Court-gate he finds a Coach, which taking
+        for ' his own, he whips into it, and the Coachman ' drives off, not doubting but he carries
+        his Ma- ' ster. As soon as he stops, Menalcas throws ' himself out of the Coach, crosses the
+        Court, as- ' cends the Stair-case, and runs thro' all the Cham- ' bers with the greatest
+        Familiarity, reposes him- ' self on a Couch, and fancies himself at home. ' The Master of
+        the House at last comes in, Me- ' nalcas rises to receive him, and desires him to ' sit
+        down; he talks, muses, and then talks again. ' The Gentleman of the House is tired and ama-
+        ' zed; <persName>Menalcas</persName> is no less so, but is every Moment ' in hopes that his
+        impertinent Guest will at last end ' his tedious Visit. Night comes on, when Menal= ' cas is
+        hardly undeceived.</p>
+
+      <p>' When he is playing at bBckgammon, he calls ' for a full Glass of Wine and Water; 'tis his
+        turn ' to throw, he has the Box in one Hand, and his ' Glass in the other, and being
+        extremely dry, and ' unwilling to lose Time, he swallows down both ' the Dice, and at the
+        same time throws his Wine ' into the Tables. He writes a Letter, and flings ' the Sand into
+        the Ink-bottle; he writes a second, ' and mistakes the Superscription : A Noble-man '
+        receives one of them, and upon opening it reads ' as follows. I would have you, honest Jack,
+        imme- ' diately on the Receipt of this, take in Hay enough ' to serve me the Winter. His
+        farmer receives the ' other, and is amazed to see in it, My lord, I re- ' ceived your
+        Grace's Commands, with an intire Sub- ' mission to-- If he is at an Entertainment, you ' may
+        see the Pieces of Bread continually multiply- ' ing around his Plate: 'Tis true the rest of
+        the ' Company want it, as well as their Knives and ' Forks, which Menalcas does not let them
+        keep ' long. Sometimes in a Morning he puts his whole ' Family in a hurry, and at last goes
+        out without ' being able to stay for his Coach or Dinner; and ' for that Day you may see him
+        in every part of the ' Town, except the very Place where he had ap- ' pointed to be upon a
+        Business of Importance. You ' would often take him for every thing that he is ' not; for a
+        Fellow quite Stupid, for he hears no- ' thing; for a Fool, for he talks to himself, and has
+        <cb/> ' an hundred Grimaces and Motions with his Head, ' which are altogether involuntary;
+        for a proud ' Man, for he looks full upon you, and takes no ' notice of your Saluting him:
+        The Truth on't is, ' his Eyes are open, but he makes no use of them, ' and neither sees you,
+        nor any Man, nor any thing ' else. He came once from his Country-house, and ' his own
+        Footmen undertook to rob him, and ' succeeded; They held a Flambeau to his Throat, ' and bid
+        him deliver his Purse; he did so, and ' coming home told his Friends he had been rob- ' bed;
+        they desired to know the Particulars. Ask my ' Servants, says Menalcas, for they were with '
+        me.</p>
+
+      <p>ADVERTISMENTS. For the Benefit of Mr. Elrington and Mrs. Mills. At the Desire of Several
+        Ladies of Quality By Her Majesty's Company of Comedians. At the Theatre Royal in Drury-lane,
+        this present Tuesday, the 29th of May, will be presented a Comedy, called, The Gamester. The
+        part of the Gamester is to be preform'd by Mr. Mills, [Unreadable] by Mr. Pack, Sir. Thm
+        Valere by Mr. Bullock, [Unreadable] [Unreadable] Hazard by Mr. Bowen, Count Cog-Die by Mr.
+        Bullock, [Unreadable] Lady Wealthy by Mrs. Porter, Angelica by Mrs. Bradshaw, Mrs.
+        {Unreadable]- rity by Mr. Willis, Favourite by Mrs. Mills, Boxkeeper to the Ga[Unreadable]
+        Tube by Mr. Leigh. This Play is sold by Jacob Tenfon at Shakespear's Head over-against
+        Catherine Street in the Strand The Entertainment of Musick, consisting of a Poets ca'led,
+        The Passion of Sappho, Written by Mr. Harison, and The F[Unreadable] of Alexander, Written
+        by Mr. Dryden, as they are Set to Musick by Mr. Thomas Clayton (Author of [Unreadable]) will
+        be Preformed at his [Unreadable] in York-Buildings, this Day, being the 29th of
+        [Unreadable], Beginning at [Unreadable] in the Evening. Tickets; at 5 s. each, may be had at
+        Mr. Charles [Unreadable] the Corner of the Bedford-Buildings, and at Mr. Eliot's St. James's
+        Coffee-house. No Mony receiv'd, or Tickets given out at the House. This Poem is Sold by
+        Jacob Tenfon at Shakespear's Head over- against Catherine Street in the Strand Just
+        Publish'd, An Account of the present State and Govenrment of the Empire of Germany: In a
+        Letter to Thomas Foley of Whit- ley in the County of Worcester, Esq. by Mr. Vassor. Printed
+        for Jacob Tenfon at Shakespear's Head over-against Catherine Street in the Strand. To be
+        Sold, at a lower Rate than ordinary, at the Queen's Head, joining to the Church Gate in
+        Bedford Street, Covent Garden, all Sorts of Duggers, Hair, and Worsted, Camlets,
+        [Unreadable] Duroys, Shagreens, Shalloons, Durants. Padua Serges, Shags, Serge de Nisms,
+        Calamaneoes, and all other Goods fit for Mens Apparel. The Persons who now keep the Shop
+        designing to have off the Trade, and the House and Shop to ne Lett at Michaelmas next. A
+        convenient House to be Lett at East-Acton in Middlesex, four Rooms on a Floor, wall'd in,
+        with Caoch-house, Stabling, Orchard, Garden, and all Conveniencies belonging to it, in very
+        good Repair. Whosoever takes it may into it as soon as they please. Inquire at Mr. Lumley's,
+        or at the House, both in East- Acton aforesaid. All sorts of Silk Gowns, being in fresh
+        Parcel of rich Brocades, Venetians, Tissues, Tabbies, Damasks, and Sattins, bought up the
+        last Sale, and made into Gowns, with gentile and suitable Linings, to be Sold very cheap at
+        Mrs. Attaway's in Deveroux Court in the Passage from the Temple to the Essex Buildings, the
+        lowest Price being writ upon each Gown. Note, there is a fresh Parcel of thread Sattin Gowns
+        lined with thread Sattins. A most Incomparable Paste for the Hands, far exeeding anything
+        ever yet in Print. It makes them Delicately white, sleeke and plump; fortifies them against
+        the Scortching heat of the Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd
+        but the use o' it will recover them. Sold only at Mr. Aller[Unreadable] shop, over against
+        the Royal Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent
+        Germans powder for the Scurvey in the Gums and Teeth which by only scouring them every
+        Morning, whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a [Unreadable] LONDON:
+        Printed for Sam. Buckley, at the Dolphin in Little-Britain; and Sold by A. Baldwin in
+        Warwick-Lane, where Advertisements are in; as also by Charles Lillie, Perfumer, at the
+        Corner of Beauford-Buildings in the Stand. X</p>
+    </body>
+  </text>
 </TEI>
