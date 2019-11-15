@@ -124,21 +124,21 @@
             <div type="remark" n="80">
                <head>80</head>
                <p>
-                  <seg xml:id="FJG_80_01" corresp="#EJG_89_01">Un homme est <interp type="sense"
-                     >fidele à de certaines pratiques</interp> de Religion,</seg>
+                  <seg xml:id="FJG_80_01" corresp="#EJG_89_01">Un homme est <interp type="tone"
+                        >fidele à de certaines pratiques</interp> de Religion,</seg>
                   <seg xml:id="FJG_80_02" corresp="#EJG_89_02"> on le voit s'en acquiter avec
                      exactitude,</seg>
                   <seg xml:id="FJG_80_03" corresp="#EJG_89_03"> personne ne le louë, ny ne le
                      desapprouve, on n'y pense pas ;</seg>
                   <seg xml:id="FJG_80_04" corresp="#EJG_89_04"> tel autre <interp type="sense">y
-                     revient</interp> aprés les avoir negligées dix années entieres,</seg>
+                        revient</interp> aprés les avoir negligées dix années entieres,</seg>
                   <seg xml:id="FJG_80_05" corresp="#EJG_89_05"> on se récrie, on l'exalte ;</seg>
                   <seg xml:id="FJG_80_06" corresp="#EJG_89_06">
                      <interp type="tone">cela est libre</interp> :</seg>
                   <seg xml:id="FJG_80_07" corresp="#EJG_89_07"> moy je le blâme d'un si long oubli
                      de ses devoirs,</seg>
                   <seg xml:id="FJG_80_08" corresp="#EJG_89_08"> &amp; je le trouve heureux <interp
-                     type="sense">d'y estre rentré</interp>.</seg>
+                        type="sense">d'y estre rentré</interp>.</seg>
                </p>
             </div>
          </div>
@@ -150,6 +150,44 @@
          </div>
          <div xml:lang="fr" type="chapter" n="15">
             <head>15. De la Chaire.</head>
+            <div type="remark" n="6">
+               <head>6</head>
+               <p>
+                  <seg xml:id="FCH_06_01">L'on a enfin banni la Scolastique de toutes les Chaires
+                     des grandes Villes,</seg>
+                  <seg xml:id="FCH_06_02"> &amp; on l'a reguée dans les <w ana="omit">Bourgs</w>
+                     &amp; dans les Villages</seg>
+                  <seg xml:id="FCH_06_03"> pour l'instruction &amp; &amp; pour le <interp
+                        type="tone">salut</interp></seg>
+                  <seg xml:id="FCH_06_04"> du Laboureur ou du <interp type="sense"
+                     >Vigneron</interp>.</seg>
+               </p>
+            </div>
+            <div type="remark" n="17">
+               <head>17</head>
+               <p>
+                  <seg xml:id="FCH_17_01" corresp="#EPT_18_01">Le nom de ce Panegyriste semble gemir
+                     sous le poids des titres</seg>
+                  <seg xml:id="FCH_17_02" corresp="#EPT_18_02"> dont il est accablé</seg>
+                  <seg xml:id="FCH_17_03" corresp="#EPT_18_03"> leur grand nombre remplit <interp
+                        type="sense">de vastes affiches</interp></seg>
+                  <seg ana="omit">
+                     <seg xml:id="FCH_17_04"> qui sont distribuées dans les maisons,</seg>
+                     <seg xml:id="FCH_17_05"> ou que l'on lit par les ruës en caracteres
+                        monstrueux,</seg>
+                     <seg xml:id="FCH_17_06"> &amp; qu'on ne peut non plus ignorer que la place
+                        publique;</seg>
+                     <seg xml:id="FCH_17_07"> quand sur une si belle montre</seg>
+                  </seg>
+                  <seg xml:id="FCH_17_08" corresp="#EPT_18_04"> l'on a seulement essayé du
+                     personnage,</seg>
+                  <seg xml:id="FCH_17_09" corresp="#EPT_18_05"> &amp; qu'on l'a un peu écouté,</seg>
+                  <seg xml:id="FCH_17_10" corresp="#EPT_18_06"> l'on reconnôit qu'il manque au
+                     dénombrement de ses <interp type="sense">qualitez</interp>,</seg>
+                  <seg xml:id="FCH_17_11" corresp="#EPT_18_07"> celle de <interp type="tone">mauvais
+                     </interp> Predicateur.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="16">
             <head>16. Des Esprits Forts.</head>
@@ -237,8 +275,8 @@
             <div type="remark" n="12">
                <head>12</head>
                <p>
-                  <seg xml:id="ECY_12_01" corresp="#FVL_12_01">Narcissus rises in the Morning to
-                     lye down at Night,</seg>
+                  <seg xml:id="ECY_12_01" corresp="#FVL_12_01">Narcissus rises in the Morning to lye
+                     down at Night,</seg>
                   <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as
                      regularly as a Woman,</seg>
                   <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to Morning and
@@ -272,17 +310,21 @@
          </div>
          <div xml:lang="en" type="chapter" n="12">
             <head>12. Of Judgement.</head>
-            <div type="remark" n="80">
+            <div type="remark" n="89">
                <head>80</head>
                <p>
-                  <seg xml:id="EJG_89_01" corresp="#FJG_80_01">A Man is <interp type="sense">just to
-                     some practical rules</interp> of Religion,</seg>
+                  <seg xml:id="EJG_89_01" corresp="#FJG_80_01">A Man is <interp type="tone">just to
+                        some practical rules</interp> of Religion,</seg>
                   <seg xml:id="EJG_89_02" corresp="#FJG_80_02"> we see him nicely observe
                      them;</seg>
                   <seg xml:id="EJG_89_03" corresp="#FJG_80_03"> no Man commends or discommends him,
                      he is not thought of;</seg>
-                  <seg xml:id="EJG_89_04" corresp="#FJG_80_04"> another <interp type="sense"
-                     >reclaims</interp>, after ten years neglect of all Religious duties,</seg>
+                  <seg xml:id="EJG_89_04" corresp="#FJG_80_04"> another <interp type="sense">
+                        reclaims</interp>,<note type="editorial">In the 17th and 18th centuries,
+                        "reclaim" had an intransitive, reflexive meaning, to "improve oneslef
+                        morally or spiritually; to mend one's ways, repent, reform." <hi rend="ital"
+                           > Oxford English Dictionary, s.v.</hi> "reclaim."</note> after ten years
+                     neglect of all Religious duties,</seg>
                   <seg xml:id="EJG_89_05" corresp="#FJG_80_05"> he is cry'd up and applauded for
                      it;</seg>
                   <seg xml:id="EJG_89_06" corresp="#FJG_80_06">
@@ -290,7 +332,13 @@
                   <seg xml:id="EJG_89_07" corresp="#FJG_80_07"> for my part, I blame his long
                      forgetfulness of his duty,</seg>
                   <seg xml:id="EJG_89_08" corresp="#FJG_80_08"> and think him happy <interp
-                     type="sense">in his Reformation</interp>.</seg>
+                        type="sense">in his Reformation</interp>. <note type="context">In the
+                        context of the Glorious Revolution and the triumph of Protestantism in
+                        England, the translator's departures from the source text in use of the
+                        words "reclaim" (with its obsolete meaning of "repent") and "Reformation,"
+                        as well as his stronger statement on freedom of conscience, turn this remark
+                        on individual religious practice into an analogy for the revival of early
+                        Church practice in Protestantism.</note></seg>
                </p>
             </div>
          </div>
@@ -302,6 +350,39 @@
          </div>
          <div xml:lang="en" type="chapter" n="15">
             <head>15. Of the Pulpit.</head>
+            <div type="remark" n="7">
+               <head>7</head>
+               <p>
+                  <seg xml:id="EPT_07_01" corresp="#FCH_06_01">School Divinity is at last banisht
+                     the Pulpits of all the great Towns <seg ana="add">in the Kingdom</seg></seg>,
+                     <seg xml:id="EPT_07_02" corresp="#FCH_06_02"> and confin'd only to the Country
+                     Villages, where it now resides,</seg>
+                  <seg xml:id="EPT_07_03" corresp="#FCH_06_03"> for the instruction and <interp
+                        type="tone">edification</interp></seg>
+                  <seg xml:id="EPT_07_04" corresp="#FCH_06_04"> of the <interp type="sense">Plow-men</interp> and <choice>
+                        <sic>Lobourers</sic>
+                        <corr>Labourers</corr>
+                     </choice>.</seg>
+               </p>
+            </div>
+            <div type="remark" n="18">
+               <head>18</head>
+               <p>
+                  <seg xml:id="EPT_18_01" corresp="#FCH_17_01">There is a certain Panegyrist, who
+                     groans under a load of Titles;</seg>
+                  <seg xml:id="EPT_18_02" corresp="#FCH_17_02"> the weight of 'em oppresses
+                     him,</seg>
+                  <seg xml:id="EPT_18_03" corresp="#FCH_17_03"> they are hardly all to be crouded in
+                        <interp type="sense">one single Page.</interp></seg>
+                  <seg xml:id="EPT_18_04" corresp="#FCH_17_08"> Examine but the Man,</seg>
+                  <seg xml:id="EPT_18_05" corresp="#FCH_17_09"> hear him but a little,</seg>
+                  <seg xml:id="EPT_18_06" corresp="#FCH_17_10"> and you will find that in the list
+                     of all his <interp type="sense">Titles</interp>, there's one still omitted,
+                     which is,</seg>
+                  <seg xml:id="EPT_18_07" corresp="#FCH_17_11"> that of a <interp type="tone">very
+                        dull</interp> Preacher.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="16">
             <head>16. Of The Wits, or Libertines.</head>
