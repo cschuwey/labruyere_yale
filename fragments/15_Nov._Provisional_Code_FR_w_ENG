@@ -46,7 +46,7 @@
             <div corresp="#eng_A" xml:lang="french" type="chapter" n="1" xml:id="fr_A">
                 <head>Des ouvrages de l'esprit</head>
                 <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
-                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <ref target="#HOMME"><hi>hommes</hi></ref>, et qui pensent. 
+                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <seg key="homme">hommes</seg>, et qui pensent. 
                         Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; 
                         l’on ne fait que glaner après les anciens et les habiles d’entre les modernes.</p>
                 </div>
@@ -56,7 +56,7 @@
                 </div>
                 <div corresp="#eng_A3" type="remark" n="1.3" xml:id="fr_A3">
                     <p>C’est un métier que de faire un livre, comme de faire une pendule ; il faut plus que de l’esprit pour être auteur. 
-                        Un Magistrat allait par son mérite à la première dignité ; il était <ref target="#HOMME"><hi>homme</hi></ref> délié et pratique dans les affaires ; 
+                        Un Magistrat allait par son mérite à la première dignité ; il était <seg key="homme">homme</seg> délié et pratique dans les affaires ; 
                         il a fait imprimer un ouvrage moral qui est rare par le ridicule?</p>
                 </div>
                 <div corresp="#eng_A4" type="remark" n="1.4" xml:id="fr_A4">
@@ -189,14 +189,14 @@
                 </div>
                 <div corresp="#eng_B3" type="remark" n="2.3" xml:id="fr_B3">
                     <p>Tout persuadé que je suis que ceux que l'on choisit pour de différents emplois, chacun selon son génie et sa profession, font bien, je me hasarde de dire qu'il se peut faire qu'il y ait au monde plusieurs personnes, connues ou inconnues, que l'on n'emploie pas, qui feraient très bien; et je suis induit à ce sentiment par le merveilleux succès de certaines gens que le hasard seul a placés, et de qui jusques alors on n'avait pas attendu de fort grandes choses.</p>
-                    <p>Combien d'hommes admirables, et qui avaient de très beaux génies, sont morts sans qu'on en ait parlé! Combien vivent encore dont on ne parle point, et dont on ne parlera jamais!</p>
+                    <p>Combien d'<seg key="homme">hommes</seg> admirables, et qui avaient de très beaux génies, sont morts sans qu'on en ait parlé! Combien vivent encore dont on ne parle point, et dont on ne parlera jamais!</p>
                 </div>
                 <div corresp="#eng_B4" type="remark" n="2.4" xml:id="fr_B4">
-                    <p>Quelle horrible peine a un homme qui est sans prôneurs et sans cabale, qui n'est engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit!</p>
+                    <p>Quelle horrible peine a un <seg key="homme">homme</seg> qui est sans prôneurs et sans cabale, qui n'est engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit!</p>
                 </div>
                 <div corresp="#eng_B5" type="remark" n="2.5" xml:id="fr_B5">
                     <p>Personne presque ne s'avise de lui-même du mérite d'un autre.</p>
-                    <p>Les hommes sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou de discerner les autres; de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être longtemps ignoré.</p>
+                    <p>Les <seg key="homme">hommes</seg> sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou de discerner les autres; de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être longtemps ignoré.</p>
                 </div>
             </div>
             <div corresp="#fr_B" xml:lang="english" type="chapter" n="2" xml:id="eng_B">
@@ -228,13 +228,13 @@
             <div corresp="#eng_C" xml:lang="french" type="chapter" n="3" xml:id="fr_C">
                 <head>Des femmes</head>
                 <div corresp="#eng_C1" type="remark" n="3.1" xml:id="fr_C1">
-                    <p>Les hommes et les femmes conviennent rarement sur le mérite d'une femme: leurs intérêts sont trop différents. Les femmes ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux hommes: mille manières qui allument dans ceux-ci les grandes passions, forment entre elles l'aversion et l'antipathie.</p>
+                    <p>Les <seg key="homme">hommes</seg> et les femmes conviennent rarement sur le mérite d'une femme: leurs intérêts sont trop différents. Les femmes ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux <seg key="homme">hommes</seg> : mille manières qui allument dans ceux-ci les grandes passions, forment entre elles l'aversion et l'antipathie.</p>
                 </div>
                 <div corresp="#eng_C2" type="remark" n="3.2" xml:id="fr_C2">
                     <p>Il y a dans quelques femmes une grandeur artificielle, attachée au mouvement des yeux, à un air de tête, aux façons de marcher, et qui ne va pas plus loin; un esprit éblouissant qui impose, et que l'on n'estime que parce qu'il n'est pas approfondi. Il y a dans quelques autres une grandeur simple, naturelle, indépendante du geste et de la démarche, qui a sa source dans le coeur, et qui est comme une suite de leur haute naissance; un mérite paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir de toute leur modestie, qui échappent, et qui se montrent à ceux qui ont des yeux.</p>
                 </div>
                 <div corresp="#eng_C3" type="remark" n="3.3" xml:id="fr_C3">
-                    <p>J'ai vu souhaiter d'être fille, et une belle fille, depuis treize ans jusques à vingt-deux, et après cet âge, de devenir un homme.</p>
+                    <p>J'ai vu souhaiter d'être fille, et une belle fille, depuis treize ans jusques à vingt-deux, et après cet âge, de devenir un <seg key="homme">homme</seg>.</p>
                 </div>
                 <div corresp="#eng_C4" type="remark" n="3.4" xml:id="fr_C4">
                     <p>Quelques jeunes personnes ne connaissent point assez les avantages d'une heureuse nature, et combien il leur serait utile de s'y abandonner; elles affaiblissent ces dons du ciel, si rares et si fragiles, par des manières affectées et par une mauvaise imitation: leur son de voix et leur démarche sont empruntés; elles se composent, elles se recherchent, regardent dans un miroir si elles s'éloignent assez de leur naturel. Ce n'est pas sans peine qu'elles plaisent moins.</p>
