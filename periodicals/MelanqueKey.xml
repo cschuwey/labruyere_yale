@@ -37,12 +37,15 @@
                </monogr>
                <monogr>
                   <author></author>
-                  <title>The Spectator</title>
+                  <title>The Spectator Project:
+                     A Hypermedia Research Archive
+                     of Eighteenth-Century Periodicals</title>
                   <edition></edition>
                   <imprint>
-                     <publisher></publisher>
-                     <pubPlace></pubPlace>
-                     <date>1965</date>
+                     <publisher>Rutgers University Libraries</publisher>
+                     <pubPlace>New Brunswick, NJ</pubPlace>
+                     <date>2006</date>
+                     <pubPlace> http://www2.scc.rutgers.edu/spectator/complete.html </pubPlace>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -52,7 +55,7 @@
   </teiHeader>
   <text>
       <body>
-         <p n="fr">266. <hi rend="itatlics">Menelaque</hi>. Feu <persName>M. de Brancas</persName>, Chevalier d’honneur de la Reine-mere, 
+         <p n="fr">266. <hi rend="italics">Menelaque</hi>. Feu <persName>M. de Brancas</persName>, Chevalier d’honneur de la Reine-mere, 
             frere de <persName>M. le Duc de Villars</persName>. L’on conte de lui différentes fortes d’absence 
             d’esprit. L’aventure de la perruque , dont il est parlé ici, lui arriva chez la 
             Reine. L'on veut qu’il oublia le jour de ses nôces , qu’il étoit marié avec <persName>Mademoiselle Garnier</persName> , 
