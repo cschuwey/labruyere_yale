@@ -138,6 +138,9 @@
                <seg xml:id="FFM_65_03" corresp="#EWM_64_03"> fait penser d'elle la même chose.</seg>
             </p>
          </div>
+         <div xml:id="fr" type="chapter" n="4">
+            <head>4. De la Cour</head>
+         </div>
          <div xml:lang="fr" type="chapter" n="5">
             <head>5. De la Societé et de la Conversation.</head>
             <div type="remark" n="7">
