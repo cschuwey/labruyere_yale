@@ -188,7 +188,7 @@
         Strand</placeName>.</p>
 
       <p>The Entertainment of Musick, consisting of a Poets ca'led, The Passion of Sappho, Written
-        by Mr. Harison, and The F <gap reason="illegible"> </gap> of Alexander, Written by Mr. Dryden, as they are Set
+        by Mr. Harison, and <ref target="F_S_1" type="annotation">The F <gap reason="illegible"> </gap> of Alexander</ref>, Written by Mr. Dryden, as they are Set
         to Musick by Mr. Thomas Clayton (Author of <gap reason="illegible"> </gap>) will be Preformed at his
         <gap reason="illegible"> </gap> in York-Buildings, this Day, being the 29th of <gap reason="illegible"> </gap>, Beginning at
         <gap reason="illegible"> </gap> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap reason="illegible"> </gap>
@@ -230,4 +230,5 @@
 
     </body>
   </text>
+  <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
 </TEI>
