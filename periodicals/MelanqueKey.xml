@@ -23,20 +23,49 @@
                May 29, 1711.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <biblStruct>
+               <monogr>
+                  <author></author>
+                  <title>Clef des Characteres dde La Bruyere</title>
+                  <edition></edition>
+                  <imprint>
+                     <publisher></publisher>
+                     <pubPlace></pubPlace>
+                     <date>1765</date>
+                  </imprint>
+               </monogr>
+               <monogr>
+                  <author></author>
+                  <title>The Spectator</title>
+                  <edition></edition>
+                  <imprint>
+                     <publisher></publisher>
+                     <pubPlace></pubPlace>
+                     <date>1965</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+            <!-->French source from Google Drive, Rutgers Project Edition Footnote for English Sourc</-->
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>266. <hi rend="itatlics">Menelaque</hi>. Feu M. de Brancas, Chevalier d’honneur de la Reine-mere, 
+         <p n="fr">266. <hi rend="itatlics">Menelaque</hi>. Feu M. de Brancas, Chevalier d’honneur de la Reine-mere, 
             frere de M. le Duc de Villars. L’on conte de lui différentes fortes d’absence 
             d’esprit. L’aventure de la perruque , dont il est parlé ici, lui arriva chez la 
-            Reine. L'on veut qu’il oublia le jour de ses noces , qu’il ctoit marie avec Ma¬ 
-            demoiselle Garnier , fille du Partisan : 6c que le soir, retournant chez lui a son 
-            ordinaire , il sut surpris de n’y point trouver ses Valets de chambre , qu’il ap¬ 
-            prit être allés mettre la toilette chez fa nouvelle femme : ce qui le fit reílbuve- 
-            nir de la cérémonie du matin. 
+            Reine. L'on veut qu’il oublia le jour de ses nôces , qu’il étoit marié avec Ma¬ 
+            demoiselle Garnier , fille du Partisan : &amp; que le soir, retournant chez lui à son 
+            ordinaire , il sut surpris de n’y point trouver ses Valets de chambre , qu’il apprit 
+            être allés mettre la toilette chez fa nouvelle femme : ce qui le fit ressouvenir de la cérémonie du matin. 
+         </p>
+      
+         <p n="en">
+            Charactères, Chap. xi. de l'Homme. La Bruyère's Menalque was identified with a M. de Brancas, 
+            brother of the Duke de Villars. The adventure of the wig is said really to have happened to him 
+            at a reception by the Queen-Mother. He was said also on his wedding-day to have forgotten that he 
+            had been married. He went abroad as usual, and only remembered the ceremony of the moming upon 
+            finding the changed state of his household when, as usual, he came home in the evening,
          </p>
       </body>
   </text>
