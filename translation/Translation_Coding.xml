@@ -171,10 +171,10 @@
             <div type="remark" n="7">
                <head>7</head>
                <p>
-                  <seg xml:id="FSC_7_01" corresp="#ESC_7_01">Que dites vous? Comment?</seg>
-                  <seg xml:id="FSC_7_02" corresp="#ESC_7_02"> Je n'y suis pas; vous plairoit-il de
+                  <seg xml:id="FSC_7_01" corresp="#ESC4_7_01 ESC6_7_01">Que dites vous? Comment?</seg>
+                  <seg xml:id="FSC_7_02" corresp="#ESC4_7_02 ESC6_7_02"> Je n'y suis pas; vous plairoit-il de
                      recommencer?</seg>
-                  <seg xml:id="FSC_7_03" corresp="#ESC_7_03"> j'y suis encore moins; je devine
+                  <seg xml:id="FSC_7_03" corresp="#ESC4_7_03 ESC6_7_03"> j'y suis encore moins; je devine
                      enfin:</seg>
                   <seg xml:id="FSC_7_04" corresp="#ESC_7_04"> vous voulez, <hi rend="italic"
                         >Acis</hi>, me dire qu'il fait froid</seg>
@@ -643,15 +643,24 @@
             <div type="remark" n="7">
                <head>7</head>
                <p>
-                  <seg xml:id="ESC_7_01" corresp="#FSC_7_01">
+                  <app>
+                     <rdg wit="E4">
+                  <seg xml:id="ESC4_7_01" corresp="#FSC_7_01">
                      <interp type="tone">Prithee, </interp><hi rend="italic">Acis</hi>, for the
                      satisfaction of your Friends, <note type="editorial"> The 1705 translation is
                         less caustic, toning down the strong French authorial voice and the irony of
                         the original dialogism.</note></seg>
-                  <seg xml:id="ESC_7_02" corresp="#FSC_7_02"> endeavour to speak as they may
+                  <seg xml:id="ESC4_7_02" corresp="#FSC_7_02"> endeavour to speak as they may
                      understand you,</seg>
-                  <seg xml:id="ESC_7_03" corresp="#FSC_7_03"> for my part I do but guess at your
-                     meaning: </seg>
+                  <seg xml:id="ESC4_7_03" corresp="#FSC_7_03"> for my part I do but guess at your
+                     meaning: </seg></rdg>
+                  <rdg wit="E6">
+                     <seg xml:id="ESC6_7_01" corresp="#FSC_7_01">What say you? How! I don't
+                        comprehend you;</seg>
+                     <seg xml:id="ESC6_7_02" corresp="#FSC_7_02"> once more, if you please:
+                     still less and less:</seg>
+                     <seg xml:id="ESC6_7_03" corresp="#FSC_7_03">Oh! I guess your meaning at last</seg>
+                  </rdg></app> 
                   <seg xml:id="ESC_7_04" corresp="#FSC_7_04"> if you would tell'em, 'tis Cold <note
                         type="editorial"> Throughout remark 7, the translator resorts to many
                         contractions, probably in order to convey the conversational flavor of the
@@ -688,14 +697,14 @@
                      body,</seg>
                   <seg xml:id="ESC_7_20" corresp="#FSC_7_20"> I shall pluck you by your Sleeve, and
                      tell you in your Ear,</seg>
-                  <seg xml:id="ESC_7_21" corresp="#ESC_7_21"> Dont affect to have Wit; don't pretend
+                  <seg xml:id="ESC_7_21" corresp="#FSC_7_21"> Dont affect to have Wit; don't pretend
                      to't,</seg>
-                  <seg xml:id="ESC_7_22" corresp="#ESC_7_22"> Let that be your part;</seg>
-                  <seg xml:id="ESC_7_23" corresp="#ESC_7_23"> but if you can, learn some plain
+                  <seg xml:id="ESC_7_22" corresp="#FSC_7_22"> Let that be your part;</seg>
+                  <seg xml:id="ESC_7_23" corresp="#FSC_7_23"> but if you can, learn some plain
                      unaffected Language</seg>
-                  <seg xml:id="ESC_7_24" corresp="#ESC_7_24"> such as those speak, who you fancy
+                  <seg xml:id="ESC_7_24" corresp="#FSC_7_24"> such as those speak, who you fancy
                      have no Wit:</seg>
-                  <seg xml:id="ESC_7_25" corresp="#ESC_7_25"> then perhaps we may think you have
+                  <seg xml:id="ESC_7_25" corresp="#FSC_7_25"> then perhaps we may think you have
                      some your self.</seg>
                </p>
             </div>
