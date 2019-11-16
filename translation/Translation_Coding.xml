@@ -79,7 +79,8 @@
                <head>44</head>
                <p>
                   <seg xml:id="FOE_44_01" corresp="#EPL_43_01">Le M***G***<note type="editorial">The
-                           <hi rend="ital">Mercure Galant</hi></note></seg>
+                           <hi rend="ital">Mercure Galant,</hi> a popular and fashionable French
+                        gazette.</note></seg>
                   <seg xml:id="FOE_44_02" corresp="#EPL_43_02"> est immediatement au dessous du
                      rien;</seg>
                   <seg xml:id="FOE_44_03" corresp="#EPL_43_03"> il y a bien d'autres ouvrages qui
@@ -387,7 +388,7 @@
                <head>8</head>
                <p>
                   <seg xml:id="FQU_08_01" corresp="#ECC_08_01">Certaines gens portent trois noms
-                     <interp type="tone">de peur d'en manquer</interp> ;</seg>
+                        <interp type="tone">de peur d'en manquer</interp> ;</seg>
                   <seg xml:id="FQU_08_02" corresp="#ECC_08_02"> ils en on pour la campagne &amp;
                      pour la ville, pour les lieux de leur service ou de leur employ :</seg>
                   <seg xml:id="FQU_08_03" corresp="#ECC_08_03"> d'autres ont un seul nom dissyllabe
@@ -396,23 +397,48 @@
                      meilleure :</seg>
                   <seg xml:id="FQU_08_05" corresp="#ECC_08_05"> celuy-cy par la suppression d'une
                      syllabe fait de son nom obscur, un nom illustre :</seg>
-                  <seg xml:id="FQU_08_06" ana="omit"> celuy-là par le changement d'une
-                     lettre en une autre se travestit, &amp; de <hi rend="ital">Syrus</hi> devient
-                     <hi rend="ital">Cyrus</hi> :</seg>
+                  <seg xml:id="FQU_08_06" ana="omit"> celuy-là par le changement d'une lettre en une
+                     autre se travestit, &amp; de <hi rend="ital">Syrus</hi> devient <hi rend="ital"
+                        >Cyrus</hi> :</seg>
                   <seg xml:id="FQU_08_07" corresp="#ECC_08_06"> plusieurs suppriment leurs noms
                      qu'ils pourroient conserver sans honte,</seg>
                   <seg xml:id="FQU_08_08" corresp="#ECC_08_07"> pour en adopter de plus beaux, où
                      ils n'ont qu'à perdre par la comparaison que l'on fait toûjours d'eux qui les
                      portent, avec les grands qui les ont portez :</seg>
-                  <seg xml:id="FQU_08_09" corresp="#ECC_08_08"> il s'en trouve enfin qui nez <interp type="sense">à
-                     l'ombre des clocher de Paris</interp></seg>
-                  <seg xml:id="FQU_08_10" corresp="#ECC_08_09">veulent estre Flamans our Italiens,</seg>
+                  <seg xml:id="FQU_08_09" corresp="#ECC_08_08"> il s'en trouve enfin qui nez <interp
+                        type="sense">à l'ombre des clocher de Paris</interp></seg>
+                  <seg xml:id="FQU_08_10" corresp="#ECC_08_09">veulent estre Flamans our
+                     Italiens,</seg>
                   <seg xml:id="FQU_08_11" corresp="#ECC_08_10"> comme si la roture n'étoit pas de
                      tout païs,</seg>
                   <seg xml:id="FQU_08_12" corresp="#ECC_08_11"> allongent leurs noms François d'une
                      terminaison étrangere,</seg>
-                  <seg xml:id="FQU_08_13" corresp="#ECC_08_12"> <interp type="sense">&amp; croyent que venir de bon lieu</interp></seg>
-                  <seg xml:id="FQU_08_14" corresp="#ECC_08_13"> <interp type="sense">c'est venir de loin</interp>.</seg>
+                  <seg xml:id="FQU_08_13" corresp="#ECC_08_12">
+                     <interp type="sense">&amp; croyent que venir de bon lieu</interp></seg>
+                  <seg xml:id="FQU_08_14" corresp="#ECC_08_13">
+                     <interp type="sense">c'est venir de loin</interp>.</seg>
+               </p>
+            </div>
+            <div type="remark" n="20" ana="omit">
+               <head>20</head>
+               <p>
+                  <seg xml:id="FQU_20_01">Dans ces jours qu'on appelle saints<note type="context"
+                        >The second remark from "De quelques Usages" was not included in the English
+                        translation, possibly because it calls on the Catholic Church to use its
+                        power to end religious dissention. Since 1534 the Church of England had been
+                        independent of Rome.</note></seg>
+                  <seg xml:id="FQU_20_02">le Moine confesse,<note type="editorial">As in modern
+                        French, in the 17th century <hi rend="ital">confesser</hi> meant to speak or
+                        to hear a confession, <hi rend="ital">(Dictionnaire de l'Académie française,
+                           1694)</hi> in this case probably the latter.</note></seg>
+                  <seg xml:id="FQU_20_03"> pendant que le Curé tonne en chaire contre le Moine &amp;
+                     ses adherans :</seg>
+                  <seg xml:id="FQU_20_04"> telle femme pieuse sort de l'Autel, qui entend au Prône
+                     qu'elle vient de faire un sacrilege.</seg>
+                  <seg xml:id="FQU_20_05"> N'y a-t-il point dans l'Eglise une puissance à qui il
+                     appartienne,</seg>
+                  <seg xml:id="FQU_20_06"> ou de faire taire le Pasteur,ou de suspendre pour un
+                     temps le pouvoir du Barnabite.</seg>
                </p>
             </div>
          </div>
@@ -477,13 +503,12 @@
                <head>2</head>
                <p>
                   <seg xml:id="FEF_02_01">Le docile &amp; le foible<note type="context">The second
-                        remark from <hi rend="ital">Caractères</hi> was not included in the English
-                        translation, possibly because it associates the failure to recognize "la
-                        vraye religion"--by implication Catholicism--with stubbornness and
-                        corruption. Since 1534 the Church of England had been independent of Rome,
-                        and Catholics were intentionally excluded from the 1688 the Act of
-                        Toleration, which extended freedom of worship to other
-                     dissenters.</note></seg>
+                        remark from "Des Esprits Forts" was not included in the English translation,
+                        possibly because it associates the failure to recognize "la vraye
+                        religion"--by implication Catholicism--with stubbornness and corruption.
+                        Since 1534 the Church of England had been independent of Rome, and Catholics
+                        were intentionally excluded from the 1688 the Act of Toleration, which
+                        extended freedom of worship to other dissenters.</note></seg>
                   <seg xml:id="FEF_02_02"> sont susceptibles d'impressions, l'un en recoit de
                      bonnes, l'autre de mauvaises,</seg>
                   <seg xml:id="FEF_02_03"> c'est à dire que le premier est persuadé &amp; fidele,
@@ -521,10 +546,11 @@
                <p>
                   <seg xml:id="EPL_43_01" corresp="#FOE_44_01">The <hi rend="ital">Mercure
                         Gallant</hi><note type="context">The <hi rend="ital">Mercure Galant</hi> was
-                        a periodical that brought the news, gossip, fashion trends, and artistic and
-                        intellectual debates from the court of Louis XIV to elegant society to the
-                        provinces and abroad. In the quarrel between the Ancients and Moderns, the
-                           <hi rend="ital">Mercure</hi> represented the Moderns.</note></seg>
+                        a periodical that the brought news, gossip, intellectual debate, and fashion
+                        trends from the court of Louis XIV to elegant society in the provinces. In
+                        the quarrel between the Ancients and Moderns, the <hi rend="ital"
+                           >Mercure</hi> represented the Moderns <hi rend="ital">(Wikipedia,
+                           "Mercure de France").</hi></note></seg>
                   <seg xml:id="EPL_43_02">is a trifle below nothing,</seg>
                   <seg xml:id="EPL_43_03" corresp="#FOE_44_03"> and there are many Works of the same
                      importance;</seg>
@@ -565,8 +591,8 @@
                      Figure above his Fortune <seg ana="add">or Quality</seg>.</seg>
                   <seg xml:id="EPM_24_03" corresp="#FMP_24_04"> Which is not so easily done, if he's
                         <interp type="tone">confin'd</interp>.</seg>
-                  <seg xml:id="EPM_24_04" corresp="#FMP_24_05"> Marriage seems to <note
-                        type="editorial"><interp type="tone">range</interp>In the 17th century, "to
+                  <seg xml:id="EPM_24_04" corresp="#FMP_24_05"> Marriage seems to <interp
+                        type="tone">range</interp><note type="editorial">In the 17th century, "to
                         range" was to sift, literally or figuratively. <hi rend="ital">Oxford
                            English Dictionary, s.v.</hi> "range, v., 2."</note> every Body in their
                      proper Rank and Degree.</seg>
@@ -822,8 +848,9 @@
             <div type="remark" n="8">
                <head>8</head>
                <p>
-                  <seg xml:id="ECC_08_01" corresp="#FQU_08_01" ana="expan">Some Men are so fond of Names, they
-                     give themselves three <interp type="tone">rather than fail</interp>;</seg>
+                  <seg xml:id="ECC_08_01" corresp="#FQU_08_01" ana="expan">Some Men are so fond of
+                     Names, they give themselves three <interp type="tone">rather than
+                     fail</interp>;</seg>
                   <seg xml:id="ECC_08_02" corresp="#FQU_08_02"> one they use in the City, another in
                      the Country, and a third in the place where they serve, or are employ'd.</seg>
                   <seg xml:id="ECC_08_03" corresp="#FQU_08_03"> Others are content with one Name of
@@ -835,18 +862,22 @@
                      Syllable of their Name, make that illustrious which was before obscure.</seg>
                   <seg xml:id="ECC_08_06" corresp="#FQU_08_07"> Many surpress their whole Names,
                      which had nothing shameful in them,</seg>
-                  <seg xml:id="ECC_08_07" corresp="#FQU_08_08"> to adopt others that sound greater, and by
-                     which they get nothing but the being compar'd, to their disadvantage, with the
-                     great Men from whom they borrow 'em.</seg>
+                  <seg xml:id="ECC_08_07" corresp="#FQU_08_08"> to adopt others that sound greater,
+                     and by which they get nothing but the being compar'd, to their disadvantage,
+                     with the great Men from whom they borrow 'em.</seg>
                   <seg xml:id="ECC_08_08" corresp="#FQU_08_09"> In short, there are some, who, tho
                      born <interp type="sense">within the Walls of Paris</interp>,</seg>
-                  <seg xml:id="ECC_08_09" corresp="#FQU_08_10">will feign themselves to be Flemish or Italian,</seg>
+                  <seg xml:id="ECC_08_09" corresp="#FQU_08_10">will feign themselves to be Flemish
+                     or Italian,</seg>
                   <seg xml:id="ECC_08_10" corresp="#FQU_08_11"> as if there were not in every
                      Country those that are meanly born,</seg>
                   <seg xml:id="ECC_08_11" corresp="#FQU_08_12"> and will lengthen their Names, and
-                     give them another termination <seg ana="add">to make them sound outlandish</seg>,</seg>
-                  <seg xml:id="ECC_08_12" corresp="#FQU_08_13"> <interp type="sense">fancying a Name is much the better</interp></seg>
-                  <seg xml:id="ECC_08_13" corresp="#FQU_08_14"> <interp type="sense">for being far fetch'd.</interp>.</seg>
+                     give them another termination <seg ana="add">to make them sound
+                        outlandish</seg>,</seg>
+                  <seg xml:id="ECC_08_12" corresp="#FQU_08_13">
+                     <interp type="sense">fancying a Name is much the better</interp></seg>
+                  <seg xml:id="ECC_08_13" corresp="#FQU_08_14">
+                     <interp type="sense">for being far fetch'd.</interp>.</seg>
                </p>
             </div>
          </div>
