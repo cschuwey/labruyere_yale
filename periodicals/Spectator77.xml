@@ -59,23 +59,24 @@
           <graphic url="image.jpg"/>
         </figure>
       </head>
-      <p>My friend <persName rend="sc">WILL. HONEYCOMBE</persName> is one of those Sort of Men who
-        are very often absent in Conversation, and what the French call <foreign xml:lang="fr"
-          rend="italics">a reveur</foreign> and <foreign xml:lang="fr" rend="italics">a
-          distrait</foreign>. <ref target="#MT_B_1">A little before our Club-time last Night, we were walking together in
-            <placeName><hi rend="italics">Somerset</hi> Garden</placeName>, where <persName
-          rend="sc">WILL</persName> had picked up a small Pebble of so odd a make, that he said he
-        would present it to a Friend of his, an eminent Virtuoso. After we had walked some time, I
-        made a full stop with my Face towards the West, which <persName rend="sc">WILL</persName>.
-        knowing to be my usual Method of asking what's o'Clock, in an Afternoon, immediately pulled
-        out his Watch, and told me we had seven Minutes good. We took a turn or two more, when, to
-        my great Surprize I saw him squirr away his Watch a considerable way into the <placeName
-          rend="italics">Thames</placeName>, and with great Sedateness in his Looks put up the
-        Pebble, he had before found, in his fob. As I have naturally an Aversion to much Speaking,
-        and do not love to be the Messenger of Ill News, especially when it comes too late to be
-        useful, I left him to be convinced of his mistake in due time, and continued my Walk,
-        reflecting on these little Absences and Distractions in Mankind, and resolving to make them
-        the Subject of a future Speculation.</ref></p>
+      <p>My friend <ref target="MT_B_1"><persName rend="sc">WILL. HONEYCOMBE</persName></ref> is one
+        of those Sort of Men who are very often absent in Conversation, and what the French call
+          <foreign xml:lang="fr" rend="italics">a reveur</foreign> and <foreign xml:lang="fr"
+          rend="italics">a distrait</foreign>. <ref target="#MT_B_2">A little before our Club-time
+          last Night, we were walking together in <placeName><hi rend="italics">Somerset</hi>
+            Garden</placeName>, where <persName rend="sc">WILL</persName> had picked up a small
+          Pebble of so odd a make, that he said he would present it to a Friend of his, an eminent
+          Virtuoso. After we had walked some time, I made a full stop with my Face towards the West,
+          which <persName rend="sc">WILL</persName>. knowing to be my usual Method of asking what's
+          o'Clock, in an Afternoon, immediately pulled out his Watch, and told me we had seven
+          Minutes good. We took a turn or two more, when, to my great Surprize I saw him squirr away
+          his Watch a considerable way into the <placeName rend="italics">Thames</placeName>, and
+          with great Sedateness in his Looks put up the Pebble, he had before found, in his fob. As
+          I have naturally an Aversion to much Speaking, and do not love to be the Messenger of Ill
+          News, especially when it comes too late to be useful, I left him to be convinced of his
+          mistake in due time, and continued my Walk, reflecting on these little Absences and
+          Distractions in Mankind, and resolving to make them the Subject of a future
+          Speculation.</ref></p>
 
       <p>I was the more confirmed in my Design, when I considered that they were very often
         Blemishes in the Characters of Men of Excellent Sense; and helped to keep up the Reputation
@@ -161,7 +162,7 @@
           amazed; <persName rend="italics">Menalcas</persName> is no less so, but is every Moment in
           hopes that his impertinent Guest will at last end his tedious Visit. Night comes on, when
             <persName rend="italics">Menalcas</persName> is hardly undeceived.</p>
-        <p>When he is playing at Backgammon, he calls for a full Glass of Wine and Water; 'tis his
+        <p><ref target="#MT_B_3">When he is playing at Backgammon, he calls for a full Glass of Wine and Water; 'tis his
           turn to throw, he has the Box in one Hand, and his Glass in the other, and being extremely
           dry, and unwilling to lose Time, he swallows down both the Dice, and at the same time
           throws his Wine into the Tables. He writes a Letter, and flings the Sand into the
@@ -170,7 +171,7 @@
               <persName>Jack</persName>, immediately on the Receipt of this, take in Hay enough to
             serve me the Winter</hi>. His farmer receives the other, and is amazed to see in it, <hi
             rend="italics">My lord, I received your Grace's Commands, with an intire Submission
-            to</hi>-- If he is at an Entertainment, you may see the Pieces of Bread continually
+              to</hi>--</ref> If he is at an Entertainment, you may see the Pieces of Bread continually
           multiplying around his Plate: 'Tis true the rest of the Company want it, as well as their
           Knives and Forks, which <persName rend="italics">Menalcas</persName> does not let them
           keep long. Sometimes in a Morning he puts his whole Family in a hurry, and at last goes
@@ -205,23 +206,22 @@
           <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr.
           Bullock</persName>, [Unreadable] [Unreadable] Hazard by <persName>Mr. Bowen</persName>,
           <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap
-          reason="illegible"/> 
+          reason="illegible"/>
         <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>, Angelica by Mrs.
         Bradshaw, Mrs. <gap reason="illegible"/> -rity by Mr. Willis, Favourite by Mrs. Mills,
-        Boxkeeper to the Ga<gap reason="illegible"/>  Tube by Mr. Leigh.</p>
+        Boxkeeper to the Ga<gap reason="illegible"/> Tube by Mr. Leigh.</p>
 
       <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
           Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName>.</p>
 
       <p>The Entertainment of Musick, consisting of a Poets ca'led, The Passion of Sappho, Written
-        by Mr. Harison, and <ref target="F_S_1" type="annotation">The F <gap reason="illegible"
-          />  of Alexander</ref>, Written by Mr. Dryden, as they are Set to Musick by Mr.
-        Thomas Clayton (Author of <gap reason="illegible"/> ) will be Preformed at his <gap
-          reason="illegible"/>  in York-Buildings, this Day, being the 29th of <gap
-          reason="illegible"/> , Beginning at <gap reason="illegible"/>  in the Evening.
-        Tickets; at 5 s. each, may be had at Mr. Charles <gap reason="illegible"/>  the Corner
-        of the Bedford-Buildings, and at Mr. Eliot's St. James's Coffee-house. No Mony receiv'd, or
-        Tickets given out at the House.</p>
+        by Mr. Harison, and <ref target="F_S_1" type="annotation">The F <gap reason="illegible"/> of
+          Alexander</ref>, Written by Mr. Dryden, as they are Set to Musick by Mr. Thomas Clayton
+        (Author of <gap reason="illegible"/> ) will be Preformed at his <gap reason="illegible"/> in
+        York-Buildings, this Day, being the 29th of <gap reason="illegible"/> , Beginning at <gap
+          reason="illegible"/> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap
+          reason="illegible"/> the Corner of the Bedford-Buildings, and at Mr. Eliot's St. James's
+        Coffee-house. No Mony receiv'd, or Tickets given out at the House.</p>
       <p>This Poem is Sold by Jacob Tenfon at Shakespear's Head over- against Catherine Street in
         the Strand</p>
       <p>Just Publish'd,</p>
@@ -230,10 +230,9 @@
         Tenfon at Shakespear's Head over-against Catherine Street in the Strand.</p>
       <p>To be Sold, at a lower Rate than ordinary, at the Queen's Head, joining to the Church Gate
         in Bedford Street, Covent Garden, all Sorts of Duggers, Hair, and Worsted, Camlets, <gap
-          reason="illegible"/>  Duroys, Shagreens, Shalloons, Durants. Padua Serges, Shags,
-        Serge de Nisms, Calamaneoes, and all other Goods fit for Mens Apparel. The Persons who now
-        keep the Shop designing to have off the Trade, and the House and Shop to ne Lett at
-        Michaelmas next. </p>
+          reason="illegible"/> Duroys, Shagreens, Shalloons, Durants. Padua Serges, Shags, Serge de
+        Nisms, Calamaneoes, and all other Goods fit for Mens Apparel. The Persons who now keep the
+        Shop designing to have off the Trade, and the House and Shop to ne Lett at Michaelmas next. </p>
       <p>A convenient House to be Lett at East-Acton in Middlesex, four Rooms on a Floor, wall'd in,
         with Caoch-house, Stabling, Orchard, Garden, and all Conveniencies belonging to it, in very
         good Repair. Whosoever takes it may into it as soon as they please. Inquire at Mr. Lumley's,
@@ -246,11 +245,10 @@
       <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print. It makes
         them Delicately white, sleeke and plump; fortifies them against the Scortching heat of the
         Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it will
-        recover them. Sold only at Mr. Aller<gap reason="illegible"/>  shop, over against the
-        Royal Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent
-        Germans powder for the Scurvey in the Gums and Teeth which by only scouring them every
-        Morning, whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap
-          reason="illegible"/> 
+        recover them. Sold only at Mr. Aller<gap reason="illegible"/> shop, over against the Royal
+        Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent Germans
+        powder for the Scurvey in the Gums and Teeth which by only scouring them every Morning,
+        whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap reason="illegible"/>
       </p>
 
       <p>
@@ -264,7 +262,25 @@
 
     </body>
     <back>
-      <note xml:id="MT_B_1" type="editorial">Note here</note>
+      <note xml:id="MT_B_1" type="editorial">As the original footnote in La Bruyère's text
+        acknowledges, the portrait of Menalque is less a study of a particular character than a
+        collection of humourous instances of distraction. These brief and numerous sketches
+        illustrate atemporal descriptions of a type of behavior, rather than particular instances of
+        said behavior — descriptions in which Menalcus is the only person of note. Budgell, on the
+        other hand, adapts this material into a different form.Budgell uses anecdotes to describe
+        particular instances of absent-minded behavior set in a specific time and place and told
+        from the perspective of a present and participating narrator. In addition to cataloguing his
+        friend, Will Honeycombe's, absent- minded behavior, Budgell's narrator provides a meditation
+        on absent-mindedness in general. Though closely related, these two texts are making
+        different use of literary forms.</note>
+      <note xml:id="MT_B_2" type="editorial"> The scene when Menalcus throws the watch into the
+        river, written in Les Caractères as a brief behavioral sketch, is adapted by Budgell in No.
+        77 of the Spectator as longer personal anecdote about Will Honeycombe seen through the
+        particular perspective of his friend,the narrator. Interestingly, Budgell does not
+        acknowledge that this particular portrait was almost copied from La Bruyère. Instead, at the
+        end of the issue, he presents La Bruyère's study of the absent-minded man as a corrollary to
+        his own work and includes a paraphrased translation of portions of the text.</note>
+      <note xml:id="MT_B_3" type="editorial">Note here</note>
       <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
     </back>
   </text>
