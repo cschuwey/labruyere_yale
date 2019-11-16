@@ -7,20 +7,36 @@
     <fileDesc>
       <titleStmt>
         <title>La Bruyère, The Spectator, and Periodicity</title>
+        <respStmt>
+          <resp>Transcribed and encoded by</resp>
+          <name>Francesca Colonnese</name>
+          <name>Mara Minion</name>
+          <name>Tyler Wagner</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <p>Our digital edition explores the connections between La Bruyère’s portrait of Ménalque,
-          the absent-minded man, and Eustace Budgell’s essay on Will Honeycombe, which appears in
-          Addison and Steele’s Spectator issue number 77, originally published May 29, 1711.</p>
+        <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies 
+          and Digital Editing course at the University of Washington in the Fall Quarter of 2019. 
+          The edition explores the connections between Jean de La Bruyère’s portrait of Ménalque,
+          the absent-minded man,in Les Caractères and Eustace Budgell’s essay on Will Honeycombe, 
+          which appears in Addison and Steele’s Spectator issue number 77, originally published 
+          May 29, 1711.</p>
       </publicationStmt>
       <sourceDesc>
-        <p> This digital edition describes a microfilm of the Spectator issue number 77 (May 29,
-          1711), courtesy of the British Periodical Digital Collection at the New York Public
-          Library, as well as selected text from the ninth and final edition of Les Caractères by La
-          Bruyère‎. We have chosen to mark-up the periodical in its original context, including
-          headings, notations, and advertisements. Due to its inclusion of character keys that
-          correspond with the French keys, we also reference editorial materials from the 1891 bound
-          edition of the Spectator, edited by Henry Morley and published by Routledge and Sons.</p>
+        <biblStruct>
+          <analytic>
+            <author>Eustace Budgell</author>
+          </analytic>
+          <monogr>
+            <title level="j">The Spectator</title>
+            <editor>Joseph Addison</editor>
+            <editor>Richard Steele</editor>
+            <imprint>
+              <biblScope>77</biblScope>
+              <date>1711</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
