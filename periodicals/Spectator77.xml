@@ -62,7 +62,7 @@
       <p>My friend <persName rend="sc">WILL. HONEYCOMBE</persName> is one of those Sort of Men who
         are very often absent in Conversation, and what the French call <foreign xml:lang="fr"
           rend="italics">a reveur</foreign> and <foreign xml:lang="fr" rend="italics">a
-          distrait</foreign>. A little before our Club-time last Night, we were walking together in
+          distrait</foreign>. <ref target="#MT_B_1">A little before our Club-time last Night, we were walking together in
             <placeName><hi rend="italics">Somerset</hi> Garden</placeName>, where <persName
           rend="sc">WILL</persName> had picked up a small Pebble of so odd a make, that he said he
         would present it to a Friend of his, an eminent Virtuoso. After we had walked some time, I
@@ -75,7 +75,7 @@
         and do not love to be the Messenger of Ill News, especially when it comes too late to be
         useful, I left him to be convinced of his mistake in due time, and continued my Walk,
         reflecting on these little Absences and Distractions in Mankind, and resolving to make them
-        the Subject of a future Speculation.</p>
+        the Subject of a future Speculation.</ref></p>
 
       <p>I was the more confirmed in my Design, when I considered that they were very often
         Blemishes in the Characters of Men of Excellent Sense; and helped to keep up the Reputation
@@ -207,7 +207,7 @@
           <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap
           reason="illegible"/> 
         <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>, Angelica by Mrs.
-        Bradshaw, Mrs. <gap reason="illegible"/> - rity by Mr. Willis, Favourite by Mrs. Mills,
+        Bradshaw, Mrs. <gap reason="illegible"/> -rity by Mr. Willis, Favourite by Mrs. Mills,
         Boxkeeper to the Ga<gap reason="illegible"/>  Tube by Mr. Leigh.</p>
 
       <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
@@ -246,11 +246,11 @@
       <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print. It makes
         them Delicately white, sleeke and plump; fortifies them against the Scortching heat of the
         Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it will
-        recover them. Sold only at Mr. Aller<gap reason="illegible"> </gap> shop, over against the
+        recover them. Sold only at Mr. Aller<gap reason="illegible"/>  shop, over against the
         Royal Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent
         Germans powder for the Scurvey in the Gums and Teeth which by only scouring them every
         Morning, whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap
-          reason="illegible"> </gap>
+          reason="illegible"/> 
       </p>
 
       <p>
@@ -264,7 +264,7 @@
 
     </body>
     <back>
-      <note xml:id="T_B_1" type="editorial"/>
+      <note xml:id="MT_B_1" type="editorial">Note here</note>
       <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
     </back>
   </text>
