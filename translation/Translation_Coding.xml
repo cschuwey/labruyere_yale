@@ -130,8 +130,37 @@
          <div xml:lang="fr" type="chapter" n="3">
             <head>3. Des Femmes.</head>
          </div>
-         <div xml:lang="fr" type="chapter" n="4">
-            <head>4. Du Coeur.</head>
+         <div type="remark" n="65">
+            <p>
+               <seg xml:id="FFM_65_01" corresp="#EWM_64_01">Une femme qui n'a jamais les yeux que
+                  sur une même personne,</seg>
+               <seg xml:id="FFM_65_02" corresp="#EWM_64_02"> ou qui les en détourne toûjours,</seg>
+               <seg xml:id="FFM_65_03" corresp="#EWM_64_03"> fait penser d'elle la même chose.</seg>
+            </p>
+         </div>
+         <div xml:id="fr" type="chapter" n="4">
+            <head>4. Du Coeur</head>
+            <div type="remark" n="52">
+               <head>52</head>
+               <p>
+                  <seg xml:id="FCR_52_01" corresp="#EHT_50_01">Quelque désagréement qu'on ait à se
+                     trouver chargé d'un indigent,</seg>
+                  <seg xml:id="FCR_52_02" corresp="#EHT_50_02">l'on goûte à peine les nouveaux
+                     avantages qui le tirent enfin de nôtre sujettion :</seg>
+                  <seg xml:id="FCR_52_03" corresp="#EHT_50_03">de même la joye que l'on reçoit de
+                     l'élevation de son ami</seg>
+                  <seg xml:id="FCR_52_04" corresp="#EHT_50_04"> est un peu balancée par la petite
+                     peine qu'on a de le voir au dessus de nous, ou s'égaler à nous :</seg>
+                  <seg xml:id="FCR_52_05" corresp="#EHT_50_05"> ainsi l'on s'accorde mal avec
+                     soy-même ; </seg>
+                  <seg xml:id="FCR_52_06" corresp="#EHT_50_06"> car l'on veut des dépendans, &amp;
+                     qu'il n'en coûte rien ;</seg>
+                  <seg xml:id="FCR_52_07" corresp="#EHT_50_07"> l'on veut aussi le bien de ses amis
+                     ;</seg>
+                  <seg xml:id="FCR_52_08" corresp="#EHT_50_08"> &amp; s'il arrive, ce n'est pas
+                     toûjours par s'en réjoüir que l'on commence.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="5">
             <head>5. De la Societé et de la Conversation.</head>
@@ -191,7 +220,6 @@
                      en avez.</seg>
                </p>
             </div>
-
             <div type="remark" n="69">
                <head>69</head>
                <p>
@@ -492,8 +520,41 @@
          <div xml:lang="en" type="chapter" n="3">
             <head>3. Of Women.</head>
          </div>
+         <div type="remark" n="64">
+            <head>64</head>
+            <p>
+               <seg xml:id="EWM_64_01" corresp="#FFM_65_01">The Woman that has her Eyes constantly
+                  fixt on one particular Person,</seg>
+               <seg xml:id="EWM_64_02" corresp="#FFM_65_02" ana="expan"> or whose Eyes you may
+                  observe constantly to avoid him ;</seg>
+               <seg xml:id="EWM_64_03" corresp="#FFM_65_03" ana="expan"> tho they are two different
+                  motions, they make us conclude but one and the same thing of her.</seg>
+            </p>
+         </div>
          <div xml:lang="en" type="chapter" n="4">
             <head>4. Of the Heart.</head>
+            <div type="remark" n="52">
+               <head>52</head>
+               <p>
+                  <seg xml:id="EHT_50_01" corresp="#FCR_52_01">Tho the charge of maintaining an
+                     indigent Person may be very burthensome to us,</seg>
+                  <seg xml:id="EHT_50_02" corresp="#FCR_52_02"> yet we cannot heartily relish the
+                     new Advantages which put him out of his Dependance on us :</seg>
+                  <seg xml:id="EHT_50_03" corresp="#FCR_52_03"> In the same manner, the pleasure
+                     which we take in the preferment of our Friend,</seg>
+                  <seg xml:id="EHT_50_04" corresp="#FCR_52_04"> is something abated, by a little
+                     sort of grudge we have, to see him advanced above us, or in an equal Condition
+                     with us.</seg>
+                  <seg xml:id="EHT_50_05" corresp="#FCR_52_05"> Thus we agree but ill with our
+                     selves.</seg>
+                  <seg xml:id="EHT_50_06" corresp="#FCR_52_06"> We would have others dependant on
+                     us, but to cost us nothing.</seg>
+                  <seg xml:id="EHT_50_07" corresp="#FCR_52_07"> We would have our Friends prosperous
+                     in the World,</seg>
+                  <seg xml:id="EHT_50_08" corresp="#FCR_52_08"> yet when their good Fortune comes,
+                     tis not always the first thing we do, to rejoyce at it.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="5">
             <head>5. Of Society and Conversation.</head>
