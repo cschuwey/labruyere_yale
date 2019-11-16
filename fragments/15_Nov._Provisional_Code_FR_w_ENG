@@ -274,7 +274,7 @@
                     <p>Il y a un goût dans la pure amitié où ne peuvent atteindre ceux qui sont nés médiocres.</p>
                 </div>
                 <div corresp="#eng_D2" type="remark" n="4.2" xml:id="fr_D2">
-                    <p>L'amitié peut subsister entre des gens de différents sexes, exempte même de toute grossièreté. Une femme cependant regarde toujours un homme comme un homme; et réciproquement un homme regarde une femme comme une femme. Cette liaison n'est ni passion ni amitié pure: elle fait une classe à part.</p>
+                    <p>L'amitié peut subsister entre des gens de différents sexes, exempte même de toute grossièreté. Une femme cependant regarde toujours un <seg key="homme">homme</seg> comme un <seg key="homme">homme</seg> ; et réciproquement un <seg key="homme">homme</seg> regarde une femme comme une femme. Cette liaison n'est ni passion ni amitié pure: elle fait une classe à part.</p>
                 </div>
                 <div corresp="#eng_D3" type="remark" n="4.3" xml:id="fr_D3">
                     <p>L'amour naît brusquement, sans autre réflexion, par tempérament ou par faiblesse: un trait de beauté nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le temps, par la pratique, par un long commerce. Combien d'esprit, de bonté de coeur, d'attachement, de services et de complaisance dans les amis, pour faire en plusieurs années bien moins que ne fait quelquefois en un moment un beau visage ou une belle main!</p>
@@ -312,10 +312,10 @@
                     <p>Un caractère bien fade est celui de n'en avoir aucun.</p>
                 </div>
                 <div corresp="#eng_E2" type="remark" n="5.2" xml:id="fr_E2">
-                    <p>C'est le rôle d'un sot d'être importun: un homme habile sent s'il convient ou s'il ennuie; il sait disparaître le moment qui précède celui où il serait de trop quelque part.</p>
+                    <p>C'est le rôle d'un sot d'être importun: un <seg key="homme">homme</seg> habile sent s'il convient ou s'il ennuie; il sait disparaître le moment qui précède celui où il serait de trop quelque part.</p>
                 </div>
                 <div corresp="#eng_E3" type="remark" n="5.3" xml:id="fr_E3">
-                    <p>L'on marche sur les mauvais plaisants, et il pleut par tout pays de cette sorte d'insectes. Un bon plaisant est une pièce rare; à un homme qui est né tel, il est encore fort délicat d'en soutenir longtemps le personnage; il n'est pas ordinaire que celui qui fait rire se fasse estimer.</p>
+                    <p>L'on marche sur les mauvais plaisants, et il pleut par tout pays de cette sorte d'insectes. Un bon plaisant est une pièce rare; à un <seg key="homme">homme</seg> qui est né tel, il est encore fort délicat d'en soutenir longtemps le personnage; il n'est pas ordinaire que celui qui fait rire se fasse estimer.</p>
                 </div>
                 <div corresp="#eng_E4" type="remark" n="5.4" xml:id="fr_E4">
                     <p>Il a beaucoup d'esprits obscènes, encore plus de médisants ou de satiriques, peu de délicats. Pour badiner avec grâce, et rencontrer heureusement sur les plus petits sujets, il faut trop de manières, trop de politesse, et même trop de fécondité: c'est créer que de railler ainsi, et faire quelque chose de rien.</p>
@@ -348,7 +348,7 @@
             <div corresp="#eng_F" xml:lang="french" type="chapter" n="6" xml:id="fr_F">
                 <head>Des biens de fortune</head>
                 <div corresp="#eng_F1" type="remark" n="6.1" xml:id="fr_F1">
-                    <p>Un homme fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves, jouir d'un palais à la campagne et d'un autre à la ville, avoir un grand équipage, mettre un duc dans sa famille, et faire de son fils un grand seigneur: cela est juste et de son ressort; mais il appartient peut-être à d'autres de vivre contents.</p>
+                    <p>Un <seg key="homme">homme</seg> fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves, jouir d'un palais à la campagne et d'un autre à la ville, avoir un grand équipage, mettre un duc dans sa famille, et faire de son fils un grand seigneur: cela est juste et de son ressort; mais il appartient peut-être à d'autres de vivre contents.</p>
                 </div>
                 <div corresp="#eng_F2" type="remark" n="6.2" xml:id="fr_F2">
                     <p>Une grande naissance ou une grande fortune annonce le mérite, et le fait plus tôt remarquer.</p>
@@ -357,10 +357,10 @@
                     <p>Ce qui disculpe le fat ambitieux de son ambition est le soin que l'on prend, s'il a fait une grande fortune, de lui trouver un mérite qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
                 </div>
                 <div corresp="#eng_F4" type="remark" n="6.4" xml:id="fr_F4">
-                    <p>À mesure que la faveur et les grands biens se retirent d'un homme, ils laissent voir en lui le ridicule qu'ils couvraient, et qui y était sans que personne s'en aperçût.</p>
+                    <p>À mesure que la faveur et les grands biens se retirent d'un <seg key="homme">homme</seg>, ils laissent voir en lui le ridicule qu'ils couvraient, et qui y était sans que personne s'en aperçût.</p>
                 </div>
                 <div corresp="#eng_F5" type="remark" n="6.5" xml:id="fr_F5">
-                    <p>Si l'on ne le voyait de ses yeux, pourrait-on jamais s'imaginer l'étrange disproportion que le plus ou le moins de pièces de monnaie met entre les hommes?</p>
+                    <p>Si l'on ne le voyait de ses yeux, pourrait-on jamais s'imaginer l'étrange disproportion que le plus ou le moins de pièces de monnaie met entre les <seg key="homme">hommes</seg> ?</p>
                     <p>Ce plus ou ce moins détermine à l'épée, à la robe ou à l'Église: il n'y a presque point d'autre vocation.</p>
                 </div>
                 </div>
@@ -402,13 +402,13 @@
                     <p>L'on s'attend au passage réciproquement dans une promenade publique; l'on y passe en revue l'un devant l'autre: carrosse, chevaux, livrées, armoiries, rien n'échappe aux yeux, tout est curieusement ou malignement observé; et selon le plus ou le moins de l'équipage, ou l'on respecte les personnes, ou on les dédaigne.</p>
                 </div>
                 <div corresp="#eng_G2" type="remark" n="7.2" xml:id="fr_G2">
-                    <p>Tout le monde connaît cette longue levée qui borne et qui resserre le lit de la Seine, du côté où elle entre à Paris avec la Marne, qu'elle vient de recevoir: les hommes s'y baignent au pied pendant les chaleurs de la canicule; on les voit de fort près se jeter dans l'eau; on les en voit sortir: c'est un amusement. Quand cette saison n'est pas venue, les femmes de la ville ne s'y promènent pas encore; et quand elle est passée, elles ne s'y promènent plus.</p>
+                    <p>Tout le monde connaît cette longue levée qui borne et qui resserre le lit de la Seine, du côté où elle entre à Paris avec la Marne, qu'elle vient de recevoir: les <seg key="homme">hommes</seg> s'y baignent au pied pendant les chaleurs de la canicule; on les voit de fort près se jeter dans l'eau; on les en voit sortir: c'est un amusement. Quand cette saison n'est pas venue, les femmes de la ville ne s'y promènent pas encore; et quand elle est passée, elles ne s'y promènent plus.</p>
                 </div>
                 <div corresp="#eng_G3" type="remark" n="7.3" xml:id="fr_G3">
                     <p>Dans ces lieux d'un concours général, où les femmes se rassemblent pour montrer une belle étoffe, et pour recueillir le fruit de leur toilette, on ne se promène pas avec une compagne par la nécessité de la conversation; on se joint ensemble pour, se rassurer sur le théâtre, s'apprivoiser avec le public, et se raffermir contre la critique: c'est là précisément qu'on se parle sans se rien dire, ou plutôt qu'on parle pour les passants, pour ceux même en faveur de qui l'on hausse sa voix, l'on gesticule et l'on badine, l'on penche négligemment la tête, l'on passe et l'on repasse.</p>
                 </div>
                 <div corresp="#eng_G4" type="remark" n="7.4" xml:id="fr_G4">
-                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont leurs lois, leurs usages, leur jargon, et leurs mots pour rire. Tant que cet assemblage est dans sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait que ce qui part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs: cela va jusques au mépris pour les gens qui ne sont pas initiés dans leurs mystères. L'homme du monde d'un meilleur esprit, que le hasard a porté au milieu d'eux, leur est étranger: il se trouve là comme dans un pays lointain, dont il ne connaît ni les routes, ni la langue ni les moeurs, ni la coutume; il voit un peuple qui cause, bourdonne, parle à l'oreille, éclate de rire, et qui retombe ensuite dans un morne silence; il y perd son maintien, ne trouve pas où placer un seul mot, et n'a pas même de quoi écouter. Il ne manque jamais là un mauvais plaisant qui domine, et qui est comme le héros de la société: celui-ci s'est chargé de la joie des autres, et fait toujours rire avant que d'avoir parlé. Si quelquefois une femme survient qui n'est point de leurs plaisirs, la bande joyeuse ne peut comprendre qu'elle ne sache point rire des choses qu'elle n'entend point, et paraisse insensible à des fadaises qu'ils n'entendent eux-mêmes que parce qu'ils les ont faites: ils ne lui pardonnent ni son ton de voix, ni son silence, ni sa taille, ni son visage, ni son habillement, ni son entrée, ni la manière dont elle est sortie. Deux années cependant ne passent point sur une même coterie: il y a toujours, dès la première année, des semences de division pour rompre dans celle qui doit suivre; l'intérêt de la beauté, les incidents du jeu, l'extravagance des repas, qui, modestes au commencement, dégénèrent bientôt en pyramides de viandes et en banquets somptueux, dérangent la république, et lui portent enfin le coup mortel: il n'est en fort peu de temps non plus parlé de cette nation que des mouches de l'année passée.</p>
+                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont leurs lois, leurs usages, leur jargon, et leurs mots pour rire. Tant que cet assemblage est dans sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait que ce qui part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs: cela va jusques au mépris pour les gens qui ne sont pas initiés dans leurs mystères. L'<seg key="homme">homme</seg> du monde d'un meilleur esprit, que le hasard a porté au milieu d'eux, leur est étranger: il se trouve là comme dans un pays lointain, dont il ne connaît ni les routes, ni la langue ni les moeurs, ni la coutume; il voit un peuple qui cause, bourdonne, parle à l'oreille, éclate de rire, et qui retombe ensuite dans un morne silence; il y perd son maintien, ne trouve pas où placer un seul mot, et n'a pas même de quoi écouter. Il ne manque jamais là un mauvais plaisant qui domine, et qui est comme le héros de la société: celui-ci s'est chargé de la joie des autres, et fait toujours rire avant que d'avoir parlé. Si quelquefois une femme survient qui n'est point de leurs plaisirs, la bande joyeuse ne peut comprendre qu'elle ne sache point rire des choses qu'elle n'entend point, et paraisse insensible à des fadaises qu'ils n'entendent eux-mêmes que parce qu'ils les ont faites: ils ne lui pardonnent ni son ton de voix, ni son silence, ni sa taille, ni son visage, ni son habillement, ni son entrée, ni la manière dont elle est sortie. Deux années cependant ne passent point sur une même coterie: il y a toujours, dès la première année, des semences de division pour rompre dans celle qui doit suivre; l'intérêt de la beauté, les incidents du jeu, l'extravagance des repas, qui, modestes au commencement, dégénèrent bientôt en pyramides de viandes et en banquets somptueux, dérangent la république, et lui portent enfin le coup mortel: il n'est en fort peu de temps non plus parlé de cette nation que des mouches de l'année passée.</p>
                 </div>
                 <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
                     <p>Il y a dans la ville la grande et la petite robe; et la première se venge sur l'autre des dédains de la cour, et des petites humiliations qu'elle y essuie. De savoir quelles sont leurs limites, où la grande finit, et où la petite commence, ce n'est pas une chose facile. Il se trouve même un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier: il ne se rend pas néanmoins, il cherche au contraire, par la gravité et par la dépense, à s'égaler à la magistrature, ou ne lui cède qu'avec peine: on l'entend dire que la noblesse de son emploi, l'indépendance de sa profession, le talent de la parole et le mérite personnel balancent au moins les sacs de mille francs que le fils du partisan ou du banquier a su payer pour son office.</p>
@@ -446,10 +446,10 @@
             <div corresp="#eng_H" xml:lang="french" type="chapter" n="8" xml:id="fr_H">
                 <head>De la cour</head>
                 <div corresp="#eng_H1" type="remark" n="8.1" xml:id="fr_H1">
-                    <p>Le reproche en un sens le plus honorable que l'on puisse faire à un homme, c'est de lui dire qu'il ne sait pas la cour: il n'y a sorte de vertus qu'on ne rassemble en lui par ce seul mot.</p>
+                    <p>Le reproche en un sens le plus honorable que l'on puisse faire à un <seg key="homme">homme</seg>, c'est de lui dire qu'il ne sait pas la cour: il n'y a sorte de vertus qu'on ne rassemble en lui par ce seul mot.</p>
                 </div>
                 <div corresp="#eng_H2" type="remark" n="8.2" xml:id="fr_H2">
-                    <p>Un homme qui sait la cour est maître de son geste, de ses yeux et de son visage; il est profond, impénétrable; il dissimule les mauvais offices, sourit à ses ennemis, contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments. Tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile au courtisan pour sa fortune, que la franchise, la sincérité et la vertu.</p>
+                    <p>Un <seg key="homme">homme</seg> qui sait la cour est maître de son geste, de ses yeux et de son visage; il est profond, impénétrable; il dissimule les mauvais offices, sourit à ses ennemis, contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments. Tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile au courtisan pour sa fortune, que la franchise, la sincérité et la vertu.</p>
                 </div>
                 <div corresp="#eng_H3" type="remark" n="8.3" xml:id="fr_H3">
                     <p>Qui peut nommer de certaines couleurs changeantes, et qui sont diverses selon les divers jours dont on les regarde? de même, qui peut définir la cour ?</p>
@@ -517,7 +517,7 @@
                         continuer d'être ce qu'ils sont, et de vous laisser tel que vous êtes.</p>
                 </div>
                 <div corresp="#eng_I3" type="remark" n="9.3" xml:id="fr_I3">
-                    <p>L'avantage des grands sur les autres hommes est immense par un endroit:
+                    <p>L'avantage des grands sur les autres <seg key="homme">hommes</seg> est immense par un endroit:
                         je leur cède leur bonne chère, leurs riches ameublements, leurs chiens,
                         leurs chevaux, leurs singes, leurs nains, leurs fous et leurs flatteurs;
                         mais je leur envie le bonheur d'avoir à leur service des gens qui les
@@ -532,12 +532,12 @@
                 </div>
                 <div corresp="#eng_I5" type="remark" n="9.5" xml:id="fr_I5">
                     <p>On demande si en comparant ensemble les différentes conditions des
-                        hommes, leurs peines, leurs avantages, on n'y remarquerait pas un
+                        <seg key="homme">hommes</seg>, leurs peines, leurs avantages, on n'y remarquerait pas un
                         mélange ou une espèce de compensation de bien et de mal, qui établirait
                         entre elles l'égalité, ou qui ferait du moins que l'un ne serait guère
                         plus désirable que l'autre. Celui qui est puissant, riche, et à qui il
                         ne manque rien, peut former cette question; mais il faut que ce soit un
-                        homme pauvre qui la décide.</p>
+                        <seg key="homme">homme</seg> pauvre qui la décide.</p>
                     <p>Il ne laisse pas d'y avoir comme un charme attaché à chacune des
                         différentes conditions, et qui y demeure jusques à ce que la misère l'en
                         ait ôté. Ainsi les grands se plaisent dans l'excès, et les petits aiment
@@ -601,7 +601,7 @@
                     <p>Il ne faut ni art ni science pour exercer la tyrannie, et la politique
                         qui ne consiste qu'à répandre le sang est fort bornée et de nul
                         raffinement; elle inspire de tuer ceux dont la vie est un obstacle à
-                        notre ambition: un homme né cruel fait cela sans peine. C'est la manière
+                        notre ambition: un <seg key="homme">homme</seg> né cruel fait cela sans peine. C'est la manière
                         la plus horrible et la plus grossière de se maintenir ou de s'agrandir.</p>
                 </div>
                 <div corresp="#eng_J3" type="remark" n="10.3" xml:id="fr_J3">
@@ -651,15 +651,15 @@
                 </div>
             </div>
             <div corresp="#eng_K" xml:lang="french" type="chapter" n="11" xml:id="fr_K">
-                <head>De l'homme</head>
+                <head>De l'<seg key="homme">homme</seg></head>
                 <div corresp="#eng_K1" type="remark" n="11.1" xml:id="fr_K1">
-                    <p>Ne nous emportons point contre les hommes en voyant leur dureté, leur
+                    <p>Ne nous emportons point contre les <seg key="homme">hommes</seg> en voyant leur dureté, leur
                         ingratitude, leur injustice, leur fierté, l'amour d'eux-mêmes, et
                         l'oubli des autres: ils sont ainsi faits, c'est leur nature, c'est ne
                         pouvoir supporter que la pierre tombe ou que le feu s'élève.</p>
                 </div>
                 <div corresp="#eng_K2" type="remark" n="11.2" xml:id="fr_K2">
-                    <p>Les hommes en un sens ne sont point légers, ou ne le sont que dans les
+                    <p>Les <seg key="homme">hommes</seg> en un sens ne sont point légers, ou ne le sont que dans les
                         petites choses. Ils changent leurs habits, leur langage, les dehors, les
                         bienséances; ils changent de goût quelquefois: ils gardent leurs moeurs
                         toujours mauvaises, fermes et constants dans le mal, ou dans
@@ -674,7 +674,7 @@
                         vaincu ni par le plaisir ni par la douleur; sentir le fer ou le feu dans
                         quelque partie de son corps sans pousser le moindre soupir, ni jeter une
                         seule larme; et ce fantôme de vertu et de constance ainsi imaginé, il
-                        leur a plu de l'appeler un sage. Ils ont laissé à l'homme tous les
+                        leur a plu de l'appeler un sage. Ils ont laissé à l'<seg key="homme">homme</seg> tous les
                         défauts qu'ils lui ont trouvés, et n'ont presque relevé aucun de ses
                         faibles. Au lieu de faire de ses vices des peintures affreuses ou
                         ridicules qui servissent à l'en corriger, ils lui ont tracé l'idée d'une
@@ -684,7 +684,7 @@
                         les événements et de tous les maux: ni la goutte la plus douloureuse, ni
                         la colique la plus aiguë ne sauraient lui arracher une plainte; le ciel
                         et la terre peuvent être renversés sans l'entraîner dans leur chute, et
-                        il demeurerait ferme sur les ruines de l'univers: pendant que l'homme
+                        il demeurerait ferme sur les ruines de l'univers: pendant que l'<seg key="homme">homme</seg>
                         qui est en effet sort de son sens, crie, se désespère, étincelle des
                         yeux, et perd la respiration pour un chien perdu ou pour une porcelaine
                         qui est en pièces.</p>
@@ -696,7 +696,7 @@
                         l'un l'autre dans un même sujet.</p>
                 </div>
                 <div corresp="#eng_K5" type="remark" n="11.5" xml:id="fr_K5">
-                    <p>Il est difficile de décider si l'irrésolution rend l'homme plus
+                    <p>Il est difficile de décider si l'irrésolution rend l'<seg key="homme">homme</seg> plus
                         malheureux que méprisable; de même s'il y a toujours plus d'inconvénient
                         à prendre un mauvais parti, qu'à n'en prendre aucun.</p>
                 </div>
@@ -805,7 +805,7 @@
                         sont en tout cela ce qu'il n'admire point; il ne va pas plus loin que
                         l'oignon de sa tulipe, qu'il ne livrerait pas pour mille écus, et qu'il
                         donnera pour rien quand les tulipes seront négligées et que les oeillets
-                        auront prévalu. Cet homme raisonnable, qui a une âme, qui a un culte et
+                        auront prévalu. Cet <seg key="homme">homme</seg> raisonnable, qui a une âme, qui a un culte et
                         une religion, revient chez soi fatigué, affamé, mais fort content de sa
                         journée: il a vu des tulipes.</p>
                     <p>Parlez à cet autre de la richesse des moissons, d'une ample récolte,
@@ -820,10 +820,10 @@
                         donne une moitié, et prend l'autre: «Quelle chair! dit-il; goûtez-vous
                         cela? cela est-il divin? voilà ce que vous ne trouverez pas ailleurs.»
                         Et là-dessus ses narines s'enflent; il cache avec peine sa joie et sa
-                        vanité par quelques dehors de modestie. Ô l'homme divin en effet! homme
-                        qu'on ne peut jamais assez louer et admirer! homme dont il sera parlé
+                        vanité par quelques dehors de modestie. Ô l'<seg key="homme">homme</seg> divin en effet! <seg key="homme">homme</seg>
+                        qu'on ne peut jamais assez louer et admirer! <seg key="homme">homme</seg> dont il sera parlé
                         dans plusieurs siècles! que je voie sa taille et son visage pendant
-                        qu'il vit; que j'observe les traits et la contenance d'un homme qui seul
+                        qu'il vit; que j'observe les traits et la contenance d'un <seg key="homme">homme</seg> qui seul
                         entre les mortels possède une telle prune!</p>
                     <p>Un troisième que vous allez voir vous parle des curieux ses confrères,
                         et surtout de Diognète. «Je l'admire, dit-il, et je le comprends moins
@@ -862,7 +862,7 @@
                         écouter.</p>
                     <p>Mais quand il ajoute que les livres en apprennent plus que les voyages,
                         et qu'il m'a fait comprendre par ses discours qu'il a une bibliothèque,
-                        je souhaite de la voir: je vais trouver cet homme, qui me reçoit dans
+                        je souhaite de la voir: je vais trouver cet <seg key="homme">homme</seg>, qui me reçoit dans
                         une maison où dès l'escalier je tombe en faiblesse d'une odeur de
                         maroquin noir dont ses livres sont tous couverts. Il a beau me crier aux
                         oreilles, pour me ranimer, qu'ils sont dorés sur tranche, ornés de
@@ -897,7 +897,7 @@
                     <p>Un bourgeois aime les bâtiments; il se fait bâtir un hôtel si beau, si
                         riche et si orné, qu'il est inhabitable. Le maître, honteux de s'y
                         loger, ne pouvant peut-être se résoudre à le louer à un prince ou à un
-                        homme d'affaires, se retire au galetas, où il achève sa vie, pendant que
+                        <seg key="homme">homme</seg> d'affaires, se retire au galetas, où il achève sa vie, pendant que
                         l'enfilade et les planchers de rapport sont en proie aux Anglais et aux
                         Allemands qui voyagent, et qui viennent là du Palais-Royal, du palais L...
                         G... et du Luxembourg. On heurte sans fin à cette porte; tous demandent à
@@ -919,7 +919,7 @@
                         aboyé. Ce n'est plus pour Diphile un agréable amusement, c'est une
                         affaire laborieuse, et à laquelle à peine il peut suffire. Il passe les
                         jours, ces jours qui échappent et qui ne reviennent plus, à verser du
-                        grain et à nettoyer des ordures. Il donne pension à un homme qui n'a
+                        grain et à nettoyer des ordures. Il donne pension à un <seg key="homme">homme</seg> qui n'a
                         point d'autre ministère que de siffler des serins au flageolet et de
                         faire couver des canaris. Il est vrai que ce qu'il dépense d'un côté, il
                         l'épargne de l'autre, car ses enfants sont sans maîtres et sans
@@ -935,7 +935,7 @@
                         singulier et de plus merveilleux, qu'il veut vendre ses coquilles?
                         Pourquoi non, s'il les achète au poids de l'or?</p>
                     <p>Cet autre aime les insectes; il en fait tous les jours de nouvelles
-                        emplettes: c'est surtout le premier homme de l'Europe pour les
+                        emplettes: c'est surtout le premier <seg key="homme">homme</seg> de l'Europe pour les
                         papillons; il en a de toutes les tailles et de toutes les couleurs. Quel
                         temps prenez-vous pour lui rendre visite? il est plongé dans une amère
                         douleur; il a l'humeur noire, chagrine, et dont toute la famille
@@ -947,10 +947,10 @@
                     <p>Le duel est le triomphe de la mode, et l'endroit où elle a exercé sa
                         tyrannie avec plus d'éclat. Cet usage n'a pas laissé au poltron la
                         liberté de vivre; il l'a mené se faire tuer par un plus brave que soi,
-                        et l'a confondu avec un homme de coeur; il a attaché de l'honneur et de
+                        et l'a confondu avec un <seg key="homme">homme</seg> de coeur; il a attaché de l'honneur et de
                         la gloire à une action folle et extravagante; il a été approuvé par la
                         présence des rois; il y a eu quelquefois une espèce de religion à le
-                        pratiquer; il a décidé de l'innocence des hommes, des accusations
+                        pratiquer; il a décidé de l'innocence des <seg key="homme">hommes</seg>, des accusations
                         fausses ou véritables sur des crimes capitaux; il s'était enfin si
                         profondément enraciné dans l'opinion de peuples; et s'était si fort
                         saisi de leur coeur et de leur esprit; qu'un des plus beaux endroits de
@@ -959,13 +959,13 @@
                 <div corresp="#eng_M4" type="remark" n="13.4" xml:id="fr_M4">
                     <p>Tel a été à la mode, ou pour le commandement des armées et la
                         négociation ou pour l'éloquence de la chaire, ou pour les vers, qui n'y
-                        est plus. Y a-t-il des hommes qui dégénèrent de ce qu'ils furent
+                        est plus. Y a-t-il des <seg key="homme">hommes</seg> qui dégénèrent de ce qu'ils furent
                         autrefois? Est-ce leur mérite qui est usé, ou le goût que l'on avait
                         pour eux?</p>
                 </div>
                 <div corresp="#eng_M5" type="remark" n="13.5" xml:id="fr_M5">
-                    <p>Un homme à la mode dure peu, car les modes passent: s'il est par
-                        hasard homme de mérite, il n'est pas anéanti, et il subsiste encore par
+                    <p>Un <seg key="homme">homme</seg> à la mode dure peu, car les modes passent: s'il est par
+                        hasard <seg key="homme">homme</seg> de mérite, il n'est pas anéanti, et il subsiste encore par
                         quelque endroit: également estimable, il est seulement moins estimé.</p>
                     <p>La vertu a cela d'heureux, qu'elle se suffit à elle-même, et
                         qu'elle sait se passer d'admirateurs, de partisans et de protecteurs; le
@@ -1210,7 +1210,7 @@
                 <div corresp="#eng_N3" type="remark" n="14.3" xml:id="fr_N3">
                     <p>Réhabilitations, mot en usage dans les tribunaux, qui a fait vieillir et
                         rendu gothique celui de lettres de noblesse autrefois si français et si
-                        usité; se faire réhabiliter suppose qu'un homme devenu riche
+                        usité; se faire réhabiliter suppose qu'un <seg key="homme">homme</seg> devenu riche
                         originairement est noble, qu'il est d'une nécessité plus que morale
                         qu'il le soit; qu'à la vérité son père a pu déroger ou par la charrue ou
                         par la houe, ou par la malle, ou par les livrées; mais qu'il ne s'agit
@@ -1222,7 +1222,7 @@
                         riche.</p>
                 </div>
                 <div corresp="#eng_N4" type="remark" n="14.4" xml:id="fr_N4">
-                    <p>Un homme du peuple, à force d'assurer qu'il a vu un prodige, se persuade
+                    <p>Un <seg key="homme">homme</seg> du peuple, à force d'assurer qu'il a vu un prodige, se persuade
                         faussement qu'il a vu un prodige. Celui qui continue de cacher son âge
                         pense enfin lui-même être aussi jeune qu'il veut le faire croire aux
                         autres. De même le roturier qui dit par habitude qu'il tire son origine
@@ -1327,12 +1327,12 @@
                         une chose, que, comme il ne cherche point à les rendre meilleurs, ils ne
                         pensent pas aussi à le devenir.</p>
                     <p>Un apprenti est docile, il écoute son maître, il profite de ses
-                        leçons, et il devient maître. L'homme indocile critique le discours du
+                        leçons, et il devient maître. L'<seg key="homme">homme</seg> indocile critique le discours du
                         prédicateur, comme le livre du philosophe, et il ne devient ni chrétien
                         ni raisonnable.</p>
                 </div>
                 <div corresp="#eng_O3" type="remark" n="15.3" xml:id="fr_O3">
-                    <p>Jusqu'à ce qu'il revienne un homme qui, avec un style nourri des saintes
+                    <p>Jusqu'à ce qu'il revienne un <seg key="homme">homme</seg> qui, avec un style nourri des saintes
                         Écritures, explique au peuple la parole divine uniment et familièrement,
                         les orateurs et les déclamateurs seront suivis.</p>
                 </div>
@@ -1343,17 +1343,17 @@
                         mouvements qui inspirent la conversion.</p>
                 </div>
                 <div corresp="#eng_O5" type="remark" n="15.5" xml:id="fr_O5">
-                    <p>Cet homme que je souhaitais impatiemment, et que je ne daignais pas
+                    <p>Cet <seg key="homme">homme</seg> que je souhaitais impatiemment, et que je ne daignais pas
                         espérer de notre siècle, est enfin venu. Les courtisans, à force de goût
                         et de connaître les bienséances, lui ont applaudi; ils ont, chose
                         incroyable! abandonné la chapelle du Roi, pour venir entendre avec le
-                        peuple la parole de Dieu annoncée par cet homme apostolique. La ville
+                        peuple la parole de Dieu annoncée par cet <seg key="homme">homme</seg> apostolique. La ville
                         n'a pas été de l'avis de la cour: où il a prêché, les paroissiens ont
                         déserté, jusqu'aux marguilliers ont disparu; les pasteurs ont tenu
                         ferme, mais les ouailles se sont dispersées, et les orateurs voisins en
                         ont grossi leur auditoire. Je devais le prévoir, et ne pas dire qu'un
-                        tel homme n'avait qu'à se montrer pour être suivi, et qu'à parler pour
-                        être écouté: ne savais-je pas quelle est dans les hommes, et en toutes
+                        tel <seg key="homme">homme</seg> n'avait qu'à se montrer pour être suivi, et qu'à parler pour
+                        être écouté: ne savais-je pas quelle est dans les <seg key="homme">homme</seg>, et en toutes
                         choses, la force indomptable de l'habitude? Depuis trente années on
                         prête l'oreille aux rhéteurs, aux déclamateurs, aux énumérateurs; on
                         court ceux qui peignent en grand ou en miniature. Il n'y a pas longtemps
@@ -1386,7 +1386,7 @@
                         souffler leurs auditeurs. Vains discours, paroles perdues! Le temps des
                         homélies n'est plus; les Basiles, les Chrysostomes ne le ramèneraient
                         pas; on passerait en d'autres diocèses pour être hors de la portée de
-                        leur voix et de leurs familières instructions. Le commun des hommes aime
+                        leur voix et de leurs familières instructions. Le commun des <seg key="homme">homme</seg> aime
                         les phrases et les périodes, admire ce qu'il n'entend pas, se suppose
                         instruit, content de décider entre un premier et un second point, ou
                         entre le dernier sermon et le pénultième.</p>
@@ -1524,7 +1524,7 @@
                         est la terre; qui n'estiment rien, qui n'aiment rien au delà: gens aussi
                         limités que ce qu'ils appellent leurs possessions ou leur domaine, que
                         l'on mesure, dont on compte les arpents, et dont on montre les bornes.
-                        Je ne m'étonne pas que des hommes qui s'appuient sur un atome
+                        Je ne m'étonne pas que des <seg key="homme">hommes</seg> qui s'appuient sur un atome
                         chancellent dans les moindres efforts qu'ils font pour sonder la vérité,
                         si avec des vues si courtes ils ne percent point à travers le ciel et
                         les astres, jusques à Dieu même; si, ne s'apercevant point ou de
@@ -1549,7 +1549,7 @@
                         leur bienséance: ils ne se fixent point, ils sortent sans emplette.</p>
                 </div>
                 <div corresp="#eng_P5" type="remark" n="16.5" xml:id="fr_P5">
-                    <p>Il y a des hommes qui attendent à être dévots et religieux que tout le
+                    <p>Il y a des <seg key="homme">hommes</seg> qui attendent à être dévots et religieux que tout le
                         monde se déclare impie et libertin: ce sera alors le parti du vulgaire,
                         ils sauront s'en dégager. La singularité leur plaît dans une matière si
                         sérieuse et si profonde; ils ne suivent la mode et le train commun que
@@ -1625,14 +1625,7 @@
                 </div>
             </div>
         </body>
-        <!-- ... -->
-        <join corresp="#MAN" xml:lang="french" xml:id="HOMME" target="#fr_A1 #fr_A3">
-            <desc>collection of "HOMME" occurrences</desc>
-        </join>
-        <join corresp="#HOMME" xml:lang="english" xml:id="MAN" target="#eng_A1 #eng_A3 #eng_A9">
-            <desc>collection of "MAN" occurrences</desc>
-        </join>
-    </text>
+     </text>
 </TEI>
 
 
