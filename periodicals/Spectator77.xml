@@ -15,12 +15,12 @@
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies 
-          and Digital Editing course at the University of Washington in the Fall Quarter of 2019. 
+        <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies
+          and Digital Editing course at the University of Washington in the Fall Quarter of 2019.
           The edition explores the connections between Jean de La Bruyère’s portrait of Ménalque,
-          the absent-minded man,in Les Caractères and Eustace Budgell’s essay on Will Honeycombe, 
-          which appears in Addison and Steele’s Spectator issue number 77, originally published 
-          May 29, 1711.</p>
+          the absent-minded man,in Les Caractères and Eustace Budgell’s essay on Will Honeycombe,
+          which appears in Addison and Steele’s Spectator issue number 77, originally published May
+          29, 1711.</p>
       </publicationStmt>
       <sourceDesc>
         <biblStruct>
@@ -59,28 +59,29 @@
           <graphic url="image.jpg"/>
         </figure>
       </head>
-      <p>My friend <persName rend="sc">WILL. HONEYCOMBE</persName> is one of those Sort of Men who
-        are very often absent in Conversation, and what the French call <foreign xml:lang="fr"
-          rend="italics">a reveur</foreign> and <foreign xml:lang="fr" rend="italics">a
-          distrait</foreign>. A little before our Club-time last Night, we were walking together in
-            <placeName><hi rend="italics">Somerset</hi> Garden</placeName>, where <persName
-          rend="sc">WILL</persName> had picked up a small Pebble of so odd a make, that he said he
-        would present it to a Friend of his, an eminent Virtuoso. After we had walked some time, I
-        made a full stop with my Face towards the West, which <persName rend="sc">WILL</persName>.
-        knowing to be my usual Method of asking what's o'Clock, in an Afternoon, immediately pulled
-        out his Watch, and told me we had seven Minutes good. We took a turn or two more, when, to
-        my great Surprize I saw him squirr away his Watch a considerable way into the <placeName
-          rend="italics">Thames</placeName>, and with great Sedateness in his Looks put up the
-        Pebble, he had before found, in his fob. As I have naturally an Aversion to much Speaking,
-        and do not love to be the Messenger of Ill News, especially when it comes too late to be
-        useful, I left him to be convinced of his mistake in due time, and continued my Walk,
-        reflecting on these little Absences and Distractions in Mankind, and resolving to make them
-        the Subject of a future Speculation.</p>
+      <p>My friend <ref target="MT_B_1"><persName rend="sc">WILL. HONEYCOMBE</persName></ref> is one
+        of those Sort of Men who are very often absent in Conversation, and what the French call
+          <foreign xml:lang="fr" rend="italics">a reveur</foreign> and <foreign xml:lang="fr"
+          rend="italics">a distrait</foreign>. <ref target="#MT_B_2">A little before our Club-time
+          last Night, we were walking together in <placeName><hi rend="italics">Somerset</hi>
+            Garden</placeName>, where <persName rend="sc">WILL</persName> had picked up a small
+          Pebble of so odd a make, that he said he would present it to a Friend of his, an eminent
+          Virtuoso. After we had walked some time, I made a full stop with my Face towards the West,
+          which <persName rend="sc">WILL</persName>. knowing to be my usual Method of asking what's
+          o'Clock, in an Afternoon, immediately pulled out his Watch, and told me we had seven
+          Minutes good. We took a turn or two more, when, to my great Surprize I saw him squirr away
+          his Watch a considerable way into the <placeName rend="italics">Thames</placeName>, and
+          with great Sedateness in his Looks put up the Pebble, he had before found, in his fob. As
+          I have naturally an Aversion to much Speaking, and do not love to be the Messenger of Ill
+          News, especially when it comes too late to be useful, I left him to be convinced of his
+          mistake in due time, and continued my Walk, reflecting on these little Absences and
+          Distractions in Mankind, and resolving to make them the Subject of a future
+          Speculation.</ref></p>
 
-      <p>I was the more confirmed in my Design, when I considered that they were very often
+      <p><ref target="#MT_B_4">I was the more confirmed in my Design, when I considered that they were very often
         Blemishes in the Characters of Men of Excellent Sense; and helped to keep up the Reputation
         of that <hi rend="italics">Latin</hi> proverb, which Mr. <persName rend="italics"
-          >Dryden</persName> has Translated in the following Lines:</p>
+          >Dryden</persName> has Translated in the following Lines:</ref></p>
 
       <p><quote type="translation" rend="italics"><l>Great Wit to Madness Sure is near ally'd,</l>
           <l>And thin Partitions do their Bounds divide.</l></quote></p>
@@ -161,31 +162,32 @@
           amazed; <persName rend="italics">Menalcas</persName> is no less so, but is every Moment in
           hopes that his impertinent Guest will at last end his tedious Visit. Night comes on, when
             <persName rend="italics">Menalcas</persName> is hardly undeceived.</p>
-        <p>When he is playing at Backgammon, he calls for a full Glass of Wine and Water; 'tis his
-          turn to throw, he has the Box in one Hand, and his Glass in the other, and being extremely
-          dry, and unwilling to lose Time, he swallows down both the Dice, and at the same time
-          throws his Wine into the Tables. He writes a Letter, and flings the Sand into the
-          Ink-bottle; he writes a second, and mistakes the Superscription : A Noble-man receives one
-          of them, and upon opening it reads as follows. <hi rend="italics">I would have you, honest
-              <persName>Jack</persName>, immediately on the Receipt of this, take in Hay enough to
-            serve me the Winter</hi>. His farmer receives the other, and is amazed to see in it, <hi
-            rend="italics">My lord, I received your Grace's Commands, with an intire Submission
-            to</hi>-- If he is at an Entertainment, you may see the Pieces of Bread continually
-          multiplying around his Plate: 'Tis true the rest of the Company want it, as well as their
-          Knives and Forks, which <persName rend="italics">Menalcas</persName> does not let them
-          keep long. Sometimes in a Morning he puts his whole Family in a hurry, and at last goes
-          out without being able to stay for his Coach or Dinner; and for that Day you may see him
-          in every part of the Town, except the very Place where he had appointed to be upon a
-          Business of Importance. You would often take him for every thing that he is not; for a
-          Fellow quite Stupid, for he hears nothing; for a Fool, for he talks to himself, and
-          has <cb/> an hundred Grimaces and Motions with his Head, which are altogether involuntary;
-          for a proud Man, for he looks full upon you, and takes no notice of your Saluting him: The
-          Truth on't is, his Eyes are open, but he makes no use of them, and neither sees you, nor
-          any Man, nor any thing else. He came once from his Country-house, and his own Footmen
-          undertook to rob him, and succeeded; They held a Flambeau to his Throat, and bid him
-          deliver his Purse; he did so, and coming home told his Friends he had been robbed; they
-          desired to know the Particulars. <said>Ask my Servants</said>, says <persName
-            rend="italics">Menalcas</persName>, <said>for they were with me</said>.</p>
+        <p><ref target="#MT_B_3">When he is playing at Backgammon, he calls for a full Glass of Wine
+            and Water; 'tis his turn to throw, he has the Box in one Hand, and his Glass in the
+            other, and being extremely dry, and unwilling to lose Time, he swallows down both the
+            Dice, and at the same time throws his Wine into the Tables. He writes a Letter, and
+            flings the Sand into the Ink-bottle; he writes a second, and mistakes the Superscription
+            : A Noble-man receives one of them, and upon opening it reads as follows. <hi
+              rend="italics">I would have you, honest <persName>Jack</persName>, immediately on the
+              Receipt of this, take in Hay enough to serve me the Winter</hi>. His farmer receives
+            the other, and is amazed to see in it, <hi rend="italics">My lord, I received your
+              Grace's Commands, with an intire Submission to</hi>--</ref> If he is at an
+          Entertainment, you may see the Pieces of Bread continually multiplying around his Plate:
+          'Tis true the rest of the Company want it, as well as their Knives and Forks, which
+            <persName rend="italics">Menalcas</persName> does not let them keep long. Sometimes in a
+          Morning he puts his whole Family in a hurry, and at last goes out without being able to
+          stay for his Coach or Dinner; and for that Day you may see him in every part of the Town,
+          except the very Place where he had appointed to be upon a Business of Importance. You
+          would often take him for every thing that he is not; for a Fellow quite Stupid, for he
+          hears nothing; for a Fool, for he talks to himself, and has <cb/> an hundred Grimaces and
+          Motions with his Head, which are altogether involuntary; for a proud Man, for he looks
+          full upon you, and takes no notice of your Saluting him: The Truth on't is, his Eyes are
+          open, but he makes no use of them, and neither sees you, nor any Man, nor any thing else.
+          He came once from his Country-house, and his own Footmen undertook to rob him, and
+          succeeded; They held a Flambeau to his Throat, and bid him deliver his Purse; he did so,
+          and coming home told his Friends he had been robbed; they desired to know the Particulars.
+            <said>Ask my Servants</said>, says <persName rend="italics">Menalcas</persName>,
+            <said>for they were with me</said>.</p>
       </quote>
 
       <p><hi rend="sc">ADVERTISEMENTS.</hi></p>
@@ -193,66 +195,106 @@
       <p>For the Benefit of <persName>Mr. Elrington</persName> and <persName>Mrs. Mills</persName>.
         At the Desire of Several Ladies of Quality By Her Majesty's Company of Comedians.</p>
 
-      <p>At the <placeName>Theatre Royal in Drury-lane</placeName>, this present <date>Tuesday, the 29th of May,</date> will be
-        presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester is to be preform'd by <persName>Mr.
-          Mills</persName>, <gap reason="illegible"> </gap> by Mr. Pack, Sir. Thm Valere by Mr. Bullock,<gap reason="illegible"> </gap>
-        Hazard by Mr. Bowen, Count Cog-Die by Mr. Bullock, <gap reason="illegible"> </gap> Lady Wealthy by Mrs. Porter,
-        Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"> </gap>- rity by Mr. Willis, Favourite by Mrs. Mills,
-        Boxkeeper to the Ga<gap reason="illegible"> </gap> Tube by Mr. Leigh.</p>
-        presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester is to be perform'd by <persName>Mr.
-          Mills</persName>, <gap reason="illegible"> </gap> by <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr. Bullock</persName>, [Unreadable] [Unreadable]
-      Hazard by <persName>Mr. Bowen</persName>, <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap reason="illegible"> </gap> <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
-      Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"> </gap>- rity by Mr. Willis, Favourite by Mrs. Mills,
-      Boxkeeper to the Ga<gap reason="illegible"> </gap> Tube by Mr. Leigh.</p>
+      <p>At the <placeName>Theatre Royal in Drury-lane</placeName>, this present <date>Tuesday, the
+          29th of May,</date> will be presented a Comedy, called, <title>The Gamester</title>. The
+        part of the Gamester is to be preform'd by <persName>Mr. Mills</persName>, <gap
+          reason="illegible"/> by Mr. Pack, Sir. Thm Valere by Mr. Bullock,<gap reason="illegible"/>
+        Hazard by Mr. Bowen, Count Cog-Die by Mr. Bullock, <gap reason="illegible"> </gap> Lady
+        Wealthy by Mrs. Porter, Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"/> - rity by
+        Mr. Willis, Favourite by Mrs. Mills, Boxkeeper to the Ga<gap reason="illegible"/> Tube by
+        Mr. Leigh. presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester
+        is to be perform'd by <persName>Mr. Mills</persName>, <gap reason="illegible"/> by
+          <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr.
+          Bullock</persName>, <gap reason="illegible"/> Hazard by <persName>Mr. Bowen</persName>,
+          <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap
+          reason="illegible"/>
+        <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
+          <persName>Angelica</persName> by <persName>Mrs. Bradshaw</persName>, Mrs. <gap
+          reason="illegible"/> -rity by <persName>Mr. Willis,</persName> Favourite by <persName>Mrs.
+          Mills</persName>, Boxkeeper to the Ga<gap reason="illegible"/> Tube by <persName>Mr.
+          Leigh</persName>.</p>
 
-      <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's Head</placeName> over-against <placeName>Catherine Street in the
-        Strand</placeName>.</p>
+      <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
+          Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName>.</p>
 
       <p>The Entertainment of Musick, consisting of a Poets ca'led, The Passion of Sappho, Written
-        by Mr. Harison, and <ref target="F_S_1" type="annotation">The F <gap reason="illegible"> </gap> of Alexander</ref>, Written by Mr. Dryden, as they are Set
-        to Musick by Mr. Thomas Clayton (Author of <gap reason="illegible"> </gap>) will be Preformed at his
-        <gap reason="illegible"> </gap> in York-Buildings, this Day, being the 29th of <gap reason="illegible"> </gap>, Beginning at
-        <gap reason="illegible"> </gap> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap reason="illegible"> </gap>
-        the Corner of the Bedford-Buildings, and at Mr. Eliot's St. James's Coffee-house. No Mony
-        receiv'd, or Tickets given out at the House.</p> 
-       <p>This Poem is Sold by Jacob Tenfon at Shakespear's Head over- against Catherine Street in the Strand</p> 
-       <p>Just Publish'd,</p> 
-       <p>An Account of the present State and Govenrment of the Empire of Germany: In a Letter to Thomas Foley of
-        Whit- ley in the County of Worcester, Esq. by Mr. Vassor. Printed for Jacob Tenfon at
-        Shakespear's Head over-against Catherine Street in the Strand.</p> 
-       <p>To be Sold, at a lower Rate than ordinary, at the Queen's Head, joining to the Church Gate in Bedford Street, Covent
-        Garden, all Sorts of Duggers, Hair, and Worsted, Camlets, <gap reason="illegible"> </gap> Duroys, Shagreens,
-        Shalloons, Durants. Padua Serges, Shags, Serge de Nisms, Calamaneoes, and all other Goods
-        fit for Mens Apparel. The Persons who now keep the Shop designing to have off the Trade, and
-        the House and Shop to ne Lett at Michaelmas next. </p>
-        <p>A convenient House to be Lett at
-        East-Acton in Middlesex, four Rooms on a Floor, wall'd in, with Caoch-house, Stabling,
-        Orchard, Garden, and all Conveniencies belonging to it, in very good Repair. Whosoever takes
-        it may into it as soon as they please. Inquire at Mr. Lumley's, or at the House, both in
-        East- Acton aforesaid.</p> 
-      <p>All sorts of Silk Gowns, being in fresh Parcel of rich Brocades,
-        Venetians, Tissues, Tabbies, Damasks, and Sattins, bought up the last Sale, and made into
-        Gowns, with gentile and suitable Linings, to be Sold very cheap at Mrs. Attaway's in
-        Deveroux Court in the Passage from the Temple to the Essex Buildings, the lowest Price being
-        writ upon each Gown. Note, there is a fresh Parcel of thread Sattin Gowns lined with thread
-        Sattins.</p> 
-      <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print.
-        It makes them Delicately white, sleeke and plump; fortifies them against the Scortching heat
-        of the Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it
-        will recover them. Sold only at Mr. Aller<gap reason="illegible"> </gap> shop, over against the Royal
+        by <persName>Mr. Harison</persName>, and <ref target="F_S_1" type="annotation">The F <gap
+            reason="illegible"/> of Alexander</ref>, Written by <persName>Mr. Dryden</persName>, as
+        they are Set to Musick by <persName>Mr. Thomas Clayton</persName> (Author of <gap
+          reason="illegible"/> ) will be Preformed at his <gap reason="illegible"/> in
+        York-Buildings, this Day, being the 29th of <gap reason="illegible"/> , Beginning at <gap
+          reason="illegible"/> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap
+          reason="illegible"/> the Corner of the <placeName>Bedford-Buildings</placeName>, and at
+          <persName>Mr. Eliot</persName>'s <placeName>St. James's Coffee-house</placeName>. No Mony
+        receiv'd, or Tickets given out at the House.</p>
+      <p>This Poem is Sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
+        Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName></p>
+      <p>Just Publish'd,</p>
+      <p>An Account of the present State and Govenrment of the Empire of <placeName>Germany</placeName>: In a Letter to
+        <persName>Thomas Foley</persName> of <placeName>Whitley</placeName> in <placeName>the County of Worcester</placeName>, Esq. by <persName>Mr. Vassor</persName>. Printed for <persName>Jacob
+          Tenfon</persName> at <placeName>Shakespear's Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName>.</p>
+      <p>To be Sold, at a lower Rate than ordinary, at <placeName>the Queen's Head, joining to the Church Gate
+        in Bedford Street, Covent Garden</placeName>, all Sorts of Duggers, Hair, and Worsted, Camlets, <gap
+          reason="illegible"/> Duroys, Shagreens, Shalloons, Durants. Padua Serges, Shags, Serge de
+        Nisms, Calamaneoes, and all other Goods fit for Mens Apparel. The Persons who now keep the
+        Shop designing to have off the Trade, and the House and Shop to ne Lett at Michaelmas next. </p>
+      <p>A convenient House to be Lett at <placeName>East-Acton in Middlesex</placeName>, four Rooms on a Floor, wall'd in,
+        with Caoch-house, Stabling, Orchard, Garden, and all Conveniencies belonging to it, in very
+        good Repair. Whosoever takes it may into it as soon as they please. Inquire at <persName>Mr. Lumley</persName>'s,
+        or at the House, both in <placeName>East-Acton</placeName> aforesaid.</p>
+      <p>All sorts of Silk Gowns, being in fresh Parcel of rich Brocades, Venetians, Tissues,
+        Tabbies, Damasks, and Sattins, bought up the last Sale, and made into Gowns, with gentile
+        and suitable Linings, to be Sold very cheap at Mrs. Attaway's in Deveroux Court in the
+        Passage from the Temple to the Essex Buildings, the lowest Price being writ upon each Gown.
+        Note, there is a fresh Parcel of thread Sattin Gowns lined with thread Sattins.</p>
+      <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print. It makes
+        them Delicately white, sleeke and plump; fortifies them against the Scortching heat of the
+        Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it will
+        recover them. Sold only at Mr. Aller<gap reason="illegible"/> shop, over against the Royal
         Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent Germans
         powder for the Scurvey in the Gums and Teeth which by only scouring them every Morning,
-        whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap reason="illegible"> </gap> </p>
-        <cb> </cb>
-         <p> <placeName rend="sc">LONDON</placeName>: Printed for <persName rend="italics">Sam. Buckley</persName>, at the <placeName rend="italics">Dolphin</placeName> in <placeName rend="italics">Little-Britain</placeName>; and 
-           Sold by <persName rend="italics">A. Baldwin</persName> in <placeName rend="italics">Warwick-Lane</placeName>, where Advertisements are in; 
-           as also by <persName rend="italics">Charles Lillie</persName>, Perfumer, at the Corner of  <placeName rend="italics">Beauford-Buildings</placeName> in
-           the <placeName rend="italics">Strand</placeName>. X</p>
+        whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap reason="illegible"/>
+      </p>
+
+      <p>
+        <placeName rend="sc">LONDON</placeName>: Printed for <persName rend="italics">Sam.
+          Buckley</persName>, at the <placeName rend="italics">Dolphin</placeName> in <placeName
+          rend="italics">Little-Britain</placeName>; and Sold by <persName rend="italics">A.
+          Baldwin</persName> in <placeName rend="italics">Warwick-Lane</placeName>, where
+        Advertisements are in; as also by <persName rend="italics">Charles Lillie</persName>,
+        Perfumer, at the Corner of <placeName rend="italics">Beauford-Buildings</placeName> in the
+          <placeName rend="italics">Strand</placeName>. X</p>
 
     </body>
     <back>
-      <note xml:id="T_B_1" type="editorial"></note>
+      <note xml:id="MT_B_1" type="editorial">As the original footnote in La Bruyère's text
+        acknowledges, the portrait of Menalque is less a study of a particular character than a
+        collection of humourous instances of distraction. These brief and numerous sketches
+        illustrate atemporal descriptions of a type of behavior, rather than particular instances of
+        said behavior — descriptions in which Menalcus is the only person of note. Budgell, on the
+        other hand, adapts this material into a different form.Budgell uses anecdotes to describe
+        particular instances of absent-minded behavior set in a specific time and place and told
+        from the perspective of a present and participating narrator. In addition to cataloguing his
+        friend, Will Honeycombe's, absent- minded behavior, Budgell's narrator provides a meditation
+        on absent-mindedness in general. Though closely related, these two texts are making
+        different use of literary forms.</note>
+      <note xml:id="MT_B_2" type="editorial"> The scene when Menalcus throws the watch into the
+        river, written in Les Caractères as a brief behavioral sketch, is adapted by Budgell in No.
+        77 of the Spectator as longer personal anecdote about Will Honeycombe seen through the
+        particular perspective of his friend,the narrator. Interestingly, Budgell does not
+        acknowledge that this particular portrait was almost copied from La Bruyère. Instead, at the
+        end of the issue, he presents La Bruyère's study of the absent-minded man as a corrollary to
+        his own work and includes a paraphrased translation of portions of the text.</note>
+      <note xml:id="MT_B_3" type="editorial">In Budgell's translation of La Bruyère's
+        portrait he includes a paraphrase of the Menalque backgammon sketch and the
+        Menalque letter-writing sketch. However, he notably omits the sketch where Menalque
+        throws the watch into the river, which originally falls between the two in Les
+        Caractères. This omission seems intentional, and allows Budgell to acknowledge
+        La Bruyère's influence, while hiding the fact that he almost directly copied the
+        watch sketch from the original.</note>
+      <note xml:id="MT_B_4" type="editorial">Text here</note>
+      <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
     </back>
   </text>
-  <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
+
 </TEI>
