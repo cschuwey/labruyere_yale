@@ -323,6 +323,43 @@
          </div>
          <div xml:lang="fr" type="chapter" n="12">
             <head>12. Des Jugemens.</head>
+            <div type="remark" n="28">
+               <head>28</head>
+               <p>
+                  <seg xml:id="FJG_28_01" corresp="#EJG_28_01">Une belle femme est aimable dans son
+                     naturel,</seg>
+                  <seg xml:id="FJG_28_02" corresp="#EJG_28_02"> elle ne perd rien à être
+                     negligée,</seg>
+                  <seg xml:id="FJG_28_03" corresp="#EJG_28_03"> &amp; sans autre parure que celle
+                     qu'elle tire de sa beauté &amp; de sa jeunesse :</seg>
+                  <seg xml:id="FJG_28_04" corresp="#EJG_28_04"> une grace naïve éclatte sur son
+                     visage,</seg>
+                  <seg xml:id="FJG_28_05" corresp="#EJG_28_05"> anime ses moindres actions ;</seg>
+                  <seg xml:id="FJG_28_06" corresp="#EJG_28_06"> il y auroit moins de peril à la voir
+                     avec tout l'attirail de l'ajustement &amp; de la mode.</seg>
+                  <seg xml:id="FJG_28_07" corresp="#EJG_28_07"> De même un homme de bien est
+                     respectable par luy-même,</seg>
+                  <seg xml:id="FJG_28_08" corresp="#EJG_28_08"> &amp; indépendamment de tous les
+                     dehors dont il voudroit s'aider pour rendre sa personne plus grave, &amp; sa
+                     vertu plus specieuse :</seg>
+                  <seg xml:id="FJG_28_09" ana="omit"> un air reformé, <note type="context">Having a
+                        "reformed air" may have been understood in the religious sense by the
+                        translator, and so omitted.</note></seg>
+                  <seg xml:id="FJG_28_10" corresp="#EJG_28_09"> une modestie outrée, la singularité
+                     de l'habit,</seg>
+                  <seg xml:id="FJG_28_11" corresp="#EJG_28_10">
+                     <interp type="sense">une ample calotte,</interp><note type="context">A calotte,
+                        or zucchetto, is the small skullcap worn by Roman Catholic clergy. The
+                        "ample calotte" here may refer to the larger skullcap worn by Anglican
+                        clergy <hi rend="ital">(Wikipedia,</hi> "Zucchetto").</note></seg>
+                  <seg xml:id="FJG_28_12" corresp="#EJG_28_11"> n'ajoûtent rien à la probité, ne
+                     relevent pas le merite,</seg>
+                  <seg xml:id="FJG_28_13" corresp="#EJG_28_12"> ils le <interp type="sense"
+                        >fardent</interp>,</seg>
+                  <seg xml:id="FJG_28_14" corresp="#EJG_28_13"> &amp; font peut-être qu'il est moins
+                     pur, &amp; <interp type="tone">moins ingenu</interp>.</seg>
+               </p>
+            </div>
             <div type="remark" n="80">
                <head>80</head>
                <p>
@@ -819,8 +856,42 @@
          </div>
          <div xml:lang="en" type="chapter" n="12">
             <head>12. Of Judgement.</head>
+            <div type="remark" n="28">
+               <p>
+                  <seg xml:id="EJG_28_01" corresp="#FJG_28_01">A handsom Woman, the more natural she
+                     is, the more beautiful;</seg>
+                  <seg xml:id="EJG_28_02" corresp="#FJG_28_02"> she loses nothing by being
+                     careless,</seg>
+                  <seg xml:id="EJG_28_03" corresp="#FJG_28_03"> and without any other Ornament than
+                     what she draws from her Beauty and Youth:</seg>
+                  <seg xml:id="EJG_28_04" corresp="#FJG_28_04"> An innocent Grace shines in her
+                     Face,</seg>
+                  <seg xml:id="EJG_28_05" corresp="#FJG_28_05"> animates every little Action so
+                     much,</seg>
+                  <seg xml:id="EJG_28_06" corresp="#FJG_28_06"> that there would be less danger to
+                     see her adorn'd with all the advantages of Dress and Fashion.</seg>
+                  <seg xml:id="EJG_28_07" corresp="#FJG_28_07"> Thus an honest Man is
+                     respected,</seg>
+                  <seg xml:id="EJG_28_08" corresp="#FJG_28_08"> independant from all those outward
+                     Actions, by which he would endeavour to make his person more grave, and his
+                     virtue more specious:</seg>
+                  <seg xml:id="EJG_28_09" corresp="#FJG_28_10"> Too great a modesty, a singularity
+                     in habit,</seg>
+                  <seg xml:id="EJG_28_10" corresp="#FJG_28_11">
+                     <interp type="sense">or the state with which some walk,</interp><note
+                        type="context">The English translator's replacement of the Anglican "ample
+                        calotte" with "the state with which some walk" is understandable in light of
+                        Reformation and Counter-Reformation politics.</note></seg>
+                  <seg xml:id="EJG_28_11" corresp="#FJG_28_12">add nothing to Probity, nor heighten
+                     Merit,</seg>
+                  <seg xml:id="EJG_28_12" corresp="#FJG_28_13"> but <interp type="sense"
+                        >hurt</interp>,</seg>
+                  <seg xml:id="EJG_28_13" corresp="#FJG_28_14"> and often make it look less pure,
+                     and <interp type="tone">more suspected</interp>.</seg>
+               </p>
+            </div>
             <div type="remark" n="89">
-               <head>80</head>
+               <head>89</head>
                <p>
                   <seg xml:id="EJG_89_01" corresp="#FJG_80_01">A Man is <interp type="tone">just to
                         some practical rules</interp> of Religion,</seg>
