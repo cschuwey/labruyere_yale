@@ -419,6 +419,17 @@
                      <interp type="sense">c'est venir de loin</interp>.</seg>
                </p>
             </div>
+            <div type="remark" n="10">
+               <head>10</head>
+               <p>
+                  <seg xml:id="FQU_10_01" corresp="#ECC_10_01">A Combien d'enfans seroit utile la
+                     loy</seg>
+                  <seg xml:id="FQU_10_02" corresp="#ECC_10_02"> qui décideroit que c'est le ventre
+                     qui annoblit ?</seg>
+                  <seg xml:id="FQU_10_03" corresp="#ECC_10_03"> mais à combien d'autres seroit-elle
+                     contraire?</seg>
+               </p>
+            </div>
             <div type="remark" n="20" ana="omit">
                <head>20</head>
                <p>
@@ -887,6 +898,17 @@
                      <interp type="sense">fancying a Name is much the better</interp></seg>
                   <seg xml:id="ECC_08_13" corresp="#FQU_08_14">
                      <interp type="sense">for being far fetch'd.</interp>.</seg>
+               </p>
+            </div>
+            <div type="remark" n="10">
+               <head>10</head>
+               <p>
+                  <seg xml:id="ECC_10_01" corresp="#FQU_10_01">How many would be gainers by a
+                     Law</seg>
+                  <seg xml:id="ECC_10_02" corresp="#FQU_10_02"> that should make <seg ana="expan"
+                        >Gentility to be drawn from the Mothers side,</seg></seg>
+                  <seg xml:id="ECC_10_03" corresp="#FQU_10_03"> and how many more would be losers by
+                     it?</seg>
                </p>
             </div>
          </div>
