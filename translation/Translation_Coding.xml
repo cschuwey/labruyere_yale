@@ -82,14 +82,16 @@
                            <hi rend="ital">Mercure Galant</hi></note></seg>
                   <seg xml:id="FOE_44_02" corresp="#EPL_43_02"> est immediatement au dessous du
                      rien;</seg>
-                  <seg xml:id="FOE_44_03" corresp="#EPL_43_03"> il y a bien d'autres ouvrages qui lui
-                     ressemblent:</seg>
+                  <seg xml:id="FOE_44_03" corresp="#EPL_43_03"> il y a bien d'autres ouvrages qui
+                     lui ressemblent:</seg>
                   <seg xml:id="FOE_44_04" corresp="#EPL_43_04"> il ya a autant d'invention à
                      s'enrichir par un sot livre,</seg>
-                  <seg xml:id="FOE_44_05" corresp="#EPL_43_05"> qu'il y a de sotise à l'acheter;</seg>
-                  <seg xml:id="FOE_44_06" corresp="#EPL_43_06"> c'est ignorer le goût du peuple,</seg>
-                  <seg xml:id="FOE_44_07" corresp="#EPL_43_07"> que de ne pas hazarder quelquefois de
-                     grandes fadaises.</seg>
+                  <seg xml:id="FOE_44_05" corresp="#EPL_43_05"> qu'il y a de sotise à
+                     l'acheter;</seg>
+                  <seg xml:id="FOE_44_06" corresp="#EPL_43_06"> c'est ignorer le goût du
+                     peuple,</seg>
+                  <seg xml:id="FOE_44_07" corresp="#EPL_43_07"> que de ne pas hazarder quelquefois
+                     de grandes fadaises.</seg>
                </p>
             </div>
             <div type="remark" n="63">
@@ -256,9 +258,10 @@
                      campagne,</seg>
                   <seg xml:id="FBF_01_04" corresp="#EGF_01_04"> &amp; d'un autre à la ville,</seg>
                   <seg xml:id="FBF_01_05" ana="omit"> avoir un grand équipage,</seg>
-                  <seg xml:id="FBF_01_06" corresp="#EGF_01_05"> <interp type="tone">mettre un Duc dans sa famille,</interp></seg>
-                  <seg xml:id="FBF_01_07" corresp="#EGF_01_06"> &amp; <interp type="tone">faire de son fils un grand
-                     Seigneur</interp>;</seg>
+                  <seg xml:id="FBF_01_06" corresp="#EGF_01_05">
+                     <interp type="tone">mettre un Duc dans sa famille,</interp></seg>
+                  <seg xml:id="FBF_01_07" corresp="#EGF_01_06"> &amp; <interp type="tone">faire de
+                        son fils un grand Seigneur</interp>;</seg>
                   <seg xml:id="FBF_01_08" corresp="#EGF_01_07"> cela est juste &amp; de son ressort
                      :</seg>
                   <seg xml:id="FBF_01_09" corresp="#EGF_01_08"> mais il appartient peut-être à
@@ -380,21 +383,53 @@
          </div>
          <div xml:lang="fr" type="chapter" n="14">
             <head>14. De quelques Usages.</head>
+            <div type="remark" n="8">
+               <head>8</head>
+               <p>
+                  <seg xml:id="FQU_08_01" corresp="#ECC_08_01">Certaines gens portent trois noms
+                     <interp type="tone">de peur d'en manquer</interp> ;</seg>
+                  <seg xml:id="FQU_08_02" corresp="#ECC_08_02"> ils en on pour la campagne &amp;
+                     pour la ville, pour les lieux de leur service ou de leur employ :</seg>
+                  <seg xml:id="FQU_08_03" corresp="#ECC_08_03"> d'autres ont un seul nom dissyllabe
+                     qu'ils annoblissent par des particules,</seg>
+                  <seg xml:id="FQU_08_04" corresp="#ECC_08_04"> dés que leur fortune devient
+                     meilleure :</seg>
+                  <seg xml:id="FQU_08_05" corresp="#ECC_08_05"> celuy-cy par la suppression d'une
+                     syllabe fait de son nom obscur, un nom illustre :</seg>
+                  <seg xml:id="FQU_08_06" ana="omit"> celuy-là par le changement d'une
+                     lettre en une autre se travestit, &amp; de <hi rend="ital">Syrus</hi> devient
+                     <hi rend="ital">Cyrus</hi> :</seg>
+                  <seg xml:id="FQU_08_07" corresp="#ECC_08_06"> plusieurs suppriment leurs noms
+                     qu'ils pourroient conserver sans honte,</seg>
+                  <seg xml:id="FQU_08_08" corresp="#ECC_08_07"> pour en adopter de plus beaux, où
+                     ils n'ont qu'à perdre par la comparaison que l'on fait toûjours d'eux qui les
+                     portent, avec les grands qui les ont portez :</seg>
+                  <seg xml:id="FQU_08_09" corresp="#ECC_08_08"> il s'en trouve enfin qui nez <interp type="sense">à
+                     l'ombre des clocher de Paris</interp></seg>
+                  <seg xml:id="FQU_08_10" corresp="#ECC_08_09">veulent estre Flamans our Italiens,</seg>
+                  <seg xml:id="FQU_08_11" corresp="#ECC_08_10"> comme si la roture n'étoit pas de
+                     tout païs,</seg>
+                  <seg xml:id="FQU_08_12" corresp="#ECC_08_11"> allongent leurs noms François d'une
+                     terminaison étrangere,</seg>
+                  <seg xml:id="FQU_08_13" corresp="#ECC_08_12"> <interp type="sense">&amp; croyent que venir de bon lieu</interp></seg>
+                  <seg xml:id="FQU_08_14" corresp="#ECC_08_13"> <interp type="sense">c'est venir de loin</interp>.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="15">
             <head>15. De la Chaire.</head>
             <div type="remark" n="6">
                <head>6</head>
                <p>
-                  <seg xml:id="FCH_06_01" corresp="#EPT_07_01">L'on a enfin banni la Scolastique de toutes les Chaires
-                     des grandes Villes,</seg>
-                  <seg xml:id="FCH_06_02" corresp="#EPT_07_02"> &amp; on l'a reguée dans les <w ana="omit">Bourgs</w>
-                     &amp; dans les Villages</seg>
-                  <seg xml:id="FCH_06_03" corresp="#EPT_07_03"> pour l'instruction &amp; &amp; pour le <interp
-                        type="tone">salut</interp></seg>
-                  <seg xml:id="FCH_06_04" corresp="#EPT_07_04"> du Laboureur ou du <interp type="sense"
-                     >Vigneron</interp>.</seg>
-               </p>          
+                  <seg xml:id="FCH_06_01" corresp="#EPT_07_01">L'on a enfin banni la Scolastique de
+                     toutes les Chaires des grandes Villes,</seg>
+                  <seg xml:id="FCH_06_02" corresp="#EPT_07_02"> &amp; on l'a reguée dans les <w
+                        ana="omit">Bourgs</w> &amp; dans les Villages</seg>
+                  <seg xml:id="FCH_06_03" corresp="#EPT_07_03"> pour l'instruction &amp; &amp; pour
+                     le <interp type="tone">salut</interp></seg>
+                  <seg xml:id="FCH_06_04" corresp="#EPT_07_04"> du Laboureur ou du <interp
+                        type="sense">Vigneron</interp>.</seg>
+               </p>
             </div>
             <div type="remark" n="17">
                <head>17</head>
@@ -469,12 +504,12 @@
                      seven thousand Years,</seg>
                   <seg xml:id="EPL_01_02" corresp="#FOE_01_03"> that there have been Men,</seg>
                   <seg xml:id="EPL_01_03" corresp="#FOE_01_04"> and Men have thought,</seg>
-                  <seg xml:id="EPL_01_04" corresp="#FOE_01_01" ana="expan"> to say any thing which has
-                     not been said already.</seg>
-                  <seg xml:id="EPL_01_05" corresp="#FOE_01_05"> The finest and most beautiful Thoughts
-                     concerning Manners</seg>
-                  <seg xml:id="EPL_01_06" corresp="#FOE_01_06"> have been carried away <seg ana="add"
-                        >before our times</seg>,</seg>
+                  <seg xml:id="EPL_01_04" corresp="#FOE_01_01" ana="expan"> to say any thing which
+                     has not been said already.</seg>
+                  <seg xml:id="EPL_01_05" corresp="#FOE_01_05"> The finest and most beautiful
+                     Thoughts concerning Manners</seg>
+                  <seg xml:id="EPL_01_06" corresp="#FOE_01_06"> have been carried away <seg
+                        ana="add">before our times</seg>,</seg>
                   <seg xml:id="EPL_01_07" corresp="#FOE_01_07"> and we can do nothing now, but glean
                      after the Ancients,</seg>
                   <seg xml:id="EPL_01_08" corresp="#FOE_01_08"> and the <seg ana="add">most</seg>
@@ -485,11 +520,11 @@
                <head>43</head>
                <p>
                   <seg xml:id="EPL_43_01" corresp="#FOE_44_01">The <hi rend="ital">Mercure
-                        Gallant</hi><note type="context">The <hi rend="ital">Mercure Galant</hi> was a periodical
-                        that brought the news, gossip, fashion trends, and artistic and intellectual
-                        debates from the court of Louis XIV to elegant society to the provinces and
-                        abroad. In the quarrel between the Ancients and Moderns, the <hi rend="ital"
-                           >Mercure</hi> represented the Moderns.</note></seg>
+                        Gallant</hi><note type="context">The <hi rend="ital">Mercure Galant</hi> was
+                        a periodical that brought the news, gossip, fashion trends, and artistic and
+                        intellectual debates from the court of Louis XIV to elegant society to the
+                        provinces and abroad. In the quarrel between the Ancients and Moderns, the
+                           <hi rend="ital">Mercure</hi> represented the Moderns.</note></seg>
                   <seg xml:id="EPL_43_02">is a trifle below nothing,</seg>
                   <seg xml:id="EPL_43_03" corresp="#FOE_44_03"> and there are many Works of the same
                      importance;</seg>
@@ -607,9 +642,9 @@
                   <seg xml:id="ESC_7_10" corresp="#FSC_7_10"> Oh! but, say you, that is so plain,
                      and so conspicuous, any one might have said as much.</seg>
                   <seg xml:id="ESC_7_11" corresp="#FSC_7_11">
-                     <seg ana="add"> 'Tis true, and what does that signifie?</seg> besides, what harm
-                     is there, <hi rend="italic">Acis</hi>, in being intelligible, or speaking like
-                     your Neighbours?</seg>
+                     <seg ana="add"> 'Tis true, and what does that signifie?</seg> besides, what
+                     harm is there, <hi rend="italic">Acis</hi>, in being intelligible, or speaking
+                     like your Neighbours?</seg>
                   <seg xml:id="ESC_7_12" corresp="#FSC_7_12"> There is one thing, <hi rend="italic"
                         >Acis</hi>, which you and some <interp type="sense">Gentlemen of your
                         Complexion</interp> want very much,</seg>
@@ -679,8 +714,10 @@
                   <seg xml:id="EGF_01_03" corresp="#FBF_01_03"> regale himself at his Palace in the
                      Country,</seg>
                   <seg xml:id="EGF_01_04" corresp="#FBF_01_04"> and keep another in Town</seg>
-                  <seg xml:id="EGF_01_05" corresp="#FBF_01_06"> <interp type="tone">marry his Daughter to a Duke</interp>,</seg>
-                  <seg xml:id="EGF_01_06" corresp="#FBF_01_07"> <interp type="tone">and buy a Title for his Son</interp>;</seg>
+                  <seg xml:id="EGF_01_05" corresp="#FBF_01_06">
+                     <interp type="tone">marry his Daughter to a Duke</interp>,</seg>
+                  <seg xml:id="EGF_01_06" corresp="#FBF_01_07">
+                     <interp type="tone">and buy a Title for his Son</interp>;</seg>
                   <seg xml:id="EGF_01_07" corresp="#FBF_01_08"> this is just and within his
                      Compass;</seg>
                   <seg xml:id="EGF_01_08" corresp="#FBF_01_09"> but it belongs to other Men perhaps
@@ -776,15 +813,42 @@
                         Church practice in Protestantism.</note></seg>
                </p>
             </div>
-            <div type="remark" n="118">
-               <head>118</head>
-            </div>
          </div>
          <div xml:lang="en" type="chapter" n="13">
             <head>13. Of the Fashion.</head>
          </div>
          <div xml:lang="en" type="chapter" n="14">
             <head>14. Of Certain Customs.</head>
+            <div type="remark" n="8">
+               <head>8</head>
+               <p>
+                  <seg xml:id="ECC_08_01" corresp="#FQU_08_01" ana="expan">Some Men are so fond of Names, they
+                     give themselves three <interp type="tone">rather than fail</interp>;</seg>
+                  <seg xml:id="ECC_08_02" corresp="#FQU_08_02"> one they use in the City, another in
+                     the Country, and a third in the place where they serve, or are employ'd.</seg>
+                  <seg xml:id="ECC_08_03" corresp="#FQU_08_03"> Others are content with one Name of
+                     two Syllables, ennobling it with <seg ana="expan"><hi rend="ital">du</hi> or
+                           <hi rend="ital">de,</hi></seg> to make it sound genteel,</seg>
+                  <seg xml:id="ECC_08_04" corresp="#FQU_08_04"> as soon as their circumstances are
+                     any thing tolerable;</seg>
+                  <seg xml:id="ECC_08_05" corresp="#FQU_08_05"> others again, by suppressing one
+                     Syllable of their Name, make that illustrious which was before obscure.</seg>
+                  <seg xml:id="ECC_08_06" corresp="#FQU_08_07"> Many surpress their whole Names,
+                     which had nothing shameful in them,</seg>
+                  <seg xml:id="ECC_08_07" corresp="#FQU_08_08"> to adopt others that sound greater, and by
+                     which they get nothing but the being compar'd, to their disadvantage, with the
+                     great Men from whom they borrow 'em.</seg>
+                  <seg xml:id="ECC_08_08" corresp="#FQU_08_09"> In short, there are some, who, tho
+                     born <interp type="sense">within the Walls of Paris</interp>,</seg>
+                  <seg xml:id="ECC_08_09" corresp="#FQU_08_10">will feign themselves to be Flemish or Italian,</seg>
+                  <seg xml:id="ECC_08_10" corresp="#FQU_08_11"> as if there were not in every
+                     Country those that are meanly born,</seg>
+                  <seg xml:id="ECC_08_11" corresp="#FQU_08_12"> and will lengthen their Names, and
+                     give them another termination <seg ana="add">to make them sound outlandish</seg>,</seg>
+                  <seg xml:id="ECC_08_12" corresp="#FQU_08_13"> <interp type="sense">fancying a Name is much the better</interp></seg>
+                  <seg xml:id="ECC_08_13" corresp="#FQU_08_14"> <interp type="sense">for being far fetch'd.</interp>.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="15">
             <head>15. Of the Pulpit.</head>
