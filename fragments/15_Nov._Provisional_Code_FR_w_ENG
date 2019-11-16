@@ -46,18 +46,18 @@
             <div corresp="#eng_A" xml:lang="french" type="chapter" n="1" xml:id="fr_A">
                 <head>Des ouvrages de l'esprit</head>
                 <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
-                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <seg key="homme">hommes</seg>, et qui pensent. 
-                        Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; 
-                        l’on ne fait que glaner après les anciens et les habiles d’entre les modernes.</p>
+                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des 
+                        <seg key="homme">hommes</seg>, et qui pensent. Sur ce qui concerne les mœurs, le plus beau et le meilleur
+                        est enlevé ; l’on ne fait que glaner après les anciens et les habiles d’entre les modernes.</p>
                 </div>
                 <div corresp="#eng_A2" type="remark" n="1.2" xml:id="fr_A2">
-                    <p>Il faut chercher seulement à penser et à parler juste, sans vouloir amener les autres à notre goût et à nos sentiments ; 
-                        c’est une trop grande entreprise.</p>
+                    <p>Il faut chercher seulement à penser et à parler juste, sans vouloir amener les autres à notre goût et à nos 
+                        sentiments ; c’est une trop grande entreprise.</p>
                 </div>
                 <div corresp="#eng_A3" type="remark" n="1.3" xml:id="fr_A3">
                     <p>C’est un métier que de faire un livre, comme de faire une pendule ; il faut plus que de l’esprit pour être auteur. 
-                        Un Magistrat allait par son mérite à la première dignité ; il était <seg key="homme">homme</seg> délié et pratique dans les affaires ; 
-                        il a fait imprimer un ouvrage moral qui est rare par le ridicule?</p>
+                        Un Magistrat allait par son mérite à la première dignité ; il était <seg key="homme">homme</seg> délié 
+                        et pratique dans les affaires ; il a fait imprimer un ouvrage moral qui est rare par le ridicule?</p>
                 </div>
                 <div corresp="#eng_A4" type="remark" n="1.4" xml:id="fr_A4">
                     <p>Il n’est pas si aisé de se faire un nom par un ouvrage parfait, que d’en faire valoir 
@@ -68,19 +68,23 @@
                         aux conditions d’être rendu de même, s’il est médiocre, passe pour merveilleux ; l’impression est l’écueil.</p>
                 </div>
                 <div corresp="#eng_A6" type="remark" n="1.6" xml:id="fr_A6">
-                    <p>Si l’on ôte de beaucoup d’ouvrages de Morale l’Avertissement au lecteur, l’Epître Dédicatoire, la Préface, la Table, les Approbations, 
-                        il reste à peine assez de pages pour mériter le nom de livre.</p>
+                    <p>Si l’on ôte de beaucoup d’ouvrages de Morale l’Avertissement au lecteur, l’Epître Dédicatoire, la Préface, 
+                        la Table, les Approbations, il reste à peine assez de pages pour mériter le nom de livre.</p>
                 </div>
                 <div corresp="#eng_A7" type="remark" n="1.7" xml:id="fr_A7">
-                    <p>Il y a de certaines choses dont la médiocrité est insupportable : la Poésie, la Musique, la Peinture, le Discours public.</p>
-                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid discours, ou prononcer de médiocres vers avec toute l’emphase d’un mauvais Poète !</p>
+                    <p>Il y a de certaines choses dont la médiocrité est insupportable : la Poésie, la Musique, la Peinture, 
+                        le Discours public.</p>
+                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid discours, ou prononcer de médiocres vers 
+                        avec toute l’emphase d’un mauvais Poète !</p>
                 </div>
                 <div corresp="#eng_A8" type="remark" n="1.8" xml:id="fr_A8">
-                    <p>Certains Poètes sont sujets dans le Dramatique à de longues suites de vers pompeux, qui semblent forts, élevés et remplis de grands sentiments ; 
-                        le peuple écoute avidement les yeux élevés et la bouche ouverte, croit que cela lui plaît, et, à mesure qu’il y comprend moins, l’admire davantage, 
-                        il n’a pas le temps de respirer, il a à peine celui de se récrier et d’applaudir : j’ai cru autrefois et dans ma première jeunesse que ces endroits 
-                        étaient clairs et intelligibles pour les Acteurs, pour le Parterre et l’Amphithéâtre, que leurs Auteurs s’entendaient eux-mêmes, 
-                        et qu’avec toute l’attention que je donnais à leur récit, j’avais tort de n’y rien entendre : je suis détrompé.</p>
+                    <p>Certains Poètes sont sujets dans le Dramatique à de longues suites de vers pompeux, qui semblent forts, élevés 
+                        et remplis de grands sentiments ; le peuple écoute avidement les yeux élevés et la bouche ouverte, croit 
+                        que cela lui plaît, et, à mesure qu’il y comprend moins, l’admire davantage, il n’a pas le temps de respirer, 
+                        il a à peine celui de se récrier et d’applaudir : j’ai cru autrefois et dans ma première jeunesse que 
+                        ces endroits étaient clairs et intelligibles pour les Acteurs, pour le Parterre et l’Amphithéâtre, que leurs 
+                        Auteurs s’entendaient eux-mêmes, et qu’avec toute l’attention que je donnais à leur récit, j’avais tort 
+                        de n’y rien entendre : je suis détrompé.</p>
                 </div>
                 <div corresp="#eng_A9" type="remark" n="1.9" xml:id="fr_A9">
                     <p>L’on n’a guère vu jusqu’à présent un chef-d’œuvre d’esprit qui soit l’ouvrage de plusieurs : 
@@ -88,8 +92,8 @@
                 </div>
                 <div corresp="#eng_A10" type="remark" n="1.10" xml:id="fr_A10">
                     <p>Il y a dans l’art un point de perfection comme de bonté ou de maturité dans la nature, 
-                        celui qui le sent et qui l’aime a le goût parfait ; celui qui ne le sent pas, et qui aime en deçà ou au delà, a le goût défectueux. 
-                        Il y a donc un bon et un mauvais goût, et l’on dispute des goûts avec fondement.</p>
+                        celui qui le sent et qui l’aime a le goût parfait ; celui qui ne le sent pas, et qui aime en deçà ou au delà, 
+                        a le goût défectueux. Il y a donc un bon et un mauvais goût, et l’on dispute des goûts avec fondement.</p>
                 </div>
             </div>
             <div corresp="#fr_A" xml:lang="english" type="chapter" n="1" xml:id="eng_A">
@@ -182,89 +186,156 @@
             <div corresp="#eng_B" xml:lang="french" type="chapter" n="2" xml:id="fr_B">
                 <head>Du mérite personnel</head>
                 <div corresp="#eng_B1" type="remark" n="2.1" xml:id="fr_B1">
-                    <p>Qui peut, avec les plus rares talents et le plus excellent mérite, n'être pas convaincu de son inutilité, quand il considère qu'il laisse en mourant un monde qui ne se sent pas de sa perte, et où tant de gens se trouvent pour le remplacer?</p>
+                    <p>Qui peut, avec les plus rares talents et le plus excellent mérite, n'être pas convaincu de son inutilité, 
+                        quand il considère qu'il laisse en mourant un monde qui ne se sent pas de sa perte, et où tant de gens 
+                        se trouvent pour le remplacer?</p>
                 </div>
                 <div corresp="#eng_B2" type="remark" n="2.2" xml:id="fr_B2">
-                    <p>De bien des gens il n'y a que le nom qui vaille quelque chose. Quand vous les voyez de fort près, c'est moins que rien; de loin, ils imposent.</p>
+                    <p>De bien des gens il n'y a que le nom qui vaille quelque chose. Quand vous les voyez de fort près, c'est moins 
+                        que rien; de loin, ils imposent.</p>
                 </div>
                 <div corresp="#eng_B3" type="remark" n="2.3" xml:id="fr_B3">
-                    <p>Tout persuadé que je suis que ceux que l'on choisit pour de différents emplois, chacun selon son génie et sa profession, font bien, je me hasarde de dire qu'il se peut faire qu'il y ait au monde plusieurs personnes, connues ou inconnues, que l'on n'emploie pas, qui feraient très bien; et je suis induit à ce sentiment par le merveilleux succès de certaines gens que le hasard seul a placés, et de qui jusques alors on n'avait pas attendu de fort grandes choses.</p>
-                    <p>Combien d'<seg key="homme">hommes</seg> admirables, et qui avaient de très beaux génies, sont morts sans qu'on en ait parlé! Combien vivent encore dont on ne parle point, et dont on ne parlera jamais!</p>
+                    <p>Tout persuadé que je suis que ceux que l'on choisit pour de différents emplois, chacun selon son génie 
+                        et sa profession, font bien, je me hasarde de dire qu'il se peut faire qu'il y ait au monde plusieurs 
+                        personnes, connues ou inconnues, que l'on n'emploie pas, qui feraient très bien; et je suis induit 
+                        à ce sentiment par le merveilleux succès de certaines gens que le hasard seul a placés, et de qui 
+                        jusques alors on n'avait pas attendu de fort grandes choses.</p>
+                    <p>Combien d'<seg key="homme">hommes</seg> admirables, et qui avaient de très beaux génies, sont morts 
+                        sans qu'on en ait parlé! Combien vivent encore dont on ne parle point, et dont on ne parlera jamais!</p>
                 </div>
                 <div corresp="#eng_B4" type="remark" n="2.4" xml:id="fr_B4">
-                    <p>Quelle horrible peine a un <seg key="homme">homme</seg> qui est sans prôneurs et sans cabale, qui n'est engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit!</p>
+                    <p>Quelle horrible peine a un <seg key="homme">homme</seg> qui est sans prôneurs et sans cabale, qui n'est 
+                        engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, 
+                        de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit!</p>
                 </div>
                 <div corresp="#eng_B5" type="remark" n="2.5" xml:id="fr_B5">
                     <p>Personne presque ne s'avise de lui-même du mérite d'un autre.</p>
-                    <p>Les <seg key="homme">hommes</seg> sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou de discerner les autres; de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être longtemps ignoré.</p>
+                    <p>Les <seg key="homme">hommes</seg> sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou 
+                        de discerner les autres; de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être 
+                        longtemps ignoré.</p>
                 </div>
             </div>
             <div corresp="#fr_B" xml:lang="english" type="chapter" n="2" xml:id="eng_B">
                 <head>Of Personal Merit</head>
                 <div corresp="#fr_B1" type="remark" n="2.1" xml:id="eng_B1">
-                   <p>Who is there that is not convinced, he is but a useless Person, though he has never so many good Qualities, and never such an extraordinary Merit; when he considers that at his Death, he leaves  a World which is not like to miss him, and where there are such numbers to supply his Place.</p>
+                   <p>Who is there that is not convinced, he is but a useless Person, though he has never so many good Qualities, 
+                       and never such an extraordinary Merit; when he considers that at his Death, he leaves  a World which is not 
+                       like to miss him, and where there are such numbers to supply his Place.</p>
                 </div>
                 <div corresp="#fr_B2" type="remark" n="2.2" xml:id="eng_B2">
-                   <p>All the worth of some People lies in their mighty Names; look but near them, and that which we took for Merit disappears.  That was only the distance which imposed on us before.</p>
+                   <p>All the worth of some People lies in their mighty Names; look but near them, and that which we took for 
+                       Merit disappears.  That was only the distance which imposed on us before.</p>
                 </div>
                 <div corresp="#fr_B3" type="remark" n="2.3" xml:id="eng_B3">
-                   <p>Though I am very well persuaded that those persons, who are chose for different Employments, every <seg key="man">Man</seg> according to his Genius and Profession, acquit themselves well, yet I shall venture to say, that there are in all the World a great many Men, known or unknown, who are not employed, that would acquit themselves altogether as well.  And this I’m inclined to think from the strange success of some people, whom Fortune only has thrown into Posts, and from whom, until then, no great matters were expected.
+                   <p>Though I am very well persuaded that those persons, who are chose for different Employments, every 
+                       <seg key="man">Man</seg> according to his Genius and Profession, acquit themselves well, yet I shall 
+                       venture to say, that there are in all the World a great many Men, known or unknown, who are not employed, 
+                       that would acquit themselves altogether as well.  And this I’m inclined to think from the strange success 
+                       of some people, whom Fortune only has thrown into Posts, and from whom, until then, no great 
+                       matters were expected.
                       </p>
                    <p>
-                      How many admirable <seg key="man">Men</seg> and fine Geniuses are dead without every being talked of? And how many are there living, that neither now, nor ever will be talked of?
+                      How many admirable <seg key="man">Men</seg> and fine Geniuses are dead without every being talked of? And how many 
+                       are there living, that neither now, nor ever will be talked of?
                       </p>
                 </div>
                 <div corresp="#fr_B4" type="remark" n="2.4" xml:id="eng_B4">
-                   <p>How difficult is it for a <seg key="man">Man</seg>, without Cabal or Party, who is engaged with no Society, or Body of Men, but who stands alone, and has nothing but a great deal of Merit for his Recommendation; how difficult, I say, will it be for him to make his way though his Obscurity, and come to stand upon a Level with a Coxcomb in great Reputation!</p>
+                   <p>How difficult is it for a <seg key="man">Man</seg>, without Cabal or Party, who is engaged with no Society, 
+                       or Body of Men, but who stands alone, and has nothing but a great deal of Merit for his Recommendation; 
+                       how difficult, I say, will it be for him to make his way though his Obscurity, and come to stand upon a 
+                       Level with a Coxcomb in great Reputation!</p>
                 </div>
                 <div corresp="#fr_B5" type="remark" n="2.5" xml:id="eng_B5">
                    <p>It is seldom that one <seg key="man">Man</seg>, of himself, find out the Merit of another.
                    </p>
                       <p> 
-                         <seg key="man">Men</seg> are so employed about themselves, that they have not the leisure to distinguish and penetrate into others; which is the Cause that a great Merit, jointed to a great Modesty, may be a long time before it is discovered.
+                         <seg key="man">Men</seg> are so employed about themselves, that they have not the leisure to distinguish 
+                          and penetrate into others; which is the Cause that a great Merit, jointed to a great Modesty, may be a 
+                          long time before it is discovered.
                       </p>
                 </div>
             </div>
             <div corresp="#eng_C" xml:lang="french" type="chapter" n="3" xml:id="fr_C">
                 <head>Des femmes</head>
                 <div corresp="#eng_C1" type="remark" n="3.1" xml:id="fr_C1">
-                    <p>Les <seg key="homme">hommes</seg> et les <seg key="femme">femmes</seg> conviennent rarement sur le mérite d'une <seg key="femme">femme</seg> : leurs intérêts sont trop différents. Les <seg key="femme">femmes</seg> ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux <seg key="homme">hommes</seg> : mille manières qui allument dans ceux-ci les grandes passions, forment entre elles l'aversion et l'antipathie.</p>
+                    <p>Les <seg key="homme">hommes</seg> et les <seg key="femme">femmes</seg> conviennent rarement sur le mérite 
+                        d'une <seg key="femme">femme</seg> : leurs intérêts sont trop différents. Les <seg key="femme">femmes</seg> 
+                        ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux 
+                        <seg key="homme">hommes</seg> : mille manières qui allument dans ceux-ci les grandes passions, forment entre 
+                        elles l'aversion et l'antipathie.</p>
                 </div>
                 <div corresp="#eng_C2" type="remark" n="3.2" xml:id="fr_C2">
-                    <p>Il y a dans quelques <seg key="femme">femmes</seg> une grandeur artificielle, attachée au mouvement des yeux, à un air de tête, aux façons de marcher, et qui ne va pas plus loin; un esprit éblouissant qui impose, et que l'on n'estime que parce qu'il n'est pas approfondi. Il y a dans quelques autres une grandeur simple, naturelle, indépendante du geste et de la démarche, qui a sa source dans le coeur, et qui est comme une suite de leur haute naissance; un mérite paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir de toute leur modestie, qui échappent, et qui se montrent à ceux qui ont des yeux.</p>
+                    <p>Il y a dans quelques <seg key="femme">femmes</seg> une grandeur artificielle, attachée au mouvement des yeux, 
+                        à un air de tête, aux façons de marcher, et qui ne va pas plus loin; un esprit éblouissant qui impose, et que 
+                        l'on n'estime que parce qu'il n'est pas approfondi. Il y a dans quelques autres une grandeur simple, naturelle, 
+                        indépendante du geste et de la démarche, qui a sa source dans le coeur, et qui est comme une suite de leur 
+                        haute naissance; un mérite paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir 
+                        de toute leur modestie, qui échappent, et qui se montrent à ceux qui ont des yeux.</p>
                 </div>
                 <div corresp="#eng_C3" type="remark" n="3.3" xml:id="fr_C3">
-                    <p>J'ai vu souhaiter d'être fille, et une belle fille, depuis treize ans jusques à vingt-deux, et après cet âge, de devenir un <seg key="homme">homme</seg>.</p>
+                    <p>J'ai vu souhaiter d'être fille, et une belle fille, depuis treize ans jusques à vingt-deux, et après cet âge, 
+                        de devenir un <seg key="homme">homme</seg>.</p>
                 </div>
                 <div corresp="#eng_C4" type="remark" n="3.4" xml:id="fr_C4">
-                    <p>Quelques jeunes personnes ne connaissent point assez les avantages d'une heureuse nature, et combien il leur serait utile de s'y abandonner; elles affaiblissent ces dons du ciel, si rares et si fragiles, par des manières affectées et par une mauvaise imitation: leur son de voix et leur démarche sont empruntés; elles se composent, elles se recherchent, regardent dans un miroir si elles s'éloignent assez de leur naturel. Ce n'est pas sans peine qu'elles plaisent moins.</p>
+                    <p>Quelques jeunes personnes ne connaissent point assez les avantages d'une heureuse nature, et combien il 
+                        leur serait utile de s'y abandonner; elles affaiblissent ces dons du ciel, si rares et si fragiles, 
+                        par des manières affectées et par une mauvaise imitation: leur son de voix et leur démarche sont empruntés; 
+                        elles se composent, elles se recherchent, regardent dans un miroir si elles s'éloignent assez de leur naturel. 
+                        Ce n'est pas sans peine qu'elles plaisent moins.</p>
                 </div>
                 <div corresp="#eng_C5" type="remark" n="3.5" xml:id="fr_C5">
-                    <p>Chez les <seg key="femme">femmes</seg>, se parer et se farder n'est pas, je l'avoue, parler contre sa pensée; c'est plus aussi que le travestissement et la mascarade, où l'on ne se donne point pour ce que l'on paraît être, mais où l'on pense seulement à se cacher et à se faire ignorer: c'est chercher à imposer aux yeux, et vouloir paraître selon l'extérieur contre la vérité; c'est une espèce de menterie.</p>
-                    <p>Il faut juger des <seg key="femme">femmes</seg> depuis la chaussure jusqu'à la coiffure exclusivement, à peu près comme on mesure le poisson entre queue et tête.</p>
+                    <p>Chez les <seg key="femme">femmes</seg>, se parer et se farder n'est pas, je l'avoue, parler contre sa pensée; 
+                        c'est plus aussi que le travestissement et la mascarade, où l'on ne se donne point pour ce que l'on paraît être, 
+                        mais où l'on pense seulement à se cacher et à se faire ignorer: c'est chercher à imposer aux yeux, et vouloir 
+                        paraître selon l'extérieur contre la vérité; c'est une espèce de menterie.</p>
+                    <p>Il faut juger des <seg key="femme">femmes</seg> depuis la chaussure jusqu'à la coiffure exclusivement, à peu près 
+                        comme on mesure le poisson entre queue et tête.</p>
                 </div>
             </div>
             <div corresp="#fr_C" xml:lang="english" type="chapter" n="3" xml:id="eng_C">
                 <head>Of Women</head>
                 <div corresp="#fr_C1" type="remark" n="3.1" xml:id="eng_C1">
-                   <p>It is seldom that the Merit of a <seg key="woman">Woman</seg> is universally agreed on by both Sexes; their Interests are too different. The <seg key="woman">Women</seg> are displeased with those very same Beauties in another, which render them agreeable to the <seg key="man">Men</seg>.  A thousand Charms which inflame us with the most violent and tender Love, move in them quite contrary Passions, Aversion, and Malice.</p>
+                   <p>It is seldom that the Merit of a <seg key="woman">Woman</seg> is universally agreed on by both Sexes; their 
+                       Interests are too different. The <seg key="woman">Women</seg> are displeased with those very same Beauties 
+                       in another, which render them agreeable to the <seg key="man">Men</seg>.  A thousand Charms which inflame us 
+                       with the most violent and tender Love, move in them quite contrary Passions, Aversion, and Malice.</p>
                 </div>
                 <div corresp="#fr_C2" type="remark" n="3.2" xml:id="eng_C2">
-                   <p>The Greatness of some <seg key="woman">Women</seg> is all artificial: It consists in the Motions of their Eyes, the Toss of their Head, a Stately Mien, and a Superficial Wit, that passes on those who understand no better.  There is in others an easy, natural Greatness, nothing beholden to Motions, Looks or Gesture, but springs from the Heart, and is the happy Consequence of their noble Extraction: A Merit, not Noisy or Ostentatious, but Solid, accompanied with a thousand Virtues, which, in spite of all their modesty, break out and shine to all who have Eyes to discern them.
+                   <p>The Greatness of some <seg key="woman">Women</seg> is all artificial: It consists in the Motions of their Eyes, 
+                       the Toss of their Head, a Stately Mien, and a Superficial Wit, that passes on those who understand no better.  
+                       There is in others an easy, natural Greatness, nothing beholden to Motions, Looks or Gesture, but springs 
+                       from the Heart, and is the happy Consequence of their noble Extraction: A Merit, not Noisy or Ostentatious, 
+                       but Solid, accompanied with a thousand Virtues, which, in spite of all their modesty, break out and shine 
+                       to all who have Eyes to discern them.
                    </p>
                 </div>
                 <div corresp="#fr_C3" type="remark" n="3.3" xml:id="eng_C3">
-                   <p>I could wish to be a <seg key="woman">Woman</seg>, that is, a Beautiful <seg key="woman">Woman</seg>, from Thirteen to Two and twenty, but after that Age to be a <seg key="man">Man</seg> again.</p>
+                   <p>I could wish to be a <seg key="woman">Woman</seg>, that is, a Beautiful <seg key="woman">Woman</seg>, from 
+                       Thirteen to Two and twenty, but after that Age to be a <seg key="man">Man</seg> again.</p>
                 </div>
                 <div corresp="#fr_C4" type="remark" n="3.4" xml:id="eng_C4">
-                   <p>Nature has been very kind to some young Ladies, but they are not sensible of the Happiness: They Spoil by Affectation, those Gifts which they enjoy by the distinguishing Favor of Heaven.  The Tone of their Voice, they Mean are not their own: They study, they consult their Glasses, how to Dress themselves as much out of Nature as they can; and the sis not without a great deal of Trouble, that they are able to make themselves less agreeable. </p>
+                   <p>Nature has been very kind to some young Ladies, but they are not sensible of the Happiness: They Spoil by 
+                       Affectation, those Gifts which they enjoy by the distinguishing Favor of Heaven.  The Tone of their Voice, 
+                       they Mean are not their own: They study, they consult their Glasses, how to Dress themselves as much out 
+                       of Nature as they can; and the sis not without a great deal of Trouble, that they are able to make themselves 
+                       less agreeable. </p>
                 </div>
                 <div corresp="#fr_C5" type="remark" n="3.5" xml:id="eng_C5">
                    <p>
-                      If it is the Ambition of <seg key="woman">Women</seg> only to appear Handsome in their own Eyes, they are in the right without doubt, to name, what course they please to Beautify themselves, and in the Choice of their Dress and Ornaments, to follow their own Caprice and Fancy: But if is it the <seg key="man">Men</seg> whom they would charm, it it is for them they Wash and Paint; I have told their Votes in that case, and I do assure them from all the <seg key="man">Men</seg>, or from the greatest part, that, the White and Red they use, makes them look hideous and frightful; that they hate as much to see <seg key="woman">Women</seg> with Paint on their Faces, as with false Teeth in their Mouths, or Balls to plump out their Cheeks; that they solemnly protest against all Art; which indeed does but make them ugly, and is the last and infallible means that Heaven takes to reclaim <seg key="man">Men</seg> from their Love.
+                      If it is the Ambition of <seg key="woman">Women</seg> only to appear Handsome in their own Eyes, they are 
+                       in the right without doubt, to name, what course they please to Beautify themselves, and in the Choice of their 
+                       Dress and Ornaments, to follow their own Caprice and Fancy: But if is it the <seg key="man">Men</seg> whom they 
+                       would charm, it it is for them they Wash and Paint; I have told their Votes in that case, and I do assure 
+                       them from all the <seg key="man">Men</seg>, or from the greatest part, that, the White and Red they use, makes 
+                       them look hideous and frightful; that they hate as much to see <seg key="woman">Women</seg> with Paint on their 
+                       Faces, as with false Teeth in their Mouths, or Balls to plump out their Cheeks; that they solemnly protest 
+                       against all Art; which indeed does but make them ugly, and is the last and infallible means that Heaven takes 
+                       to reclaim <seg key="man">Men</seg> from their Love.
                    </p>
                    <p>
-                      If <seg key="woman">Women</seg> were formed by Nature, what they make themselves by Art; if they were to lose in a minute all the freshness of their Complexion, and were to have their Faces as thick with Red and Paint, and they lay them on, they would look on themselves as the most wretched Creatures in the World.
+                      If <seg key="woman">Women</seg> were formed by Nature, what they make themselves by Art; if they were to lose 
+                       in a minute all the freshness of their Complexion, and were to have their Faces as thick with Red and Paint, 
+                       and they lay them on, they would look on themselves as the most wretched Creatures in the World.
                    </p>
                 </div>
             </div>
@@ -274,16 +345,26 @@
                     <p>Il y a un goût dans la pure amitié où ne peuvent atteindre ceux qui sont nés médiocres.</p>
                 </div>
                 <div corresp="#eng_D2" type="remark" n="4.2" xml:id="fr_D2">
-                    <p>L'amitié peut subsister entre des gens de différents sexes, exempte même de toute grossièreté. Une <seg key="femme">femme</seg> cependant regarde toujours un <seg key="homme">homme</seg> comme un <seg key="homme">homme</seg> ; et réciproquement un <seg key="homme">homme</seg> regarde une <seg key="femme">femme</seg> comme une <seg key="femme">femme</seg>. Cette liaison n'est ni passion ni amitié pure: elle fait une classe à part.</p>
+                    <p>L'amitié peut subsister entre des gens de différents sexes, exempte même de toute grossièreté. Une 
+                        <seg key="femme">femme</seg> cependant regarde toujours un <seg key="homme">homme</seg> comme un 
+                        <seg key="homme">homme</seg> ; et réciproquement un <seg key="homme">homme</seg> regarde une 
+                        <seg key="femme">femme</seg> comme une <seg key="femme">femme</seg>. Cette liaison n'est ni passion 
+                        ni amitié pure: elle fait une classe à part.</p>
                 </div>
                 <div corresp="#eng_D3" type="remark" n="4.3" xml:id="fr_D3">
-                    <p>L'amour naît brusquement, sans autre réflexion, par tempérament ou par faiblesse: un trait de beauté nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le temps, par la pratique, par un long commerce. Combien d'esprit, de bonté de coeur, d'attachement, de services et de complaisance dans les amis, pour faire en plusieurs années bien moins que ne fait quelquefois en un moment un beau visage ou une belle main!</p>
+                    <p>L'amour naît brusquement, sans autre réflexion, par tempérament ou par faiblesse: un trait de beauté 
+                        nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le temps, par la pratique, 
+                        par un long commerce. Combien d'esprit, de bonté de coeur, d'attachement, de services et de complaisance 
+                        dans les amis, pour faire en plusieurs années bien moins que ne fait quelquefois en un moment un beau visage 
+                        ou une belle main!</p>
                 </div>
                 <div corresp="#eng_D4" type="remark" n="4.4" xml:id="fr_D4">
                     <p>Le temps, qui fortifie les amitiés, affaiblit l'amour.</p>
                 </div>
                 <div corresp="#eng_D5" type="remark" n="4.5" xml:id="fr_D5">
-                    <p>Tant que l'amour dure, il subsiste de soi-même, et quelquefois par les choses qui semblent le devoir éteindre, par les caprices, par les rigueurs, par l'éloignement, par la jalousie. L'amitié au contraire a besoin de secours: elle périt faute de soins, de confiance et de complaisance.</p>
+                    <p>Tant que l'amour dure, il subsiste de soi-même, et quelquefois par les choses qui semblent le devoir éteindre, 
+                        par les caprices, par les rigueurs, par l'éloignement, par la jalousie. L'amitié au contraire a besoin de secours: 
+                        elle périt faute de soins, de confiance et de complaisance.</p>
                 </div>
                 </div>
             <div corresp="#fr_D" xml:lang="english" type="chapter" n="4" xml:id="eng_D">
@@ -292,14 +373,24 @@
                    <p>Pure Friendship is something, which none can attain to the taste of, but those who are well born.</p>
                 </div>
                 <div corresp="#fr_D2" type="remark" n="4.2" xml:id="eng_D2">
-                   <p>There may be a Friendship between persons of different Sexes, which may subsist without Enjoyment; yet a <seg key="woman">Woman</seg> always looks upon a <seg key="man">Man</seg> as a <seg key="man">Man</seg>, and so will a <seg key="man">Man</seg> still look upon a <seg key="woman">Woman</seg> as a <seg key="woman">Woman</seg>.  This engagement is neither pure Love nor pure Friendship.  This is something of another kind.
+                   <p>There may be a Friendship between persons of different Sexes, which may subsist without Enjoyment; yet a 
+                       <seg key="woman">Woman</seg> always looks upon a <seg key="man">Man</seg> as a <seg key="man">Man</seg>, 
+                       and so will a <seg key="man">Man</seg> still look upon a <seg key="woman">Woman</seg> as a <seg key="woman">Woman</seg>.
+                       This engagement is neither pure Love nor pure Friendship.  This is something of another kind.
                    </p>
                 </div>
                 <div corresp="#fr_D3" type="remark" n="4.3" xml:id="eng_D3">
-                   <p>Love seizes on us suddenly, without giving us time to consider, and our Disposition or our Weakness favors our surprise; one Look, one Glance from the Fair, fixes and determines us.  Friendship, on the contrary, is a long time in forming, and that by degrees, by a long Acquaintance and Familiarity.  How much Wit, good Nature, Affection, how many good Offices and Civilities are there among Friends to do in many years, which sometimes a find Face, or a find Hand does in a minute.</p>
+                   <p>Love seizes on us suddenly, without giving us time to consider, and our Disposition or our Weakness favors our surprise; 
+                       one Look, one Glance from the Fair, fixes and determines us.  Friendship, on the contrary, is a long time in forming, 
+                       and that by degrees, by a long Acquaintance and Familiarity.  How much Wit, good Nature, Affection, how many good 
+                       Offices and Civilities are there among Friends to do in many years, which sometimes a find Face, or a find Hand does 
+                       in a minute.</p>
                 </div>
                 <div corresp="#fr_D4" type="remark" n="4.4" xml:id="eng_D4">
-                   <p>Time that strengthens Friendship, weakens Love, as long as it does last, subsists of itself, and sometimes by those very means, which should seems rather to extinguish it, Severity, Cruelty, Absence, and Jealousy.  Friendship, on the contrary, stands in need of al helps, Care, Confidence, and Complaisance; if not supplied with these, it expires. </p>
+                   <p>Time that strengthens Friendship, weakens Love, as long as it does last, subsists of itself, and sometimes by those 
+                       very means, which should seems rather to extinguish it, Severity, Cruelty, Absence, and Jealousy.  Friendship, 
+                       on the contrary, stands in need of al helps, Care, Confidence, and Complaisance; if not supplied with these, 
+                       it expires. </p>
                 </div>
                 <div corresp="#fr_D5" type="remark" n="4.5" xml:id="eng_D5">
                    <p>It is not hard to meet with Love in excess, as with perfect Friendship.
@@ -312,16 +403,27 @@
                     <p>Un caractère bien fade est celui de n'en avoir aucun.</p>
                 </div>
                 <div corresp="#eng_E2" type="remark" n="5.2" xml:id="fr_E2">
-                    <p>C'est le rôle d'un sot d'être importun: un <seg key="homme">homme</seg> habile sent s'il convient ou s'il ennuie; il sait disparaître le moment qui précède celui où il serait de trop quelque part.</p>
+                    <p>C'est le rôle d'un sot d'être importun: un <seg key="homme">homme</seg> habile sent s'il convient ou s'il ennuie; 
+                        il sait disparaître le moment qui précède celui où il serait de trop quelque part.</p>
                 </div>
                 <div corresp="#eng_E3" type="remark" n="5.3" xml:id="fr_E3">
-                    <p>L'on marche sur les mauvais plaisants, et il pleut par tout pays de cette sorte d'insectes. Un bon plaisant est une pièce rare; à un <seg key="homme">homme</seg> qui est né tel, il est encore fort délicat d'en soutenir longtemps le personnage; il n'est pas ordinaire que celui qui fait rire se fasse estimer.</p>
+                    <p>L'on marche sur les mauvais plaisants, et il pleut par tout pays de cette sorte d'insectes. Un bon plaisant est 
+                        une pièce rare; à un <seg key="homme">homme</seg> qui est né tel, il est encore fort délicat d'en soutenir 
+                        longtemps le personnage; il n'est pas ordinaire que celui qui fait rire se fasse estimer.</p>
                 </div>
                 <div corresp="#eng_E4" type="remark" n="5.4" xml:id="fr_E4">
-                    <p>Il a beaucoup d'esprits obscènes, encore plus de médisants ou de satiriques, peu de délicats. Pour badiner avec grâce, et rencontrer heureusement sur les plus petits sujets, il faut trop de manières, trop de politesse, et même trop de fécondité: c'est créer que de railler ainsi, et faire quelque chose de rien.</p>
+                    <p>Il a beaucoup d'esprits obscènes, encore plus de médisants ou de satiriques, peu de délicats. Pour badiner 
+                        avec grâce, et rencontrer heureusement sur les plus petits sujets, il faut trop de manières, trop de politesse, 
+                        et même trop de fécondité: c'est créer que de railler ainsi, et faire quelque chose de rien.</p>
                 </div>
                 <div corresp="#eng_E5" type="remark" n="5.5" xml:id="fr_E5">
-                    <p>Si l'on faisait une sérieuse attention à tout ce qui se dit de froid, de vain de puéril dans les entretiens ordinaires, l'on aurait honte de parler ou d'écouter, et l'on se condamnerait peut-être à un silence perpétuel, qui serait une chose pire dans le commerce que les discours inutiles. Il faut donc s'accommoder à tous les esprits, permettre comme un mal nécessaire le récit des fausses nouvelles, les vagues réflexions sur le gouvernement présent, ou sur l'intérêt des princes, le débit des beaux sentiments, et qui reviennent toujours les mêmes; il faut laisser Aronce parler proverbe, et Mélinde parler de soi, de ses vapeurs, de ses migraines et de ses insomnies.</p>
+                    <p>Si l'on faisait une sérieuse attention à tout ce qui se dit de froid, de vain de puéril dans les entretiens 
+                        ordinaires, l'on aurait honte de parler ou d'écouter, et l'on se condamnerait peut-être à un silence perpétuel, 
+                        qui serait une chose pire dans le commerce que les discours inutiles. Il faut donc s'accommoder à tous les 
+                        esprits, permettre comme un mal nécessaire le récit des fausses nouvelles, les vagues réflexions sur le 
+                        gouvernement présent, ou sur l'intérêt des princes, le débit des beaux sentiments, et qui reviennent 
+                        toujours les mêmes; il faut laisser Aronce parler proverbe, et Mélinde parler de soi, de ses vapeurs, 
+                        de ses migraines et de ses insomnies.</p>
                 </div>
                 </div>
             <div corresp="#fr_E" xml:lang="english" type="chapter" n="5" xml:id="eng_E">
@@ -331,36 +433,55 @@
                    </p>
                 </div>
                 <div corresp="#fr_E2" type="remark" n="5.2" xml:id="eng_E2">
-                   <p>It is a fool’s heart to be troublesome: A <seg key="man">Man</seg> of Sense perceives when he is agreeable or tiresome: he knows how to disappear the very minute before he would have been thought to have tarried too long.</p>
+                   <p>It is a fool’s heart to be troublesome: A <seg key="man">Man</seg> of Sense perceives when he is agreeable 
+                       or tiresome: he knows how to disappear the very minute before he would have been thought 
+                       to have tarried too long.</p>
                 </div>
                 <div corresp="#fr_E3" type="remark" n="5.3" xml:id="eng_E3">
-                   <p>Buffoons are a sort of Insects which breed in all Countries; we can scarce step without treading on them.  A pleasant <seg key="man">Man</seg> is rarely to be met with; and a person, though he is born so, must have a great deal of Delicacy to maintain the Character a long time; for commonly he that makes us laugh, is not sure to make himself esteemed.</p>
+                   <p>Buffoons are a sort of Insects which breed in all Countries; we can scarce step without treading on them.  
+                       A pleasant <seg key="man">Man</seg> is rarely to be met with; and a person, though he is born so, 
+                       must have a great deal of Delicacy to maintain the Character a long time; for commonly he that makes 
+                       us laugh, is not sure to make himself esteemed.</p>
                 </div>
                 <div corresp="#fr_E4" type="remark" n="5.4" xml:id="eng_E4">
-                   <p>IThere are abundance of obscene, a great many more railing and satirical Wits, but very few delicate.  A <seg key="man">Man</seg> must have manners and politeness to trifle with good Grace, and a copious Fancy to play handsomely on little things, to create matter of Raillery, and make something out of nothing. </p>
+                   <p>IThere are abundance of obscene, a great many more railing and satirical Wits, but very few delicate.  
+                       A <seg key="man">Man</seg> must have manners and politeness to trifle with good Grace, and a copious 
+                       Fancy to play handsomely on little things, to create matter of Raillery, and make something out of nothing. </p>
                 </div>
                 <div corresp="#fr_E5" type="remark" n="5.5" xml:id="eng_E5">
-                   <p>If we were to listen with attention to everything that is said in common Conversation, we should be ashamed to speak, or to hear; we should perhaps condemn our selves to a perpetual silence, which is more injurious to Converse than unprofitable Discourses: we must therefore accommodate ourselves to every <seg key="man">Man</seg>’s capacity, we must suffer as necessary evils, false News, rambling reflections on the present Government, or on the Interest of Princes: 
-                      We must hear with Patience the fine Notions some <seg key="man">men</seg> are continually repeating; and permit <emph rend="italic">Aronces</emph> to speak Proverbs, and <emph rend="italic">Melinda</emph> to talk of herself, her Vapors, Megrims, and want of Rest.
+                   <p>If we were to listen with attention to everything that is said in common Conversation, we should be 
+                       ashamed to speak, or to hear; we should perhaps condemn our selves to a perpetual silence, which 
+                       is more injurious to Converse than unprofitable Discourses: we must therefore accommodate ourselves 
+                       to every <seg key="man">Man</seg>’s capacity, we must suffer as necessary evils, false News, 
+                       rambling reflections on the present Government, or on the Interest of Princes: 
+                      We must hear with Patience the fine Notions some <seg key="man">men</seg> are continually repeating; 
+                       and permit <emph rend="italic">Aronces</emph> to speak Proverbs, and <emph rend="italic">Melinda</emph> 
+                       to talk of herself, her Vapors, Megrims, and want of Rest.
                    </p>
                 </div>
                </div>
             <div corresp="#eng_F" xml:lang="french" type="chapter" n="6" xml:id="fr_F">
                 <head>Des biens de fortune</head>
                 <div corresp="#eng_F1" type="remark" n="6.1" xml:id="fr_F1">
-                    <p>Un <seg key="homme">homme</seg> fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves, jouir d'un palais à la campagne et d'un autre à la ville, avoir un grand équipage, mettre un duc dans sa famille, et faire de son fils un grand seigneur: cela est juste et de son ressort; mais il appartient peut-être à d'autres de vivre contents.</p>
+                    <p>Un <seg key="homme">homme</seg> fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves,
+                        jouir d'un palais à la campagne et d'un autre à la ville, avoir un grand équipage, mettre un duc dans sa famille, 
+                        et faire de son fils un grand seigneur: cela est juste et de son ressort; mais il appartient peut-être à
+                        d'autres de vivre contents.</p>
                 </div>
                 <div corresp="#eng_F2" type="remark" n="6.2" xml:id="fr_F2">
                     <p>Une grande naissance ou une grande fortune annonce le mérite, et le fait plus tôt remarquer.</p>
                 </div>
                 <div corresp="#eng_F3" type="remark" n="6.3" xml:id="fr_F3">
-                    <p>Ce qui disculpe le fat ambitieux de son ambition est le soin que l'on prend, s'il a fait une grande fortune, de lui trouver un mérite qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
+                    <p>Ce qui disculpe le fat ambitieux de son ambition est le soin que l'on prend, s'il a fait une grande fortune, 
+                        de lui trouver un mérite qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
                 </div>
                 <div corresp="#eng_F4" type="remark" n="6.4" xml:id="fr_F4">
-                    <p>À mesure que la faveur et les grands biens se retirent d'un <seg key="homme">homme</seg>, ils laissent voir en lui le ridicule qu'ils couvraient, et qui y était sans que personne s'en aperçût.</p>
+                    <p>À mesure que la faveur et les grands biens se retirent d'un <seg key="homme">homme</seg>, ils laissent voir 
+                        en lui le ridicule qu'ils couvraient, et qui y était sans que personne s'en aperçût.</p>
                 </div>
                 <div corresp="#eng_F5" type="remark" n="6.5" xml:id="fr_F5">
-                    <p>Si l'on ne le voyait de ses yeux, pourrait-on jamais s'imaginer l'étrange disproportion que le plus ou le moins de pièces de monnaie met entre les <seg key="homme">hommes</seg> ?</p>
+                    <p>Si l'on ne le voyait de ses yeux, pourrait-on jamais s'imaginer l'étrange disproportion que le plus ou le 
+                        moins de pièces de monnaie met entre les <seg key="homme">hommes</seg> ?</p>
                     <p>Ce plus ou ce moins détermine à l'épée, à la robe ou à l'Église: il n'y a presque point d'autre vocation.</p>
                 </div>
                 </div>
@@ -377,7 +498,8 @@
                    </p>
                 </div>
                 <div corresp="#fr_F3" type="remark" n="6.3" xml:id="eng_F3">
-                   <p>Some Excuse to an ambitious Coxcomb for his Ambition, is the Care he takes after his has raised his Fortune, to find out some Merit which he never had before, to render him as worthy in our Opinions, as he is in his own.
+                   <p>Some Excuse to an ambitious Coxcomb for his Ambition, is the Care he takes after his has raised his Fortune, 
+                       to find out some Merit which he never had before, to render him as worthy in our Opinions, as he is in his own.
                    </p>
                 </div>
                 <div corresp="#fr_F4" type="remark" n="6.4" xml:id="eng_F4">
@@ -386,7 +508,8 @@
                 </div>
                 <div corresp="#fr_F5" type="remark" n="6.5" xml:id="eng_F5">
                    <p>
-                      If it was not what we earpiece every day, we could not imagine the strange Disproportion a few, or a great many Pieces of Money, set between <seg key=“man”>Men</seg>.
+                      If it was not what we earpiece every day, we could not imagine the strange Disproportion a few, or a great 
+                       many Pieces of Money, set between <seg key=“man”>Men</seg>.
                    </p>
                    <p>
                       Those few or many Pieces of Money are what determine <seg key="man">Men</seg>
@@ -397,68 +520,159 @@
             <div corresp="#eng_G" xml:lang="french" type="chapter" n="7" xml:id="fr_G">
                 <head>De la ville</head>
                 <div corresp="#eng_G1" type="remark" n="7.1" xml:id="fr_G1">
-                    <p>L'on se donne à Paris, sans se parler, comme un rendez-vous public, mais fort exact, tous les soirs au Cours ou aux Tuileries, pour se regarder au visage et se désapprouver les uns les autres.</p>
+                    <p>L'on se donne à Paris, sans se parler, comme un rendez-vous public, mais fort exact, tous les soirs au 
+                        Cours ou aux Tuileries, pour se regarder au visage et se désapprouver les uns les autres.</p>
                     <p>L'on ne peut se passer de ce même monde que l'on n'aime point, et dont l'on se moque.</p>
-                    <p>L'on s'attend au passage réciproquement dans une promenade publique; l'on y passe en revue l'un devant l'autre: carrosse, chevaux, livrées, armoiries, rien n'échappe aux yeux, tout est curieusement ou malignement observé; et selon le plus ou le moins de l'équipage, ou l'on respecte les personnes, ou on les dédaigne.</p>
+                    <p>L'on s'attend au passage réciproquement dans une promenade publique; l'on y passe en revue l'un devant 
+                        l'autre: carrosse, chevaux, livrées, armoiries, rien n'échappe aux yeux, tout est curieusement ou 
+                        malignement observé; et selon le plus ou le moins de l'équipage, ou l'on respecte les personnes, 
+                        ou on les dédaigne.</p>
                 </div>
                 <div corresp="#eng_G2" type="remark" n="7.2" xml:id="fr_G2">
-                    <p>Tout le monde connaît cette longue levée qui borne et qui resserre le lit de la Seine, du côté où elle entre à Paris avec la Marne, qu'elle vient de recevoir: les <seg key="homme">hommes</seg> s'y baignent au pied pendant les chaleurs de la canicule; on les voit de fort près se jeter dans l'eau; on les en voit sortir: c'est un amusement. Quand cette saison n'est pas venue, les <seg key="femme">femmes</seg> de la ville ne s'y promènent pas encore; et quand elle est passée, elles ne s'y promènent plus.</p>
+                    <p>Tout le monde connaît cette longue levée qui borne et qui resserre le lit de la Seine, du côté où elle 
+                        entre à Paris avec la Marne, qu'elle vient de recevoir: les <seg key="homme">hommes</seg> s'y 
+                        baignent au pied pendant les chaleurs de la canicule; on les voit de fort près se jeter dans l'eau; 
+                        on les en voit sortir: c'est un amusement. Quand cette saison n'est pas venue, les <seg key="femme">femmes</seg> 
+                        de la ville ne s'y promènent pas encore; et quand elle est passée, elles ne s'y promènent plus.</p>
                 </div>
                 <div corresp="#eng_G3" type="remark" n="7.3" xml:id="fr_G3">
-                    <p>Dans ces lieux d'un concours général, où les <seg key="femme">femmes</seg> se rassemblent pour montrer une belle étoffe, et pour recueillir le fruit de leur toilette, on ne se promène pas avec une compagne par la nécessité de la conversation; on se joint ensemble pour, se rassurer sur le théâtre, s'apprivoiser avec le public, et se raffermir contre la critique: c'est là précisément qu'on se parle sans se rien dire, ou plutôt qu'on parle pour les passants, pour ceux même en faveur de qui l'on hausse sa voix, l'on gesticule et l'on badine, l'on penche négligemment la tête, l'on passe et l'on repasse.</p>
+                    <p>Dans ces lieux d'un concours général, où les <seg key="femme">femmes</seg> se rassemblent pour montrer 
+                        une belle étoffe, et pour recueillir le fruit de leur toilette, on ne se promène pas avec une compagne 
+                        par la nécessité de la conversation; on se joint ensemble pour, se rassurer sur le théâtre, 
+                        s'apprivoiser avec le public, et se raffermir contre la critique: c'est là précisément qu'on se parle 
+                        sans se rien dire, ou plutôt qu'on parle pour les passants, pour ceux même en faveur de qui 
+                        l'on hausse sa voix, l'on gesticule et l'on badine, l'on penche négligemment la tête, l'on passe 
+                        et l'on repasse.</p>
                 </div>
                 <div corresp="#eng_G4" type="remark" n="7.4" xml:id="fr_G4">
-                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont leurs lois, leurs usages, leur jargon, et leurs mots pour rire. Tant que cet assemblage est dans sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait que ce qui part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs: cela va jusques au mépris pour les gens qui ne sont pas initiés dans leurs mystères. L'<seg key="homme">homme</seg> du monde d'un meilleur esprit, que le hasard a porté au milieu d'eux, leur est étranger: il se trouve là comme dans un pays lointain, dont il ne connaît ni les routes, ni la langue ni les moeurs, ni la coutume; il voit un peuple qui cause, bourdonne, parle à l'oreille, éclate de rire, et qui retombe ensuite dans un morne silence; il y perd son maintien, ne trouve pas où placer un seul mot, et n'a pas même de quoi écouter. Il ne manque jamais là un mauvais plaisant qui domine, et qui est comme le héros de la société: celui-ci s'est chargé de la joie des autres, et fait toujours rire avant que d'avoir parlé. Si quelquefois une <seg key="femme">femme</seg> survient qui n'est point de leurs plaisirs, la bande joyeuse ne peut comprendre qu'elle ne sache point rire des choses qu'elle n'entend point, et paraisse insensible à des fadaises qu'ils n'entendent eux-mêmes que parce qu'ils les ont faites: ils ne lui pardonnent ni son ton de voix, ni son silence, ni sa taille, ni son visage, ni son habillement, ni son entrée, ni la manière dont elle est sortie. Deux années cependant ne passent point sur une même coterie: il y a toujours, dès la première année, des semences de division pour rompre dans celle qui doit suivre; l'intérêt de la beauté, les incidents du jeu, l'extravagance des repas, qui, modestes au commencement, dégénèrent bientôt en pyramides de viandes et en banquets somptueux, dérangent la république, et lui portent enfin le coup mortel: il n'est en fort peu de temps non plus parlé de cette nation que des mouches de l'année passée.</p>
+                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont 
+                        leurs lois, leurs usages, leur jargon, et leurs mots pour rire. Tant que cet assemblage est dans 
+                        sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait que ce qui                        
+                        part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs: cela va jusques au mépris 
+                        pour les gens qui ne sont pas initiés dans leurs mystères. L'<seg key="homme">homme</seg> du monde 
+                        d'un meilleur esprit, que le hasard a porté au milieu d'eux, leur est étranger: il se trouve là 
+                        comme dans un pays lointain, dont il ne connaît ni les routes, ni la langue ni les moeurs, ni la 
+                        coutume; il voit un peuple qui cause, bourdonne, parle à l'oreille, éclate de rire, et qui retombe 
+                        ensuite dans un morne silence; il y perd son maintien, ne trouve pas où placer un seul mot, et n'a 
+                        pas même de quoi écouter. Il ne manque jamais là un mauvais plaisant qui domine, et qui est comme 
+                        le héros de la société: celui-ci s'est chargé de la joie des autres, et fait toujours rire avant 
+                        que d'avoir parlé. Si quelquefois une <seg key="femme">femme</seg> survient qui n'est point de 
+                        leurs plaisirs, la bande joyeuse ne peut comprendre qu'elle ne sache point rire des choses qu'elle 
+                        n'entend point, et paraisse insensible à des fadaises qu'ils n'entendent eux-mêmes que parce qu'ils 
+                        les ont faites: ils ne lui pardonnent ni son ton de voix, ni son silence, ni sa taille, ni son visage, 
+                        ni son habillement, ni son entrée, ni la manière dont elle est sortie. Deux années cependant ne passent 
+                        point sur une même coterie: il y a toujours, dès la première année, des semences de division pour 
+                        rompre dans celle qui doit suivre; l'intérêt de la beauté, les incidents du jeu, l'extravagance 
+                        des repas, qui, modestes au commencement, dégénèrent bientôt en pyramides de viandes et en banquets 
+                        somptueux, dérangent la république, et lui portent enfin le coup mortel: il n'est en fort peu de temps 
+                        non plus parlé de cette nation que des mouches de l'année passée.</p>
                 </div>
                 <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
-                    <p>Il y a dans la ville la grande et la petite robe; et la première se venge sur l'autre des dédains de la cour, et des petites humiliations qu'elle y essuie. De savoir quelles sont leurs limites, où la grande finit, et où la petite commence, ce n'est pas une chose facile. Il se trouve même un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier: il ne se rend pas néanmoins, il cherche au contraire, par la gravité et par la dépense, à s'égaler à la magistrature, ou ne lui cède qu'avec peine: on l'entend dire que la noblesse de son emploi, l'indépendance de sa profession, le talent de la parole et le mérite personnel balancent au moins les sacs de mille francs que le fils du partisan ou du banquier a su payer pour son office.</p>
+                    <p>Il y a dans la ville la grande et la petite robe; et la première se venge sur l'autre des dédains 
+                        de la cour, et des petites humiliations qu'elle y essuie. De savoir quelles sont leurs limites, 
+                        où la grande finit, et où la petite commence, ce n'est pas une chose facile. Il se trouve même 
+                        un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier: 
+                        il ne se rend pas néanmoins, il cherche au contraire, par la gravité et par la dépense, 
+                        à s'égaler à la magistrature, ou ne lui cède qu'avec peine: on l'entend dire que la noblesse 
+                        de son emploi, l'indépendance de sa profession, le talent de la parole et le mérite personnel 
+                        balancent au moins les sacs de mille francs que le fils du partisan ou du banquier a su payer 
+                        pour son office.</p>
                 </div>
                 </div>
             <div corresp="#fr_G" xml:lang="english" type="chapter" n="7" xml:id="eng_G">
                 <head>Of the City</head>
                 <div corresp="#fr_G1" type="remark" n="7.1" xml:id="eng_G1">
                    <p>
-                      At Paris we meet as exactly without Appointment, as if it were some public Assignation; we are punctual every Evening at the <emph rend="italic">Tuilleries</emph> and the <emph rend="italic">Cours</emph>, to observe all Faces there, and to like none. 
+                      At Paris we meet as exactly without Appointment, as if it were some public Assignation; we are 
+                       punctual every Evening at the <emph rend="italic">Tuilleries</emph> and the <emph rend="italic">Cours</emph>, 
+                       to observe all Faces there, and to like none. 
                    </p>
                    <p>
                       We can’t forbear even the Company of those Persons whose we hate and deride.
                    </p>
                    <p>
-                      We wait for one another at these Meetings, and as we pass by are curious in examining Coaches, Horses, and Liveries; nothing escapes our Eyes, which are, in these cases, very nice and malicious; we respect or distain the people we meet, according to the Greatness or Smallness of their Equipage. </p>
+                      We wait for one another at these Meetings, and as we pass by are curious in examining Coaches, Horses, 
+                       and Liveries; nothing escapes our Eyes, which are, in these cases, very nice and malicious; we respect 
+                       or distain the people we meet, according to the Greatness or Smallness of their Equipage. </p>
                 </div>
                 <div corresp="#fr_G2" type="remark" n="7.2" xml:id="eng_G2">
-                   <p>Everybody knows the Long-Bank which borders the River <emph rend="italic">Seine</emph>, on that side where it receives the <emph rend="italic">Marne</emph> at its entry into <emph rend="italic">Paris</emph>.  At the foot of the Bank the <seg key=“man”>Men</seg> delight to bath themselves, during the heats of the Dog-days, we can see them at little distance throw themselves into the Water, and return: And it is observable, that the City-<seg key="woman">Women</seg> never walk that way till this Season comes, and when it is past, walk there no longer.
+                   <p>Everybody knows the Long-Bank which borders the River <emph rend="italic">Seine</emph>, on that side 
+                       where it receives the <emph rend="italic">Marne</emph> at its entry into <emph rend="italic">Paris</emph>.  
+                       At the foot of the Bank the <seg key=“man”>Men</seg> delight to bath themselves, during the heats 
+                       of the Dog-days, we can see them at little distance throw themselves into the Water, and return: 
+                       And it is observable, that the City-<seg key="woman">Women</seg> never walk that way till this Season 
+                       comes, and when it is past, walk there no longer.
                    </p>
   
                 </div>
                 <div corresp="#fr_G3" type="remark" n="7.3" xml:id="eng_G3">
-                   <p>In those Places of general Concourse, where the Ladies assemble only to shew their fine Silks, and reap the fruit of their Toilet, People don’t walk with a Company for the benefit of Conversation, but couple together, to get a little Confidence, and embolden themselves again the common Reflections that are made there.  They talk here; and say nothing, or rather talk to be taken notice of by such as pass by them, for whose sake they raise their Voices, cringe, bow negligently, and make several turns.</p>
+                   <p>In those Places of general Concourse, where the Ladies assemble only to shew their fine Silks, 
+                       and reap the fruit of their Toilet, People don’t walk with a Company for the benefit of Conversation, 
+                       but couple together, to get a little Confidence, and embolden themselves again the common Reflections 
+                       that are made there.  They talk here; and say nothing, or rather talk to be taken notice of by such                   
+                       as pass by them, for whose sake they raise their Voices, cringe, bow negligently, and make several turns.</p>
                 </div>
                 <div corresp="#fr_G4" type="remark" n="7.4" xml:id="eng_G4">
-                   <p>The town is divided into several Societies, which like so many little Republics, have their particular Laws, Custom, Jargon and Jests: nothing is allowed to be well done, which they had no hand in; those who have not been initiated in their Mysteries are condemned.  A <seg key=“man”>Man</seg> of Wit, and one who knows the World, whom Chance has thrown amongst them, finds himself in a strange Country, where he is ignorant of the Roads, Language, Manners and Customs; he sees here a sort of people, who sometimes make a noise, sometimes whisper, sometimes laugh aloud, and presently fall again into a doleful silence; he loses himself here, and can hardy tell how to put is words into any tolerable order, or get himself heard.  Here is always some forward Coxcomb, who with insipid Jests, and wretched Buffoonery, makes himself the Hero of Society: This <seg key=“man”>Man</seg> is the Director of the others Merriment, and they always laugh at his Jests before he speaks.  If at any time a <seg key="woman">Woman</seg> comes amongst them, who is not a Companion in their pleasures, the jolly Club wonders she should not laugh at those pretty things she does understand, and appear insensible at the Trifles which they would not be pleased with, if they were not their own; they will neither forgive her, her Speech, her Silence, her Shape, her Complexion, her Dress, nor the Manner of her coming in, or going out.  The same Club, however, never lives two years successfully; in the first there are always sown those Seeds of Division which break it in the next, by Quarrels about some Beauty, disputes at Play, extravagant Feats, which though Modest in the beginning, soon degenerate into Pyramids of Victuals and costly Banquets, to the utter overthrow of their Commonwealth: thus in a little while there is no more talk of this People, than of the last years Flies.
+                   <p>The town is divided into several Societies, which like so many little Republics, have their particular 
+                       Laws, Custom, Jargon and Jests: nothing is allowed to be well done, which they had no hand in; those 
+                       who have not been initiated in their Mysteries are condemned.  A <seg key=“man”>Man</seg> of Wit, 
+                       and one who knows the World, whom Chance has thrown amongst them, finds himself in a strange Country, 
+                       where he is ignorant of the Roads, Language, Manners and Customs; he sees here a sort of people, who 
+                       sometimes make a noise, sometimes whisper, sometimes laugh aloud, and presently fall again into a 
+                       doleful silence; he loses himself here, and can hardy tell how to put is words into any tolerable 
+                       order, or get himself heard.  Here is always some forward Coxcomb, who with insipid Jests, and 
+                       wretched Buffoonery, makes himself the Hero of Society: This <seg key=“man”>Man</seg> is the 
+                       Director of the others Merriment, and they always laugh at his Jests before he speaks.  
+                       If at any time a <seg key="woman">Woman</seg> comes amongst them, who is not a Companion 
+                       in their pleasures, the jolly Club wonders she should not laugh at those pretty things 
+                       she does understand, and appear insensible at the Trifles which they would not be pleased with, 
+                       if they were not their own; they will neither forgive her, her Speech, her Silence, her Shape, 
+                       her Complexion, her Dress, nor the Manner of her coming in, or going out.  The same Club, however, 
+                       never lives two years successfully; in the first there are always sown those Seeds of Division 
+                       which break it in the next, by Quarrels about some Beauty, disputes at Play, extravagant Feats, 
+                       which though Modest in the beginning, soon degenerate into Pyramids of Victuals and costly Banquets, 
+                       to the utter overthrow of their Commonwealth: thus in a little while there is no more talk of this 
+                       People, than of the last years Flies.
                    </p>
                 </div>
                 <div corresp="#fr_G5" type="remark" n="7.5" xml:id="eng_G5">
-                   <p>In the City there is the greater Robe and the less: The first of these revenge themselves on the other, for the Contempt and the Mortifications they meet with at the Court: It is not easily known where the greater ends, or where the less begins, there being a considerable body of those who refused to be of the second Order, and who are not yet allowed to the of the first: They will not however give place to the other: On the contrary, hey endeavor by their Gravity and Expense to equal them in Magistracy, and will not yield them without difficulty: They are often heard to say, that the Nobleness of their Employment, the Independency of their Profession, their Talent at Speaking, and their Personal Merit, balance at least the Bags of Money, which the Sons of <emph rend="italic">Partisans</emph> or Bankers, paid for their Offices.
+                   <p>In the City there is the greater Robe and the less: The first of these revenge themselves on the other, 
+                       for the Contempt and the Mortifications they meet with at the Court: It is not easily known where 
+                       the greater ends, or where the less begins, there being a considerable body of those who refused 
+                       to be of the second Order, and who are not yet allowed to the of the first: They will not however 
+                       give place to the other: On the contrary, hey endeavor by their Gravity and Expense to equal them 
+                       in Magistracy, and will not yield them without difficulty: They are often heard to say, that the 
+                       Nobleness of their Employment, the Independency of their Profession, their Talent at Speaking, 
+                       and their Personal Merit, balance at least the Bags of Money, which the Sons of 
+                       <emph rend="italic">Partisans</emph> or Bankers, paid for their Offices.
                    </p>
                 </div>
                 </div>
             <div corresp="#eng_H" xml:lang="french" type="chapter" n="8" xml:id="fr_H">
                 <head>De la cour</head>
                 <div corresp="#eng_H1" type="remark" n="8.1" xml:id="fr_H1">
-                    <p>Le reproche en un sens le plus honorable que l'on puisse faire à un <seg key="homme">homme</seg>, c'est de lui dire qu'il ne sait pas la cour: il n'y a sorte de vertus qu'on ne rassemble en lui par ce seul mot.</p>
+                    <p>Le reproche en un sens le plus honorable que l'on puisse faire à un <seg key="homme">homme</seg>, 
+                        c'est de lui dire qu'il ne sait pas la cour: il n'y a sorte de vertus qu'on ne rassemble en 
+                        lui par ce seul mot.</p>
                 </div>
                 <div corresp="#eng_H2" type="remark" n="8.2" xml:id="fr_H2">
-                    <p>Un <seg key="homme">homme</seg> qui sait la cour est maître de son geste, de ses yeux et de son visage; il est profond, impénétrable; il dissimule les mauvais offices, sourit à ses ennemis, contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments. Tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile au courtisan pour sa fortune, que la franchise, la sincérité et la vertu.</p>
+                    <p>Un <seg key="homme">homme</seg> qui sait la cour est maître de son geste, de ses yeux et de son 
+                        visage; il est profond, impénétrable; il dissimule les mauvais offices, sourit à ses ennemis, 
+                        contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments. 
+                        Tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile 
+                        au courtisan pour sa fortune, que la franchise, la sincérité et la vertu.</p>
                 </div>
                 <div corresp="#eng_H3" type="remark" n="8.3" xml:id="fr_H3">
-                    <p>Qui peut nommer de certaines couleurs changeantes, et qui sont diverses selon les divers jours dont on les regarde? de même, qui peut définir la cour ?</p>
+                    <p>Qui peut nommer de certaines couleurs changeantes, et qui sont diverses selon les divers jours dont 
+                        on les regarde? de même, qui peut définir la cour ?</p>
                 </div>
                 <div corresp="#eng_H4" type="remark" n="8.4" xml:id="fr_H4">
-                    <p>Se dérober à la cour un seul moment, c'est y renoncer: le courtisan qui l'a vue le matin la voit le soir pour la reconnaître le lendemain, ou afin que lui-même y soit connu.</p>
+                    <p>Se dérober à la cour un seul moment, c'est y renoncer: le courtisan qui l'a vue le matin la voit 
+                        le soir pour la reconnaître le lendemain, ou afin que lui-même y soit connu.</p>
                 </div>
                 <div corresp="#eng_H5" type="remark" n="8.5" xml:id="fr_H5">
-                    <p>L'on est petit à la cour, et quelque vanité que l'on ait, on s'y trouve tel; mais le mal est commun, et les grands mêmes y sont petits.</p>
+                    <p>L'on est petit à la cour, et quelque vanité que l'on ait, on s'y trouve tel; mais le mal est commun, 
+                        et les grands mêmes y sont petits.</p>
                 </div>
             </div>
             <div corresp="#fr_H" xml:lang="english" type="chapter" n="8" xml:id="eng_H">
@@ -499,7 +713,9 @@
             <div corresp="#eng_I" xml:lang="french" type="chapter" n="9" xml:id="fr_I">
                 <head>Des grands</head>
                 <div corresp="#eng_I1" type="remark" n="9.1" xml:id="fr_I1">
-                    <p>La prévention du peuple en faveur des grands est si aveugle, et l'entêtement pour leur geste, leur visage, leur ton de voix et leurs manières si général, que, s'ils s'avisaient d'être bons, cela irait à l'idolâtrie.</p>
+                    <p>La prévention du peuple en faveur des grands est si aveugle, et l'entêtement pour leur geste, leur 
+                        visage, leur ton de voix et leurs manières si général, que, s'ils s'avisaient d'être bons, cela 
+                        irait à l'idolâtrie.</p>
                 </div>
                 <div corresp="#eng_I2" type="remark" n="9.2" xml:id="fr_I2">
                     <p>Si vous êtes né vicieux, ô Théagène, je vous plains; si vous le devenez
@@ -557,11 +773,21 @@
                    </p>
                 </div>
                 <div corresp="#fr_I2" type="remark" n="9.2" xml:id="eng_I2">
-                   <p>If you are born vicious, Oh <emph rend="italic">Theagenes</emph> I pity you; If you are become so out of a weakness for some, whose Interest it is that you should be debauched, who have sworn privately to corrupt you, and boast already of their success, excuse me if despise you: But if you are wise, temperate, modest, civil, generous, grateful, industrious, and besides, of a Rank that ought to give examples rather than take them, and to make rules for others rather than receive them; agree with those sort of People to follow out of complaisance, their disorders, vices, and follies, after the respect they owe you, has obliged them to imitate your Virtues.  This is an odd, but useful, Irony, very proper to secure your Manners, ruin all their Projects, and put them on a necessity of continuing what they are, and leaving you what you are.</p>
+                   <p>If you are born vicious, Oh <emph rend="italic">Theagenes</emph> I pity you; If you are become 
+                       so out of a weakness for some, whose Interest it is that you should be debauched, who have 
+                       sworn privately to corrupt you, and boast already of their success, excuse me if despise you: 
+                       But if you are wise, temperate, modest, civil, generous, grateful, industrious, and besides, 
+                       of a Rank that ought to give examples rather than take them, and to make rules for others 
+                       rather than receive them; agree with those sort of People to follow out of complaisance, 
+                       their disorders, vices, and follies, after the respect they owe you, has obliged them to 
+                       imitate your Virtues.  This is an odd, but useful, Irony, very proper to secure your Manners, 
+                       ruin all their Projects, and put them on a necessity of continuing what they are, and 
+                       leaving you what you are.</p>
                 </div>
                 <div corresp="#fr_I3" type="remark" n="9.3" xml:id="eng_I3">
                    <p>Great <seg key="man">Men</seg>
-                      have in one thing a prodigious advantage over others; I don’t envy them, their Good Cheer, Riches, Dogs, Horses, Equipages, Fools and Flatterers; 
+                      have in one thing a prodigious advantage over others; I don’t envy them, their Good Cheer, 
+                       Riches, Dogs, Horses, Equipages, Fools and Flatterers; 
                       but I envy them the happiness of having in their service <seg key="man">men</seg>
                       of as great Souls and Sense, and sometimes better than than their own.</p>
                 </div>
@@ -641,13 +867,21 @@
                    </p>
                 </div>
                 <div corresp="#fr_J3" type="remark" n="10.3" xml:id="eng_J3">
-                   <p>It is a certain and ancient maxim in Politics, that to suffer the people to stupefy themselves with Pleasures and Feats, Shows and Luxury, with Vanity and Delicacy, to dispossess them of all things solid and valuable, and leave them fond of ridiculous trifles, is to make the greatest advances to a Despotic Power.</p>
+                   <p>It is a certain and ancient maxim in Politics, that to suffer the people to stupefy themselves                      
+                     with Pleasures and Feats, Shows and Luxury, with Vanity and Delicacy, to dispossess them of all 
+                       things solid and valuable, and leave them fond of ridiculous trifles, is to make the greatest 
+                       advances to a Despotic Power.</p>
                 </div>
                 <div corresp="#fr_J4" type="remark" n="10.4" xml:id="eng_J4">
-                   <p>Under an Arbitrary Government, Interest, Honor, and the service of the Prince, supply the place of natural affection to our Country. </p>
+                   <p>Under an Arbitrary Government, Interest, Honor, and the service of the Prince, supply the place 
+                       of natural affection to our Country. </p>
                 </div>
                 <div corresp="#fr_J5" type="remark" n="10.5" xml:id="eng_J5">
-                   <p>To innovate, or introduce any alterations in a State, the time is rather to be considered than the action itself; there are some conjunctures when nothing is to be attempted on the people, and there are others when nothing is too gross to pass upon them: Today you many subvert the Rights, Franchises, and Privileges of such a Town; but tomorrow you must not so much as think of altering the Signs at their Doors.</p>
+                   <p>To innovate, or introduce any alterations in a State, the time is rather to be considered than 
+                       the action itself; there are some conjunctures when nothing is to be attempted on the people, 
+                       and there are others when nothing is too gross to pass upon them: Today you many subvert the Rights, 
+                       Franchises, and Privileges of such a Town; but tomorrow you must not so much as think of altering 
+                       the Signs at their Doors.</p>
                 </div>
             </div>
             <div corresp="#eng_K" xml:lang="french" type="chapter" n="11" xml:id="fr_K">
@@ -718,14 +952,36 @@
                    </p>
                 </div>
                 <div corresp="#fr_K3" type="remark" n="11.3" xml:id="eng_K3">
-                   <p><emph rend="italic">Stoicism</emph> is a mere Fancy, an Idea, something like <emph rend="italic">Pluto</emph>'s Republic.  The <emph rend="italic">Stoics</emph> feign that a <seg key="man">Man</seg> may laugh at his poverty; be insensible of Injuries, Ingratitude, or the loss of his Estate, Parents, and Friends; look coolly on Death, and regard it as an indifferent thing, which ought not to make him merry or melancholy; may never let Pleasure or Pain master him; may undergo the torments of Fire or Sword without the least sigh or a single tear; and this phantom of Virtue, and imaginary Constancy they are pleased to call a Wise <seg key=“man”>Man</seg>.  They have left <seg key=“man”>Man</seg> kind as full of the same defects as they found them, and not cured them of the least weakness.  Instead of painting Vice in its most frightful and ridiculous forms, to correct their Minds, they have formed an Idea of Perfection and Heroism, of which they are not capable, and exhorted them to what is impossible.  Thus this Wise <seg key=“man”>Man</seg> that is to be, or will never be, but in Imagination, finds himself naturally above all Ills and Events; the most painful Fit of the Gout, or the most sharp Fit of the Cholick, can’t extort him from the least complaint; Heaven and Earth may be turned upside down without concerning him in their fall; he would stand firm on the Ruins of the Universe, while another <seg key=“man”>Man</seg> grows almost distracted, cries, despairs, looks fiery, and is out of breath, for a Dog lost, or a <emph rend="italic">China</emph> Dish broke in pieces.</p>
+                   <p><emph rend="italic">Stoicism</emph> is a mere Fancy, an Idea, something like 
+                       <emph rend="italic">Pluto</emph>'s Republic.  The <emph rend="italic">Stoics</emph> 
+                       feign that a <seg key="man">Man</seg> may laugh at his poverty; be insensible of Injuries, 
+                       Ingratitude, or the loss of his Estate, Parents, and Friends; look coolly on Death, 
+                       and regard it as an indifferent thing, which ought not to make him merry or melancholy; 
+                       may never let Pleasure or Pain master him; may undergo the torments of Fire or Sword 
+                       without the least sigh or a single tear; and this phantom of Virtue, and imaginary 
+                       Constancy they are pleased to call a Wise <seg key=“man”>Man</seg>.  They have left 
+                       <seg key=“man”>Man</seg> kind as full of the same defects as they found them, and 
+                       not cured them of the least weakness.  Instead of painting Vice in its most 
+                       frightful and ridiculous forms, to correct their Minds, they have formed an Idea of 
+                       Perfection and Heroism, of which they are not capable, and exhorted them to what is impossible.  
+                       Thus this Wise <seg key=“man”>Man</seg> that is to be, or will never be, but in Imagination, 
+                       finds himself naturally above all Ills and Events; the most painful Fit of the Gout, 
+                       or the most sharp Fit of the Cholick, can’t extort him from the least complaint; 
+                       Heaven and Earth may be turned upside down without concerning him in their fall; 
+                       he would stand firm on the Ruins of the Universe, while another <seg key=“man”>Man</seg> 
+                       grows almost distracted, cries, despairs, looks fiery, and is out of breath, 
+                       for a Dog lost, or a <emph rend="italic">China</emph> Dish broke in pieces.</p>
                 </div>
                 <div corresp="#fr_K4" type="remark" n="11.4" xml:id="eng_K4">
-                   <p>Restlessness of Mind, and inequality of Humor, an inconstancy of Heart, and uncertainty of Conduct, are all Vices of the Soul, but different, and as like as they appear, are not always found in one Subject.
+                   <p>Restlessness of Mind, and inequality of Humor, an inconstancy of Heart, and uncertainty of 
+                       Conduct, are all Vices of the Soul, but different, and as like as they appear, are 
+                       not always found in one Subject.
                    </p>
                 </div>
                 <div corresp="#fr_K5" type="remark" n="11.5" xml:id="eng_K5">
-                   <p>It is difficult to decide, whether irresolution makes a <seg key="man">Man</seg> more unfortunate than contemptible, or even, if there is not ways more conveniency in being of the wrong side, than of none at all.</p>
+                   <p>It is difficult to decide, whether irresolution makes a <seg key="man">Man</seg> more 
+                       unfortunate than contemptible, or even, if there is not ways more conveniency in being 
+                       of the wrong side, than of none at all.</p>
                 </div>
             </div>
             <div corresp="#eng_L" xml:lang="french" type="chapter" n="12" xml:id="fr_L">
@@ -755,10 +1011,12 @@
             <div corresp="#fr_L" xml:lang="english" type="chapter" n="12" xml:id="eng_L">
                 <head>Of Judgment</head>
                 <div corresp="#fr_L1" type="remark" n="12.1" xml:id="eng_L1">
-                   <p>Nothing more nearly resembles a lively conviction than an obstinate Conceit; whence proceed Parties, Cabals, and Heresies.  </p>
+                   <p>Nothing more nearly resembles a lively conviction than an obstinate Conceit; whence 
+                       proceed Parties, Cabals, and Heresies.  </p>
                 </div>
                 <div corresp="#fr_L2" type="remark" n="12.2" xml:id="eng_L2">
-                   <p>We think not always constantly on the same subject: Conceit and Disgust follow one another very closely.</p>
+                   <p>We think not always constantly on the same subject: Conceit and Disgust follow one 
+                       another very closely.</p>
                 </div>
                 <div corresp="#fr_L3" type="remark" n="12.3" xml:id="eng_L3">
                    <p>Great things astonish us, and small dishearten: Custom makes both familiar.
@@ -768,7 +1026,8 @@
                    <p>Two contrarieties equally affect us, Custom, and Novelty.</p>
                 </div>
                 <div corresp="#fr_L5" type="remark" n="12.5" xml:id="eng_L5">
-                   <p>There’s nothing so mean, and so like the Vulgar, as to talk much in the praise of those very persons, of whom we thought indifferently before their promotion. </p>
+                   <p>There’s nothing so mean, and so like the Vulgar, as to talk much in the praise of 
+                       those very persons, of whom we thought indifferently before their promotion. </p>
                 </div>
             </div>
             <div corresp="#eng_M" xml:lang="french" type="chapter" n="13" xml:id="fr_M">
@@ -820,8 +1079,9 @@
                         donne une moitié, et prend l'autre: «Quelle chair! dit-il; goûtez-vous
                         cela? cela est-il divin? voilà ce que vous ne trouverez pas ailleurs.»
                         Et là-dessus ses narines s'enflent; il cache avec peine sa joie et sa
-                        vanité par quelques dehors de modestie. Ô l'<seg key="homme">homme</seg> divin en effet! <seg key="homme">homme</seg>
-                        qu'on ne peut jamais assez louer et admirer! <seg key="homme">homme</seg> dont il sera parlé
+                        vanité par quelques dehors de modestie. Ô l'<seg key="homme">homme</seg> divin en effet! 
+                        <seg key="homme">homme</seg> qu'on ne peut jamais assez louer et admirer! 
+                        <seg key="homme">homme</seg> dont il sera parlé
                         dans plusieurs siècles! que je voie sa taille et son visage pendant
                         qu'il vit; que j'observe les traits et la contenance d'un <seg key="homme">homme</seg> qui seul
                         entre les mortels possède une telle prune!</p>
@@ -829,7 +1089,7 @@
                         et surtout de Diognète. «Je l'admire, dit-il, et je le comprends moins
                         que jamais. Pensez-vous qu'il cherche à s'instruire par des médailles,
                         et qu'il les regarde comme des preuves parlantes de certains faits, et
-                        des monuments fixes et indubitables de l'ancienne histoire? rien moins.
+                        des monuments fixes et indubitables de l'ancienne histoire ? rien moins.
                         Vous croyez peut-être que toute la peine qu'il se donne pour recouvrer
                         une tête vient du plaisir qu'il se fait de ne voir pas une suite
                         d'empereurs interrompue? c'est encore moins. Diognète sait d'une
@@ -977,7 +1237,12 @@
             <div corresp="#fr_M" xml:lang="english" type="chapter" n="13" xml:id="eng_M">
                 <head>Of the Fashion</head>
                 <div corresp="#fr_M1" type="remark" n="13.1" xml:id="eng_M1">
-                   <p>It is a very foolish thing, and which very much betrays our weakness, to be subject to the Fashion in our Diet, way of Living, Health and Conscience.  Brown Meat is out of Fashion, and therefore insipid: It would be an offense against Fashion to cure a Fever by bleeding.  It has been out of Fashion this great while to die by the hands of <emph rend="italic">Theotymus</emph>; none now but the Populace are saved by his Pious Exhortations; he has outlived himself.</p>
+                   <p>It is a very foolish thing, and which very much betrays our weakness, to be subject to 
+                       the Fashion in our Diet, way of Living, Health and Conscience. Brown Meat is out of Fashion, 
+                       and therefore insipid: It would be an offense against Fashion to cure a Fever by bleeding.  
+                       It has been out of Fashion this great while to die by the hands of 
+                       <emph rend="italic">Theotymus</emph>; none now but the Populace are saved by his Pious Exhortations; 
+                       he has outlived himself.</p>
                 </div>
                 <div corresp="#fr_M2" type="remark" n="13.2" xml:id="eng_M2">
                    <p>
