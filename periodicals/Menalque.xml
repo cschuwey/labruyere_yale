@@ -6,13 +6,35 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>La Bruyère, The Spectator, and Periodicity</title>
          </titleStmt>
+         <respStmt>
+            <resp>Transcribed and encoded by</resp>
+               <name>Francesca Colonnese</name>
+               <name>Mara Minion</name>
+               <name>Tyler Wagner</name>
+         </respStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies 
+               and Digital Editing course at the University of Washington in the Fall Quarter of 2019. 
+               The edition explores the connections between Jean de La Bruyère’s portrait of Ménalque,
+               the absent-minded man,in Les Caractères and Eustace Budgell’s essay on Will Honeycombe, 
+               which appears in Addison and Steele’s Spectator issue number 77, originally published 
+               May 29, 1711.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <biblStruct>
+               <monogr>
+                  <author>Jean de La Bruyère</author>
+                  <title>Les Caractères de Theophraste Traduit du Grec, avec Les Caractères ou Les Moeurs de Siècle</title>
+                  <edition>Ninth edition</edition>
+                  <imprint>
+                       <publisher>Estienne Michallet</publisher>
+                       <pubPlace>Paris</pubPlace>
+                        <date>1696</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
