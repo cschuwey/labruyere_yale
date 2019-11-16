@@ -7,20 +7,36 @@
     <fileDesc>
       <titleStmt>
         <title>La Bruyère, The Spectator, and Periodicity</title>
+        <respStmt>
+          <resp>Transcribed and encoded by</resp>
+          <name>Francesca Colonnese</name>
+          <name>Mara Minion</name>
+          <name>Tyler Wagner</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <p>Our digital edition explores the connections between La Bruyère’s portrait of Ménalque,
-          the absent-minded man, and Eustace Budgell’s essay on Will Honeycombe, which appears in
-          Addison and Steele’s Spectator issue number 77, originally published May 29, 1711.</p>
+        <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies 
+          and Digital Editing course at the University of Washington in the Fall Quarter of 2019. 
+          The edition explores the connections between Jean de La Bruyère’s portrait of Ménalque,
+          the absent-minded man,in Les Caractères and Eustace Budgell’s essay on Will Honeycombe, 
+          which appears in Addison and Steele’s Spectator issue number 77, originally published 
+          May 29, 1711.</p>
       </publicationStmt>
       <sourceDesc>
-        <p> This digital edition describes a microfilm of the Spectator issue number 77 (May 29,
-          1711), courtesy of the British Periodical Digital Collection at the New York Public
-          Library, as well as selected text from the ninth and final edition of Les Caractères by La
-          Bruyère‎. We have chosen to mark-up the periodical in its original context, including
-          headings, notations, and advertisements. Due to its inclusion of character keys that
-          correspond with the French keys, we also reference editorial materials from the 1891 bound
-          edition of the Spectator, edited by Henry Morley and published by Routledge and Sons.</p>
+        <biblStruct>
+          <analytic>
+            <author>Eustace Budgell</author>
+          </analytic>
+          <monogr>
+            <title level="j">The Spectator</title>
+            <editor>Joseph Addison</editor>
+            <editor>Richard Steele</editor>
+            <imprint>
+              <biblScope>77</biblScope>
+              <date>1711</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -161,7 +177,7 @@
           out without being able to stay for his Coach or Dinner; and for that Day you may see him
           in every part of the Town, except the very Place where he had appointed to be upon a
           Business of Importance. You would often take him for every thing that he is not; for a
-          Fellow quite Stupid, for he hears no- ' thing; for a Fool, for he talks to himself, and
+          Fellow quite Stupid, for he hears nothing; for a Fool, for he talks to himself, and
           has <cb/> an hundred Grimaces and Motions with his Head, which are altogether involuntary;
           for a proud Man, for he looks full upon you, and takes no notice of your Saluting him: The
           Truth on't is, his Eyes are open, but he makes no use of them, and neither sees you, nor
@@ -178,50 +194,65 @@
         At the Desire of Several Ladies of Quality By Her Majesty's Company of Comedians.</p>
 
       <p>At the <placeName>Theatre Royal in Drury-lane</placeName>, this present <date>Tuesday, the 29th of May,</date> will be
+        presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester is to be preform'd by <persName>Mr.
+          Mills</persName>, <gap reason="illegible"> </gap> by Mr. Pack, Sir. Thm Valere by Mr. Bullock,<gap reason="illegible"> </gap>
+        Hazard by Mr. Bowen, Count Cog-Die by Mr. Bullock, <gap reason="illegible"> </gap> Lady Wealthy by Mrs. Porter,
+        Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"> </gap>- rity by Mr. Willis, Favourite by Mrs. Mills,
+        Boxkeeper to the Ga<gap reason="illegible"> </gap> Tube by Mr. Leigh.</p>
         presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester is to be perform'd by <persName>Mr.
-          Mills</persName>, [Unreadable] by <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr. Bullock</persName>, [Unreadable] [Unreadable]
-        Hazard by <persName>Mr. Bowen</persName>, <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, [Unreadable] <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
-        Angelica by Mrs. Bradshaw, Mrs. {Unreadable]- rity by Mr. Willis, Favourite by Mrs. Mills,
-        Boxkeeper to the Ga[Unreadable] Tube by Mr. Leigh.</p>
+          Mills</persName>, <gap reason="illegible"> </gap> by <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr. Bullock</persName>, [Unreadable] [Unreadable]
+      Hazard by <persName>Mr. Bowen</persName>, <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap reason="illegible"> </gap> <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
+      Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"> </gap>- rity by Mr. Willis, Favourite by Mrs. Mills,
+      Boxkeeper to the Ga<gap reason="illegible"> </gap> Tube by Mr. Leigh.</p>
 
       <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's Head</placeName> over-against <placeName>Catherine Street in the
         Strand</placeName>.</p>
 
       <p>The Entertainment of Musick, consisting of a Poets ca'led, The Passion of Sappho, Written
-        by Mr. Harison, and The F <gap reason="illegible"> </gap> of Alexander, Written by Mr. Dryden, as they are Set
+        by Mr. Harison, and <ref target="F_S_1" type="annotation">The F <gap reason="illegible"> </gap> of Alexander</ref>, Written by Mr. Dryden, as they are Set
         to Musick by Mr. Thomas Clayton (Author of <gap reason="illegible"> </gap>) will be Preformed at his
         <gap reason="illegible"> </gap> in York-Buildings, this Day, being the 29th of <gap reason="illegible"> </gap>, Beginning at
         <gap reason="illegible"> </gap> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap reason="illegible"> </gap>
         the Corner of the Bedford-Buildings, and at Mr. Eliot's St. James's Coffee-house. No Mony
-        receiv'd, or Tickets given out at the House. This Poem is Sold by Jacob Tenfon at
-        Shakespear's Head over- against Catherine Street in the Strand Just Publish'd, An Account of
-        the present State and Govenrment of the Empire of Germany: In a Letter to Thomas Foley of
+        receiv'd, or Tickets given out at the House.</p> 
+       <p>This Poem is Sold by Jacob Tenfon at Shakespear's Head over- against Catherine Street in the Strand</p> 
+       <p>Just Publish'd,</p> 
+       <p>An Account of the present State and Govenrment of the Empire of Germany: In a Letter to Thomas Foley of
         Whit- ley in the County of Worcester, Esq. by Mr. Vassor. Printed for Jacob Tenfon at
-        Shakespear's Head over-against Catherine Street in the Strand. To be Sold, at a lower Rate
-        than ordinary, at the Queen's Head, joining to the Church Gate in Bedford Street, Covent
+        Shakespear's Head over-against Catherine Street in the Strand.</p> 
+       <p>To be Sold, at a lower Rate than ordinary, at the Queen's Head, joining to the Church Gate in Bedford Street, Covent
         Garden, all Sorts of Duggers, Hair, and Worsted, Camlets, <gap reason="illegible"> </gap> Duroys, Shagreens,
         Shalloons, Durants. Padua Serges, Shags, Serge de Nisms, Calamaneoes, and all other Goods
         fit for Mens Apparel. The Persons who now keep the Shop designing to have off the Trade, and
-        the House and Shop to ne Lett at Michaelmas next. A convenient House to be Lett at
+        the House and Shop to ne Lett at Michaelmas next. </p>
+        <p>A convenient House to be Lett at
         East-Acton in Middlesex, four Rooms on a Floor, wall'd in, with Caoch-house, Stabling,
         Orchard, Garden, and all Conveniencies belonging to it, in very good Repair. Whosoever takes
         it may into it as soon as they please. Inquire at Mr. Lumley's, or at the House, both in
-        East- Acton aforesaid. All sorts of Silk Gowns, being in fresh Parcel of rich Brocades,
+        East- Acton aforesaid.</p> 
+      <p>All sorts of Silk Gowns, being in fresh Parcel of rich Brocades,
         Venetians, Tissues, Tabbies, Damasks, and Sattins, bought up the last Sale, and made into
         Gowns, with gentile and suitable Linings, to be Sold very cheap at Mrs. Attaway's in
         Deveroux Court in the Passage from the Temple to the Essex Buildings, the lowest Price being
         writ upon each Gown. Note, there is a fresh Parcel of thread Sattin Gowns lined with thread
-        Sattins. A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print.
+        Sattins.</p> 
+      <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print.
         It makes them Delicately white, sleeke and plump; fortifies them against the Scortching heat
         of the Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it
         will recover them. Sold only at Mr. Aller<gap reason="illegible"> </gap> shop, over against the Royal
         Exchanges, at 2 s. 6 d. a pot, with di- rections; where is also sold the excellent Germans
         powder for the Scurvey in the Gums and Teeth which by only scouring them every Morning,
-        whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap reason="illegible"> </gap> LONDON: Printed
-        for Sam. Buckley, at the Dolphin in Little-Britain; and Sold by A. Baldwin in Warwick-Lane,
-        where Advertisements are in; as also by Charles Lillie, Perfumer, at the Corner of
-        Beauford-Buildings in the Stand. X</p>
+        whitens and sastens[Unsure] the Teeth to a Miracle; at 1 s. a <gap reason="illegible"> </gap> </p>
+        <cb> </cb>
+         <p> <placeName rend="sc">LONDON</placeName>: Printed for <persName rend="italics">Sam. Buckley</persName>, at the <placeName rend="italics">Dolphin</placeName> in <placeName rend="italics">Little-Britain</placeName>; and 
+           Sold by <persName rend="italics">A. Baldwin</persName> in <placeName rend="italics">Warwick-Lane</placeName>, where Advertisements are in; 
+           as also by <persName rend="italics">Charles Lillie</persName>, Perfumer, at the Corner of  <placeName rend="italics">Beauford-Buildings</placeName> in
+           the <placeName rend="italics">Strand</placeName>. X</p>
 
     </body>
+    <back>
+      <note xml:id="T_B_1" type="editorial"></note>
+    </back>
   </text>
+  <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
 </TEI>
