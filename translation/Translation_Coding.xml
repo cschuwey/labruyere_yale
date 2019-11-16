@@ -245,6 +245,26 @@
          </div>
          <div xml:lang="fr" type="chapter" n="6">
             <head>6. Des Biens de Fortune.</head>
+            <div type="remark" n="1">
+               <head>1</head>
+               <p>
+                  <seg xml:id="FBF_01_01" corresp="#EGF_01_01">Un homme fort riche peut manger des
+                     entremets,</seg>
+                  <seg xml:id="FBF_01_02" corresp="#EGF_01_02"> faire peindre ses lambris &amp; ses
+                     alcoves,</seg>
+                  <seg xml:id="FBF_01_03" corresp="#EGF_01_03"> joüir d'un Palais à la
+                     campagne,</seg>
+                  <seg xml:id="FBF_01_04" corresp="#EGF_01_04"> &amp; d'un autre à la ville,</seg>
+                  <seg xml:id="FBF_01_05" ana="omit"> avoir un grand équipage,</seg>
+                  <seg xml:id="FBF_01_06" corresp="#EGF_01_05"> <interp type="tone">mettre un Duc dans sa famille,</interp></seg>
+                  <seg xml:id="FBF_01_07" corresp="#EGF_01_06"> &amp; <interp type="tone">faire de son fils un grand
+                     Seigneur</interp>;</seg>
+                  <seg xml:id="FBF_01_08" corresp="#EGF_01_07"> cela est juste &amp; de son ressort
+                     :</seg>
+                  <seg xml:id="FBF_01_09" corresp="#EGF_01_08"> mais il appartient peut-être à
+                     d'autres de vivre contens.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="7">
             <head>7. De la Ville.</head>
@@ -650,6 +670,23 @@
          </div>
          <div xml:lang="en" type="chapter" n="6">
             <head>6. Of the Goods of Fortune.</head>
+            <div type="remark" n="1">
+               <head>1</head>
+               <p>
+                  <seg xml:id="EGF_01_01" corresp="#FBF_01_01">A Very rich Man may eat his
+                     Dainties,</seg>
+                  <seg xml:id="EGF_01_02" corresp="#FBF_01_02"> paint his Ceiling and Alcoves,</seg>
+                  <seg xml:id="EGF_01_03" corresp="#FBF_01_03"> regale himself at his Palace in the
+                     Country,</seg>
+                  <seg xml:id="EGF_01_04" corresp="#FBF_01_04"> and keep another in Town</seg>
+                  <seg xml:id="EGF_01_05" corresp="#FBF_01_06"> <interp type="tone">marry his Daughter to a Duke</interp>,</seg>
+                  <seg xml:id="EGF_01_06" corresp="#FBF_01_07"> <interp type="tone">and buy a Title for his Son</interp>;</seg>
+                  <seg xml:id="EGF_01_07" corresp="#FBF_01_08"> this is just and within his
+                     Compass;</seg>
+                  <seg xml:id="EGF_01_08" corresp="#FBF_01_09"> but it belongs to other Men perhaps
+                     to live content.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="7">
             <head>7. Of the City.</head>
