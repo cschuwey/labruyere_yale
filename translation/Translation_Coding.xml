@@ -130,8 +130,13 @@
          <div xml:lang="fr" type="chapter" n="3">
             <head>3. Des Femmes.</head>
          </div>
-         <div xml:lang="fr" type="chapter" n="4">
-            <head>4. Du Coeur.</head>
+         <div type="remark" n="65">
+            <p>
+               <seg xml:id="FFM_65_01" corresp="#EWM_64_01">Une femme qui n'a jamais les yeux que
+                  sur une même personne,</seg>
+               <seg xml:id="FFM_65_02" corresp="#EWM_64_02"> ou qui les en détourne toûjours,</seg>
+               <seg xml:id="FFM_65_03" corresp="#EWM_64_03"> fait penser d'elle la même chose.</seg>
+            </p>
          </div>
          <div xml:lang="fr" type="chapter" n="5">
             <head>5. De la Societé et de la Conversation.</head>
@@ -491,6 +496,16 @@
          </div>
          <div xml:lang="en" type="chapter" n="3">
             <head>3. Of Women.</head>
+         </div>
+         <div type="remark" n="64">
+            <p>
+               <seg xml:id="EWM_64_01" corresp="#FFM_65_01">The Woman that has her Eyes constantly
+                  fixt on one particular Person,</seg>
+               <seg xml:id="EWM_64_02" corresp="#FFM_65_02" ana="expan"> or whose Eyes you may observe
+                  constantly to avoid him ;</seg>
+               <seg xml:id="EWM_64_03" corresp="#FFM_65_03" ana="expan"> tho they are two different motions,
+                  they make us conclude but one and the same thing of her.</seg>
+            </p>
          </div>
          <div xml:lang="en" type="chapter" n="4">
             <head>4. Of the Heart.</head>
