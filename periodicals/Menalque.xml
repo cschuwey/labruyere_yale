@@ -7,12 +7,12 @@
       <fileDesc>
          <titleStmt>
             <title>La Bruyère, The Spectator, and Periodicity</title>
-         <respStmt>
-            <resp>Transcribed and encoded by</resp>
+            <respStmt>
+               <resp>Transcribed and encoded by</resp>
                <name>Francesca Colonnese</name>
                <name>Mara Minion</name>
                <name>Tyler Wagner</name>
-         </respStmt>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <p>This digital edition was created as a project for Geoffrey Turnovsky's Textual Studies 
@@ -45,7 +45,7 @@
                <note type="original" place="foot" rend="italics">Ceci est moins un caractere particulier
                qu'un recuëil de faits de distractíons : ils ne sçauroient être en trop grand nombre
                s'ils sont agreables ; car les goûts étant differens , on a à choisir.</note>
-               <persName rend="italics">Menalque</persName> descend son escalier , ouvre sa porte pour sortir , il la referme ; il
+               <ref target="#MT_B_1"><persName rend="italics">Menalque</persName></ref> descend son escalier , ouvre sa porte pour sortir , il la referme ; il
                s’apperçoit qu’il est en bonner de nuit ; &amp; venant à mieux s’examiner , il se trouve
                rasé à moitié , il voit que son épée est mise du côté droit , que ses bas sont rabbatus
                sur ses talons , &amp; que sa chemise est pardessus ses chausses. S’il marche dans les
@@ -113,15 +113,15 @@
                une armoir , y prend sa cassette , en tire ce qu'il lui plaît , etoit la remettre où il
                l'a prise ; il entend abboier dans son armoire qu'il vient de fermer, étonné de ce
                prodige il l'ouvre une seconde fois , &amp; il éclate de rire d'y voir son chien qu'il a
-               serré pour sa cassette. Il jouë trictrac, <pb n="283"/> il demande à boire , on lui en
+               serré pour sa cassette. <ref target = "MT_B_3">Il jouë trictrac,</ref> <pb n="283"/> il demande à boire , on lui en
                apporte , c'est à lui à joüer , il tient le cornet d'une main &amp; un verre de l'autre
                , &amp; comme il a une grande soif , il avale les dez &amp; presque le cornet , jette le
                verre dans le trictrac , &amp; inonde celui contre qui il joüe : &amp; dans une chambre
                où il est familier , il crache sur le lit , &amp; jette son chapeau à terre , en croiant
-               faire tout le contraire. Il se promene sur l'eau , &amp; il demande quelle heure il est
+               faire tout le contraire. <ref target = "#MT_B_2">Il se promene sur l'eau , &amp; il demande quelle heure il est
                ; on lui presente une montre ; à peine l'a-t il reçûë , que ne songeant plus ni à
                l'heure , ni à la montre , il la jette dans la riviere , comme une chose qui
-               l'embarasse. Lui-même écrit une longue lettre , met de la poudre dessus à plusieurs
+               l'embarasse.</ref> Lui-même écrit une longue lettre , met de la poudre dessus à plusieurs
                reprises , &amp; jette toujours la poudre dans l'encrier ; ce n'est pas tout , il écrit
                une seconde lettre , &amp; aprés les avoir cachetées toutes deux, il se trompe à
                l'adresse ; un Duc &amp; Pair reçoit l'une de ces deux lettres , &amp; en l'ouvrant y
@@ -174,7 +174,7 @@
                 femmes dans sa ruele qui l'entretiennent , &amp; en leur presence il souleve sa
                 couverture &amp; crache dans ses draps. On le mene aux <placeName>Chartreux</placeName> , on lui fait voir un
                 Cloître orné d'ouvrages , tous de la main d'un excellent Peintre ; le Religieux qui les
-                lui explique , parle de saint Bruno , du Chanoine &amp; de son avanture , en fait une
+                lui explique , parle de <persName>saint Bruno</persName> , du Chanoine &amp; de son avanture , en fait une
                 longue histoire &amp; la montre dans l'un ses tableaux : <persName>Menalque</persName> qui pendant la
                 narration est hors du Cloître , &amp; bien loin au de là , y revient enfin , &amp;
                 demande au Pere si c'est le Chanoine ou <persName>saint Bruno</persName> qui est damné. Il se trouve par
@@ -196,13 +196,13 @@
                , qu'est-il devenu ? qu'il ne se presente plus devant moi , je le chasse dés à cette
                heure ; le valet arrive , à qui il demande fierement d'où il vient , il lui répond qu'il
                vient de l'endroit où il l'a envoié , &amp; il lui rend un fidele compte de sa
-               commission. Vous le prendrez souvent pour tout ce qu'il n'est pas ; pour un stupide ,
+               commission. <ref target="MT_B_4">Vous le prendrez souvent pour tout ce qu'il n'est pas ; pour un stupide ,
                car il n'écoute point , &amp; il parle tout seul , il est sujet à de certaines grimaces
                &amp; à des mouvemens de tête involontaires ; pour un homme fier &amp; incivil , car
                vous salüez , &amp; il passe sans vous regarder , ou il vous regarde sans vous rendre le
                salut ; pour un inconsideré , car il parle de banqueroute au milieu d'une famille où il
                y a cette tache ; d'execution &amp; d'échaufaut devant un homme dont le pere y a monté ;
-               de roture devant des roturiers qui sont riches , &amp; qui se donnent pour nobles. De
+               de roture devant des roturiers qui sont riches , &amp; qui se donnent pour nobles.</ref> De
                même il a dessein d'élever auprés de soi un fils naturel sous le nom &amp; le personnage
                d'un valet ; &amp; quoi qu'il veüille le dérober à la connoissance de sa femme &amp; de
                les enfans , il lui échape de l'appeller son fils dix fois le jour : il a pris aussi la
@@ -231,8 +231,53 @@
                lui portent un bout de flambeau sous la gorge , lui demandent la bourse , &amp; il la
                rend ; arrivé chez soi il raconte son avanture à ses amis , qui ne manquent pas de
                l'interroger sur les circonstances , &amp; il leur dit : Demandez à mes gens , ils y
-               étoient. 
+            <ref target = "#MT_B_5">étoient.</ref>
          </p>
       </body>
+      <back>
+         <note xml:id = "MT_B_1" type = "editorial"> 
+            As the original footnote in La Bruyère's text 
+            acknowledges, the portrait of Menalque is less a study of a particular character than a 
+            collection of humourous instances of distraction. These brief and numerous sketches illustrate
+            atemporal descriptions of a type of behavior, rather than particular instances of said behavior —
+            descriptions in which Menalque is the only person of note. Budgell, on the other hand, adapts 
+            this material into a different form.Budgell uses anecdotes to describe particular instances of 
+            absent-minded behavior set in a specific time and place and told from the perspective of a present 
+            and participating narrator. In addition to cataloguing his friend, Will Honeycombe's, absent-
+            minded behavior, Budgell's narrator provides a meditation on absent-mindedness in general. Though 
+            closely related, these two texts are making different use of literary forms.
+         </note>
+         <note xml:id = "MT_B_2" type = "editorial"> 
+            The scene when Menalque throws the watch 
+            into the river, written in Les Caractères as a brief behavioral sketch, is adapted
+            by Budgell in No. 77 of the Spectator as longer personal anecdote about Will Honeycombe
+            seen through the particular perspective of his friend,the narrator. Interestingly, 
+            Budgell does not acknowledge that this particular portrait was almost copied from 
+            La Bruyère. Instead, at the end of the issue, he presents La Bruyère's study of the
+            absent-minded man as a corrollary to his own work and includes a paraphrased translation
+            of portions of the text.
+         </note>
+         <note xml:id = "MT_B_3" type = "editorial"> In Budgell's translation of 
+            La Bruyère's portrait he includes a paraphrase of the Menalque backgammon sketch and 
+            the Menalque letter-writing sketch. However, he notably omits the sketch where Menalque
+            throws the watch into the river, which originally falls between the two in Les Caractères.
+            This omission seems intentional and allows Budgell to acknowledge La Bruyère's influence 
+            while hiding the fact that he almost directly copied the watch sketch from the original.
+         </note>
+         <note xml:id = "MT_B_4" type = "editorial"> 
+            At this point in the portrait, La Bruyère breaks from describing sketches of behavior to 
+            offer an apology for and explanation of the vice of distraction.In the Spectator, Budgell 
+            expands this into a longer meditation on the specific processes and inner workings of 
+            absent-mindedness.
+         </note>
+         <note xml:id = "MT_B_5" type = "editorial"> The brevity, pace, and variety of the sketches and
+            maxims in La Bruyère’s Caractères all align with the demands of periodicity and work well in 
+            a shorter medium intended for surface reading. Characters reference contemporary political figures
+            and issues, and frequent circulation (through publishing new editions) helps to maintain relevance. 
+            Additionally, La Bruyère’s social and moral commentary allows for thematic continuity without depending 
+            on narrative. Because of this, Budgell, Addison and Steele find fruitful inspiration for 
+            their periodical in Les Caractères.
+         </note>
+      </back>
    </text>
 </TEI>
