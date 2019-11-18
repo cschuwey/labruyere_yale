@@ -17,13 +17,35 @@
        <listBibl>
         <biblStruct>
          <monogr>
-          <author>Jean de La Bruyère</author>
+          <author>
+            <name>
+                <forename>Jean</forename>
+                <surname>de la Bruyère</surname>
+            </name>
+        </author>
           <title type="main">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
           <edition>Tenth edition</edition>
           <imprint>
             <publisher>Le Livre de Poche</publisher>
             <pubPlace>Paris</pubPlace>
             <date>1995</date>
+          </imprint>
+         </monogr>
+        </biblStruct>
+        <biblStruct xml:id="Villiersbib">
+         <monogr>
+          <author>
+            <name>
+                <forename>Pierre</forename>
+                <surname>de Villiers</surname>
+            </name>
+        </author>
+          <title type="main">Œuvres en Vers de M. L'Abbé de Villiers (1717)</title>
+          <edition>Reprint</edition>
+          <imprint>
+            <publisher>Kessinger</publisher>
+            <pubPlace>Whitefish, MT</pubPlace>
+            <date>2009</date>
           </imprint>
          </monogr>
         </biblStruct>
@@ -74,8 +96,8 @@
   <text>
     <body>
       <div1 type="chapter" n="1">
-        <head>Des ouvrages de l'esprit</head>
-        <div2 type="section" n="15">
+        <head>Des Ouvrages de l'Esprit</head>
+        <div2 type="section" n="15" xml:id="Esprit15">
           <head>XV</head>
           <p>On a dû faire du style ce qu’on a faite de de l’architecture ; on a entièrement abandonné l’ordre gothique, que la barbarie avait introduit pour les palais et pour les temples ; on a rappelé le dorique, l’ionique et le corinthien : ce qu’on ne voyait plus que dans les ruines de l’ancienne Rome et de la vieille Grèce, devenu moderne, éclate dans nos portiques et dans nos péristyles. De même on ne saurait en écrivant rencontrer le parfait, et s’il se peut, surpasser les anciens que par leur imitation.</p>
           <p>Combien de siècles se sont écoulés avant que les hommes dans les sciences et dans les arts aient pu revenir au goût des anciens, et reprendre enfin le simples et le naturel</p>
@@ -89,8 +111,9 @@
             </ref>
            </p>
            <p>
+              <milestone unit="section" xml:id="Esprit15d"/>
              <app>
-               <lem rend="bold" xml:id="1/15d">Un auteur modene</lem>
+               <lem rend="bold">Un auteur moderne</lem>
                <rdg source="#KeyC">
                    <persName>
                       <ptr target="#Perrault"></ptr>
@@ -117,11 +140,12 @@
           <p>Il avoue que les Anciens, quelque inégaux et peu corrects qu’ils soient, on de beaux traits, il les cite, et ils sont si beaux qu’ils font lire sa critique. 
           </p>
           <p>
+              <milestone unit="section" xml:id="Esprit15e"/>
            <app>
-             <lem rend="bold">Quelques habiles</lem>
-               <rdg source="KeyC">Racine et Boileau
+             <lem rend="bold" xml:id="1-15e">Quelques habiles</lem>
+               <rdg source="KeyC">
                    <persName>
-                      <ptr target="#Racine" ></ptr>
+                      <ptr target="#Racine"></ptr>
                       <name rend="bold">Racine</name>
                    </persName>
                    et
@@ -130,7 +154,7 @@
                        <name rend="bold">Boileau</name>
                    </persName>
                </rdg>
-               <rdg source="#Key1697">Racine et Boileau
+               <rdg source="#Key1697">
                    <persName>
                        <ptr target="#Racine" ></ptr>
                        <name rend="bold">Racine</name>
@@ -141,7 +165,7 @@
                        <name rend="bold">Boileau</name>
                    </persName>
                </rdg>
-               <rdg source="#Key1720">Racine et Boileau
+               <rdg source="#Key1720">
                    <persName>
                        <ptr target="#Racine" ></ptr>
                        <name rend="bold">Racine</name>
@@ -152,7 +176,7 @@
                        <name rend="bold">Boileau</name>
                    </persName>
                </rdg>
-               <rdg source="#KeyS">Racine et Boileau
+               <rdg source="#KeyS">
                    <persName>
                        <ptr target="#Racine" ></ptr>
                        <name rend="bold">Racine</name>
@@ -167,24 +191,13 @@
           Prononcent en faveur des Anciens contre les Modernes, mais ils sont suspects et semblent juger en leur propre cause, tant leurs ouvrages sont faits sur le goût de l’antiquité : on les récuse. 
          </p> 
         </div2>
-        <div2 type="section" n="64">
+        <div2 type="section" n="64" xml:id="Esprit64">
          <head>LXIV</head>
          <p> Je conseille à
-           <app>
-            <lem rend="bold">un auteur né copiste</lem>
-            <rdg source="#Key1720">
-                <persName>
-                    <ptr target="#Villiers"/>
-                    <name rend="bold">l'Abbé de Villiers</name>
-                </persName>
-            </rdg>
-               <rdg source="#KeyS">
-                   <persName>
-                       <ptr target="#Brillon"/>
-                       <name rend="bold">Jacques Brillon</name>
-                   </persName>
-               </rdg>
-           </app>
+           <ref type="key">un auteur né copiste
+                <ptr target="#Villiers" source="#Key1720"/>
+                <ptr target="#Brillon" source="#KeyS"/>
+           </ref>
           , et qui a l’extrême modestie de travailler d’après quelqu’un, de ne se choisir pour exemplaires que ces sortes d’ouvrages où il entre de l’esprit, de l’imagination, ou même de l’érudition : S’il n’atteint pas ses originaux, du moins il en approche et il se fait lire. Il doit au contraire éviter comme un écueil de vouloir imiter ceux qui écrivent par humeur, que le cœur fait parler, à qui il inspire les termes et les figures, et qui tirent, pour ainsi dire, de leurs entrailles tout ce qu’ils expriment sur le papier ; dangereux modèles et tout propres à faire tomber dans le froid, dans le bas, et dans le ridicule ceux qui s’ingèrent de les suivre : en effet je rirais d’un homme qui voudrait sérieusement parler mon ton de voix, ou me ressembler de visage. 
          </p>
         </div2> 
@@ -203,7 +216,7 @@
       </div1>
       <div1 type="chapter" n="6">
         <head>Des Biens de Fortune</head>
-        <div2 type="section" n="17">
+        <div2 type="section" n="17" xml:id="Fortune17">
           <head>XVII</head>
           <p>L'on porte
              <app>
@@ -211,7 +224,7 @@
                  <emph rend="ital">Crésus</emph></lem>
                  <rdg source="#KeyC">
                      <persName>
-                         <ptr target="Aubert"/>
+                         <ptr target="#Aubert"/>
                          <name rend="bold">
                              <emph rend="ital">Aubert</emph></name>
                      </persName>
@@ -256,7 +269,7 @@
             <title>Les Caractères</title>
          ?</head>
          <listPerson>
-             <person xml:id="Perrault" source="descPerrault">
+             <person xml:id="Perrault">
                  <figure>
                      <graphic scale="1" url="https://www.computerhope.com/people/pictures/claude_perrault.jpg"></graphic>
                  </figure>
@@ -264,26 +277,36 @@
                  <forename>Claude</forename>
                  <surname>Perrault</surname>
                 </name>
-             </person>    
-         </listPerson>
-     </div1>
-     <div1 type="profile">
-         <person xml:id="PerraultDesc">
-            <header>
-                <head type="profile">
-                 <title type="sub">Profile de Personnage</title>
-                    <persName>
-                        <forename>Claude</forename>
-                        <surname>Perrault</surname>
-                    </persName>
-                </head>
-            </header>
+                <note type="descrip">
+                    <title type="category">À Propos</title>
+                    <p>blah blah blah</p>
+                </note>
+                <note type="relation">
+                    <title type="category">Rapport avec La Bruyère</title>
+                    <p>blah blah blah</p>
+                </note>
+                <note type="reference">
+                    <title type="category">Caractères</title>
+                    <list type="index">
+                        <item>
+                            <ptr target="#Esprit15d">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
+                        </ptr>
+                    </item>
+                </list>
+            </note>
+        </person>
+        <person xml:id="Fontenelle">
             <figure>
-                 <graphic scale="2" url="https://www.computerhope.com/people/pictures/claude_perrault.jpg"></graphic>
+                <graphic scale="1" url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fontenelle.jpg/250px-Fontenelle.jpg"></graphic>
             </figure>
+            <name>
+                <forename>Jean Le Bovier</forename>
+                <surname>de Fontenelle</surname>
+            </name>
             <note type="descrip">
                 <title type="category">À Propos</title>
-                    <p>blah blah blah</p>
+                <p>blah blah blah</p>
             </note>
             <note type="relation">
                 <title type="category">Rapport avec La Bruyère</title>
@@ -293,36 +316,197 @@
                 <title type="category">Caractères</title>
                 <list type="index">
                     <item>
-                        <ptr target="#1/15d">
+                        <ptr target="#Esprit15d">
                             <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
                         </ptr>
                     </item>
                 </list>
             </note>
         </person>
-     </div1>
-   </back>
+        <person xml:id="Racine">
+            <figure>
+                <graphic scale="1" url="https://p1.storage.canalblog.com/23/84/409507/23850721.jpg"></graphic>
+            </figure>
+            <name>
+                <forename>Jean</forename>
+                <surname>Racine</surname>
+            </name>
+            <note type="descrip">
+                <title type="category">À Propos</title>
+                <p>blah blah blah</p>
+            </note>
+            <note type="relation">
+                <title type="category">Rapport avec La Bruyère</title>
+                <p>blah blah blah</p>
+            </note>
+            <note type="reference">
+                <title type="category">Caractères</title>
+                <list type="index">
+                    <item>
+                        <ptr target="#Esprit15e">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
+                        </ptr>
+                    </item>
+                </list>
+            </note>
+        </person>
+         <person xml:id="Boileau">
+            <figure>
+                <graphic scale="1" url="https://kalliope.org/static/images/boileau/social/boileau.jpg"></graphic>
+            </figure>
+            <name>
+                <forename>Nicolas</forename>
+                <surname>Boileau-Despréaux</surname>
+            </name>
+            <note type="descrip">
+                <title type="category">À Propos</title>
+                <p>blah blah blah</p>
+            </note>
+            <note type="relation">
+                <title type="category">Rapport avec La Bruyère</title>
+                <p>blah blah blah</p>
+            </note>
+            <note type="reference">
+                <title type="category">Caractères</title>
+                <list type="index">
+                    <item>
+                        <ptr target="#Esprit15e">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
+                        </ptr>
+                    </item>
+                </list>
+            </note>
+        </person>
+        <person xml:id="Villiers">
+            <figure>
+                <graphic scale=".25" url="https://sms-skladtehnika.com/wp-content/uploads/2018/10/cool-facebook-profile-picture-silhouette-10.jpg"></graphic>
+            </figure>
+            <name>
+                <forename>Pierre</forename>
+                <surname>de Villiers</surname>
+            </name>
+            <note type="descrip">
+                <title type="category">À Propos</title>
+                <p>Pierre de Villiers (connu comme l'abbé de Villiers) est un abbé jésuite et écrivain français. Il entre en 
+                    <ref type="note"> l'Ordre de Cluny
+                        <note type="gloss">Ordre monastique de l'Église catholique, créé au Xe siècle est supprimé à la fin du XIIIe siècle.</note>
+                    </ref> en 1689. 
+                    <ref type="source" source="Villiersbib">Plusieurs œuvres historiques et biographiques du dix-septième siècle sont lui attribués.</ref></p>
+            </note>
+            <note type="relation">
+                <title type="category">Rapport avec La Bruyère</title>
+                <p>De Villiers publie en 1682 
+                    <title type="book">L'Art de prêcher</title>
+                    , ce qui a été conçu comme une imitation
+                    <title type="book">L'Art poétique</title> de Boileau. Outre, en 1690 il écrivit des 
+                    <title type="book">Réflexions sur les défauts d'autrui</title>, ce qui ont étee vu comme une imitation de l'œuvre de La Bruyère.</p>
+            </note>
+            <note type="reference">
+                <title type="category">Caractères</title>
+                <list type="index">
+                    <item>
+                        <ptr target="#Esprit64">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, LXIV
+                        </ptr>
+                    </item>
+                </list>
+            </note>
+        </person>
+        <person xml:id="Brillon">
+             <figure>
+                 <graphic scale=".25" url="https://sms-skladtehnika.com/wp-content/uploads/2018/10/cool-facebook-profile-picture-silhouette-10.jpg"></graphic>
+             </figure>
+             <name>
+                <forename>Jacques</forename>
+                <surname>Brillon</surname>
+             </name>
+             <note type="descrip">
+                 <title type="category">À Propos</title>
+                 <p>blah blah blah</p>
+             </note>
+             <note type="relation">
+                 <title type="category">Rapport avec La Bruyère</title>
+                 <p>blah blah blah</p>
+             </note>
+             <note type="reference">
+                 <title type="category">Caractères</title>
+                 <list type="index">
+                     <item>
+                        <ptr target="#Esprit64">
+                            <title type="chapter">Des Ouvrages de l'Esprit</title>, LXIV
+                        </ptr>
+                     </item>
+                 </list>
+             </note>
+        </person>
+        <person xml:id="Aubert">
+                 <figure>
+                     <graphic scale=".25" url="https://sms-skladtehnika.com/wp-content/uploads/2018/10/cool-facebook-profile-picture-silhouette-10.jpg"></graphic>
+                 </figure>
+                 <name>
+                     <surname>Aubert</surname>
+                     <roleName>Partisan</roleName>
+                 </name>
+                 <note type="descrip">
+                     <title type="category">À Propos</title>
+                     <p>
+                         <ref type="source" source="#KeyC">«Aubert, fameux partisan du temps de M. Fouquet, que l'on tenait riche de plus de trois millions. Il a été taxé à la chambre de justice en 1666, et enfin est mort malheureux dans un grenier. Il avait bâti 
+                             <ref type="note">l'<hi rend="ital">Hôtel salé</hi> au Marais,
+                                   <note type="gloss" source="#Escola">Cet hôtel, sur rue de Thorigny, fut appelé <hi rend="ital">hôtel salé</hi> parce que son propriétaire était bénéficiaire de l'impôt sur le sel.</note></ref>
+                             où a logé l'ambassadeur de Venise et où est aujourd'hui M. le maréchal de Villeroy.» </ref>
+                     </p>
+                 </note>
+                 <note type="relation">
+                     <title type="category">Rapport avec La Bruyère</title>
+                     <p>blah blah blah</p>
+                 </note>
+                 <note type="reference">
+                     <title type="category">Caractères</title>
+                     <list type="index">
+                         <item>
+                             <ptr target="#Fortune17">
+                                 <title type="chapter">Des Biens de Fortune</title>, XVII
+                             </ptr>
+                         </item>
+                     </list>
+                 </note>
+        </person>
+        <person xml:id="Raymond">
+                 <figure>
+                     <graphic scale=".25" url="https://sms-skladtehnika.com/wp-content/uploads/2018/10/cool-facebook-profile-picture-silhouette-10.jpg"></graphic>
+                 </figure>
+                 <name>
+                     <forename>François</forename>
+                     <surname>
+                         <app>
+                             <lem>Raymon</lem>
+                             <rdg>Rémond</rdg>
+                         </app>
+                     </surname>
+                     <roleName>Partisan</roleName>
+                 </name>
+                 <note type="descrip">
+                     <title type="category">À Propos</title>
+                     <p>
+                        <ref source="#Escola">François Rémond, qu'on appellait <emph rend="ital">le Diable</emph> </ref>
+                     </p>
+                 </note>
+                 <note type="relation">
+                     <title type="category">Rapport avec La Bruyère</title>
+                     <p>blah blah blah</p>
+                 </note>
+                 <note type="reference">
+                     <title type="category">Caractères</title>
+                     <list type="index">
+                         <item>
+                             <ptr target="#Fortune17">
+                                 <title type="chapter">Des Biens de Fortune</title>, XVII
+                             </ptr>
+                         </item>
+                     </list>
+                 </note>
+             </person>
+    </listPerson>
 
-IGNORE BELOW THIS TEXT 
-
-            </person>
-            <person xml:id=Fontenelle>
-                <persName>
-                    <forename>de Fontenelle</forename>
-                    <surname>Bernard le Bovier</surname>
-                </persName>
-            </person> 
-            <person xml:id=Racine>
-                <persName>
-                    <forename>Jean</forename>
-                    <surname>Racine</surname>
-                </persName>
-            </person>  
-            <person xml:id=Boileau>
-                <persName>
-                    <forename>Nicolas</forename>
-                    <surname>Boileau-Despréaux</surname>
-                </persName>
-            </person>
 
 
