@@ -240,11 +240,11 @@
         <castList>
             <castGroup n="1">
                 <castItem type="role">
-                    <role xml:id="gruel">Doctor Gruel</role>
+                    <role xml:id="doctor">Doctor Gruel</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="shatterbrain">Shatterbrain</role>
+                    <role xml:id="shatter">Shatterbrain</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -252,7 +252,7 @@
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Captain Slang</role>
+                    <role xml:id="slang">Captain Slang</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -277,13 +277,14 @@
                 <castItem type="role">
                     <role xml:id="frolick">Miss Frolick</role>
                     <roleDesc></roleDesc>
+                    <!-- add bios for actors yes -->
                 </castItem>
                 <castItem type="role">
                     <role xml:id="flavia">Flavia</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Landlady</role>
+                    <role xml:id="land">Landlady</role>
                     <roleDesc></roleDesc>
                 </castItem>
             </castGroup>            
@@ -303,88 +304,88 @@
             <figure>
                <figDesc>A line prefacing the start of the text.</figDesc>
             </figure>
-            <head>Act 1.</head>
+            <head>Act 1</head>
             <div type="scene" n="1">
-               <head>Scene I.</head>
+               <head>Scene I</head>
                <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
                Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
                enters in a hurry.</stage>
                <sp who="#land"> 
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Mr. Frank-Mr. Frank!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>What's the matter?</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Rouse, rouse, man!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>Is my master come home?</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Your master come home? no, he's not-
                but there's the Doctor below in his chariot, come to 
                carry him to his bride.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>Yaw-have I slept long?</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>You are asleep still, one would think-I 
                tell you there is your master's father-in-law that is to
                be, come to fetch him away!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>My master's father-in-law that is to be, 
                come to fetch him away!</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Ay.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>Well-what shall we do?</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Nay, I don't know-I come to ask you.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>If I was not acquainted with my master
                now, I should naturally conclude that the had either
                hanged, or drown'd himself in order to aviod being
                married.</p></sp>
                <sp who="#land">
-                  <speaker>Land.</speaker>
+                  <speaker>Land</speaker>
                   <p>Oh, he's a sad gentleman!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank.</speaker>
+                  <speaker>Frank</speaker>
                   <p>He is a little out of the way sometimes, 
                indeed.</p></sp>
                <!--<fw type="footer" place="bottom-center">B</fw>
                <fw type="footer" place="bottom-right">Land.</fw> -->
                <pb n="2"/>
                <sp who="#land">
-                  <speaker>Land.</speaker> 
+                  <speaker>Land</speaker> 
                   <p>But the doctor waits-what excuse will
                      you make him?</p></sp>
                   <sp who="#frank">
-                     <speaker>Frank.</speaker> 
+                     <speaker>Frank</speaker> 
                      <p>Why none-I remember it was a maxim
                      with an attorney I once served, always to tell the 
                      truth-when a lie <!--lye--> could not serve his purpose better
                      -and I think we must e'en follow his example, at
                      present.</p></sp>
                   <sp who="#land">
-                     <speaker>Land.</speaker> 
+                     <speaker>Land</speaker> 
                      <p>Then I'll run down again, tho' I make a 
                      strange dirty figure. <stage><hi rend="italic">(Looking at herself in the Glass.)</hi></stage>
                      Lord! How I'm alter'd withiin these twelve years.</p></sp>
                   <sp who="#frank">
-                     <speaker>Frank.</speaker> 
+                     <speaker>Frank</speaker> 
                      <p>I will but rub my eyes, and follow you.</p></sp>
             </div>
             <div type="scene" n="2">
-               <head>Scene II.</head>
+               <head>Scene II</head>
                <sp who="#frank"><speaker>Frank</speaker> <stage><hi rend="italics">standing silent for some time, falls into an immoderate 
                   fit of Laughter.</hi></stage>
                <p>Well, if ever I (laughs again.) If ever I heard the 
@@ -411,69 +412,70 @@
                marching up staris&emdash;perhaps he may be able to give
                a physical reason for this.</p> 
                </sp>
+            </div>
             <div type="scene" n="3">
-               <head>Scene III.</head>
+               <head>Scene III</head>
                <stage>Frank, Doctor Gruel, Landlady.</stage>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker> 
+                  <speaker rend="italics">Doctor</speaker> 
                   <p>So young man, where's your master?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Really, Sir, I don't know.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>When will he come in?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Upon my word, Sir, I can't tell.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Did he say nothing to you when he was going out?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Not a syllable, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Nor to you, Madam?</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Nor to me sir, as I'm a chistian.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Mercy on us, I suppose you know what
                   engagements he had upon his hands this evening></p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Yes, sure, Sir, very well, and I thought
                   he had known it himself; but it seems I was mistaken.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Seriously, I am afraid some accident has
                      happened to him</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>No Sir, I don't believe any accident has 
                   happened to him.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Nor I niether, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>What's your opinion then?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>I believe I need not tell you, Sir, that my 
                      master is, one or other,the most absent man this
                      day upon the case of the earth</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Truly I have opten heard him remarked 
                      for it; nay, I have myself taken notice of several
                      glaring instances of it in him; but, that is a failing
                      he will soon get the better of when his thoughts are
                      properly employed; and matrimony&emdash;</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Will in all likelyhood perfectly cure him. 
                   'tis granted, Sir, matrimony is without a doubt an
                   excellent remedy, in such distempers; a kind of 
@@ -482,10 +484,10 @@
                   of it's gross humours, and reduce the understanding
                   to a perfect regularity of constitution.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>A good comical fellow this.</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>But you cannot expect that the patient
                   should recover, Sir, before you have administer'd 
                   the remedy you intend to prescribe for his disease:
@@ -493,21 +495,21 @@
                   happens to labour under a very violent fit of his
                   out of the way malady, at this present moment.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>How do you mean?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Neither more, nor less, than that he has
                   forgot he was to me married to your daughter to 
                   night, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Forgot!</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>As sure as he can be he as Doctor.</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Ay, Sir, forgot&emdash;and giving the reins to 
                   his wild imagination, suffer'd it to run away with
                   him the Lord knows whither. Why, Sir, when he is
@@ -515,7 +517,7 @@
                   &emdash;Any thing will fall thro' it&emdash;I have known him
                   forget his own name before now.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>I am unwillig to think my friend 
                   Shatterbrain design'd to affront me&emdash;But if his 
                   memory was a seive, to which you compare it, that
@@ -523,7 +525,7 @@
                   more gross remain behind&emdash;And an affair of consequence, 
                   like&emdash;</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Lord, Sir!, I could tell you such stories of <note type="edit" place="inline" target="stories">
                       See relevant passage from Rowe, LaBruyere (1713): </note>
                   difficulry&emdash;for instance, the other day, he was sitting
@@ -542,7 +544,7 @@
                   in a hearty laugh, and the general astonishment of 
                   the whole company.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>About a fortnight ago, Sir, he looked up 
                   a lady, and a gentleman, in his bed-chamber here, 
                   in the way of a joke only; was call'd down about 
@@ -551,21 +553,21 @@
                   pocket, and ti was six o'clock before we could set 
                   the pounded couple at liberty.</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>His ideas are so confused sometimes, Sir,
                   that I have known him write a letter to one person, 
                   direct it to another, and sent it to a third, who 
                   could not devise who it came from; because, he had 
                   forgot to put his name to the bottom on't.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                    <p>A beggar takes off his hat to him in the<note type="edit" place="inline" target="beggar">
                        See relevant passage from Rowe, LaBruyere (1713): beggar at church door</note>
                   street, in hopes of recieving an alms; Mr. Shatter-
                   brainmakes him a low bow, tells him, he's his 
                   most obedient humble servant, and walks on.</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>But the best thing I have heard of him a 
                       goos while, was, what he did lately at a gentleman's <note type="edit" place="inline" target="gentleman">
                           See relevant passage from Rowe, LaBruyere (1713): thinking he is in his own house, plays host</note>
@@ -580,7 +582,7 @@
                   some mistake, and begg'd to know if that was not
                   the way to the street door.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Well, I don't know; but, if his present
                   behavior proceeds from his forgetfulness, it is the
                   most extrodinary instance of the kind that ever was
@@ -591,48 +593,46 @@
                   and marry the; how shall I put it off after this, 
                   without making us all ridiculous?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>'Tis very true, Sir, I am sure I have been 
                   at my wits end about it all day.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Suppose, Mr. Frank, you were to go and 
                   look for your master again; what if you gave a 
                   peep into the Bedford coffee-house?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Shall I, Sir?</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>If you think you will find him there.</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>It can be no harm to try, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Very well, I'll wait for you; go, and
                   make what haste you can.</p></sp>
-            </div>
-            <div type="scene" n="3"> <!--the text has this section marked off as
-               Scene III again, I think because Frank has exited. I'm including the
-               disignation here, but cautious that having two n="3" will cause a problem-->
-               <head>Scene III.</head>
+                <note type="text" place="inline">The 1768 play indicates here again that this is
+                 Scene III, most likely becuase Frank has left the scene. That designation ahs been 
+                 removed in favor of the stage directtion.</note>
                <stage rend="smallcaps">Doctor Gruel, Landlady.</stage>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>I hope he may find him.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>So do I with all my heart; for, on many 
                   acounts, I would not wish to have my daughter's 
                   marriage delay'd; her own indiscretion, Madam, has 
                   occasioned me to treat her with a severity of late, 
                   very irksome both to herself and me.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>That's a pity, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>In truth and so it is: few father have
                   taken greater care in the education of a child, nor
                   has that care been wholly unprofitable; for I think 
@@ -640,40 +640,41 @@
                   woman in England, of her age and station, more
                   <!--compleatly-->completely accomplished than my Flavia.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>And yet she has no more pride, I warrant, 
                   than a boarding-school girl, in the first row of her
                   <!--samplar-->sampler.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>That's her fault, Madam&emdash;a proper pride 
                   is woman's virtue&emdash;I should be sorry to see my
                   daughter give herself airs, but at the same time I 
                   would have her know her proper value; I would 
                   not have her throw herself away.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>No, to be sure, Sir.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>And yet, had I not interposed my parental
                   authority, such was her purpose, Madam; if I may
                   call it throwing herself away, to marry a young
                   fellow not worth a groat.</p></sp>
+            </div>
             <div type="scene" n="4">
-               <head>Scene IV.</head>
+               <head>Scene IV</head>
                <stage rend="smallcaps">Doctor Gruel, Landlady, Frank <hi rend="italics">out of breath.</hi></stage>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>My master's coming, Sir.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>As I'm a Christian, I'm glad on't.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Where did you meet him?</p></sp>
                <sp who="#frank">
-                  <speaker rend="italics">Frank.</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>I met him, Sir&emdash;O Lord&emdash;I met him at
                   the end of the street, Sir&emdash;where he has been
                   Heaven knows, but such a figure&emdash;So, Sir, I told
@@ -685,56 +686,57 @@
                   breathles in order to get home before him, and
                   bring the tidings to your worship.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>Why, this is as it should be, Madam.</p></sp>
                <sp who="#land">
-                  <speaker rend="italics">Land.</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Ay, ay, Sir, all's right again&emdash;but I hear
                   Mr. Shatterbrain coming up, so I'll take my leave.</p></sp>
                <sp who="#doctor">
-                  <speaker rend="italics">Doctor.</speaker>
+                  <speaker rend="italics">Doctor</speaker>
                   <p>I wish you a good evening; we shall 
                      hear now what this whimsical gentleman will have to 
                      say for himself</p></sp>
+            </div>
                <div type="scene" n="5">
-                  <head>Scene V.</head>
+                  <head>Scene V</head>
                   <stage rend="smallcaps">Doctor Gruel, Frank, Shatterbrain.</stage>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Come, my things. to dress quickly&emdash;my
                      things to dress.&emdash;Doctor Gruel you most obedient 
                      humble servant&emdash;I beg ten thousand pardons, but
                      I'll be ready to wait on you immediately&emdash;Frank,
                      why don't you make haste?</p></sp>
                   <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
+                     <speaker rend="italics">Frank</speaker>
                      <p>I am making all the haste I can, Sir.</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>Time enough, time enough.</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                       <p>I hope, Sir, your mother's very well?</p></sp><note type="edit" place="inline" target="mother's">
                           See relevant passage from Rowe, LaBruyere (1713): asking after widow's husband</note>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>My mother! Sir?</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Yes, Sir, I hope she is&emdash;a&emdash;</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>I hope she is happy, Mr. Shatterbrain&emdash;
                      Poor woman, she has been dead these nine years&emdash;
                      but I believe you mean to ask me for my daughter.</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>For your daughter! Upon my word, and 
                      so I do&emdash;bless my soul, what was I thinking of.
                      Did I say your mother? No, no; your daughter 
                      to be sure. How does Miss Gruel, Sir?</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>Very well, and at your service heartily&emdash;
                      if you recollect we agreed to comsummate our affairs
                      this evening. Accordingly I have disposed every
@@ -744,11 +746,11 @@
                      then how I was surprised when the people told me 
                      you had gone our early, and nobody knew whither.</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Really, Sir, I am quite ashamed&emdash;but up-
                      on my word it went out if my head.</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>Why, so your servant said he was sure it 
                      had,; and I am very well pleased to find he was not 
                      mistaken&emdash;for in truth I was apprehensive that it
@@ -756,7 +758,7 @@
                      detain'd you&emdash;but where the duce have you been
                      with your shoes and stockings?</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Frank, what are you doing? my shoes
                          and stockings, Sir? Why they are in a very beastly <note type="edit" place="inline" target="shoes and stockings">
                              See relevant passage from Rowe, LaBruyere (1713): leaving house in state of undress</note>
@@ -769,10 +771,10 @@
                      thing&emdash;I had like to have been run over once or 
                      twice.</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>Then you walked in to the country?</p></sp>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Faith, Sir, I had no thoughts of it when 
                      I left home&emdash;but, I don't know how it was, the 
                      beauty of the weather had <!--inticed-->enticed me as far as 
@@ -785,7 +787,7 @@
                      my hand in my pocket&emdash;the duce a farthing had I 
                      about me.</p></sp>
                   <sp who="#frank">
-                     <speaker rend="italics">Frank.</speaker>
+                     <speaker rend="italics">Frank</speaker>
                      <p>No, that I will answer for&emdash;here is your 
                      purse, Sir, you left it on the hall table, last night, 
                      when you were discharging the chairman&emdash;and 
@@ -793,11 +795,11 @@
                      but somebody might have whipped it away.</p></sp><note type="edit" place="inline" target="whipped it away">
                          See relevant passage from Rowe, LaBruyere (1713): robbed by footman</note>
                   <sp who="#shatter">
-                     <speaker rend="italics">Shatter.</speaker>
+                     <speaker rend="italics">Shatter</speaker>
                      <p>Which would have been a loss to me, 
                      I see&emdash;tho' I don't knwo how much was in it.</p></sp>
                   <sp who="#doctor">
-                     <speaker rend="italics">Doctor.</speaker>
+                     <speaker rend="italics">Doctor</speaker>
                      <p>But did not you talk of dressing? If you 
                      have any such intention, you had better do it 
                      speedily, and as you will be some little time about 
@@ -806,15 +808,11 @@
                      afternoon&emdash;you will come as soon as you are ready&emdash;
                      and believe me, when I assure you, I long to see you 
                      one of my family.</p></sp>
+               </div>
+         </div> <!--Act 1 div-->
 
-                  
-                  
-               </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+               
       </body>
   </text>
 </TEI>
-<!-- testing -->
+<!-- seg or ref for critical notes -->
