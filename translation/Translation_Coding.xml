@@ -57,7 +57,7 @@
    <text>
       <body>
          <div xml:lang="fr" type="chapter" n="1">
-            <head>1. Des Ouvrages de l'Esprit.</head>
+            <head>Des Ouvrages de l'Esprit.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
@@ -113,7 +113,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="2">
-            <head>2. Du Merite personnel.</head>
+            <head>Du Merite personnel.</head>
          </div>
          <div type="remark" n="24">
             <head>24</head>
@@ -131,7 +131,7 @@
             </p>
          </div>
          <div xml:lang="fr" type="chapter" n="3">
-            <head>3. Des Femmes.</head>
+            <head>Des Femmes.</head>
          </div>
          <div type="remark" n="65">
             <head>65</head>
@@ -143,7 +143,7 @@
             </p>
          </div>
          <div xml:id="fr" type="chapter" n="4">
-            <head>4. Du Coeur</head>
+            <head>Du Coeur</head>
             <div type="remark" n="52">
                <head>52</head>
                <p>
@@ -167,7 +167,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="5">
-            <head>5. De la Societé et de la Conversation.</head>
+            <head>De la Societé et de la Conversation.</head>
             <div type="remark" n="7">
                <head>7</head>
                <p>
@@ -247,7 +247,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="6">
-            <head>6. Des Biens de Fortune.</head>
+            <head>Des Biens de Fortune.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
@@ -271,7 +271,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="7">
-            <head>7. De la Ville.</head>
+            <head>De la Ville.</head>
             <div type="remark" n="12">
                <head>12</head>
                <p>
@@ -310,19 +310,19 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="8">
-            <head>8. De la Cour.</head>
+            <head>De la Cour.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="9">
-            <head>9. Des Grands.</head>
+            <head>Des Grands.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="10">
-            <head>10. Du Souverain, ou de la Republique.</head>
+            <head>Du Souverain, ou de la Republique.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="11">
-            <head>11. De l'Homme.</head>
+            <head>De l'Homme.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="12">
-            <head>12. Des Jugemens.</head>
+            <head>Des Jugemens.</head>
             <div type="remark" n="28">
                <head>28</head>
                <p>
@@ -417,10 +417,10 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="13">
-            <head>13. De la Mode.</head>
+            <head>De la Mode.</head>
          </div>
          <div xml:lang="fr" type="chapter" n="14">
-            <head>14. De quelques Usages.</head>
+            <head>De quelques Usages.</head>
             <div type="remark" n="8">
                <head>8</head>
                <p>
@@ -491,7 +491,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="15">
-            <head>15. De la Chaire.</head>
+            <head>De la Chaire.</head>
             <div type="remark" n="6">
                <head>6</head>
                <p>
@@ -532,7 +532,7 @@
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="16">
-            <head>16. Des Esprits Forts.</head>
+            <head>Des Esprits Forts.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
@@ -569,7 +569,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="1">
-            <head>1. Of Polite Learning.</head>
+            <head>Of Polite Learning.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
@@ -629,7 +629,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="2">
-            <head>2. Of Personal Merit.</head>
+            <head>Of Personal Merit.</head>
             <div type="remark" n="24">
                <head>24</head>
                <p>
@@ -648,7 +648,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="3">
-            <head>3. Of Women.</head>
+            <head>Of Women.</head>
          </div>
          <div type="remark" n="64">
             <head>64</head>
@@ -662,7 +662,7 @@
             </p>
          </div>
          <div xml:lang="en" type="chapter" n="4">
-            <head>4. Of the Heart.</head>
+            <head>Of the Heart.</head>
             <div type="remark" n="52">
                <head>52</head>
                <p>
@@ -687,7 +687,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="5">
-            <head>5. Of Society and Conversation.</head>
+            <head>Of Society and Conversation.</head>
             <div type="remark" n="7">
                <head>7</head>
                <p>
@@ -778,7 +778,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="6">
-            <head>6. Of the Goods of Fortune.</head>
+            <head>Of the Goods of Fortune.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
@@ -800,7 +800,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="7">
-            <head>7. Of the City.</head>
+            <head>Of the City.</head>
             <div type="remark" n="12">
                <head>12</head>
                <p>
@@ -849,13 +849,13 @@
             <head>9. Of the Great.</head>
          </div>
          <div xml:lang="en" type="chapter" n="10">
-            <head>10. Of the Soveraign, or Commonwealth.</head>
+            <head>Of the Soveraign, or Commonwealth.</head>
          </div>
          <div xml:lang="en" type="chapter" n="11">
-            <head>11. Of Man.</head>
+            <head>Of Man.</head>
          </div>
          <div xml:lang="en" type="chapter" n="12">
-            <head>12. Of Judgement.</head>
+            <head>Of Judgement.</head>
             <div type="remark" n="28">
                <head>28</head>
                <p>
@@ -924,10 +924,10 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="13">
-            <head>13. Of the Fashion.</head>
+            <head>Of the Fashion.</head>
          </div>
          <div xml:lang="en" type="chapter" n="14">
-            <head>14. Of Certain Customs.</head>
+            <head>Of Certain Customs.</head>
             <div type="remark" n="8">
                <head>8</head>
                <p>
@@ -976,7 +976,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="15">
-            <head>15. Of the Pulpit.</head>
+            <head>Of the Pulpit.</head>
             <div type="remark" n="7">
                <head>7</head>
                <p>
@@ -1013,7 +1013,7 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="16">
-            <head>16. Of The Wits, or Libertines.</head>
+            <head>Of The Wits, or Libertines.</head>
             <div type="remark" n="1">
                <head>1</head>
                <p>
