@@ -13,38 +13,38 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-               <bibl>wikisource: https://fr.wikisource.org/wiki/Les_Caract%C3%A8res_(Garapon)</bibl>
-               <bibl xml:id="edition1">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1688">1688</date></bibl>
+            <bibl>wikisource: https://fr.wikisource.org/wiki/Les_Caract%C3%A8res_(Garapon)</bibl>
+            <bibl xml:id="edition1">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1688">1688</date></bibl>
 
-               <bibl xml:id="edition4">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1689">1689</date>
-               </bibl>
-               <bibl xml:id="edition5">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1690">1690</date>
-               </bibl>
-               <bibl xml:id="edition6">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1691">1691</date>
-               </bibl>
-               <bibl xml:id="edition7">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1692">1692</date>
-               </bibl>
-               <bibl xml:id="edition8">
-                  <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
-                     Moeurs de ce Siècle</title>
-                  <date when="1694">1694</date>
-               </bibl>
-            
+            <bibl xml:id="edition4">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1689">1689</date>
+            </bibl>
+            <bibl xml:id="edition5">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1690">1690</date>
+            </bibl>
+            <bibl xml:id="edition6">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1691">1691</date>
+            </bibl>
+            <bibl xml:id="edition7">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1692">1692</date>
+            </bibl>
+            <bibl xml:id="edition8">
+               <title>Les Caractères de Théophraste traduit du Grec avec Les Caractères ou les
+                  Moeurs de ce Siècle</title>
+               <date when="1694">1694</date>
+            </bibl>
+
 
          </sourceDesc>
       </fileDesc>
@@ -414,7 +414,17 @@
                   aucun sujet est celle du Cid.</p>
             </div2>
             <div2 type="section" n="30">
-               <p source="edition4"/>
+               <p source="edition4">Quelle prodigieuse distance entre un bel ouvrage et un ouvrage
+                  parfait ou régulier ! Je ne sais s’il s’en est encore trouvé de ce dernier genre.
+                  Il est peut-être moins difficile aux rares génies de rencontrer le grand et le
+                  sublime que d’éviter toute sorte de fautes. Le Cid n’a eu qu’une voix pour lui à
+                  sa naissance, qui a été celle de l’admiration ; il s’est vu plus fort que
+                  l’autorité et la politique, qui ont tenté vainement de le détruire ; il a réuni en
+                  sa faveur des esprits toujours partagés d’opinions et de sentiments : les grands
+                  et le peuple ; ils s’accordent tous à le savoir de mémoire et à prévenir au
+                  théâtre les acteurs qui le récitent. Le Cid, enfin, est l’un des plus beaux poèmes
+                  que l’on puisse faire, et l’une des meilleures critiques qui ait été faite sur
+                  aucun sujet est celle du Cid.</p>
             </div2>
             <div2 type="section" n="31">
                <p source="edition8">Quand une lecture vous élève l’esprit, et qu’elle vous inspire
@@ -868,7 +878,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="2">
-            <head>Du Merite personnel</head>
+            <head>Du Mérite personnel</head>
             <div2 type="section" n="1">
                <p source="edition1">Qui peut, avec les plus rares talents et le plus excellent
                   mérite, n’être pas convaincu de son inutilité, quand il considère qu’il laisse en
@@ -2523,7 +2533,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="5">
-            <head>De la Societe et de la Conversation</head>
+            <head>De la Société et de la Conversation</head>
             <div2 type="section" n="1">
                <p source="edition1">Un caractère bien fade est celui de n’en avoir aucun.</p>
             </div2>
@@ -5877,7 +5887,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="10">
-            <head>Du Souverain ou de la Republique</head>
+            <head>Du Souverain ou de la République</head>
             <div2 type="section" n="1">
                <p source="edition1">Quand l’on parcourt, sans la prévention de son pays, toutes les
                   formes de gouvernement, l’on ne sait à laquelle se tenir : il y a dans toutes le
@@ -6188,7 +6198,7 @@
                   ; il est détaché de tout, et comme isolé. </p>
             </div2>
             <div2 type="section" n="19">
-               <p/>
+               <p></p>
             </div2>
             <div2 type="section" n="20">
                <p source="edition6">Je ne doute point qu’un favori, s’il a quelque force et quelque
@@ -6422,7 +6432,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="11">
-            <head>De l’homme</head>
+            <head>De l’Homme</head>
             <div2 type="section" n="1">
                <p source="edition1">Ne nous emportons point contre les hommes en voyant leur dureté,
                   leur ingratitude, leur injustice, leur fierté, l’amour d’eux-mêmes, et l’oubli des
@@ -7941,7 +7951,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="12">
-            <head>Des jugements</head>
+            <head>Des Jugements</head>
             <div2 type="section" n="1">
                <p source="edition1">Rien ne ressemble plus à la vive persuasion que le mauvais
                   entêtement : de là les partis, les cabales, les hérésies.</p>
@@ -8138,13 +8148,13 @@
                   qu’ils ne voient que dans les autres.</p>
             </div2>
             <div2 type="section" n="21">
-               <p source="edition5">Qu’on ne me parle jamais d’encre, de papier, de plume, de
-                  style, d’imprimeur, d’imprimerie, qu’on ne se hasarde plus de me dire : « Vous
-                  écrivez si bien, Antisthène ! continuez d’écrire ; ne verrons-nous point de vous
-                  un in-folio ? traitez de toutes les vertus et de tous les vices dans un ouvrage
-                  suivi, méthodique, qui n’ait point de fin » ; ils devraient ajouter : « et nul
-                  cours. » Je renonce à tout ce qui a été, qui est et qui sera livre. Bérylle tombe
-                  en syncope à la vue d’un chat, et moi à la vue d’un livre. Suis-je mieux nourri et
+               <p source="edition5">Qu’on ne me parle jamais d’encre, de papier, de plume, de style,
+                  d’imprimeur, d’imprimerie, qu’on ne se hasarde plus de me dire : « Vous écrivez si
+                  bien, Antisthène ! continuez d’écrire ; ne verrons-nous point de vous un in-folio
+                  ? traitez de toutes les vertus et de tous les vices dans un ouvrage suivi,
+                  méthodique, qui n’ait point de fin » ; ils devraient ajouter : « et nul cours. »
+                  Je renonce à tout ce qui a été, qui est et qui sera livre. Bérylle tombe en
+                  syncope à la vue d’un chat, et moi à la vue d’un livre. Suis-je mieux nourri et
                   plus lourdement vêtu, suis-je dans ma chambre à l’abri du nord, ai-je un lit de
                   plumes, après vingt ans entiers qu’on me débite dans la place ? J’ai un grand nom,
                   dites-vous, et beaucoup de gloire : dites que j’ai beaucoup de vent qui ne sert à
@@ -9156,7 +9166,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="13">
-            <head>De la mode</head>
+            <head>De la Mode</head>
             <div2 type="section" n="1">
                <p source="edition1">Une chose folle et qui découvre bien notre petitesse, c’est
                   l’assujettissement aux modes quand on l’étend à ce qui concerne le goût, le vivre,
@@ -9700,7 +9710,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="14">
-            <head>De quelques usages</head>
+            <head>De Quelques Usages</head>
             <div2 type="section" n="1">
                <p source="edition1">Il y a des gens qui n’ont pas le moyen d’être nobles. Il y en a
                   de tels que, s’ils eussent obtenu six mois de délai de leurs créanciers, ils
@@ -10509,7 +10519,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="15">
-            <head>De la chaire</head>
+            <head>De la Chaire</head>
             <div2 type="section" n="1">
                <p source="edition1">Le discours chrétien est devenu un spectacle. Cette tristesse
                   évangélique qui en est l’âme ne s’y remarque plus : elle est suppléée par les
@@ -10870,7 +10880,7 @@
             </div2>
          </div1>
          <div1 type="chapter" n="16">
-            <head>Des esprits forts</head>
+            <head>Des Esprits Forts</head>
             <div2 type="section" n="1">
                <p source="edition1">Les esprits forts savent-ils qu’on les appelle ainsi par ironie
                   ? Quelle plus grande faiblesse que d’être incertains quel est le principe de son
