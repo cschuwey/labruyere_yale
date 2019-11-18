@@ -15,25 +15,32 @@
                <nameLink rend="case(allcaps)">BY </nameLink> Monsieur <name rend="case(allcaps)">DE
                   LA BRUYERE </name> , of the <hi rend="ital">French</hi> Academy</author>
             <editor role="translator"> Made <hi rend="ital"> English </hi> by several Hands</editor>
-            <principal>Geoffrey Turnovsky</principal>
-            <principal>Christophe Schuwey</principal>
-            <principal>SabinaLivadariu</principal>
+            
          </titleStmt>
          <editionStmt>
             <edition n="1.0">
                <title>Version 1.0, in English.</title>
                <date when="2019">2019</date>
-            </edition>
+             </edition>
             <respStmt>
-               <name>Sabina Livadariu</name>
-               <resp>Close reading and attention span</resp>
+              <resp>Close reading and attention span</resp>
+               <name>Geoffrey Turnovsky</name>
+               <name>Christophe Schuwey</name>
+               <name>SabinaLivadariu</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+               <bibl>
+                  <author>Jean de La Bruyère</author>
+                  <title>The Characters, or the Manners of the Age with the Characters of Theophrastus, Translated from Greek and A Presactory Discourse to them, bu Monsieur de la Bruyere</title>
+                  <edition>The Fourth Edition Newly Revised and Corrected throughout, with the Key Inserted in the Margent</edition>
+                  <publisher>Estienne Michallet</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date>1705</date>
+               </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
