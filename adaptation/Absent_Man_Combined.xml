@@ -240,11 +240,11 @@
         <castList>
             <castGroup n="1">
                 <castItem type="role">
-                    <role xml:id="gruel">Doctor Gruel</role>
+                    <role xml:id="doctor">Doctor Gruel</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="shatterbrain">Shatterbrain</role>
+                    <role xml:id="shatter">Shatterbrain</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -252,7 +252,7 @@
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Captain Slang</role>
+                    <role xml:id="slang">Captain Slang</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -277,13 +277,14 @@
                 <castItem type="role">
                     <role xml:id="frolick">Miss Frolick</role>
                     <roleDesc></roleDesc>
+                    <!-- add bios for actors yes -->
                 </castItem>
                 <castItem type="role">
                     <role xml:id="flavia">Flavia</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Landlady</role>
+                    <role xml:id="land">Landlady</role>
                     <roleDesc></roleDesc>
                 </castItem>
             </castGroup>            
