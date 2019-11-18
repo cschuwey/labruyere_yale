@@ -3,17 +3,32 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> 
-               <hi rend="bold">THE CHARACTERS, OR THE Manners of the Age 
-                  </hi> 
+            <title>
+               <hi rend="bold">
+                  <title rend="case(allcaps)"> THE CHARACTERS, OR THE</title> Manners of the Age
+               </hi>
             </title>
-            <author> BY Monsieur DE LA BRUYERE, of the <hi rend="ital">French</hi> Academy</author>
+            <author>
+               <nameLink rend="case(allcaps)">BY </nameLink> Monsieur <name rend="case(allcaps)">DE
+                  LA BRUYERE </name> , of the <hi rend="ital">French</hi> Academy</author>
             <editor role="translator"> Made <hi rend="ital"> English </hi> by several Hands</editor>
-           
+            <principal>Geoffrey Turnovsky</principal>
+            <principal>Christophe Schuwey</principal>
+            <principal>SabinaLivadariu</principal>
          </titleStmt>
+         <editionStmt>
+            <edition n="1.0">
+               <title>Version 1.0, in English.</title>
+               <date when="2019">2019</date>
+            </edition>
+            <respStmt>
+               <name>Sabina Livadariu</name>
+               <resp>Close reading and attention span</resp>
+            </respStmt>
+         </editionStmt>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
@@ -21,174 +36,448 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+
+   <text>
       <body>
-         <p>I  Borrow’d the subject Matter of this Book from
-            the  Publick,   and I now restore what it lent
-            me.  Indeed having finish’d the whole Work,
-            with the utmost regard  to Truth that I was
-            capable of,’tis but just I should make it Restitution.
-            The   World  may  here  view  the  Picture  I have
-            drawn of it from Nature, and if I have hit on any
-            defects,  which  it  agrees with me  to be such,  it
-            may at leisure correct  them.   This is what a Man
-            ought chiefly to propose to himself in Writing, tho
-            he can’t always be sure  of success.   However, as
-            long as Men distaste  Vice so little as they do,   we
-            should  never  give over  reproaching them:   They
-            would  perhaps be worse,  were  it not for censure
-            and  Reproof, which makes Writing and Preaching
-            of   absolute   necessity.   The  Orator  and  Writer
-            can’t stifle the Joy they feel when they are applaud-
-            ed,  but they ought to blush in themselves,  if they
-            aim  at  nothing more  than Praise,   by   their  Dis-
-            courses or Writings.  Besides, that the most certain
-            and least equivocal  Approbation,  is the change of
-            Manners
-            
-            
-            
-            2                                   The characters,  or
-            Manners in their Readers  or Hearers :  We should
-            neither write  nor  speak  but  for  Instruction ;  yet
-            we may lawfully  rejoyce,  if we   at   the same time
-            please those to whom weaddress, and by this means
-            make the Truths we should advance,  the more insi-
-            nuating, and the better receiv’d.  When any thoughts
-            or reflections  slide into  a  Book, which have neither
-            fire,  turn,  nor vivacity  agreeable to  the rest,   tho
-            they  seem at first to be admitted for variety,  to di-
-            vert  our Minds,   and render  them more  attentive
-            on what is to follow,  but otherwise are not proper,
-            sensible,   or accommodated to the capacity of the
-            People,   ( whom  we must by  no means neglect  )
-            both the Reader and the Author ought  to condemn
-            ‘em.   This is one Rule:  There’s another, which my
-            particular Interest obliges  me to  request  may not
-            be forgot,  that is, always to have my Title in view,
-            and to think,  as often as this. Book is read,   that I
-            describe  the characters,   or Manners of the Age ;
-            for  tho  I  frequently   take  ‘em from the court of
-            France,   and Men  of  my  own  Nation,   yet they
-            cannot  be  confin’d  to  any one  court  or  country,
-            without losing a great deal of the compass and use-
-            fulness of my Book,  and destroying the design of
-            the Work,   which  is  to  paint Mankind in  general,
-            as the order of the chapters,  and a certain insensi-
-            ble connexion,   which the reflexions that compose
-            them,  have one with another,   do  plainly demon-
-            strate.   After  this  so  necessary a precaution,  the
-            consequences  of which. ‘this  easie enough for any
-            body to penetrate,    I must protest against  all cha-
-            grin,   complaint,    malicious  Interpretation,   false
-            Application and censure ;  against the insipid Rail-
-            liers,  and the ill-meaning Readers.    Men ought to
-            know how to Read,  and then  hold  their Tongues,
-            or else to be able  to relate  what  they  have read,
-            and
-            
-            
-            
-            
-            Manners  of  the  Age.               3
-            
-            and    nothing more  or   less  than  what  they  have
-            read ;   which   if   they  are  sometimes able  to  do,
-            ‘this not enough,  unless they have the Will to do it.
-            Without these conditions, which an exact and scru-
-            pulous  Author  has a right  to require of  some Peo-
-            ple,   as the  only     Recompence of  his    Labour,    I  
-            question whether he ought  to continue Writing,   if
-            he prefers  his   private  satisfaction  to   the publick
-            Good,  and  a  Zeal  for  promoting Truth.   I confess,
-            from the  year 1690,   and before the publishing the
-            5th Edition,  I  was divided  between an  Impatience,
-            to give my Book another Figure,   and a better Form,
-            by  new   characters, and a  fear   left   some People
-            should  say, Will these characters never be finisht?
-            shall we never see any thing else from this  Author?
-            On one side,  several   Men of  good  sense told me,
-            the matter is solid,  useful, pleasant, inexhaustible ;
-            live  long,  and treat  on’t   without   interruptions as
-            long  as you  live :   What   can you  do  better ?  The   
-            Follies  of  Mankind will every  year furnish you with
-            a Volume.  While  others,  with  a  great  deal of Rea-
-            son,  made me apprehend the capriciousness of the
-            Multitude,  and    the   levity  of   the  People,  (  with
-            whom,   however,  I  have   good  sause  to   be  con-
-            tent. )   These  were always  suggesting  to me,  that
-            for  these thirty years past,  few have  read with any
-            other intent,  than for the sake of reading,  and that
-            to amuse the World,  there ought  to be new  chap-
-            ters and a new Title ;  that  this  humour  of  indiffe-
-            rence had fill’d the shops,  and  stockt the Age with
-            piles  of  dull and  tedious  Books,   without  stile  or
-            Meaning,  Rules or Order,   contrary  to  Decency or
-            Manners, written in haste,  read with precipitati on,
-            and  only  read for their  Novelty.   They  added  far-
-            ther,  if I could not  enlarge  a  sensible Book,   I had
-            best sit still,   and do   nothing   I in  some  measure
-            took
-            
-            
-            
-            
-            
-            4           The characters,  or
-            took both their Advices,  as opposite as they seem’d
-            to be,  and observ’d a medium which disagreed with
-            neither.   I  did  not  scruple to  add   some  new  Re-
-            marks,   to   those  which   already had  doubled  the
-            bulk  of   the first Edition  of my  Book,  but that  the
-            Publick   might   not  be  oblig’d  to  read   over what
-            was done before,  to come at what has  been added
-            since,  and that  they  might  immmediately find out
-            what they  would  only  read,  I  took care to   distin-
-            guish the second augmentation  by a   greater mark,
-            and the first by a less,  as well to shew the progress
-            of  my  characters,   as  to  guide  the Reader  in  the
-            choice  he might be willing  to  make.    And  lest   he
-            should be afraid that  I shou'd never have done with
-            these  Additions,  I  added to  all my  exactness,  the
-            sincere  promise to venture on nothing more of this
-            kind    If  any   one  accuses   me  with   breaking  my
-            word,   by  adding in   the  three  ensuing Editions  a
-            great many  new  Remarks,  I  confess ingenuously I
-            had not the  power  to suppress  'em.   He may  per-
-            ceive,  by  mingling  what  was new with  what   was
-            old,   without  any  mark  of distinction, I did  not so
-            much  endeavour  to entertain  the  World  with  No
-            velties,   as to  deliver down to Posterity,  a Book  of
-            Manners,   more  pure,   regular  and   compleat.  To
-            conclude,  what I have written are not design'ed for
-            maxims ;   those  are  like  Laws   in  Morality,  and I
-            have   neither  Genius  nor  Authority  sufficient   to
-            qualifie me  for a  Legislator.    I  know well  enough,
-            I have offended against the custom of writing Max-
-            ims, which are deliver'd in short and concise Terms,
-            like   the   manner   of    Oracles.    some of  my   Re-
-            marks are  of this kind,   others are more  extended.
-            We think  of  things differently, and we express 'em
-            in a turn  altogether  as   different :   By a  sentence,
-            an  Argument,   a Metaphor,   or some other Figure,
-            a
-            
-            
-            
-            
-            
-            Manners  of   the  Age.                      
-            
-            a  Parallel,   a  simple  comparison,    by   a   story at
-            length,   or  a  single Passage,   by  a  Description  or
-            a  Picture,   from   whence proceeds   the length   or
-            shortness  of   my   Reflections.    Those  who  write
-            Maxims,  would be thought infaillible ;   on the  con-
-            trary,   I  allow   any   body   to   say  of  me,  my  Re-
-            marks are not  always good,  provided  he  will  him-
-            self   make  better.
-         </p>
+         <pb n="contents"/>
+         <div type="contents_header">
+            <table rows="4">
+               <row>
+                  <cell><p>
+                        <title rend="case(allcaps)">THE CONTENTS </title></p></cell>
+               </row>
+               <row>
+                  <cell><p>OF</p></cell>
+               </row>
+               <row>
+                  <cell><p>Monsieur De La Bruyere's</p></cell>
+               </row>
+               <row>
+                  <cell><p><title rend="case(allcaps)">CHARACTERS </title></p></cell>
+               </row>
+            </table>
+         </div>
+         <div type="contents">
+            <table type="contents" cols="2" rows="16">
+               <row>
+                  <cell><p>Of Polite Learning</p></cell>
+                  <cell><p>4</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Personal Merit</p></cell>
+                  <cell><p>28</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Women</p></cell>
+                  <cell><p>44</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of The Heart</p></cell>
+                  <cell><p>68</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Society and Conversation</p></cell>
+                  <cell><p>81</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Goods of Forture</p></cell>
+                  <cell><p>104</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the City</p></cell>
+                  <cell><p>126</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Court</p></cell>
+                  <cell><p>139</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Great</p></cell>
+                  <cell><p>151</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Soveraign of Commonwealth</p></cell>
+                  <cell><p>170</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Man</p></cell>
+                  <cell><p>190</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Judgements</p></cell>
+                  <cell><p>238</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Fashion</p></cell>
+                  <cell><p>271</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of Certain Customs</p></cell>
+                  <cell><p>292</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Pulpit</p></cell>
+                  <cell><p>316</p></cell>
+               </row>
+               <row>
+                  <cell><p>Of the Withs or Libertines</p></cell>
+                  <cell><p>330</p></cell>
+               </row>
+            </table>
+         </div>
+
+
+         <div>
+            <p>I <!-- editorial annotation -->
+               <note resp="#RvdB">
+                  <term>Borrow'd</term>
+                  <gloss>borrowed</gloss>
+               </note> borrowed the subject 
+               <hi rend="case(smallcaps)">matter</hi>
+               of this 
+               <hi rend="case(mixed)">Book</hi>
+               from the 
+               <hi rend="case(mixed)">Publick</hi>
+               , and I
+               now restore what it lent me. 
+               <!--paragraph introduced to emphasize the first sentence which contains a powerful message regarding the poetics behind the text -->
+               . Indeed having 
+               <note resp="#RvdB">
+                  <term>finish'd</term>
+                  <gloss>finishedd</gloss>
+               </note> the whole 
+               <hi rend="case(mixed)">Work</hi>
+               , with the utmost regard to 
+               <hi rend="case(mixed)">Truth</hi>
+               that I was capable of,'tis
+               but just I should make it 
+               <hi rend="case(mixed)">Restitution</hi>
+               . The 
+               <hi rend="case(mixed)">World</hi>
+               may here view the 
+               <hi rend="case(smallcaps)"> picture </hi> 
+               I have drawn of it from 
+               <hi rend="case(mixed)">Nature</hi>
+               , and if I have hit on any defects (which it agrees with me to be such)
+               <!--I have introduce the parenthesis to help focus the reader on the main idea contain in the sentence but also to highlight the author's comment-->,
+               it may at leisure correct them. This is what a 
+               <hi rend="case(mixed)">Man</hi>
+               ought chiefly to propose to
+               himself in 
+               <hi rend="case(mixed)">Writing</hi>
+               , tho he can’t always be sure of 
+               <hi rend="case(smallcaps)"> success</hi>. 
+            </p>
+            <p> However, as long as Men distaste Vice so little as they do, we should never give
+               over reproaching them. (I have replaced : with .) They would perhaps be worse, were
+               it not for 
+               <hi rend="case(smallcaps)">censure</hi>
+               and 
+               <hi rend="case(smallcaps)">reproof</hi>
+               , which makes 
+               <hi rend="case(mixed)">Writing</hi>
+               and
+               <hi rend="case(mixed)">Preaching </hi>
+               of absolute necessity. The 
+               <hi rend="case(mixed)">Orator</hi>
+               and 
+               <hi rend="case(mixed)">Writer</hi> can’t stifle the 
+               <hi rend="case(smallcaps)">joy</hi>
+               they feel when they are applauded, but they ought to blush in themselves, if they aim at nothing more than 
+               <hi rend="case(smallcaps)">praise</hi>
+               , by their 
+               <hi rend="case(mixed)">Discourses</hi>
+               or 
+               <hi rend="case(mixed)">Writings</hi>.
+               Besides, that the most certain and least equivocal 
+               <hi rend="case(smallcaps)">approbation</hi>
+               , is the change of 
+               <hi rend="case(mixed)">Manners</hi> in their 
+               <hi rend="case(mixed)">Readers</hi>
+               or 
+               <hi rend="case(mixed)">Hearers</hi>
+               : (I have replaced the colon with a full
+               stop )
+               <!--I have introduced a paragraph for the sake of focusing the readers' attention on the nuanced
+               ideas being discussed -->
+            </p>
+            <p> We should neither write nor speak but for 
+               <hi rend="case(mixed)">Instruction</hi>
+               ; yet we may lawfully rejoyce,
+               if we at the same time please those to whom we address, and by this means make the
+               <hi rend="case(mixed)">Truths</hi>
+               we should advance, the more insinuating, and the better received(instead of
+               receiv'd). 
+            </p>
+            <p> When any thoughts or reflections slide into a 
+               <hi rend="case(mixed)">Book</hi>
+               , which have neither fire, turn, nor vivacity agreeable to the rest, tho they seem at first to be admitted for
+               variety, to divert our 
+               <hi rend="case(mixed)">Minds</hi>
+               , and render them more attentive on what is to follow,
+               but otherwise are not proper, sensible, or accommodated to the capacity of the
+               <hi rend="case(mixed)">People</hi>
+               (eliminate comma)(whom we must by no means neglect) both the 
+               <hi rend="case(mixed)">Reader</hi>
+               and the
+               <hi rend="case(mixed)">Author</hi>
+               ought to condemn them (instead of 'em). 
+            </p>
+            <p> This is one 
+               <hi rend="case(mixed)">Rule</hi>
+               . (: replaced with .) There’s another, which my particular 
+               <hi rend="case(mixed)">Interest</hi>
+               obliges me to request may not be forgot, that is, always to have my 
+               <hi rend="case(mixed)">Title</hi>
+               in view,
+               and to think, as often as this
+               <hi rend="case(mixed)">Book</hi>
+               is read, that I describe 
+               <hi rend="italics">the Characters, or Manners of the Age</hi>
+               .(eliminate semicollon). For tho I frequently take 'em from the court of 
+               <hi rend="italics"> France</hi>
+               , and 
+               <hi rend="case(mixed)">Men</hi>
+               of my own 
+               <hi rend="case(mixed)">Nation</hi>
+               , yet they cannot be confined (instead of confin'd) to any one 
+               <hi rend="case(smallcaps)">court</hi>
+               or
+               <hi rend="case(smallcaps)"> country</hi>
+               , without losing a great deal of the compass and usefulness of my
+               <hi rend="case(mixed)">Book</hi>
+               , and destroying the design of the 
+               <hi rend="case(mixed)">Work</hi>
+               , which is to paint 
+               <hi rend="case(mixed)">Mankind</hi>
+               in general, as the order of the 
+               <hi rend="case(smallcaps)">chapters</hi>
+               , and a certain insensible connexion, which the
+               reflexions that compose them, have one with another, do plainly demonstrate. 
+            </p>
+            <p> After this so necessary a precaution, the consequences of which ‘tis easie enough
+               for any body to penetrate, I must protest against all 
+               <hi rend="case(smallcaps)">chagrin</hi>
+               ,
+               <hi rend="case(smallcaps)">complaint</hi>
+               , malicious
+               <hi rend="case(smallcaps)">interpretation</hi>
+               , false 
+               <hi rend="case(smallcaps)">application</hi>
+               and 
+               <hi rend="case(smallcaps)">censure</hi>
+               ; against the insipid 
+               <hi rend="case(mixed)">Railliers</hi>
+               , and the ill-meaning 
+               <hi rend="case(mixed)">Readers</hi>
+               . 
+            </p>
+            <p> Men ought to know how to 
+               <hi rend="case(mixed)">Read</hi>
+               , and then hold their 
+               <hi rend="case(smallcaps)">tongues</hi>
+               , or else to be
+               able to relate what they have read, and nothing more or less than what they have
+               read. (; replaced with .) Which if they are sometimes able to do, ‘tis not enough,
+               unless they have the 
+               <hi rend="case(mixed)">Will</hi>
+               to do it. 
+            </p>
+            <p> Without these 
+               <hi rend="case(smallcaps)">conditions</hi>
+               , which an exact and scrupulous 
+               <hi rend="case(mixed)">Author</hi>
+               has a right to
+               require of some 
+               <hi rend="case(mixed)">People</hi>
+               , as the only 
+               <hi rend="case(smallcaps)">recompence</hi>
+               of his 
+               <hi rend="case(mixed)">Labour</hi>
+               , I question whether he ought to continue 
+               <hi rend="case(mixed)">Writing</hi>
+               s, if he prefers his private 
+               <hi rend="case(smallcaps)">satisfaction</hi>
+               to the publick 
+               <hi rend="case(smallcaps)">good</hi>
+               , and a 
+               <hi rend="case(smallcaps)">zeal</hi>
+               for promoting 
+               <hi rend="case(mixed)">Truth</hi>
+               . 
+            </p>
+            <p> I confess, from the year 1690 and before the publishing the 5th 
+               <hi rend="case(mixed)">Edition</hi>
+               , I was divided between an 
+               <hi rend="case(smallcaps)">impatience</hi>
+               , to give my 
+               <hi rend="case(mixed)">Book</hi> another 
+               <hi rend="case(smallcaps)">figure</hi>
+               , and a better 
+               <hi rend="case(smallcaps)">form</hi>
+               , by new 
+               <hi rend="case(mixed)">Characters</hi>
+               , and a fear left some <hi rend="case(mixed)">People</hi>
+               should say: instead of , 
+               Will these 
+               <hi rend="case(mixed)">Characters</hi>
+               never be finisht? shall we never see any thing else from this
+               <hi rend="case(mixed)">Author</hi>
+               ? 
+            </p>
+            <p> On one side, several 
+               <hi rend="case(mixed)">Men</hi>
+               of good sense told me, the matter is solid, useful,
+               pleasant, inexhaustible; live long, and treat on’t without interruptions as long as
+               you live: What can you do better? 
+            </p>
+            <p> The 
+               <hi rend="case(smallcaps)">follies</hi>
+               of 
+               <hi rend="case(mixed)">Mankind</hi>
+               will every year furnish you with a 
+               <hi rend="case(mixed)">Volume</hi>
+               . While
+               others, with a great deal of 
+               <hi rend="case(mixed)">Reason</hi>
+               , made me apprehend the capriciousness of the
+               <hi rend="case(smallcaps)"> multitude</hi>
+               , and the levity of the 
+               <hi rend="case(mixed)">People</hi>
+               , (with whom, however, I have good cause to be content.) 
+            </p>
+            <p> These were always suggesting to me, that for these thirty years past, few have read
+               with any other intent, than for the sake of reading, and that to amuse the 
+               <hi rend="case(mixed)">World</hi>
+               , there ought to be new 
+               <hi rend="case(smallcaps)">chapters</hi>
+               and a new 
+               <hi rend="case(smallcaps)">title</hi>
+               . (; with.) That this humour of indifference had (changed from fill'd to filled) filled the 
+               <hi rend="case(smallcaps)">shops</hi>
+               , and stockt the 
+               <hi rend="case(smallcaps)">age</hi>
+               with piles of dull and tedious 
+               <hi rend="case(mixed)">Books</hi>
+               , without 
+               <hi rend="case(smallcaps)">stile</hi>
+               or 
+               <hi rend="case(smallcaps)">meaning</hi>
+               , 
+               <hi rend="case(smallcaps)">rules</hi>
+               or 
+               <hi rend="case(smallcaps)">order</hi>
+               , contrary to 
+               <hi rend="case(mixed)">Decency</hi>
+               or 
+               <hi rend="case(mixed)">Manners</hi>
+               , written in haste, read with precipitation, and only read for their 
+               <hi rend="case(smallcaps)">novelty</hi>
+               . They added farther, if I could not enlarge a sensible 
+               <hi rend="case(mixed)">Book</hi>
+               , I had best sit still, and do nothing. 
+            </p>
+            <p> I in some measure took both their 
+               <hi rend="case(smallcaps)">advices</hi>
+               , as opposite as they seemed (instead of seem’d) to be, and observed (instead of observ’d) a medium which
+               disagreed with neither. I did not scruple to add some new 
+               <hi rend="case(smallcaps)">remarks</hi>
+               , to those which already had doubled the bulk of the first 
+               <hi rend="case(smallcaps)">edition</hi>
+               of my 
+               <hi rend="case(mixed)">Book</hi>
+               , but that the 
+               <hi rend="case(mixed)">Publick</hi>
+               might not be obliged (instead of oblig’d) to read over what was done
+               before, to come at what has been added since, and that they might immediately find
+               out what they would only read, I took care to distinguish the second augmentation by
+               a greater mark, and the first by a less, as well to shew the progress of my
+               <hi rend="title">Characters</hi>
+               , as to guide the 
+               <hi rend="case(mixed)">Reader</hi>
+               in the choice he might be willing to make. 
+            </p>
+            <p> And lest he should be afraid that I should (instead of shou'd) never have done with
+               these 
+               <hi rend="case(mixed)">Additions</hi>
+               , I added to all my exactness, the sincere promise to venture on
+               nothing more of this kind. If any one accuses me with breaking my word, by adding in
+               the three ensuing 
+               <hi rend="case(mixed)">Editions</hi>
+               a great many new 
+               <hi rend="case(mixed)">Remarks</hi>
+               , I confess ingenuously I had not
+               the power to suppress 'em. 
+            </p>
+            <p> He may perceive, by mingling what was new with what was old, without any mark of
+               distinction, I did not so much endeavour to entertain the 
+               <hi rend="case(mixed)">World</hi>
+               with 
+               <hi rend="case(smallcaps)">novelties</hi>
+               , as to deliver down to 
+               <hi rend="case(mixed)">Posterity</hi>
+               , a 
+               <hi rend="case(mixed)">Book</hi>
+               of 
+               <hi rend="case(mixed)">Manners</hi>
+               , more pure, regular and compleat. 
+            </p>
+            <p> To conclude, what I have written are not designed (instead of design'ed) for maxims;
+               those are like 
+               <hi rend="case(mixed)">Laws</hi>
+               in 
+               <hi rend="case(mixed)">Morality</hi>
+               , and I have neither
+               <hi rend="case(smallcaps)">genius</hi>
+               nor 
+               <hi rend="case(mixed)">Authority</hi>
+               sufficient to qualifie me for a 
+               <hi rend="case(mixed)">Legislator</hi>
+               . I know well enough, I have offended against the 
+               <hi rend="case(smallcaps)">custom</hi>
+               of writing 
+               <hi rend="case(mixed)">Maxims</hi>
+               , which are delivered (instead of deliver'd) in short and concise 
+               <hi rend="case(smallcaps)">terms</hi>
+               , like the manner of 
+               <hi rend="case(mixed)">Oracles</hi>
+               . 
+            </p>
+            <p> Some of my 
+               <hi rend="case(mixed)">Remarks</hi>
+               are of this kind, others are more extended. We think of things
+               differently, and we express 'em in a turn altogether as different: By a 
+               <hi rend="case(smallcaps)">sentence</hi>
+               , an (
+               <hi rend="case(smallcaps)">argument</hi>
+               , a 
+               <hi rend="case(smallcaps)">metaphor</hi>
+               , or some other 
+               <hi rend="case(smallcaps)">figure</hi>
+               , a
+               <hi rend="case(smallcaps)"> parallel</hi>
+               , a simple comparison, by a story at length, or a single 
+               <hi rend="case(smallcaps)">passage</hi>
+               , by a 
+               <hi rend="case(smallcaps)">description</hi>
+               or a 
+               <hi rend="case(smallcaps)">picture</hi>
+               , from whence proceeds the
+               length or shortness of my 
+               <hi rend="case(mixed)">Reflections</hi>
+               . 
+            </p>
+            <p> Those who write 
+               <hi rend="case(mixed)">Maxims</hi>
+               , would be thought infaillible; on the contrary, I allow any
+               body to say of me, my 
+               <hi rend="case(mixed)">Remarks</hi>
+               are not always good, provided he will himself makebet ter. 
+            </p>
+         </div>
       </body>
-  </text>
+   </text>
+
+
 </TEI>
