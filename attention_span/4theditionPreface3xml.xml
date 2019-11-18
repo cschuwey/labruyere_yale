@@ -33,14 +33,14 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-               <bibl>
-                  <author>Jean de La Bruyère</author>
-                  <title>The Characters, or the Manners of the Age with the Characters of Theophrastus, Translated from Greek and A Presactory Discourse to them, bu Monsieur de la Bruyere</title>
+              <bibl>
+                 <author>Jean de La Bruyere</author>
+                  <title>The Characters, or the Manners of the Age with the Characters of Theophrastus, Translated from Greek and A Presactory Discourse to them, by Monsieur de la Bruyere</title>
                   <edition>The Fourth Edition Newly Revised and Corrected throughout, with the Key Inserted in the Margent</edition>
                   <publisher>Estienne Michallet</publisher>
                   <pubPlace>London</pubPlace>
                   <date>1705</date>
-               </bibl>
+              </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
