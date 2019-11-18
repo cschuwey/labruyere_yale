@@ -1036,12 +1036,12 @@
          </div>
       </body>
       <interpGrp>
-         <interp xml:id="sense">difference in sense between French and English</interp>
-         <interp xml:id="tone">difference in tone between French and English</interp>
-         <interp xml:id="omit">text in French omitted in English</interp>
-         <interp xml:id="add">text in English not present in French</interp>
-         <interp xml:id="expan">English requires more words than French</interp>
-         <interp xml:id="abridg">English requires fewer words than French</interp>
+         <interp xml:id="sense">English alters meaning of original French</interp>
+         <interp xml:id="tone">English alters tone of original French</interp>
+         <interp xml:id="omit">English omits text from original French</interp>
+         <interp xml:id="add">English adds text to original French</interp>
+         <interp xml:id="expan">English uses more words to convey same idea</interp>
+         <interp xml:id="abridg">English uses fewer words to convey same idea</interp>
       </interpGrp>
    </text>
 </TEI>
