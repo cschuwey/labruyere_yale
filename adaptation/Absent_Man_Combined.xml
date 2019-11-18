@@ -613,8 +613,9 @@
                   <speaker rend="italics">Doctor</speaker>
                   <p>Very well, I'll wait for you; go, and
                   make what haste you can.</p></sp>
-             <!--note: the text has this section marked off as
-               Scene III again, I think because Frank has exited.  -->
+                <note type="text" place="inline">The 1768 play indicates here again that this is
+                 Scene III, most likely becuase Frank has left the scene. That designation ahs been 
+                 removed in favor of the stage directtion.</note>
                <stage rend="smallcaps">Doctor Gruel, Landlady.</stage>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
@@ -807,6 +808,7 @@
                      and believe me, when I assure you, I long to see you 
                      one of my family.</p></sp>
                </div>
+         </div> <!--Act 1 div-->
 
                
       </body>
