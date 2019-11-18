@@ -194,23 +194,16 @@
         At the Desire of Several Ladies of Quality By Her Majesty's Company of Comedians.</p>
 
       <p>At the <placeName>Theatre Royal in Drury-lane</placeName>, this present <date>Tuesday, the
-          29th of May,</date> will be presented a Comedy, called, <title>The Gamester</title>. The
-        part of the Gamester is to be preform'd by <persName>Mr. Mills</persName>, <gap
-          reason="illegible"/> by Mr. Pack, Sir. Thm Valere by Mr. Bullock,<gap reason="illegible"/>
-        Hazard by Mr. Bowen, Count Cog-Die by Mr. Bullock, <gap reason="illegible"> </gap> Lady
-        Wealthy by Mrs. Porter, Angelica by Mrs. Bradshaw, Mrs. <gap reason="illegible"/> - rity by
-        Mr. Willis, Favourite by Mrs. Mills, Boxkeeper to the Ga<gap reason="illegible"/> Tube by
-        Mr. Leigh. presented a Comedy, called, <title>The Gamester</title>. The part of the Gamester
-        is to be perform'd by <persName>Mr. Mills</persName>, <gap reason="illegible"/> by
+        29th of May,</date> will be presented <ref target="#F_S_2">a Comedy, called, <title>The Gamester</title></ref>. 
+        <ref target="#F_S_3">The part of the Gamester is to be perform'd by <persName>Mr. Mills</persName>, <gap reason="illegible"/> by
           <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr.
           Bullock</persName>, <gap reason="illegible"/> Hazard by <persName>Mr. Bowen</persName>,
           <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap
-          reason="illegible"/>
-        <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
+          reason="illegible"/> <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
           <persName>Angelica</persName> by <persName>Mrs. Bradshaw</persName>, Mrs. <gap
           reason="illegible"/> -rity by <persName>Mr. Willis,</persName> Favourite by <persName>Mrs.
           Mills</persName>, Boxkeeper to the Ga<gap reason="illegible"/> Tube by <persName>Mr.
-          Leigh</persName>.</p>
+          Leigh</persName>.</ref> </p>
 
       <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
           Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName>.</p>
@@ -314,6 +307,21 @@
       of de Brancas more transparent. This incident seems to particularly tread a thin line between the keys validating the character
       sketches as true to life and in maintianing enough readerly distance that the reader does not merely examine the portraits in 
       an effort to decode the character identities.</note>
+      <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The Gamester. Centlivre was an 
+        English playwright whose comedies were often preformed at the Theatre Royal at Drury Lane, with The Gamester 
+        having been preformed every year since it's premiere (Bowyer 63). 
+        <bibl>Bowyer, John Wilson. The Celebrated Mrs. Centlivre. Duke University Press, 1952.</bibl> </note>
+      <note xml:id="F_S_3" type="annotation"> This section of advertisment has a large quantity of smudges. However, it is 
+        possible to create a more correct version by examinig the character list from Centrilivre play: 
+        The part of the Gamester is to be perform'd by <persName>Mr. Mills</persName>, Hector by
+        <persName>Mr. Pack</persName>, <persName>Sir. Thm Valere</persName> by <persName>Mr.
+          Bullock</persName>, Marquiss of Hazard by <persName>Mr. Bowen</persName>,
+        <persName>Count Cog-Die</persName> by <persName>Mr. Bullock</persName>, <gap
+          reason="illegible"/> <persName>Lady Wealthy</persName> by <persName>Mrs. Porter</persName>,
+        <persName>Angelica</persName> by <persName>Mrs. Bradshaw</persName>, Mrs. Security by <persName>Mr. Willis,</persName> Favourite by <persName>Mrs.
+            Mills</persName>, Boxkeeper to the Ga<gap reason="illegible"/> Tube by <persName>Mr.
+              Leigh</persName>.<bibl>Centlivre, Susanna. The gamester: a comedy. As it is acted at the Theatre Royal in Lincolns-Inn-Fields. 
+                By His Majesty's servants. London. 1734.</bibl></note>
     </back>
   </text>
 
