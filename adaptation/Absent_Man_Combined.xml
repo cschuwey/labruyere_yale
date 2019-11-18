@@ -240,11 +240,11 @@
         <castList>
             <castGroup n="1">
                 <castItem type="role">
-                    <role xml:id="gruel">Doctor Gruel</role>
+                    <role xml:id="doctor">Doctor Gruel</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="shatterbrain">Shatterbrain</role>
+                    <role xml:id="shatter">Shatterbrain</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -252,7 +252,7 @@
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Captain Slang</role>
+                    <role xml:id="slang">Captain Slang</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
@@ -277,13 +277,14 @@
                 <castItem type="role">
                     <role xml:id="frolick">Miss Frolick</role>
                     <roleDesc></roleDesc>
+                    <!-- add bios for actors yes -->
                 </castItem>
                 <castItem type="role">
                     <role xml:id="flavia">Flavia</role>
                     <roleDesc></roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role xml:id="captainslang">Landlady</role>
+                    <role xml:id="land">Landlady</role>
                     <roleDesc></roleDesc>
                 </castItem>
             </castGroup>            
@@ -613,8 +614,9 @@
                   <speaker rend="italics">Doctor</speaker>
                   <p>Very well, I'll wait for you; go, and
                   make what haste you can.</p></sp>
-             <!--note: the text has this section marked off as
-               Scene III again, I think because Frank has exited.  -->
+                <note type="text" place="inline">The 1768 play indicates here again that this is
+                 Scene III, most likely becuase Frank has left the scene. That designation ahs been 
+                 removed in favor of the stage directtion.</note>
                <stage rend="smallcaps">Doctor Gruel, Landlady.</stage>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
@@ -807,9 +809,10 @@
                      and believe me, when I assure you, I long to see you 
                      one of my family.</p></sp>
                </div>
+         </div> <!--Act 1 div-->
 
                
       </body>
   </text>
 </TEI>
-<!-- testing -->
+<!-- seg or ref for critical notes -->
