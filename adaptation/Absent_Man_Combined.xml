@@ -827,10 +827,81 @@
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
-                     <p>I have calledd here more than once, I believe.</p>
+                     <p>I have called here more than once, I believe.</p>
                  </sp>
-                 
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Because you had any particular commands 
+                         for me, or only <foreign xml:lang="fra">en passant</foreign>?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Oh, no very particular commands—But I 
+                         seem to have broke in upon you abruptly.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>My friends can never do so, sir, though
+                        I must own I could wish you had timed your visit a
+                        little better, for such is the malignity of my stars,
+                        that I cannot at present stay to enjoy the benefit of
+                        it. I must leave you, my boy, and I will give you
+                        half an hour to guess the occasion, which forces me
+                        to do a thing, otherwise so repugnant to my incli-
+                        nations.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>I am the worst diviner in the world; I can
+                         not even draw consequences.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Then, without farther circumlocution, 
+                         Sir, I am going to be married.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Married!</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p><stage type="modifier"><hi rend="italics">(Taking out his snuff box.)</hi></stage> The Devil take
+                        me but I am.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Then my intelligence is just, and all my fears  
+                        are true.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Do you ever take snuff?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Confusion!</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Hey you, Sir Frank, what have you  
+                        done to my snuff, blockhead? 'Tis wet, and smells of 
+                        soap.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Wet and smells of soap, sir! Well it 
+                         may, is not your face all over lather? Sure I had  
+                         but just began to shave you.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Oh, follow me into the next room, and 
+                         make an end of it. You'll excuse my taking this 
+                         liberty.</p>
+                 </sp>
              </div>
+             
              <div type="scene" n="8">
                  <head>Scene VIII</head>
                  <stage rend="smallcaps">Welldon and afterwards Frank.</stage>
