@@ -816,6 +816,20 @@
              <div type="scene" n="7">
                  <head>Scene VII</head>
                  <stage rend="smallcaps">Shatterbrain, Frank, Welldon.</stage>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>My dear Welldon, ten thousand welcomes.</p>
+                     <stage type="setting">Shatterbrain,<hi rend="italic"> forgetting the condition he is in,
+                     rises with the cloth about him, and runs and salutes</hi> 
+                     Welldon<hi rend="italic"> on both sides of the face</hi></stage>
+                     <p>My fellow tells me you have designed me this favour 
+                        two or three times to day.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>I have calledd here more than once, I believe.</p>
+                 </sp>
+                 
              </div>
              <div type="scene" n="8">
                  <head>Scene VIII</head>
