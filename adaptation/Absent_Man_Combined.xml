@@ -901,7 +901,6 @@
                          liberty.</p>
                  </sp>
              </div>
-             
              <div type="scene" n="8">
                  <head>Scene VIII</head>
                  <stage rend="smallcaps">Welldon and afterwards Frank.</stage>
@@ -909,7 +908,58 @@
              <div type="scene" n="9">
                  <head>Scene IX</head>
                  <stage rend="smallcaps">Welldon, Frank, Shatterbrain.</stage>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Frank, where is my sword ? I have been  
+                        looking for it all over the next room, and can't  
+                        find it.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Your sword, sir! Your sword <stage type="modifier"><hi rend="italics">(looking  
+                         about for it.)</hi></stage> Why it hung in the next chamber,be- 
+                        hind the door.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Oh, it hung, it hung—
+                        you are the most careless fellow.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Why I'm very sure, sir, I did not—<stage type="modifier"><hi rend="italics">(look-  
+                         ing about)</hi></stage> Lord, is not that it in your hand, sir ?</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Ha! Upon my soul it is.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Well, Mr. Shatterbrain, I'll take my leave.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Why in such a hurry?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>I have some particular business—and shall
+                         but detain you.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Nay if you have business—But, I hope, I 
+                        shall have the pleasure of seeing you when I can en-
+                        joy your company longer, and entertain you better.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>You may depend upon it—the pleasure will 
+                         be to myself.</p>
+                 </sp>
              </div>
+             
              <div type="scene" n="10">
                  <head>Scene X</head>
                  <stage rend="smallcaps">Frank, Shatterbrain.</stage>
