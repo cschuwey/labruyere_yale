@@ -698,7 +698,7 @@
                      hear now what this whimsical gentleman will have to 
                      say for himself</p></sp>
             </div>
-               <div type="scene" n="5">
+            <div type="scene" n="5">
                   <head>Scene V</head>
                   <stage rend="smallcaps">Doctor Gruel, Frank, Shatterbrain.</stage>
                   <sp who="#shatter">
@@ -809,6 +809,38 @@
                      and believe me, when I assure you, I long to see you 
                      one of my family.</p></sp>
                </div>
+             <div type="scene" n="6">
+                 <head>Scene VI</head>
+                 <stage rend="smallcaps">Shatterbrain, Frank.</stage>
+             </div>
+             <div type="scene" n="7">
+                 <head>Scene VII</head>
+                 <stage rend="smallcaps">Shatterbrain, Frank, Welldon.</stage>
+             </div>
+             <div type="scene" n="8">
+                 <head>Scene VIII</head>
+                 <stage rend="smallcaps">Welldon and afterwards Frank.</stage>
+             </div>
+             <div type="scene" n="9">
+                 <head>Scene IX</head>
+                 <stage rend="smallcaps">Welldon, Frank, Shatterbrain.</stage>
+             </div>
+             <div type="scene" n="10">
+                 <head>Scene X</head>
+                 <stage rend="smallcaps">Frank, Shatterbrain.</stage>
+             </div>
+             <div type="scene" n="11">
+                 <head>Scene XI</head>
+                 <stage rend="smallcaps">Frank, Landlady.</stage>
+             </div>
+             <div type="scene" n="12">
+                 <head>Scene XII</head>
+                 <stage rend="smallcaps">Mrs. Junket, Miss Frolick, Slang, Coxcomb, the Company enter laughing.</stage>
+             </div>
+             <div type="scene" n="13">
+                 <head>Scene XIII</head>
+                 <stage rend="smallcaps">Frank and andlady.</stage>
+             </div>
          </div> <!--Act 1 div-->
 
                
