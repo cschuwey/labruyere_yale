@@ -967,6 +967,57 @@
              <div type="scene" n="11">
                  <head>Scene XI</head>
                  <stage rend="smallcaps">Frank, Landlady.</stage>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Thanks to Providence, he's gone at last.</p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>At last, indeed!</p>
+                 </sp>
+                 <stage type="business"><hi rend="italics">(A violent knocking at the door.)</hi></stage>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Hey-day! Who have we here?
+                     </p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>Lord be merciful to me, I'm sure no such
+                         visitors come to me. <stage type="business"><hi rend="italics">(Knocking again.)</hi></stage>Again—
+                         why, Sally, Susan! Are you all deaf? One had 
+                         need keep a porter at this rate.
+                     </p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>By the impudence of this rap now, it should
+                         be either a person of quality or a dun. Who is it?
+                     </p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>L<stage type="business"><hi rend="italics">(Having gone to the door.)</hi></stage> I can't tell; there's
+                         a whole coach full enquiring for your master.
+                     </p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>My master!</p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>See if they are not coming out!</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Let me look—the people he dined with
+                         at Richmond, by the mackins.</p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>What do they want here, I wonder!</p>
+                 </sp>
              </div>
              <div type="scene" n="12">
                  <head>Scene XII</head>
@@ -974,7 +1025,33 @@
              </div>
              <div type="scene" n="13">
                  <head>Scene XIII</head>
-                 <stage rend="smallcaps">Frank and andlady.</stage>
+                 <stage rend="smallcaps">Frank <hi rend="italics">and</hi> Landlady.</stage>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Oh, the devil break your neck—And have
+                         not you done a very pretty spot of work here? I
+                         shall be afraid to see my master's face now; to be sure
+                         he'll lay all the blame of this upon me.
+                     </p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker>Land</speaker>
+                     <p>No, no; if there be any words about it, I'll
+                         take the fault upon myself. Will you step into the
+                         parlour, and drink a dish of tea? And afterwards
+                         we'll have a game at Pam Loo. There's cousin
+                         Spriggins, and Mrs. Allum the baker's wife, at next
+                         door. You know I won four-pence half penny from
+                         you last night, and I'll give you your revenge—
+                     </p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Psha, rot my revengea—I shall be played
+                         the mischief with, and all because you could not
+                         keep your tongue within your teeth.
+                     </p>
+                 </sp>
              </div>
          </div> <!--Act 1 div-->
 
