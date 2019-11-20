@@ -25,6 +25,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+        
 <front>
     <titlePage>
         <doctitle>
@@ -49,7 +50,7 @@
             <figDesc>Possible Printers Ornament placed between title and imprint</figDesc>
             <docImprint type="sub" rend="center">
                 <lb/><name><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
-                <lb/>Printed for<name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name place="Catharine-Street">Catharine-
+                <lb/>Printed for<name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name>Catharine-
                     <lb/>Street</name>in, the <name>Strand.</name>
                 <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
             </docImprint>
@@ -183,7 +184,7 @@
     </div>
     <pb n="5"/>
     <div>
-        <prologue>
+        <prodlogue>
             <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R O L O G U E.</head>
             <head type="sub" style="font-size:16px; font-family:serif; font-weight:100; font-style:regular;"><hi rend="italics">Written by the</hi> <hi rend="all-caps">AUTHOR</hi><hi rend="italics"> of the</hi><hi rend="all-caps"> FARCE</hi></head>
             <sp>
@@ -232,7 +233,7 @@
                     <l>So, begging for mercy, I wish you good night.</l>
                 </lg>
             </sp>
-        </prologue>
+        </prodlogue>
     </div>
     <div xml:id="dramatispersonae" type="castList">
         <head rend="all-caps" style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P E R S O N S.</head>
