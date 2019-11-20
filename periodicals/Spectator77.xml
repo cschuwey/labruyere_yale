@@ -493,6 +493,7 @@
           </person>
         </listPerson>
       </div>
+      <div type="EditorialNotes">
       <note xml:id="MT_B_1" type="editorial">As the original footnote in La Bruyère's text
         acknowledges, the portrait of Menalque is less a study of a particular character than a
         collection of humourous instances of distraction. These brief and numerous sketches
@@ -550,6 +551,7 @@
             Mills</persName>, Boxkeeper to the Ga<gap reason="illegible"/> Tube by <persName>Mr.
               Leigh</persName>.<bibl>Centlivre, Susanna. The gamester: a comedy. As it is acted at the Theatre Royal in Lincolns-Inn-Fields. 
                 By His Majesty's servants. London. 1734.</bibl></note>
+      </div>
     </back>
   </text>
 
