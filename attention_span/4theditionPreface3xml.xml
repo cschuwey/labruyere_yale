@@ -15,25 +15,32 @@
                <nameLink rend="case(allcaps)">BY </nameLink> Monsieur <name rend="case(allcaps)">DE
                   LA BRUYERE </name> , of the <hi rend="ital">French</hi> Academy</author>
             <editor role="translator"> Made <hi rend="ital"> English </hi> by several Hands</editor>
-            <principal>Geoffrey Turnovsky</principal>
-            <principal>Christophe Schuwey</principal>
-            <principal>SabinaLivadariu</principal>
+            
          </titleStmt>
          <editionStmt>
             <edition n="1.0">
                <title>Version 1.0, in English.</title>
                <date when="2019">2019</date>
-            </edition>
+             </edition>
             <respStmt>
-               <name>Sabina Livadariu</name>
-               <resp>Close reading and attention span</resp>
+              <resp>Close reading and attention span</resp>
+               <name>Geoffrey Turnovsky</name>
+               <name>Christophe Schuwey</name>
+               <name>SabinaLivadariu</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+              <bibl>
+                 <author>Jean de La Bruyere</author>
+                  <title>The Characters, or the Manners of the Age with the Characters of Theophrastus, Translated from Greek and A Presactory Discourse to them, by Monsieur de la Bruyere</title>
+                  <edition>The Fourth Edition Newly Revised and Corrected throughout, with the Key Inserted in the Margent</edition>
+                  <publisher>Estienne Michallet</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date>1705</date>
+              </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -129,11 +136,12 @@
 
 
          <div>
-            <p>I <!-- editorial annotation -->
+            <p>I 
                <note resp="#RvdB">
                   <term>Borrow'd</term>
                   <gloss>borrowed</gloss>
-               </note> borrowed the subject 
+               </note> 
+               the subject 
                <hi rend="case(smallcaps)">matter</hi>
                of this 
                <hi rend="case(mixed)">Book</hi>
@@ -145,12 +153,12 @@
                . Indeed having 
                <note resp="#RvdB">
                   <term>finish'd</term>
-                  <gloss>finishedd</gloss>
+                  <gloss>finished</gloss>
                </note> the whole 
                <hi rend="case(mixed)">Work</hi>
                , with the utmost regard to 
                <hi rend="case(mixed)">Truth</hi>
-               that I was capable of,'tis
+               that I was capable of &apos;tis
                but just I should make it 
                <hi rend="case(mixed)">Restitution</hi>
                . The 
@@ -166,12 +174,20 @@
                ought chiefly to propose to
                himself in 
                <hi rend="case(mixed)">Writing</hi>
-               , tho he can’t always be sure of 
+               , tho he can&apos;t always be sure of 
                <hi rend="case(smallcaps)"> success</hi>. 
             </p>
-            <p> However, as long as Men distaste Vice so little as they do, we should never give
-               over reproaching them. (I have replaced : with .) They would perhaps be worse, were
-               it not for 
+            <p> However, as long as 
+               <hi rend="(mixedcaps)">Men </hi>
+               distaste 
+               <hi rend="mixedcaps)">Vice</hi>
+               so little as they do, we should never give
+               over reproaching them.
+               <note resp="#RvdB">
+                  <term>:</term>
+                  <gloss>.</gloss>
+               </note> 
+               They would perhaps be worse, were it not for 
                <hi rend="case(smallcaps)">censure</hi>
                and 
                <hi rend="case(smallcaps)">reproof</hi>
@@ -182,7 +198,7 @@
                of absolute necessity. The 
                <hi rend="case(mixed)">Orator</hi>
                and 
-               <hi rend="case(mixed)">Writer</hi> can’t stifle the 
+               <hi rend="case(mixed)">Writer</hi> can&apos;t stifle the 
                <hi rend="case(smallcaps)">joy</hi>
                they feel when they are applauded, but they ought to blush in themselves, if they aim at nothing more than 
                <hi rend="case(smallcaps)">praise</hi>
@@ -197,8 +213,10 @@
                <hi rend="case(mixed)">Readers</hi>
                or 
                <hi rend="case(mixed)">Hearers</hi>
-               : (I have replaced the colon with a full
-               stop )
+               <note resp="#RvdB">
+                  <term>:</term>
+                  <gloss>.</gloss>
+               </note> 
                <!--I have introduced a paragraph for the sake of focusing the readers' attention on the nuanced
                ideas being discussed -->
             </p>
@@ -207,8 +225,11 @@
                ; yet we may lawfully rejoyce,
                if we at the same time please those to whom we address, and by this means make the
                <hi rend="case(mixed)">Truths</hi>
-               we should advance, the more insinuating, and the better received(instead of
-               receiv'd). 
+               we should advance, the more insinuating, and the better 
+               <note resp="#RvdB">
+                  <term>receiv'd</term>
+                  <gloss>received</gloss>
+               </note> 
             </p>
             <p> When any thoughts or reflections slide into a 
                <hi rend="case(mixed)">Book</hi>
@@ -222,11 +243,20 @@
                <hi rend="case(mixed)">Reader</hi>
                and the
                <hi rend="case(mixed)">Author</hi>
-               ought to condemn them (instead of 'em). 
+               ought to condemn 
+               <note resp="#RvdB">
+               <term>'em</term>
+               <gloss>them</gloss>
+               </note> 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> This is one 
                <hi rend="case(mixed)">Rule</hi>
-               . (: replaced with .) There’s another, which my particular 
+               <note resp="#RvdB">
+                  <term>:</term>
+                  <gloss>.</gloss>
+               </note>
+               There&apos;s another, which my particular 
                <hi rend="case(mixed)">Interest</hi>
                obliges me to request may not be forgot, that is, always to have my 
                <hi rend="case(mixed)">Title</hi>
@@ -235,13 +265,27 @@
                <hi rend="case(mixed)">Book</hi>
                is read, that I describe 
                <hi rend="italics">the Characters, or Manners of the Age</hi>
-               .(eliminate semicollon). For tho I frequently take 'em from the court of 
+               <note resp="#RvdB">
+                  <term>,</term>
+                  <gloss>.</gloss>
+               </note> 
+               For tho I frequently take 
+               <note resp="#RvdB">
+                  <term>'em</term>
+                  <gloss>them</gloss>
+               </note>
+               from the court of 
                <hi rend="italics"> France</hi>
                , and 
                <hi rend="case(mixed)">Men</hi>
                of my own 
                <hi rend="case(mixed)">Nation</hi>
-               , yet they cannot be confined (instead of confin'd) to any one 
+               , yet they cannot be 
+               <note resp="#RvdB">
+                  <term>confin'd</term>
+                  <gloss>confined</gloss>
+               </note> 
+               to any one 
                <hi rend="case(smallcaps)">court</hi>
                or
                <hi rend="case(smallcaps)"> country</hi>
@@ -256,7 +300,8 @@
                , and a certain insensible connexion, which the
                reflexions that compose them, have one with another, do plainly demonstrate. 
             </p>
-            <p> After this so necessary a precaution, the consequences of which ‘tis easie enough
+            <!--paragraph introduced by editor for attention span-->
+            <p> After this so necessary a precaution, the consequences of which &apos;tis easie enough
                for any body to penetrate, I must protest against all 
                <hi rend="case(smallcaps)">chagrin</hi>
                ,
@@ -273,23 +318,28 @@
                <hi rend="case(mixed)">Readers</hi>
                . 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> Men ought to know how to 
                <hi rend="case(mixed)">Read</hi>
                , and then hold their 
                <hi rend="case(smallcaps)">tongues</hi>
                , or else to be
-               able to relate what they have read, and nothing more or less than what they have
-               read. (; replaced with .) Which if they are sometimes able to do, ‘tis not enough,
+               able to relate what they have read, and nothing more or less than what they have read. 
+               <note resp="#RvdB">
+                  <term>;</term>
+                  <gloss>.</gloss>
+               </note> 
+               Which if they are sometimes able to do, &apos;tis not enough,
                unless they have the 
                <hi rend="case(mixed)">Will</hi>
                to do it. 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> Without these 
                <hi rend="case(smallcaps)">conditions</hi>
                , which an exact and scrupulous 
                <hi rend="case(mixed)">Author</hi>
-               has a right to
-               require of some 
+               has a right to require of some 
                <hi rend="case(mixed)">People</hi>
                , as the only 
                <hi rend="case(smallcaps)">recompence</hi>
@@ -297,7 +347,7 @@
                <hi rend="case(mixed)">Labour</hi>
                , I question whether he ought to continue 
                <hi rend="case(mixed)">Writing</hi>
-               s, if he prefers his private 
+               , if he prefers his private 
                <hi rend="case(smallcaps)">satisfaction</hi>
                to the publick 
                <hi rend="case(smallcaps)">good</hi>
@@ -307,7 +357,10 @@
                <hi rend="case(mixed)">Truth</hi>
                . 
             </p>
-            <p> I confess, from the year 1690 and before the publishing the 5th 
+            <!--paragraph introduced by editor for attention span-->
+            <p> I confess, from the year 
+               <date when="1690">1690 </date>
+               and before the publishing the 5th 
                <hi rend="case(mixed)">Edition</hi>
                , I was divided between an 
                <hi rend="case(smallcaps)">impatience</hi>
@@ -318,18 +371,24 @@
                <hi rend="case(smallcaps)">form</hi>
                , by new 
                <hi rend="case(mixed)">Characters</hi>
-               , and a fear left some <hi rend="case(mixed)">People</hi>
-               should say: instead of , 
+               , and a fear left some 
+               <hi rend="case(mixed)">People</hi>
+               should say
+               <note resp="#RvdB">
+                  <term>,</term>
+                  <gloss>:</gloss>
+               </note>  
                Will these 
                <hi rend="case(mixed)">Characters</hi>
                never be finisht? shall we never see any thing else from this
                <hi rend="case(mixed)">Author</hi>
                ? 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> On one side, several 
                <hi rend="case(mixed)">Men</hi>
                of good sense told me, the matter is solid, useful,
-               pleasant, inexhaustible; live long, and treat on’t without interruptions as long as
+               pleasant, inexhaustible; live long, and treat on&apos;t without interruptions as long as
                you live: What can you do better? 
             </p>
             <p> The 
@@ -338,8 +397,7 @@
                <hi rend="case(mixed)">Mankind</hi>
                will every year furnish you with a 
                <hi rend="case(mixed)">Volume</hi>
-               . While
-               others, with a great deal of 
+               . While others, with a great deal of 
                <hi rend="case(mixed)">Reason</hi>
                , made me apprehend the capriciousness of the
                <hi rend="case(smallcaps)"> multitude</hi>
@@ -347,6 +405,7 @@
                <hi rend="case(mixed)">People</hi>
                , (with whom, however, I have good cause to be content.) 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> These were always suggesting to me, that for these thirty years past, few have read
                with any other intent, than for the sake of reading, and that to amuse the 
                <hi rend="case(mixed)">World</hi>
@@ -354,7 +413,16 @@
                <hi rend="case(smallcaps)">chapters</hi>
                and a new 
                <hi rend="case(smallcaps)">title</hi>
-               . (; with.) That this humour of indifference had (changed from fill'd to filled) filled the 
+               <note resp="#RvdB">
+                  <term>,</term>
+                  <gloss>.</gloss>
+               </note> 
+               That this humour of indifference had 
+               <note resp="#RvdB">
+                  <term>fill'd</term>
+                  <gloss>filled</gloss>
+               </note> 
+               the 
                <hi rend="case(smallcaps)">shops</hi>
                , and stockt the 
                <hi rend="case(smallcaps)">age</hi>
@@ -378,10 +446,20 @@
                <hi rend="case(mixed)">Book</hi>
                , I had best sit still, and do nothing. 
             </p>
+            <!--paragraph introduced by editor for attention span--> 
             <p> I in some measure took both their 
                <hi rend="case(smallcaps)">advices</hi>
-               , as opposite as they seemed (instead of seem’d) to be, and observed (instead of observ’d) a medium which
-               disagreed with neither. I did not scruple to add some new 
+               , as opposite as they 
+               <note resp="#RvdB">
+                  <term>seem’d</term>
+                  <gloss>seemed</gloss>
+               </note> 
+               to be, and 
+               <note resp="#RvdB">
+                  <term>observ’d</term>
+                  <gloss>observed</gloss>
+               </note>
+               a medium which disagreed with neither. I did not scruple to add some new 
                <hi rend="case(smallcaps)">remarks</hi>
                , to those which already had doubled the bulk of the first 
                <hi rend="case(smallcaps)">edition</hi>
@@ -389,7 +467,12 @@
                <hi rend="case(mixed)">Book</hi>
                , but that the 
                <hi rend="case(mixed)">Publick</hi>
-               might not be obliged (instead of oblig’d) to read over what was done
+               might not be 
+               <note resp="#RvdB">
+                  <term>oblig’d</term>
+                  <gloss>obliged</gloss>
+               </note>
+               to read over what was done
                before, to come at what has been added since, and that they might immediately find
                out what they would only read, I took care to distinguish the second augmentation by
                a greater mark, and the first by a less, as well to shew the progress of my
@@ -398,8 +481,13 @@
                <hi rend="case(mixed)">Reader</hi>
                in the choice he might be willing to make. 
             </p>
-            <p> And lest he should be afraid that I should (instead of shou'd) never have done with
-               these 
+            <!--paragraph introduced by editor for attention span-->
+            <p> And lest he should be afraid that I 
+               <note resp="#RvdB">
+                  <term>shou'd</term>
+                  <gloss>should</gloss>
+               </note> 
+               never have done with these 
                <hi rend="case(mixed)">Additions</hi>
                , I added to all my exactness, the sincere promise to venture on
                nothing more of this kind. If any one accuses me with breaking my word, by adding in
@@ -408,8 +496,9 @@
                a great many new 
                <hi rend="case(mixed)">Remarks</hi>
                , I confess ingenuously I had not
-               the power to suppress 'em. 
+               the power to suppress &apos;em. 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> He may perceive, by mingling what was new with what was old, without any mark of
                distinction, I did not so much endeavour to entertain the 
                <hi rend="case(mixed)">World</hi>
@@ -423,13 +512,19 @@
                <hi rend="case(mixed)">Manners</hi>
                , more pure, regular and compleat. 
             </p>
-            <p> To conclude, what I have written are not designed (instead of design'ed) for maxims;
+            <!--paragraph introduced by editor for attention span-->
+            <p> To conclude, what I have written are not 
+               <note resp="#RvdB">
+                  <term>design'ed</term>
+                  <gloss>designed</gloss>
+               </note> 
+               for maxims;
                those are like 
                <hi rend="case(mixed)">Laws</hi>
                in 
                <hi rend="case(mixed)">Morality</hi>
                , and I have neither
-               <hi rend="case(smallcaps)">genius</hi>
+               <hi rend="case(mixed)">Genius</hi>
                nor 
                <hi rend="case(mixed)">Authority</hi>
                sufficient to qualifie me for a 
@@ -438,18 +533,24 @@
                <hi rend="case(smallcaps)">custom</hi>
                of writing 
                <hi rend="case(mixed)">Maxims</hi>
-               , which are delivered (instead of deliver'd) in short and concise 
+               , which are 
+               <note resp="#RvdB">
+                  <term>deliver'd</term>
+                  <gloss>deliveredd</gloss>
+               </note>
+               in short and concise 
                <hi rend="case(smallcaps)">terms</hi>
                , like the manner of 
                <hi rend="case(mixed)">Oracles</hi>
                . 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> Some of my 
                <hi rend="case(mixed)">Remarks</hi>
                are of this kind, others are more extended. We think of things
-               differently, and we express 'em in a turn altogether as different: By a 
+               differently, and we express &apos;em in a turn altogether as different: By a 
                <hi rend="case(smallcaps)">sentence</hi>
-               , an (
+               , an 
                <hi rend="case(smallcaps)">argument</hi>
                , a 
                <hi rend="case(smallcaps)">metaphor</hi>
@@ -468,12 +569,13 @@
                <hi rend="case(mixed)">Reflections</hi>
                . 
             </p>
+            <!--paragraph introduced by editor for attention span-->
             <p> Those who write 
                <hi rend="case(mixed)">Maxims</hi>
                , would be thought infaillible; on the contrary, I allow any
                body to say of me, my 
                <hi rend="case(mixed)">Remarks</hi>
-               are not always good, provided he will himself makebet ter. 
+               are not always good, provided he will himself make better. 
             </p>
          </div>
       </body>
