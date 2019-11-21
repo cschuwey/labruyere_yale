@@ -131,8 +131,8 @@
 
       <p>I chanced the other Day to go into a Coffee-house, where <persName ref="#Honeycombe" rend="sc"
           >WILL.</persName> was standing in the midst of several Auditors whom he had gathered
-        around him, and was giving them an Account of the Person and Character of <persName
-          rend="italics">Moll Hinton</persName>. My Appearance before him just put him in mind of
+        around him, and was giving them<ref target="#F_S_8"> an Account of the Person and Character of <persName
+          rend="italics">Moll Hinton</persName></ref>. My Appearance before him just put him in mind of
         me, without making him reflect that I was actually present. So that keeping his Eyes full
         upon me, to the great Surprize of his Audience, he broke off his first Harangue, and
         proceeded thus,-—<said>Why now there's my Friend</said> (mentioning me by Name) <said>he is
@@ -587,6 +587,9 @@
         The play mentioned in the advertisments, Susanna Centlivre's The Gamester, might be seen as operating somewhere in the middle. As a
         popular peroid work offering tragicomic entertainment about the perils of gambling, it is neither the slapstick of the puppet show
         nor the ontology of Hamlet or Othello.</note>
+        <note xml:id="F_S_8" type="editorial"> Although Will Honeycombe is ficitional and not correlated  with 
+        a singlular person but instead serves the varied purposes of The Spectator's authors, unlike Bruyère's Melanque, Moll Hinton was a real-life 17th C prostitute who worked in courtly circles.
+        The nested narratives of this piece are mimicked in Honeycombe's offering of an unnarrativized character sketch of her.</note>
       </div>
     </back>
   </text>
