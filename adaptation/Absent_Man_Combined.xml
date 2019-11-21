@@ -802,6 +802,110 @@
              <div type="scene" n="6">
                  <head>Scene VI</head>
                  <stage rend="smallcaps">Shatterbrain, Frank.</stage>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>By dad, Sir, we had like to have been all
+                         to pieces here&emdash;I believe the Doctor thought you
+                         had given him the slip, and that you would not
+                         take the goods oﬀ his hands, after you had bar-
+                         gained for them.</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Very well he might think so&emdash;and you
+                         Mr. Dunderpate, when you knew how my aﬀairs
+                         were circumstanced, why did not you put me in
+                         mind ?</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Because, Sir, I thought&emdash;</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Because you always think wrong, Sir&emdash;
+                        Was there any one to enquire for me here to day ?</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Yes, Sir, Mr. Welldon was here five or
+                        six times.</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Welldon!</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>I believe he is but just come to town,
+                         Sir, for he had his boots on&emdash;he said he'd call again.</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>If he should, let him know I shall be glad
+                         to see him at Doctor Gruel's, which will be my
+                         place of reﬁdence henceforward. <stage rend="italics">After picking his teeth, 
+                         in a negligent manner, while Frank seems to put
+                         his things in order.</stage>Well! upon my soul, Mrs.
+                         Junket is a very agreeable woman, and so is her
+                         friend, Miss Frolick. I have not spend a day more 
+                         pleasantly a great while&emdash;</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Was your honour with those ladies to day
+                        then? I saw them go by in a coach and four, with
+                        Captain Slang, and Mr. Coxcomb&emdash;But let me look
+                         at you a little, Sir&emdash;iſ I may be so bold as to ask 
+                         the question, pray do you intend to salute this young 
+                         lady, this evening?</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>What would the puppy be at?</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Because, Sir, if your mind is bent that
+                        way&emdash;I would beg leave to salute you ﬁrst with my 
+                        razor&emdash;odds bobs, if you should attempt to go near 
+                        her with that bristly beard!&emdash;</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Give me my cap,</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Now, if you'll sit down, Sir, and let me
+                        put this cloth about you, I'll make your chin 
+                        as smooth as the surface of a bowling green in a 
+                        twinkling&emdash; <stage rend="italics">Shatterbrain sits down to be shaved;
+                        Frank puts on the shaving cloth. Shatterbrain talking 
+                        while the servant lathers him</stage></p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Apropos, Frank, cou'd you ever learn 
+                         where I lost my boot, the last day I was out a
+                         riding?</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Lord, Sir, how should I learn, I never
+                     heard of such a thing in my life!</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>I have been thinking with myself that 
+                         one of the fellows at the livery stable muﬅ have stole 
+                         it from me, as I was getting oﬀ the horse&emdash;</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p><stage rend="italics">aside</stage>It's well your legs are not loose, we should 
+                         soon have you reduced to your stumps</p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Whu, Whu.</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Consider what I'm doing, Sir! If you 
+                     <note type="edit">Remainder of line illegible; it is mose likely 
+                     Frank is admonishing Shatter to remain still or he will accidentally
+                     cut him.</note></p></sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Cut me! 'Sdeath that razor is ﬁt to cut 
+                        nothing but deal-boards; 'tis a perfect saw: change 
+                        it directly.</p></sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>I will, Sir, I will.</p></sp>
              </div>
              <div type="scene" n="7">
                  <head>Scene VII</head>
