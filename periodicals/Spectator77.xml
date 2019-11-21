@@ -120,8 +120,8 @@
         of any thing. I can at present observe those Starts of good Sense and Struggles of
         unimproved Reason in the Conversation of a Clown, with as much Satisfaction as the most
         shining Periods of the most finished Orator; and can make a shift to command my Attention at
-        a <hi rend="italics">Puppet-Show</hi> or an <hi rend="italics">Opera</hi>, as well as at
-          <title rend="italics">Hamlet</title> or <title rend="italics">Othello</title>. I always
+        a <ref target="#F_S_7"> <hi rend="italics">Puppet-Show</hi> or an <hi rend="italics">Opera</hi>, as well as at
+          <title rend="italics">Hamlet</title> or <title rend="italics">Othello</title>.</ref> I always
         make one of the Company I am in; for though I say little myself, my Attention to others, and
         those Nods of Approbation which I never bestow unmerited, sufficiently show that I am among
         them. Whereas <persName ref="#Honeycombe" rend="sc">Will Honeycombe</persName>, tho' a Fellow of good Sense,
@@ -582,6 +582,11 @@
         <note xml:id="F_S_6" type="editorial"> Dryden is also the source for a musical adaption in the adverstisments.
         As a preeminent poet and quotation generator in the peroid, Dryden's name attracts the reader's attention. 
         Here, the quotation of the literary heavyweight seems to provide comedic contrast.</note>
+        <note xml:id="F_S_7" type="editorial"> Here, the puppet show, refering likely to the low-comedy of the Punch and Judy
+        shows popular in the peroid, and Shakespearean plays are presented as the two poles of theater tastes.
+        The play mentioned in the advertisments, Susanna Centlivre's The Gamester, might be seen as operating somewhere in the middle. As a
+        popular peroid work offering tragicomic entertainment about the perils of gambling, it is neither the slapstick of the puppet show
+        nor the ontology of Hamlet or Othello.</note>
       </div>
     </back>
   </text>
