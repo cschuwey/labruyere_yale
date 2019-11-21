@@ -151,7 +151,7 @@
         an agreeable Extravagance; with the Heads of it I shall conclude my present Paper.</p>
 
       <quote type="paraphrase">
-        <p><ref target="#F_MK_2><persName ref="#Menalque" rend="italics">Menalcas</persName></ref> (says that excellent author) comes down in a
+        <p><ref target="#F_MK_2"> <persName ref="#Menalque" rend="italics">Menalcas</persName></ref> (says that excellent author) comes down in a
           Morning, opens his Door to go out, but shuts it again, because he perceives that he has
           his Night-cap on; and, examining himself further finds that he is but half shaved, that he
           has stuck his Sword on his right side, that his Stockings are about his Heels, and that
@@ -220,11 +220,11 @@
       <p>This Play is sold by <persName>Jacob Tenfon</persName> at <placeName>Shakespear's
           Head</placeName> over-against <placeName>Catherine Street in the Strand</placeName>.</p>
 
-      <p>The Entertainment of Musick, consisting of a Poets ca'led, The Passion of Sappho, Written
+          <p><ref target="#F_S_4">The Entertainment of Musick</ref>, consisting of a Poets ca'led, The Passion of Sappho, Written
         by <persName>Mr. Harison</persName>, and <ref target="#F_S_1" type="annotation">The F <gap
             reason="illegible"/> of Alexander</ref>, Written by <persName>Mr. Dryden</persName>, as
-        they are Set to Musick by <persName>Mr. Thomas Clayton</persName> (Author of <gap
-          reason="illegible"/> ) will be Preformed at his <gap reason="illegible"/> in
+            they are Set to Musick by <ref target="#F_S_5"><persName>Mr. Thomas Clayton</persName> (Author of <gap
+          reason="illegible"/> ) </ref>will be Preformed at his <gap reason="illegible"/> in
         York-Buildings, this Day, being the 29th of <gap reason="illegible"/> , Beginning at <gap
           reason="illegible"/> in the Evening. Tickets; at 5 s. each, may be had at Mr. Charles <gap
           reason="illegible"/> the Corner of the <placeName>Bedford-Buildings</placeName>, and at
@@ -572,6 +572,12 @@
             Mills</persName>, Boxkeeper to the Ga<gap reason="illegible"/> Tube by <persName>Mr.
               Leigh</persName>.<bibl>Centlivre, Susanna. The gamester: a comedy. As it is acted at the Theatre Royal in Lincolns-Inn-Fields. 
                 By His Majesty's servants. London. 1734.</bibl></note>
+        <note xml:id="F_S_4" type="annotation"> This was the second of three concerts, the others taking place on May 24 and July 16,
+          which had been organized at the behest of Richard Steele in which the poet John Hughes' reworking of Dryden's Alexander's Feast 
+          and William Harrison's The Passion of Sappho were adapted for music by Thomas Clayton.
+          <bibl>McGeary, Thomas. "Thomas Clayton and the Introduction of Italian Opera to England." Philological Quarterly, vol. 77, no. 2, 1998, p. 171.</bibl></note>
+        <note xml:id="F_S_5" type="annotation"> Thomas Clayton was a minor composer of light opera in the period. 
+          The illegible text likely reads, "Author of Arsinoe," his best known work.</note>
       </div>
     </back>
   </text>
