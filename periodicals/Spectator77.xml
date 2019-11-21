@@ -151,7 +151,7 @@
         an agreeable Extravagance; with the Heads of it I shall conclude my present Paper.</p>
 
       <quote type="paraphrase">
-        <p><persName ref="#Menalque" rend="italics">Menalcas</persName> (says that excellent author) comes down in a
+        <p><ref target="#F_MK_2><persName ref="#Menalque" rend="italics">Menalcas</persName></ref> (says that excellent author) comes down in a
           Morning, opens his Door to go out, but shuts it again, because he perceives that he has
           his Night-cap on; and, examining himself further finds that he is but half shaved, that he
           has stuck his Sword on his right side, that his Stockings are about his Heels, and that
@@ -536,7 +536,28 @@
       of de Brancas more transparent. This incident seems to particularly tread a thin line between the keys validating the character
       sketches as true to life and in maintianing enough readerly distance that the reader does not merely examine the portraits in 
       an effort to decode the character identities.</note>
-      <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The Gamester. Centlivre was an 
+      <note xml:id="F_MK_2" type="annotation"> Keys to the Characters decipher this person to be M. de Brancas
+        
+        <p n="fr">266. <hi rend="italics">Menelaque</hi>. Feu <persName>M. de Brancas</persName>, Chevalier d’honneur de la Reine-mere, 
+          frere de <persName>M. le Duc de Villars</persName>. L’on conte de lui différentes fortes d’absence 
+          d’esprit. L’aventure de la perruque , dont il est parlé ici, lui arriva chez la 
+          Reine. L'on veut qu’il oublia le jour de ses nôces , qu’il étoit marié avec <persName>Mademoiselle Garnier</persName> , 
+          fille du Partisan : &amp; que le soir, retournant chez lui à son ordinaire , 
+          il sut surpris de n’y point trouver ses Valets de chambre , qu’il apprit 
+          être allés mettre la toilette chez fa nouvelle femme : ce qui le fit ressouvenir de la cérémonie du matin.
+          <bibl>Clef des Characteres dde La Bruyere. 1765.</bibl>
+        </p>
+        
+        <p n="en">
+          Charactères, Chap. xi. de l'Homme.<persName> La Bruyère</persName>'s 
+          <persName>Menalque</persName> was identified with a <persName>M. de Brancas</persName>, 
+          brother of the <persName>Duke de Villars</persName>. The adventure of the wig is said really to have happened to him 
+          at a reception by the Queen-Mother. He was said also on his wedding-day to have forgotten that he 
+          had been married. He went abroad as usual, and only remembered the ceremony of the moming upon 
+          finding the changed state of his household when, as usual, he came home in the evening,
+          <bibl>The Spectator Project: A Hypermedia Research Archive of Eighteenth-Century Periodicals. Rutgers University Libraries, 2006. http://www2.scc.rutgers.edu/spectator/complete.html.</bibl>
+        </p></note>
+       <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The Gamester. Centlivre was an 
         English playwright whose comedies were often preformed at the Theatre Royal at Drury Lane, with The Gamester 
         having been preformed every year since it's premiere (Bowyer 63). 
         <bibl>Bowyer, John Wilson. The Celebrated Mrs. Centlivre. Duke University Press, 1952.</bibl> </note>
