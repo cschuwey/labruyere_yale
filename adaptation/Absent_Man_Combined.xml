@@ -11,7 +11,7 @@
  <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
     
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,10 +25,10 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-        
-<front>
+<text>        
+  <front>
     <titlePage>
-        <doctitle>
+        <docTitle>
             <titlePart type="main" rend="center" style="font-size:16px; font-family:serif; font-weight:100; font-style:regular;">
                 <hi rend="all-caps">
                     <lb/>THE
@@ -47,18 +47,14 @@
                     <lb/>DRURY-LANE
                 </hi>
             </titlePart>
-            <figDesc>Possible Printers Ornament placed between title and imprint</figDesc>
-            <docImprint type="sub" rend="center">
-                <lb/><name><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
-                <lb/>Printed for<name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name>Catharine-
-                    <lb/>Street</name>in, the <name>Strand.</name>
-                <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
-            </docImprint>
-        </doctitle>
+        </docTitle>
+        <docImprint rend="center">
+            <lb/><name><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
+            <lb/>Printed for<name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name>in <name>Catharine-
+                <lb/>Street</name>in, the <name>Strand.</name>
+            <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
+        </docImprint>
     </titlePage>
-    <pb n="1"/> <!-- probably going to get rid of page breaks since we're going for rolling/scrolling expandable -->
-    <gap reason="blank" extent="1 page"/>
-    <pb n="2"/>
     <div type="dedication">
         <head>
             <lb/><hi rend="all-caps">T O</hi>
@@ -88,7 +84,6 @@
             yourself, but that it should be, in every
             respect, produced as complete as possi-
             ble; I cannot help congratulating all
-            <pb n="3"/>
             our present writers on the stage, on
             the acquisition of a performer of such
             uncommon merit; and so great
@@ -121,7 +116,6 @@
             <lb rend="indent8"/>humble servant.
         </p>
     </div>
-    <pb n="3"/>
     <div type="preface">
         <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R E F A C E.</head> <!-- play with this a little -->
         <p n="6" rend="first-indent">
@@ -157,7 +151,6 @@
             things of this kind have their principal merit
             in representation.
         </p>
-        <pb n="4"/>
         <p n="10" rend="first-indent">
             Regnard one of the most famous French
             comic poets, ranked by his countrymen next
@@ -182,9 +175,7 @@
             may deserve.
         </p>
     </div>
-    <pb n="5"/>
-    <div>
-        <prodlogue>
+        <prologue>
             <head style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P R O L O G U E.</head>
             <head type="sub" style="font-size:16px; font-family:serif; font-weight:100; font-style:regular;"><hi rend="italics">Written by the</hi> <hi rend="all-caps">AUTHOR</hi><hi rend="italics"> of the</hi><hi rend="all-caps"> FARCE</hi></head>
             <sp>
@@ -202,7 +193,7 @@
                 </lg>
                 <lg n="2" rend="first-indent">
                     <l>To give you a sketch, now, by way of portraying,</l>
-                    <l>His character's this—pray observe what I'm saying:</l>
+                    <l>His character's this&emdash;pray observe what I'm saying:</l>
                     <l>An odd kind of whimsical, blundering being,</l>
                     <l>Who has ears without hearing, and eyes without seeing;</l>
                     <l>Takes things by all handles, except by the right,</l>
@@ -229,16 +220,15 @@
                     <l>lf the character hits, thence his actions all spring;</l>
                     <l>And nought will disgust you, and nought will alarm you,</l>
                     <l>You'll takee ev'ry blunder, his follies will charm you;</l>
-                    <l>But if—Gad we're all in a terrible fright,</l>
+                    <l>But if&emdash;Gad we're all in a terrible fright,</l>
                     <l>So, begging for mercy, I wish you good night.</l>
                 </lg>
             </sp>
-        </prodlogue>
-    </div>
+        </prologue>
     <div xml:id="dramatispersonae" type="castList">
         <head rend="all-caps" style="font-size:20px; font-family:serif; font-weight:100; font-style:regular;">P E R S O N S.</head>
         <head type="sub" style="font-size:18px; font-family:serif; font-weight:100; font-style:regular;">M E N.</head>
-        <castList>
+        <castList n="1">
             <castGroup n="1">
                 <castItem type="role">
                     <role xml:id="doctor">Doctor Gruel</role>
@@ -269,7 +259,9 @@
                     <roleDesc></roleDesc>
                 </castItem>
             </castGroup>
-            <subhead style="font-size:18px; font-family:serif; font-weight:100; font-style:regular;">W O M E N.</subhead>
+        </castList>
+        <castList n="2">
+            <head type="sub" style="font-size:18px; font-family:serif; font-weight:100; font-style:regular;">W O M E N.</head>
             <castGroup n="2">
                 <castItem type="role">
                     <role xml:id="junket">Mrs. Junket</role>
@@ -288,14 +280,12 @@
                     <role xml:id="land">Landlady</role>
                     <roleDesc></roleDesc>
                 </castItem>
-            </castGroup>            
+            </castGroup>  
         </castList>
     </div>
 </front>
-  <text>
       <body>
          <div type="act" n="1">
-            <pb n="1"/>
             <figure>
                <figDesc>A decorative border composed of small hexagonal snowflake
                shapes in a line across the top of the page, with two smaller lines 
@@ -364,7 +354,6 @@
                indeed.</p></sp>
                <!--<fw type="footer" place="bottom-center">B</fw>
                <fw type="footer" place="bottom-right">Land.</fw> -->
-               <pb n="2"/>
                <sp who="#land">
                   <speaker>Land</speaker> 
                   <p>But the doctor waits-what excuse will
@@ -837,7 +826,7 @@
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
-                     <p>Oh, no very particular commands—But I 
+                     <p>Oh, no very particular commands&emdash;But I 
                          seem to have broke in upon you abruptly.</p>
                  </sp>
                  <sp who="#shatter">
@@ -923,12 +912,12 @@
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
-                     <p>Oh, it hung, it hung—
+                     <p>Oh, it hung, it hung&emdash;
                         you are the most careless fellow.</p>
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p>Why I'm very sure, sir, I did not—<stage type="modifier"><hi rend="italics">(look-  
+                     <p>Why I'm very sure, sir, I did not&emdash;<stage type="modifier"><hi rend="italics">(look-  
                          ing about)</hi></stage> Lord, is not that it in your hand, sir ?</p>
                  </sp>
                  <sp who="#shatter">
@@ -945,18 +934,18 @@
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
-                     <p>I have some particular business—and shall
+                     <p>I have some particular business&emdash;and shall
                          but detain you.</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
-                     <p>Nay if you have business—But, I hope, I 
+                     <p>Nay if you have business&emdash;But, I hope, I 
                         shall have the pleasure of seeing you when I can en-
                         joy your company longer, and entertain you better.</p>
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
-                     <p>You may depend upon it—the pleasure will 
+                     <p>You may depend upon it&emdash;the pleasure will 
                          be to myself.</p>
                  </sp>
              </div>
@@ -985,7 +974,7 @@
                  <sp who="#land"> 
                      <speaker>Land</speaker>
                      <p>Lord be merciful to me, I'm sure no such
-                         visitors come to me. <stage type="business"><hi rend="italics">(Knocking again.)</hi></stage>Again—
+                         visitors come to me. <stage type="business"><hi rend="italics">(Knocking again.)</hi></stage>Again&emdash;
                          why, Sally, Susan! Are you all deaf? One had 
                          need keep a porter at this rate.
                      </p>
@@ -1012,7 +1001,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p>Let me look—the people he dined with
+                     <p>Let me look&emdash;the people he dined with
                          at Richmond, by the mackins.</p>
                  </sp>
                  <sp who="#land"> 
@@ -1029,7 +1018,7 @@
                  <stage rend="smallcaps">Frank <hi rend="italics">and</hi> Landlady.</stage>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p>Oh, the devil break your neck—And have
+                     <p>Oh, the devil break your neck&emdash;And have
                          not you done a very pretty spot of work here? I
                          shall be afraid to see my master's face now; to be sure
                          he'll lay all the blame of this upon me.
@@ -1043,12 +1032,12 @@
                          we'll have a game at Pam Loo. There's cousin
                          Spriggins, and Mrs. Allum the baker's wife, at next
                          door. You know I won four-pence half penny from
-                         you last night, and I'll give you your revenge—
+                         you last night, and I'll give you your revenge&emdash;
                      </p>
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p>Psha, rot my revengea—I shall be played
+                     <p>Psha, rot my revengea&emdash;I shall be played
                          the mischief with, and all because you could not
                          keep your tongue within your teeth.
                      </p>
@@ -1058,8 +1047,8 @@
 
                
       </body>
-  </text>
+    </text>  
 </TEI>
 <!-- seg or ref for critical notes -->
-<!-- Sarah=even numbers (6,8,10,12) Andreas=odd numbers (7,9,11,13)
+<!-- Sarah=even numbers (6,8,10,12) Andreas=odd numbers (7,9,11,13) -->
 
