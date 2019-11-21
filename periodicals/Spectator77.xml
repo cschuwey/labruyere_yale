@@ -87,9 +87,9 @@
           Speculation.</ref></p>
 
       <p><ref target="#MT_B_4">I was the more confirmed in my Design, when I considered that they
-          were very often Blemishes in the Characters of Men of Excellent Sense; and helped to keep
-          up the Reputation of that <hi rend="italics">Latin</hi> proverb, which Mr. <persName
-            rend="italics">Dryden</persName> has Translated in the following Lines:</ref></p>
+        were very often Blemishes in the Characters of Men of Excellent Sense;</ref> and helped to keep
+          up the Reputation of that <hi rend="italics">Latin</hi> proverb, which <ref target="#F_S_6"> Mr. <persName
+            rend="italics">Dryden</persName></ref> has Translated in the following Lines:</p>
 
       <p><quote type="translation" rend="italics"><l>Great Wit to Madness Sure is near ally'd,</l>
           <l>And thin Partitions do their Bounds divide.</l></quote></p>
@@ -529,7 +529,7 @@
         maintain relevance. Additionally,La Bruyère’s social and moral commentary allows for
         thematic continuity without depending on narrative. Because of this, Budgell, Addison and
         Steele find fruitful inspiration for their periodical in Les Caractères.</note>
-      <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
+      
       <note xml:id="F_MK_1" type="editorial"> The keys to Les Caractères not that this incident is inspired by
       a real life incident that occurred to Monsieur de Brancas at reception held by the Queen-Mother. La Bruyère's inclusion
       of this humorous anecdote, which seems the sort of thing to make the gossip rounds, would likely have made his fictionalization
@@ -557,7 +557,8 @@
           finding the changed state of his household when, as usual, he came home in the evening,
           <bibl>The Spectator Project: A Hypermedia Research Archive of Eighteenth-Century Periodicals. Rutgers University Libraries, 2006. http://www2.scc.rutgers.edu/spectator/complete.html.</bibl>
         </p></note>
-       <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The Gamester. Centlivre was an 
+        <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast</note>
+        <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The Gamester. Centlivre was an 
         English playwright whose comedies were often preformed at the Theatre Royal at Drury Lane, with The Gamester 
         having been preformed every year since it's premiere (Bowyer 63). 
         <bibl>Bowyer, John Wilson. The Celebrated Mrs. Centlivre. Duke University Press, 1952.</bibl> </note>
@@ -578,6 +579,9 @@
           <bibl>McGeary, Thomas. "Thomas Clayton and the Introduction of Italian Opera to England." Philological Quarterly, vol. 77, no. 2, 1998, p. 171.</bibl></note>
         <note xml:id="F_S_5" type="annotation"> Thomas Clayton was a minor composer of light opera in the period. 
           The illegible text likely reads, "Author of Arsinoe," his best known work.</note>
+        <note xml:id="F_S_6" type="editorial"> Dryden is also the source for a musical adaption in the adverstisments.
+        As a preeminent poet and quotation generator in the peroid, Dryden's name attracts the reader's attention. 
+        Here, the quotation of the literary heavyweight seems to provide comedic contrast.</note>
       </div>
     </back>
   </text>
