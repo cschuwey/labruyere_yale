@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Caractères / The Characters</title>
+                <author>Jean de La Bruyère</author>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name xml:id="NA">Nicola Angeli</name>
+                    <name xml:id="KS">Kallie Strode</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Project developed under the supervision of Christophe Schuwey and Geoffrey Turnovsky. Modernized transcription. French sections are primarily based on the transcription, accordingly revised, of the Project Gutenberg transcription of the 1688 edition.</p>        
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Jean de La Bruyère</author>
+                        <title type="main">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+                        <edition>Tenth edition</edition>
+                        <imprint>
+                            <publisher>Estienne Michallet</publisher>
+                            <pubPlace>Paris</pubPlace>
+                            <date>1699</date>
+                        </imprint>
+                    </monogr>
+                    <monogr>
+                        <author>Jean de La Bruyère</author>
+                        <title type="main">The Characters, or the Manners of the Age</title>
+                        <title type="sub">With the Characters of Theophrastus, Translated from the Greek and a Prefatory Discourse to them</title>
+                        <edition>Fourth edition. Made English by several Hands.</edition>
+                        <imprint>
+                            <publisher>Leach</publisher>
+                            <pubPlace>London</pubPlace>
+                            <date>1705</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+              </sourceDesc> 
+           </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div corresp="#eng_A" xml:lang="french" type="chapter" n="1" xml:id="fr_A">
+                <head>Des ouvrages de l'esprit</head>
+                <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
+                    <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <w key="homme">hommes</w>, et qui pensent. 
+                        Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; l’on ne fait que glaner après les anciens 
+                        et les habiles d’entre les modernes.</p>
+                </div>
+                <div corresp="#eng_A2" type="remark" n="1.2" xml:id="fr_A2">
+                    <p>Il faut chercher seulement à penser et à parler juste, sans vouloir amener les autres à notre goût et à nos 
+                        sentiments ; c’est une trop grande entreprise.</p>
+                </div>
+                <div corresp="#eng_A3" type="remark" n="1.3" xml:id="fr_A3">
+                    <p>C’est un métier que de faire un livre comme de faire une pendule ; il faut plus que de l’esprit pour être auteur. 
+                        Un Magistrat allait par son mérite à la première dignité, il était <w key="homme">homme</w> délié 
+                        et pratique dans les affaires ; il a fait imprimer un ouvrage moral qui est rare par le ridicule ?</p>
+                </div>
+                <div corresp="#eng_A4" type="remark" n="1.4" xml:id="fr_A4">
+                    <p>Il n’est pas si aisé de se faire un nom par un ouvrage parfait, que d’en faire valoir 
+                        un médiocre par le nom qu’on s’est déjà acquis.</p>
+                </div>
+                <div corresp="#eng_A5" type="remark" n="1.5" xml:id="fr_A5">
+                    <p>Un ouvrage satirique ou qui contient des faits, qui est donné en feuilles sous le manteau 
+                        aux conditions d’être rendu de même, s’il est médiocre, passe pour merveilleux ; l’impression est l’écueil.</p>
+                </div>
+                <div corresp="#eng_A6" type="remark" n="1.6" xml:id="fr_A6">
+                    <p>Si l’on ôte de beaucoup d’ouvrages de Morale l’Avertissement au Lecteur, l’Epître Dédicatoire, la Préface, 
+                        la Table, les Approbations, il reste à peine assez de pages pour mériter le nom de livre.</p>
+                </div>
+                <div corresp="#eng_A7" type="remark" n="1.7" xml:id="fr_A7">
+                    <p>Il y a de certaines choses dont la médiocrité est insupportable, la Poésie, la Musique, la Peinture, 
+                        le Discours public.</p>
+                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid discours, ou prononcer de médiocres vers 
+                        avec toute l’emphase d’un mauvais Poète !</p>
+                </div>
+                <div corresp="#eng_A8" type="remark" n="1.8" xml:id="fr_A8">
+                    <p>Certains Poètes sont sujets dans le Dramatique à de longues suites de vers pompeux, qui semblent forts, élevés, 
+                        et remplis de grands sentiments ; le peuple écoute avidement les yeux élevés et la bouche ouverte, croit 
+                        que cela lui plaît, et à mesure qu’il y comprend moins, l’admire davantage, il n’a pas le temps de respirer, 
+                        il a à peine celui de se récrier et d’applaudir : j’ai cru autrefois et dans ma première jeunesse que 
+                        ces endroits étaient clairs et intelligibles pour les Acteurs, pour le Parterre et l’Amphithéâtre ; que leurs 
+                        Auteurs s’entendaient eux-mêmes ; et qu’avec toute l’attention que je donnais à leur récit, j’avais tort 
+                        de n’y rien entendre : je suis détrompé.</p>
+                </div>
+                <div corresp="#eng_A9" type="remark" n="1.9" xml:id="fr_A9">
+                    <p>L’on n’a guère vu jusqu’à présent un chef-d’œuvre d’esprit qui soit l’ouvrage de plusieurs : 
+                        Homère a fait l’Iliade, Virgile l’Enéide, Tite-Live ses Décades, et l’Orateur Romain ses Oraisons.</p>
+                </div>
+                <div corresp="#eng_A10" type="remark" n="1.10" xml:id="fr_A10">
+                    <p>Il y a dans l’art un point de perfection comme de bonté ou de maturité dans la nature, 
+                        celui qui le sent et qui l’aime a le goût parfait ; celui qui ne le sent pas, et qui aime en deçà ou au delà, 
+                        a le goût défectueux. Il y a donc un bon et un mauvais goût, et l’on dispute des goûts avec fondement.</p>
+                </div>
+            </div>
+            <div corresp="#fr_A" xml:lang="english" type="chapter" n="1" xml:id="eng_A">
+                <head>Of Polite Learning</head>
+                <div corresp="#fr_A1" type="remark" n="1.1" xml:id="eng_A1">
+                    <p>We are come too late, after above seven
+                        thousand Years, that there have been <w key="man">Men</w>,
+                        and <w key="man">Men</w> have thought, to say any thing which
+                        has not been said already.  The finest and most
+                        beautiful Thoughts concerning Manners have been
+                        carried away before our times, and we can do nothing now, but glean after the 
+                        Ancients, and the most ingenious of the 
+                        Moderns.</p>
+                </div>
+                <div corresp="#fr_A2" type="remark" n="1.2" xml:id="eng_A2">
+                    <p>We must only endeavor to think and speak
+                        justly to our selves, without aiming to bring others
+                        over to taste and sentiments; that would be too
+                        great an Enterprise.</p>
+                </div>
+                <div corresp="#fr_A3" type="remark" n="1.3" xml:id="eng_A3">
+                    <p>This as much a Trade to make a Book, as to
+                        make a Clock; there’s something more than Wit
+                        necessary to make an Author. A certain Magistrate
+                        was advancing his Merits to the first Dignities of
+                        the Gown, a <w key="man">Man</w> Subtle and Practiced in Business;
+                        he printed a Treatise of Morality, 
+                        that was extraordinary for its Ridiculousness.</p>
+                </div>
+                <div corresp="#fr_A4" type="remark" n="1.4" xml:id="eng_A4">
+                    <p>It's not so easy to raise a Reputation by a
+                        complete Work as to make an indifference one valid 
+                        by a Reputation already acquired.</p>
+                </div>
+                <div corresp="#fr_A5" type="remark" n="1.5" xml:id="eng_A5">
+                    <p>A Satyr or a Libel, when it's handed privately 
+                        in Manuscript from one to another, with strict charge of Secrecy,
+                        if this is but mean in itself, passes for wonderful; the Printing
+                        is what ruins it.</p>
+                </div>
+                <div corresp="#fr_A6" type="remark" n="1.6" xml:id="eng_A6">
+                    <p>Take away from most of our Moral
+                        Discourses, the Advertisement to the Reader,
+                        the Epistle Dedicatory, 
+                        the Preface,the Table 
+                        and the Commendatory Verses, 
+                        there will seldom be enough left to deserve the name of a Book.</p>
+                </div>
+                <div corresp="#fr_A7" type="remark" n="1.7" xml:id="eng_A7">
+                    <p>Several things are insupportable if they are
+                        but indifferent, as Poetry, Music, 
+                        Painting and Speeches.
+                        What a cruel Punishment is it to hear a Dull
+                        Declamation delivered with Pomp and 
+                        Solemnity, and bad Verses rehearsed with the Emphasis of a wretched
+                        Poet!</p>
+                </div>
+                <div corresp="#fr_A8" type="remark" n="1.8" xml:id="eng_A8">
+                    <p>Some poets in their Dramatic Pieces are fond
+                        of big Words and founding Verses, which seem
+                        strong, elevated, and sublime; the People stare, 
+                        gape, and hear them greedily; they are transported
+                        at what they fancy is rare, and where they understand least, 
+                        are sure to admire most; they scarce
+                        allow themselves time to breathe, and are loth to
+                        be interrupted by Claps or Applauses: 
+                        When I was young, I imagined these passages were clear and
+                        intelligible to the Actors, the Pit,
+                        Boxes and Galleries; that the Authors themselves understood them, 
+                        and that I was in the wrong to know nothing of
+                        the matter after much attention: But I am now undeceived.</p>
+                </div>
+                <div corresp="#fr_A9" type="remark" n="1.9" xml:id="eng_A9">
+                    <p>There hardly was ever seen any Piece excellent
+                        in its kind, that was the joint Labor of several
+                        <w key="man">Men</w>: Homer wrote his Illiads,
+                        Virgil his Eneids, Livy his Decades, and Cicero
+                        his Orations.</p>
+                </div>
+                <div corresp="#fr_A10" type="remark" n="1.10" xml:id="eng_A10">
+                    <p>As there is in Nature, so there is in Art, a
+                        point of Perfection.  He who is sensible of it, and
+                        is in touch with it, has good taste: He who is not
+                        sensible of it, but loves what is below or above
+                        that point, has a vicious taste. Since then there is
+                        a good and bad taste, we may with reason dispute
+                        the difference.</p>
+                </div>
+            </div>
+            <div corresp="#eng_B" xml:lang="french" type="chapter" n="2" xml:id="fr_B">
+                <head>Du mérite personnel</head>
+                <div corresp="#eng_B1" type="remark" n="2.1" xml:id="fr_B1">
+                    <p>Qui peut, avec les plus rares talents et le plus excellent mérite n'être pas convaincu de son inutilité ; 
+                        quand il considère qu'il laisse, en mourant, un monde qui ne se sent pas de sa perte, et où tant de gens 
+                        se trouvent pour le remplacer ?</p>
+                </div>
+                <div corresp="#eng_B2" type="remark" n="2.2" xml:id="fr_B2">
+                    <p>De bien des gens il n'y a que le nom qui vaille quelque chose ; quand vous les voyez de fort près, c'est moins 
+                        que rien ; de loin, ils imposent.</p>
+                </div>
+                <div corresp="#eng_B3" type="remark" n="2.3" xml:id="fr_B3">
+                    <p>Tout persuadé que je suis que ceux que l'on choisit pour de différents emplois, chacun selon son génie 
+                        et sa profession font bien, je me hasarde de dire qu'il se peut faire qu'il y ait au monde plusieurs 
+                        personnes connues ou inconnues, que l'on n'emploie pas, qui feraient très bien ; et je suis induit 
+                        à ce sentiment par le merveilleux succès de certaines gens que le hasard seul a placés, et de qui 
+                        jusques alors on n'avait pas attendu de fort grandes choses.</p>
+                    <p>Combien d'<w key="homme">hommes</w> admirables, et qui avaient de très beaux génies, sont morts 
+                        sans qu'on en ait parlé ? Combien vivent encore dont on ne parle point, et dont on ne parlera jamais ?</p>
+                </div>
+                <div corresp="#eng_B4" type="remark" n="2.4" xml:id="fr_B4">
+                    <p>Quelle horrible peine a un <w key="homme">homme</w> qui est sans prôneurs et sans cabale, qui n'est 
+                        engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, 
+                        de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit.</p>
+                </div>
+                <div corresp="#eng_B5" type="remark" n="2.5" xml:id="fr_B5">
+                    <p>Personne presque ne s'avise de lui-même du mérite d'un autre.</p>
+                    <p>Les <w key="homme">hommes</w> sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou 
+                        de discerner les autres : de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être 
+                        longtemps ignoré.</p>
+                </div>
+            </div>
+            <div corresp="#fr_B" xml:lang="english" type="chapter" n="2" xml:id="eng_B">
+                <head>Of Personal Merit</head>
+                <div corresp="#fr_B1" type="remark" n="2.1" xml:id="eng_B1">
+                   <p>Who is there that is not convinced, he is but a useless Person, though he has never so many good Qualities, 
+                       and never such an extraordinary Merit; when he considers that at his Death, he leaves  a World which is not 
+                       like to miss him, and where there are such numbers to supply his Place.</p>
+                </div>
+                <div corresp="#fr_B2" type="remark" n="2.2" xml:id="eng_B2">
+                   <p>All the worth of some People lies in their mighty Names; look but near them, and that which we took for 
+                       Merit disappears.  That was only the distance which imposed on us before.</p>
+                </div>
+                <div corresp="#fr_B3" type="remark" n="2.3" xml:id="eng_B3">
+                   <p>Though I am very well persuaded that those persons, who are chose for different Employments, every 
+                       <w key="man">Man</w> according to his Genius and Profession, acquit themselves well, yet I shall 
+                       venture to say, that there are in all the World a great many Men, known or unknown, who are not employed, 
+                       that would acquit themselves altogether as well.  And this I’m inclined to think from the strange success 
+                       of some people, whom Fortune only has thrown into Posts, and from whom, until then, no great 
+                       matters were expected.
+                      </p>
+                   <p>
+                      How many admirable <w key="man">Men</w> and fine Geniuses are dead without every being talked of? And how many 
+                       are there living, that neither now, nor ever will be talked of?
+                      </p>
+                </div>
+                <div corresp="#fr_B4" type="remark" n="2.4" xml:id="eng_B4">
+                   <p>How difficult is it for a <w key="man">Man</w>, without Cabal or Party, who is engaged with no Society, 
+                       or Body of Men, but who stands alone, and has nothing but a great deal of Merit for his Recommendation; 
+                       how difficult, I say, will it be for him to make his way though his Obscurity, and come to stand upon a 
+                       Level with a Coxcomb in great Reputation!</p>
+                </div>
+                <div corresp="#fr_B5" type="remark" n="2.5" xml:id="eng_B5">
+                   <p>It is seldom that one <w key="man">Man</w>, of himself, find out the Merit of another.
+                   </p>
+                      <p> 
+                         <w key="man">Men</w> are so employed about themselves, that they have not the leisure to distinguish 
+                          and penetrate into others; which is the Cause that a great Merit, jointed to a great Modesty, may be a 
+                          long time before it is discovered.
+                      </p>
+                </div>
+            </div>
+            <div corresp="#eng_C" xml:lang="french" type="chapter" n="3" xml:id="fr_C">
+                <head>Des femmes</head>
+                <div corresp="#eng_C1" type="remark" n="3.1" xml:id="fr_C1">
+                    <p>Les <w key="homme">hommes</w> et les <w key="femme">femmes</w> conviennent rarement sur le mérite 
+                        d'une <w key="femme">femme</w> ; leurs intérêts sont trop différents : les <w key="femme">femmes</w> 
+                        ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux 
+                        <w key="homme">hommes</w> ; mille manières qui allument dans ceux-ci les grandes passions, forment entre 
+                        elles l'aversion et l'antipathie.</p>
+                </div>
+                <div corresp="#eng_C2" type="remark" n="3.2" xml:id="fr_C2">
+                    <p>Il y a dans quelques <w key="femme">femmes</w> une grandeur artificielle, attachée au mouvement des yeux, 
+                        à un air de tête, aux façons de marcher, et qui ne va pas plus loin ; un esprit éblouissant qui impose, et que 
+                        l'on n'estime que parce qu'il n'est pas approfondi. Il y a dans quelques autres une grandeur simple, naturelle, 
+                        indépendante du geste et de la démarche, qui a sa source dans le coeur, et qui est comme une suite de leur 
+                        haute naissance ; un mérite paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir 
+                        de toute leur modestie, qui échappent, et qui se montrent à ceux qui ont des yeux.</p>
+                </div>
+                <div corresp="#eng_C3" type="remark" n="3.3" xml:id="fr_C3">
+                    <p>J'ai vu souhaiter d'être fille, et une belle fille depuis treize ans jusques à vingt-deux ; et après cet âge, 
+                        de devenir un <w key="homme">homme</w>.</p>
+                </div>
+                <div corresp="#eng_C4" type="remark" n="3.4" xml:id="fr_C4">
+                    <p>Quelques jeunes personnes ne connaissent point assez les avantages d'une heureuse nature, et combien il 
+                        leur serait utile de s'y abandonner ; elles affaiblissent ces dons du Ciel si rares et si fragiles 
+                        par des manières affectées, et par une mauvaise imitation ; leur son de voix, et leur démarche sont empruntés ; 
+                        elles se composent, elles se recherchent, regardent dans un miroir si elles s'éloignent assez de leur naturel ; 
+                        ce n'est pas sans peine qu'elles plaisent moins.</p>
+                </div>
+                <div corresp="#eng_C5" type="remark" n="3.5" xml:id="fr_C5">
+                    <p>Chez les <w key="femme">femmes</w> se parer et se farder n'est pas, je l'avoue, parler contre sa pensée ; 
+                        c'est plus aussi que le travestissement et la mascarade, où l'on ne se donne point pour ce que l'on paraît être, 
+                        mais où l'on pense seulement à se cacher et à se faire ignorer : c'est chercher à imposer aux yeux, et vouloir 
+                        paraître selon l'extérieur contre la vérité ; c'est une espèce de menterie.</p>
+                    <p>Il faut juger des <w key="femme">femmes</w> depuis la chaussure jusqu'à la coiffure exclusivement, à peu près 
+                        comme on mesure le poisson entre queue et tête.</p>
+                </div>
+            </div>
+            <div corresp="#fr_C" xml:lang="english" type="chapter" n="3" xml:id="eng_C">
+                <head>Of Women</head>
+                <div corresp="#fr_C1" type="remark" n="3.1" xml:id="eng_C1">
+                   <p>It is seldom that the Merit of a <w key="woman">Woman</w> is universally agreed on by both Sexes; their 
+                       Interests are too different. The <w key="woman">Women</w> are displeased with those very same Beauties 
+                       in another, which render them agreeable to the <w key="man">Men</w>.  A thousand Charms which inflame us 
+                       with the most violent and tender Love, move in them quite contrary Passions, Aversion, and Malice.</p>
+                </div>
+                <div corresp="#fr_C2" type="remark" n="3.2" xml:id="eng_C2">
+                   <p>The Greatness of some <w key="woman">Women</w> is all artificial: It consists in the Motions of their Eyes, 
+                       the Toss of their Head, a Stately Mien, and a Superficial Wit, that passes on those who understand no better.  
+                       There is in others an easy, natural Greatness, nothing beholden to Motions, Looks or Gesture, but springs 
+                       from the Heart, and is the happy Consequence of their noble Extraction: A Merit, not Noisy or Ostentatious, 
+                       but Solid, accompanied with a thousand Virtues, which, in spite of all their modesty, break out and shine 
+                       to all who have Eyes to discern them.
+                   </p>
+                </div>
+                <div corresp="#fr_C3" type="remark" n="3.3" xml:id="eng_C3">
+                   <p>I could wish to be a <w key="woman">Woman</w>, that is, a Beautiful <w key="woman">Woman</w>, from 
+                       Thirteen to Two and twenty, but after that Age to be a <w key="man">Man</w> again.</p>
+                </div>
+                <div corresp="#fr_C4" type="remark" n="3.4" xml:id="eng_C4">
+                   <p>Nature has been very kind to some young Ladies, but they are not sensible of the Happiness: They Spoil by 
+                       Affectation, those Gifts which they enjoy by the distinguishing Favor of Heaven.  The Tone of their Voice, 
+                       they Mean are not their own: They study, they consult their Glasses, how to Dress themselves as much out 
+                       of Nature as they can; and the sis not without a great deal of Trouble, that they are able to make themselves 
+                       less agreeable. </p>
+                </div>
+                <div corresp="#fr_C5" type="remark" n="3.5" xml:id="eng_C5">
+                   <p>
+                      If it is the Ambition of <w key="woman">Women</w> only to appear Handsome in their own Eyes, they are 
+                       in the right without doubt, to name, what course they please to Beautify themselves, and in the Choice of their 
+                       Dress and Ornaments, to follow their own Caprice and Fancy: But if is it the <w key="man">Men</w> whom they 
+                       would charm, it it is for them they Wash and Paint; I have told their Votes in that case, and I do assure 
+                       them from all the <w key="man">Men</w>, or from the greatest part, that, the White and Red they use, makes 
+                       them look hideous and frightful; that they hate as much to see <w key="woman">Women</w> with Paint on their 
+                       Faces, as with false Teeth in their Mouths, or Balls to plump out their Cheeks; that they solemnly protest 
+                       against all Art; which indeed does but make them ugly, and is the last and infallible means that Heaven takes 
+                       to reclaim <w key="man">Men</w> from their Love.
+                   </p>
+                   <p>
+                      If <w key="woman">Women</w> were formed by Nature, what they make themselves by Art; if they were to lose 
+                       in a minute all the freshness of their Complexion, and were to have their Faces as thick with Red and Paint, 
+                       and they lay them on, they would look on themselves as the most wretched Creatures in the World.
+                   </p>
+                </div>
+            </div>
+                <div corresp="#eng_D" xml:lang="french" type="chapter" n="4" xml:id="fr_D">
+                <head>Du cœur</head>
+                <div corresp="#eng_D1" type="remark" n="4.1" xml:id="fr_D1">
+                    <p>Il y a un goût dans la pure amitié où ne peuvent atteindre ceux qui sont nés médiocres.</p>
+                </div>
+                <div corresp="#eng_D2" type="remark" n="4.2" xml:id="fr_D2">
+                    <p>L'amitié peut subsister entre des gens de différents sexes, exempte même de toute grossièreté ; une 
+                        <w key="femme">femme</w> cependant regarde toujours un <w key="homme">homme</w> comme un 
+                        <w key="homme">homme</w>, et réciproquement un <w key="homme">homme</w> regarde une 
+                        <w key="femme">femme</w> comme une <w key="femme">femme</w> : cette liaison n'est ni passion, 
+                        ni amitié pure ; elle fait une classe à part.</p>
+                </div>
+                <div corresp="#eng_D3" type="remark" n="4.3" xml:id="fr_D3">
+                    <p>L'amour naît brusquement sans autre réflexion, par tempérament ou par faiblesse ; un trait de beauté 
+                        nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le temps, par la pratique, 
+                        par un long commerce. Combien d'esprit, de bonté de coeur, d'attachement, de services et de complaisance 
+                        dans les amis, pour faire en plusieurs années bien moins que ne fait quelquefois en un moment un beau visage 
+                        ou une belle main !</p>
+                </div>
+                <div corresp="#eng_D4" type="remark" n="4.4" xml:id="fr_D4">
+                    <p>Le temps qui fortifie les amitiés affaiblit l'amour.</p>
+                </div>
+                <div corresp="#eng_D5" type="remark" n="4.5" xml:id="fr_D5">
+                    <p>Tant que l'amour dure il subsiste de soi-même, et quelquefois par les choses qui semblent le devoir éteindre, 
+                        par les caprices, par les rigueurs, par l'éloignement, par la jalousie ; l'amitié au contraire a besoin de secours ; 
+                        elle périt faute de soins, de confiance et de complaisance.</p>
+                </div>
+                </div>
+            <div corresp="#fr_D" xml:lang="english" type="chapter" n="4" xml:id="eng_D">
+                <head>Of the Heart</head>
+                <div corresp="#fr_D1" type="remark" n="4.1" xml:id="eng_D1">
+                   <p>Pure Friendship is something, which none can attain to the taste of, but those who are well born.</p>
+                </div>
+                <div corresp="#fr_D2" type="remark" n="4.2" xml:id="eng_D2">
+                   <p>There may be a Friendship between persons of different Sexes, which may subsist without Enjoyment; yet a 
+                       <w key="woman">Woman</w> always looks upon a <w key="man">Man</w> as a <w key="man">Man</w>, 
+                       and so will a <w key="man">Man</w> still look upon a <w key="woman">Woman</w> as a <w key="woman">Woman</w>.
+                       This engagement is neither pure Love nor pure Friendship.  This is something of another kind.
+                   </p>
+                </div>
+                <div corresp="#fr_D3" type="remark" n="4.3" xml:id="eng_D3">
+                   <p>Love seizes on us suddenly, without giving us time to consider, and our Disposition or our Weakness favors our surprise; 
+                       one Look, one Glance from the Fair, fixes and determines us.  Friendship, on the contrary, is a long time in forming, 
+                       and that by degrees, by a long Acquaintance and Familiarity.  How much Wit, good Nature, Affection, how many good 
+                       Offices and Civilities are there among Friends to do in many years, which sometimes a find Face, or a find Hand does 
+                       in a minute.</p>
+                </div>
+                <div corresp="#fr_D4" type="remark" n="4.4" xml:id="eng_D4">
+                   <p>Time that strengthens Friendship, weakens Love, as long as it does last, subsists of itself, and sometimes by those 
+                       very means, which should seems rather to extinguish it, Severity, Cruelty, Absence, and Jealousy.  Friendship, 
+                       on the contrary, stands in need of al helps, Care, Confidence, and Complaisance; if not supplied with these, 
+                       it expires. </p>
+                </div>
+                <div corresp="#fr_D5" type="remark" n="4.5" xml:id="eng_D5">
+                   <p>It is not hard to meet with Love in excess, as with perfect Friendship.
+                   </p>
+                </div>
+                </div>
+            <div corresp="#eng_E" xml:lang="french" type="chapter" n="5" xml:id="fr_E">
+                <head>De la société et de la conversation</head>
+                <div corresp="#eng_E1" type="remark" n="5.1" xml:id="fr_E1">
+                    <p>Un caractère bien fade est celui de n'en avoir aucun.</p>
+                </div>
+                <div corresp="#eng_E2" type="remark" n="5.2" xml:id="fr_E2">
+                    <p>C'est le rôle d'un sot d'être importun : un <w key="homme">homme</w> habile sent s'il convient, ou s'il ennuie : 
+                        il sait disparaître le moment qui précède celui où il serait de trop quelque part.</p>
+                </div>
+                <div corresp="#eng_E3" type="remark" n="5.3" xml:id="fr_E3">
+                    <p>L'on marche sur les mauvais plaisants, et il pleut par tout pays de cette sorte d'insectes ; un bon plaisant est 
+                        une pièce rare ; à un <w key="homme">homme</w> qui est né tel, il est encore fort délicat d'en soutenir 
+                        longtemps le personnage ; il n'est pas ordinaire que celui qui fait rire se fasse estimer.</p>
+                </div>
+                <div corresp="#eng_E4" type="remark" n="5.4" xml:id="fr_E4">
+                    <p>Il a beaucoup d'esprits obscènes, encore plus de médisants ou de satiriques, peu de délicats : pour badiner 
+                        avec grâce, et rencontrer heureusement sur les plus petits sujets, il faut trop de manières, trop de politesse, 
+                        et même trop de fécondité ; c'est créer que de railler ainsi, et faire quelque chose de rien.</p>
+                </div>
+                <div corresp="#eng_E5" type="remark" n="5.5" xml:id="fr_E5">
+                    <p>Si l'on faisait une sérieuse attention à tout ce qui se dit de froid, de vain de puéril dans les entretiens 
+                        ordinaires, l'on aurait honte de parler ou d'écouter, et l'on se condamnerait peut-être à un silence perpétuel, 
+                        qui serait une chose pire dans le commerce que les discours inutiles. Il faut donc s'accommoder à tous les 
+                        esprits ; permettre comme un mal nécessaire le récit des fausses nouvelles, les vagues réflexions sur le 
+                        gouvernement présent, ou sur l'intérêt des Princes, le débit des beaux sentiments, et qui reviennent 
+                        toujours les mêmes : il faut laisser <emph rend="italic">Aronce</emph> parler proverbe, et 
+                        <emph rend="italic">Mélinde</emph> parler de soi, de ses vapeurs, 
+                        de ses migraines et de ses insomnies.</p>
+                </div>
+                </div>
+            <div corresp="#fr_E" xml:lang="english" type="chapter" n="5" xml:id="eng_E">
+                <head>Of Society and Coversation</head>
+                <div corresp="#fr_E1" type="remark" n="5.1" xml:id="eng_E1">
+                   <p>It is a very silly Character to have none at all.
+                   </p>
+                </div>
+                <div corresp="#fr_E2" type="remark" n="5.2" xml:id="eng_E2">
+                   <p>It is a fool’s heart to be troublesome: A <w key="man">Man</w> of Sense perceives when he is agreeable 
+                       or tiresome: he knows how to disappear the very minute before he would have been thought 
+                       to have tarried too long.</p>
+                </div>
+                <div corresp="#fr_E3" type="remark" n="5.3" xml:id="eng_E3">
+                   <p>Buffoons are a sort of Insects which breed in all Countries; we can scarce step without treading on them.  
+                       A pleasant <w key="man">Man</w> is rarely to be met with; and a person, though he is born so, 
+                       must have a great deal of Delicacy to maintain the Character a long time; for commonly he that makes 
+                       us laugh, is not sure to make himself esteemed.</p>
+                </div>
+                <div corresp="#fr_E4" type="remark" n="5.4" xml:id="eng_E4">
+                   <p>IThere are abundance of obscene, a great many more railing and satirical Wits, but very few delicate.  
+                       A <w key="man">Man</w> must have manners and politeness to trifle with good Grace, and a copious 
+                       Fancy to play handsomely on little things, to create matter of Raillery, and make something out of nothing. </p>
+                </div>
+                <div corresp="#fr_E5" type="remark" n="5.5" xml:id="eng_E5">
+                   <p>If we were to listen with attention to everything that is said in common Conversation, we should be 
+                       ashamed to speak, or to hear; we should perhaps condemn our selves to a perpetual silence, which 
+                       is more injurious to Converse than unprofitable Discourses: we must therefore accommodate ourselves 
+                       to every <w key="man">Man</w>’s capacity, we must suffer as necessary evils, false News, 
+                       rambling reflections on the present Government, or on the Interest of Princes: 
+                      We must hear with Patience the fine Notions some <w key="man">men</w> are continually repeating; 
+                       and permit <emph rend="italic">Aronces</emph> to speak Proverbs, and <emph rend="italic">Melinda</emph> 
+                       to talk of herself, her Vapors, Megrims, and want of Rest.
+                   </p>
+                </div>
+               </div>
+            <div corresp="#eng_F" xml:lang="french" type="chapter" n="6" xml:id="fr_F">
+                <head>Des biens de fortune</head>
+                <div corresp="#eng_F1" type="remark" n="6.1" xml:id="fr_F1">
+                    <p>Un <w key="homme">homme</w> fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves,
+                        jouir d'un Palais à la campagne, et d'un autre à la ville, avoir un grand équipage, mettre un Duc dans sa famille, 
+                        et faire de son fils un grand Seigneur ; cela est juste et de son ressort : mais il appartient peut-être à
+                        d'autres de vivre contents.</p>
+                </div>
+                <div corresp="#eng_F2" type="remark" n="6.2" xml:id="fr_F2">
+                    <p>Une grande naissance, ou une grande fortune annonce le mérite et le fait plus tôt remarquer.</p>
+                </div>
+                <div corresp="#eng_F3" type="remark" n="6.3" xml:id="fr_F3">
+                    <p>Ce qui disculpe le fat ambitieux de son ambition, est le soin que l'on prend, s'il a fait une grande fortune, 
+                        de lui trouver un mérite qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
+                </div>
+                <div corresp="#eng_F4" type="remark" n="6.4" xml:id="fr_F4">
+                    <p>À mesure que la faveur et les grands biens se retirent d'un <w key="homme">homme</w>, ils laissent voir 
+                        en lui le ridicule qu'ils couvraient, et qui y était sans que personne s'en aperçût.</p>
+                </div>
+                <div corresp="#eng_F5" type="remark" n="6.5" xml:id="fr_F5">
+                    <p>Si l'on ne le voyait de ses yeux, pourrait-on jamais s'imaginer l'étrange disproportion que le plus ou le 
+                        moins de pièces de monnaie met entre les <w key="homme">hommes</w> ?</p>
+                    <p>Ce plus ou ce moins détermine à l'Épée, à la Robe ou à l'Église ; il n'y a presque point d'autre vocation.</p>
+                </div>
+                </div>
+            <div corresp="#fr_E" xml:lang="english" type="chapter" n="6" xml:id="eng_F">
+                <head>Of the Goods of Fortune</head>
+                <div corresp="#fr_F1" type="remark" n="6.1" xml:id="eng_F1">
+                   <p>A Very rich <w key="man">Man</w> may eat his Dainties, paint his Ceiling and Alcoves, 
+                      regale himself at his Palace in the Country, and keep another in Town, marry his Daughter 
+                      to a Duke, and buy a Title for his Son; this is just and within his Compass; but it 
+                      belongs to other <w key="man">Men</w> perhaps to live content.</p>
+                </div>
+                <div corresp="#fr_F2" type="remark" n="6.2" xml:id="eng_F2">
+                   <p>A high Birth, or a great Fortune set off Merit, and makes it sooner to be distinguished.
+                   </p>
+                </div>
+                <div corresp="#fr_F3" type="remark" n="6.3" xml:id="eng_F3">
+                   <p>Some Excuse to an ambitious Coxcomb for his Ambition, is the Care he takes after his has raised his Fortune, 
+                       to find out some Merit which he never had before, to render him as worthy in our Opinions, as he is in his own.
+                   </p>
+                </div>
+                <div corresp="#fr_F4" type="remark" n="6.4" xml:id="eng_F4">
+                   <p>As Riches and Favor forsake a <w key="man">Man</w>, 
+                      we discover he was a Food, but nobody could find it out in his prosperity.  </p>
+                </div>
+                <div corresp="#fr_F5" type="remark" n="6.5" xml:id="eng_F5">
+                   <p>
+                      If it was not what we earpiece every day, we could not imagine the strange Disproportion a few, or a great 
+                       many Pieces of Money, set between <w key="man">Men</w>.
+                   </p>
+                   <p>
+                      Those few or many Pieces of Money are what determine <w key="man">Men</w>
+                      to the Profession of Arms, the Long Robe, or the Church; there is scarce any other Call.
+                   </p>
+                </div>
+                </div>
+            <div corresp="#eng_G" xml:lang="french" type="chapter" n="7" xml:id="fr_G">
+                <head>De la ville</head>
+                <div corresp="#eng_G1" type="remark" n="7.1" xml:id="fr_G1">
+                    <p>L'on se donne à Paris sans se parler comme un rendez-vous public, mais fort exact, tous les soirs, au 
+                        Cours ou aux Tuileries, pour se regarder au visage et se désapprouver les uns les autres.</p>
+                    <p>L'on ne peut se passer de ce même monde que l'on n'aime point, et dont l'on se moque.</p>
+                    <p>L'on s'attend au passage réciproquement dans une promenade publique, l'on y passe en revue l'un devant 
+                        l'autre ; carrosse, chevaux, livrées, armoiries, rien n'échappe aux yeux, tout est curieusement ou 
+                        malignement observé ; et selon le plus ou le moins de l'équipage, ou l'on respecte les personnes, 
+                        ou on les dédaigne.</p>
+                </div>
+                <div corresp="#eng_G2" type="remark" n="7.2" xml:id="fr_G2">
+                    <p>Tout le monde connaît cette longue levée qui borne et qui resserre le lit de la Seine, du côté où elle 
+                        entre à Paris avec la Marne qu'elle vient de recevoir ; les <w key="homme">hommes</w> s'y 
+                        baignent au pied pendant les chaleurs de la canicule, on les voit de fort près se jeter dans l'eau, 
+                        on les en voit sortir, c'est un amusement : quand cette saison n'est pas venue, les <w key="femme">femmes</w> 
+                        de la ville ne s'y promènent pas encore ; et quand elle est passée, elles ne s'y promènent plus.</p>
+                </div>
+                <div corresp="#eng_G3" type="remark" n="7.3" xml:id="fr_G3">
+                    <p>Dans ces lieux d'un concours général, où les <w key="femme">femmes</w> se rassemblent pour montrer 
+                        une belle étoffe, et pour recueillir le fruit de leur toilette, on ne se promène pas avec une compagne 
+                        par la nécessité de la conversation ; on se joint ensemble pour se rassurer sur le théâtre, 
+                        s'apprivoiser avec le public, et se raffermir contre la critique : c'est là précisément qu'on se parle 
+                        sans se rien dire ; ou plutôt qu'on parle pour les passants, pour ceux même en faveur de qui 
+                        l'on hausse sa voix, l'on gesticule et l'on badine, l'on penche négligemment la tête, l'on passe 
+                        et l'on repasse.</p>
+                </div>
+                <div corresp="#eng_G4" type="remark" n="7.4" xml:id="fr_G4">
+                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont 
+                        leurs lois, leurs usages, leur jargon, et leurs mots pour rire : tant que cet assemblage est dans 
+                        sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait, que ce qui                        
+                        part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs ; cela va jusques au mépris 
+                        pour les gens qui ne sont pas initiés dans leurs mystères. L'<w key="homme">homme</w> du monde 
+                        d'un meilleur esprit que le hasard a porté au milieu d'eux, leur est étranger : il se trouve là 
+                        comme dans un pays lointain, dont il ne connaît ni les routes, ni la langue, ni les moeurs, ni la 
+                        coutume ; il voit un peuple qui cause, bourdonne, parle à l'oreille, éclate de rire, et qui retombe 
+                        ensuite dans un morne silence ; il y perd son maintien, ne trouve pas où placer un seul mot, et n'a 
+                        pas même de quoi écouter. Il ne manque jamais là un mauvais plaisant qui domine, et qui est comme 
+                        le héros de la société ; celui-ci s'est chargé de la joie des autres, et fait toujours rire avant 
+                        que d'avoir parlé. Si quelquefois une <w key="femme">femme</w> survient qui n'est point de 
+                        leurs plaisirs, la bande joyeuse ne peut comprendre, qu'elle ne sache point rire des choses qu'elle 
+                        n'entend point, et paraisse insensible à des fadaises qu'ils n'entendent eux-mêmes que parce qu'ils 
+                        les ont faites ; ils ne lui pardonnent ni son ton de voix, ni son silence, ni sa taille, ni son visage, 
+                        ni son habillement, ni son entrée, ni la manière dont elle est sortie. Deux années cependant ne passent 
+                        point sur une même <emph rend="italic">coterie</emph> ; il y a toujours dès la première année 
+                        des semences de division pour rompre dans celle qui doit suivre : l'intérêt de la beauté, 
+                        les incidents du jeu, l'extravagance des repas, qui modestes au commencement 
+                        dégénèrent bientôt en pyramides de viandes et en banquets 
+                        somptueux, dérangent la République, et lui portent enfin le coup mortel : il n'est en fort peu de temps 
+                        non plus parlé de cette nation que des mouches de l'année passée.</p>
+                </div>
+                <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
+                    <p>Il y a dans la ville la grande et la petite robe ; et la première se venge sur l'autre des dédains 
+                        de la Cour, et des petites humiliations qu'elle y essuie ; de savoir quelles sont leurs limites, 
+                        où la grande finit, et où la petite commence, ce n'est pas une chose facile : il se trouve même 
+                        un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier ; 
+                        il ne se rend pas néanmoins, il cherche au contraire par la gravité et par la dépense 
+                        à s'égaler à la magistrature, ou ne lui cède qu'avec peine : on l'entend dire que la noblesse 
+                        de son emploi, l'indépendance de sa profession, le talent de la parole, et le mérite personnel 
+                        balancent au moins les sacs de mille francs que le fils du Partisan ou du Banquier a su payer 
+                        pour son Office.</p>
+                </div>
+                </div>
+            <div corresp="#fr_G" xml:lang="english" type="chapter" n="7" xml:id="eng_G">
+                <head>Of the City</head>
+                <div corresp="#fr_G1" type="remark" n="7.1" xml:id="eng_G1">
+                   <p>
+                      At Paris we meet as exactly without Appointment, as if it were some public Assignation; we are 
+                       punctual every Evening at the <emph rend="italic">Tuilleries</emph> and the <emph rend="italic">Cours</emph>, 
+                       to observe all Faces there, and to like none. 
+                   </p>
+                   <p>
+                      We can’t forbear even the Company of those Persons whose we hate and deride.
+                   </p>
+                   <p>
+                      We wait for one another at these Meetings, and as we pass by are curious in examining Coaches, Horses, 
+                       and Liveries; nothing escapes our Eyes, which are, in these cases, very nice and malicious; we respect 
+                       or distain the people we meet, according to the Greatness or Smallness of their Equipage. </p>
+                </div>
+                <div corresp="#fr_G2" type="remark" n="7.2" xml:id="eng_G2">
+                   <p>Everybody knows the Long-Bank which borders the River <emph rend="italic">Seine</emph>, on that side 
+                       where it receives the <emph rend="italic">Marne</emph> at its entry into <emph rend="italic">Paris</emph>.  
+                       At the foot of the Bank the <w key="man">Men</w> delight to bath themselves, during the heats 
+                       of the Dog-days, we can see them at little distance throw themselves into the Water, and return: 
+                       And it is observable, that the City-<w key="woman">Women</w> never walk that way till this Season 
+                       comes, and when it is past, walk there no longer.
+                   </p>
+  
+                </div>
+                <div corresp="#fr_G3" type="remark" n="7.3" xml:id="eng_G3">
+                   <p>In those Places of general Concourse, where the Ladies assemble only to shew their fine Silks, 
+                       and reap the fruit of their Toilet, People don’t walk with a Company for the benefit of Conversation, 
+                       but couple together, to get a little Confidence, and embolden themselves again the common Reflections 
+                       that are made there.  They talk here; and say nothing, or rather talk to be taken notice of by such                   
+                       as pass by them, for whose sake they raise their Voices, cringe, bow negligently, and make several turns.</p>
+                </div>
+                <div corresp="#fr_G4" type="remark" n="7.4" xml:id="eng_G4">
+                   <p>The town is divided into several Societies, which like so many little Republics, have their particular 
+                       Laws, Custom, Jargon and Jests: nothing is allowed to be well done, which they had no hand in; those 
+                       who have not been initiated in their Mysteries are condemned.  A <w key="man">Man</w> of Wit, 
+                       and one who knows the World, whom Chance has thrown amongst them, finds himself in a strange Country, 
+                       where he is ignorant of the Roads, Language, Manners and Customs; he sees here a sort of people, who 
+                       sometimes make a noise, sometimes whisper, sometimes laugh aloud, and presently fall again into a 
+                       doleful silence; he loses himself here, and can hardy tell how to put is words into any tolerable 
+                       order, or get himself heard.  Here is always some forward Coxcomb, who with insipid Jests, and 
+                       wretched Buffoonery, makes himself the Hero of Society: This <w key="man">Man</w> is the 
+                       Director of the others Merriment, and they always laugh at his Jests before he speaks.  
+                       If at any time a <w key="woman">Woman</w> comes amongst them, who is not a Companion 
+                       in their pleasures, the jolly Club wonders she should not laugh at those pretty things 
+                       she does understand, and appear insensible at the Trifles which they would not be pleased with, 
+                       if they were not their own; they will neither forgive her, her Speech, her Silence, her Shape, 
+                       her Complexion, her Dress, nor the Manner of her coming in, or going out.  The same Club, however, 
+                       never lives two years successfully; in the first there are always sown those Seeds of Division 
+                       which break it in the next, by Quarrels about some Beauty, disputes at Play, extravagant Feats, 
+                       which though Modest in the beginning, soon degenerate into Pyramids of Victuals and costly Banquets, 
+                       to the utter overthrow of their Commonwealth: thus in a little while there is no more talk of this 
+                       People, than of the last years Flies.
+                   </p>
+                </div>
+                <div corresp="#fr_G5" type="remark" n="7.5" xml:id="eng_G5">
+                   <p>In the City there is the greater Robe and the less: The first of these revenge themselves on the other, 
+                       for the Contempt and the Mortifications they meet with at the Court: It is not easily known where 
+                       the greater ends, or where the less begins, there being a considerable body of those who refused 
+                       to be of the second Order, and who are not yet allowed to the of the first: They will not however 
+                       give place to the other: On the contrary, hey endeavor by their Gravity and Expense to equal them 
+                       in Magistracy, and will not yield them without difficulty: They are often heard to say, that the 
+                       Nobleness of their Employment, the Independency of their Profession, their Talent at Speaking, 
+                       and their Personal Merit, balance at least the Bags of Money, which the Sons of 
+                       <emph rend="italic">Partisans</emph> or Bankers, paid for their Offices.
+                   </p>
+                </div>
+                </div>
+            <div corresp="#eng_H" xml:lang="french" type="chapter" n="8" xml:id="fr_H">
+                <head>De la cour</head>
+                <div corresp="#eng_H1" type="remark" n="8.1" xml:id="fr_H1">
+                    <p>Le reproche en un sens le plus honorable que l'on puisse faire à un <w key="homme">homme</w>, 
+                        c'est de lui dire qu'il ne sait pas la Cour ; il n'y a sorte de vertus qu'on ne rassemble en 
+                        lui par ce seul mot.</p>
+                </div>
+                <div corresp="#eng_H2" type="remark" n="8.2" xml:id="fr_H2">
+                    <p>Un <w key="homme">homme</w> qui sait la Cour, est maître de son geste, de ses yeux, et de son 
+                        visage ; il est profond, impénétrable ; il dissimule les mauvais Offices, sourit à ses ennemis, 
+                        contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments : 
+                        tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile 
+                        au Courtisan pour sa fortune, que la franchise, la sincérité, et la vertu.</p>
+                </div>
+                <div corresp="#eng_H3" type="remark" n="8.3" xml:id="fr_H3">
+                    <p>Qui peut nommer de certaines couleurs changeantes, et qui sont diverses selon les divers jours dont 
+                        on les regarde ; de même, qui peut définir la Cour ?</p>
+                </div>
+                <div corresp="#eng_H4" type="remark" n="8.4" xml:id="fr_H4">
+                    <p>Se dérober à la Cour un seul moment, c'est y renoncer : le Courtisan qui l'a vue le matin, la voit 
+                        le soir, pour la reconnaître le lendemain ; ou afin que lui-même y soit connu.</p>
+                </div>
+                <div corresp="#eng_H5" type="remark" n="8.5" xml:id="fr_H5">
+                    <p>L'on est petit à la Cour, et quelque vanité que l'on ait, on s'y trouve tel ; mais le mal est commun, 
+                        et les Grands mêmes y sont petits.</p>
+                </div>
+            </div>
+            <div corresp="#fr_H" xml:lang="english" type="chapter" n="8" xml:id="eng_H">
+                <head>Of the Court</head>
+                <div corresp="#fr_H1" type="remark" n="8.1" xml:id="eng_H1">
+                   <p>It is in one Sense that the most honorable Reproach we can lay on any 
+                      <w key="man">Man</w>, to say he knows not the Court; there is scarce 
+                         Virtue which we do not imply by giving him that Character.</p>
+                </div>
+                <div corresp="#fr_H2" type="remark" n="8.2" xml:id="eng_H2">
+                   <p>A <w key="man">Man</w> who knows the Court, is Master of his Gestures,
+                      his Eyes and his Face; he is profound and impenetrable; he dissembles when he 
+                      does ill Offices, smiles on his Enemies, puts a constraint on his Natural Disposition,
+                      disguises his Passions, acts against his Inclinations, speaks against his Opinion: 
+                      all this great Refinement is nothing but the Vice we call Falsehood, and 
+                      is sometimes as unserviceable to the Fortune of a Courtier, as Openness, 
+                      Sincerity, and Virtue.
+                   </p>
+                </div>
+                <div corresp="#fr_H3" type="remark" n="8.3" xml:id="eng_H3">
+                   <p>The Court is like certain changeable colors, which vary according according 
+                      to the Lights they are exposed in; he who can define those colors may define 
+                      the Court.</p>
+                </div>
+                <div corresp="#fr_H4" type="remark" n="8.4" xml:id="eng_H4">
+                   <p>The <w key="man">Man</w> who leaves the Court for a minute, 
+                      renounces it forever: The Courtier who saw it in the Morning must 
+                      see it at Night, to know it again the next Day; or that he may be 
+                      known himself there.</p>
+                </div>
+                <div corresp="#fr_H5" type="remark" n="8.5" xml:id="eng_H5">
+                   <p>A <w key="man">Man</w> must be content to be little at Court; 
+                      and let him be never so vain; it is impossible to prevent it; but his Comfort 
+                      is, the evil is common, and the great ones are but little when they are there. 
+                   </p>
+                </div>
+            </div>
+            <div corresp="#eng_I" xml:lang="french" type="chapter" n="9" xml:id="fr_I">
+                <head>Des grands</head>
+                <div corresp="#eng_I1" type="remark" n="9.1" xml:id="fr_I1">
+                    <p>La prévention du peuple en faveur des Grands est si aveugle, et l'entêtement pour leur geste, leur 
+                        visage, leur ton de voix et leurs manières si général ; que s'ils s'avisaient d'être bons, cela 
+                        irait à l'idolâtrie.</p>
+                </div>
+                <div corresp="#eng_I2" type="remark" n="9.2" xml:id="fr_I2">
+                    <p>Si vous êtes né vicieux, ô <emph rend="italic">Théagène</emph>, je vous plains : si vous le devenez
+                        par faiblesse pour ceux qui ont intérêt que vous le soyez, qui ont juré
+                        entre eux de vous corrompre, et qui se vantent déjà de pouvoir y
+                        réussir, souffrez que je vous méprise. Mais si vous êtes sage,
+                        tempérant, modeste, civil, généreux, reconnaissant, laborieux, d'un rang
+                        d'ailleurs et d'une naissance à donner des exemples plutôt qu'à les
+                        prendre d'autrui, et à faire les règles plutôt qu'à les recevoir ;
+                        convenez avec cette sorte de gens de suivre par complaisance leurs
+                        dérèglements, leurs vices et leur folie, quand ils auront par la
+                        déférence qu'ils vous doivent, exercé toutes les vertus que vous
+                        chérissez : ironie forte, mais utile, très propre à mettre vos moeurs en
+                        sûreté, à renverser tous leurs projets, et à les jeter dans le parti de
+                        continuer d'être ce qu'ils sont, et de vous laisser tel que vous êtes.</p>
+                </div>
+                <div corresp="#eng_I3" type="remark" n="9.3" xml:id="fr_I3">
+                    <p>L'avantage des Grands sur les autres <w key="homme">hommes</w> est immense par un endroit ;
+                        je leur cède leur bonne chère, leurs riches ameublements, leurs chiens,
+                        leurs chevaux, leurs singes, leurs nains, leurs fous et leurs flatteurs ;
+                        mais je leur envie le bonheur d'avoir à leur service des gens qui les
+                        égalent par le coeur et par l'esprit, et qui les passent quelquefois.</p>
+                </div>
+                <div corresp="#eng_I4" type="remark" n="9.4" xml:id="fr_I4">
+                    <p>Les Grands se piquent d'ouvrir une allée dans une forêt, de soutenir des
+                        terres par de longues murailles, de dorer des plafonds, de faire venir
+                        dix pouces d'eau, de meubler une orangerie : mais de rendre un coeur
+                        content, de combler une âme de joie, de prévenir d'extrêmes besoins, ou
+                        d'y remédier ; leur curiosité ne s'étend point jusque-là.</p>
+                </div>
+                <div corresp="#eng_I5" type="remark" n="9.5" xml:id="fr_I5">
+                    <p>On demande si en comparant ensemble les différentes conditions des
+                        <w key="homme">hommes</w>, leurs peines, leurs avantages, on n'y remarquerait pas un
+                        mélange, ou une espèce de compensation de bien et de mal, qui établirait
+                        entre elles l'égalité, ou qui ferait du moins que l'un ne serait guère
+                        plus désirable que l'autre : celui qui est puissant, riche, et à qui il
+                        ne manque rien, peut former cette question ; mais il faut que ce soit un
+                        <w key="homme">homme</w> pauvre qui la décide.</p>
+                    <p>Il ne laisse pas d'y avoir comme un charme attaché à chacune des
+                        différentes conditions, et qui y demeure, jusques à ce que la misère l'en
+                        ait ôté. Ainsi les Grands se plaisent dans l'excès, et les petits aiment
+                        la modération ; ceux-là ont le goût de dominer et de commander, et
+                        ceux-ci sentent du plaisir, et même de la vanité à les servir et à leur
+                        obéir : les Grands sont entourés, salués, respectés ; les petits
+                        entourent, saluent, se prosternent, et tous sont contents.</p>
+                </div>
+            </div>
+            <div corresp="#fr_I" xml:lang="english" type="chapter" n="9" xml:id="eng_I">
+                <head>Of the Great</head>
+                <div corresp="#fr_I1" type="remark" n="9.1" xml:id="eng_I1">
+                   <p>The People are so blindly prepossessed in favor of great 
+                      <w key="man">Men</w>, so naturally taken with their Behavior and 
+                         Looks, their tone fo Voice and Manners, that if they could condescend but 
+                         to be good, this Prepossession would grow to Idolatry.
+                   </p>
+                </div>
+                <div corresp="#fr_I2" type="remark" n="9.2" xml:id="eng_I2">
+                   <p>If you are born vicious, Oh <emph rend="italic">Theagenes</emph> I pity you; If you are become 
+                       so out of a weakness for some, whose Interest it is that you should be debauched, who have 
+                       sworn privately to corrupt you, and boast already of their success, excuse me if despise you: 
+                       But if you are wise, temperate, modest, civil, generous, grateful, industrious, and besides, 
+                       of a Rank that ought to give examples rather than take them, and to make rules for others 
+                       rather than receive them; agree with those sort of People to follow out of complaisance, 
+                       their disorders, vices, and follies, after the respect they owe you, has obliged them to 
+                       imitate your Virtues.  This is an odd, but useful, Irony, very proper to secure your Manners, 
+                       ruin all their Projects, and put them on a necessity of continuing what they are, and 
+                       leaving you what you are.</p>
+                </div>
+                <div corresp="#fr_I3" type="remark" n="9.3" xml:id="eng_I3">
+                   <p>Great <w key="man">Men</w>
+                      have in one thing a prodigious advantage over others; I don’t envy them, their Good Cheer, 
+                       Riches, Dogs, Horses, Equipages, Fools and Flatterers; 
+                      but I envy them the happiness of having in their service <w key="man">men</w>
+                      of as great Souls and Sense, and sometimes better than than their own.</p>
+                </div>
+                <div corresp="#fr_I4" type="remark" n="9.4" xml:id="eng_I4">
+                   <p>The Great delight in opening Walks in Forests, making fine Terraces, gilding their Ceilings, 
+                      in main Water-works and Orangeries; but to restore Content to a distracted Mind, or 
+                      Joy to an afflicted Soul, to prevent extreme necessity in the Miserable, 
+                      to relieve them, is what their curiosity reaches not to.</p>
+                </div>
+                <div corresp="#fr_I5" type="remark" n="9.5" xml:id="eng_I5">
+                   <p>
+                      One asks, if in comparing the different conditions of <w key="man">Men</w> 
+                      together, their sufferings and advantages, we can’t observe such a mixture and 
+                      assortment of good and evil, as seems to set them on an equality, or at least makes 
+                      one as desirable as the other; the rich and powerful <w key="man">Man</w>, who 
+                      wants nothing, may put the Question, but a poor <w key="man">Man</w> must answer it. 
+                   </p>
+                   <p>
+                      There is however a Charm in each different condition, of which nothing but misery can 
+                      deprive it; the Great please themselves in excess, the Little in moderation; 
+                      these delight in lording and commanding, those find a pleasure, 
+                      and even a vanity in serving and obeying: The Great are surrounded, 
+                      saluted, and respected; the Little surround, salute, and cringe, and both are content. 
+                   </p>
+                </div>
+            </div>
+            <div corresp="#eng_J" xml:lang="french" type="chapter" n="10" xml:id="fr_J">
+                <head>Du souverain ou de la République</head>
+                <div corresp="#eng_J1" type="remark" n="10.1" xml:id="fr_J1">
+                    <p>Quand l'on parcourt sans la prévention de son pays toutes les formes
+                        de gouvernement, l'on ne sait à laquelle se tenir ; il y a dans toutes le
+                        moins bon, et le moins mauvais. Ce qu'il y a de plus raisonnable et de
+                        plus sûr, c'est d'estimer celle où l'on est né, la meilleure de toutes,
+                        et de s'y soumettre.</p>
+                    </div>
+                <div corresp="#eng_J2" type="remark" n="10.2" xml:id="fr_J2">
+                    <p>Il ne faut ni art ni science pour exercer la tyrannie ; et la politique
+                        qui ne consiste qu'à répandre le sang est fort bornée et de nul
+                        raffinement ; elle inspire de tuer ceux dont la vie est un obstacle à
+                        notre ambition ; un <w key="homme">homme</w> né cruel fait cela sans peine. C'est la manière
+                        la plus horrible et la plus grossière de se maintenir, ou de s'agrandir.</p>
+                </div>
+                <div corresp="#eng_J3" type="remark" n="10.3" xml:id="fr_J3">
+                    <p>C'est une politique sûre et ancienne dans les Républiques, que d'y
+                        laisser le peuple s'endormir dans les fêtes, dans les spectacles, dans
+                        le luxe, dans le faste, dans les plaisirs, dans la vanité et la
+                        mollesse ; le laisser se remplir du vide, et savourer la bagatelle :
+                        quelles grandes démarches ne fait-on pas au despotique par cette
+                        indulgence !</p>
+                </div>
+                <div corresp="#eng_J4" type="remark" n="10.4" xml:id="fr_J4">
+                    <p>Il n'y a point de patrie dans le despotique, d'autres choses y
+                        suppléent, l'intérêt, la gloire, le service du Prince.</p>
+                </div>
+                <div corresp="#eng_J5" type="remark" n="10.5" xml:id="fr_J5">
+                    <p>Quand on veut changer et innover dans une République, c'est moins les
+                        choses que le temps que l'on considère : il y a des conjonctures où l'on
+                        sent bien qu'on ne saurait trop attenter contre le peuple ; et il y en a
+                        d'autres où il est clair qu'on ne peut trop le ménager. Vous pouvez
+                        aujourd'hui ôter à cette Ville ses franchises, ses droits, ses
+                        privilèges ; mais demain ne songez pas même à réformer ses enseignes.</p>
+                </div>
+            </div>
+            <div corresp="#fr_J" xml:lang="english" type="chapter" n="10" xml:id="eng_J">
+               <head>Of the Sovereign, or Commonwealth</head>
+                <div corresp="#fr_J1" type="remark" n="10.1" xml:id="eng_J1">
+                   <p>When we have run through all forms of Government, without partiality to that we were born under, 
+                      we can’t tell which to conclude for; there’s good and ill in them all: It is therefore most 
+                      reasonable and secure to value that of our own Country above all others, and to submit to it.</p>
+                </div>
+                <div corresp="#fr_J2" type="remark" n="10.2" xml:id="eng_J2">
+                   <p>There is no occasion for Arts and Sciences in the exercise of Tyranny; for the Politics 
+                      which consist only in bloodshed are very shallow and gross: To murder all that are obstacles 
+                      to our Ambition is what they urge us to; and this a 
+                      <w key="man">man</w> naturally cruel does with ease.  
+                         This is indeed the most barbarous and detestable way to support or aggrandize ourselves. 
+                   </p>
+                </div>
+                <div corresp="#fr_J3" type="remark" n="10.3" xml:id="eng_J3">
+                   <p>It is a certain and ancient maxim in Politics, that to suffer the people to stupefy themselves                      
+                     with Pleasures and Feats, Shows and Luxury, with Vanity and Delicacy, to dispossess them of all 
+                       things solid and valuable, and leave them fond of ridiculous trifles, is to make the greatest 
+                       advances to a Despotic Power.</p>
+                </div>
+                <div corresp="#fr_J4" type="remark" n="10.4" xml:id="eng_J4">
+                   <p>Under an Arbitrary Government, Interest, Honor, and the service of the Prince, supply the place 
+                       of natural affection to our Country. </p>
+                </div>
+                <div corresp="#fr_J5" type="remark" n="10.5" xml:id="eng_J5">
+                   <p>To innovate, or introduce any alterations in a State, the time is rather to be considered than 
+                       the action itself; there are some conjunctures when nothing is to be attempted on the people, 
+                       and there are others when nothing is too gross to pass upon them: Today you many subvert the Rights, 
+                       Franchises, and Privileges of such a Town; but tomorrow you must not so much as think of altering 
+                       the Signs at their Doors.</p>
+                </div>
+            </div>
+            <div corresp="#eng_K" xml:lang="french" type="chapter" n="11" xml:id="fr_K">
+                <head>De l'<w key="homme">homme</w></head>
+                <div corresp="#eng_K1" type="remark" n="11.1" xml:id="fr_K1">
+                    <p>Ne nous emportons point contre les <w key="homme">hommes</w> en voyant leur dureté, leur
+                        ingratitude, leur injustice, leur fierté, l'amour d'eux-mêmes, et
+                        l'oubli des autres ; ils sont ainsi faits, c'est leur nature, c'est ne
+                        pouvoir supporter que la pierre tombe, ou que le feu s'élève.</p>
+                </div>
+                <div corresp="#eng_K2" type="remark" n="11.2" xml:id="fr_K2">
+                    <p>Les <w key="homme">hommes</w> en un sens ne sont point légers, ou ne le sont que dans les
+                        petites choses : ils changent leurs habits, leur langage, les dehors, les
+                        bienséances ; ils changent de goût quelquefois ; ils gardent leurs moeurs
+                        toujours mauvaises ; fermes et constants dans le mal, ou dans
+                        l'indifférence pour la vertu.</p>
+                </div>
+                <div corresp="#eng_K3" type="remark" n="11.3" xml:id="fr_K3">
+                    <p>Le Stoïcisme est un jeu d'esprit et une idée semblable à la République
+                        de Platon. Les Stoïques ont feint qu'on pouvait rire dans la pauvreté ;
+                        être insensible aux injures, à l'ingratitude, aux pertes de biens, comme
+                        à celles des parents et des amis ; regarder froidement la mort, et comme
+                        une chose indifférente qui ne devait ni réjouir, ni rendre triste ; n'être
+                        vaincu ni par le plaisir, ni par la douleur ; sentir le fer ou le feu dans
+                        quelque partie de son corps sans pousser le moindre soupir, ni jeter une
+                        seule larme ; et ce fantôme de vertu et de constance ainsi imaginé, il
+                        leur a plu de l'appeler un sage. Ils ont laissé à l'<w key="homme">homme</w> tous les
+                        défauts qu'ils lui ont trouvés, et n'ont presque relevé aucun de ses
+                        faibles : au lieu de faire de ses vices des peintures affreuses ou
+                        ridicules qui servissent à l'en corriger, ils lui ont tracé l'idée d'une
+                        perfection et d'un héroïsme dont il n'est point capable, et l'ont
+                        exhorté à l'impossible. Ainsi le sage qui n'est pas, ou qui n'est
+                        qu'imaginaire, se trouve naturellement et par lui-même au-dessus de tous
+                        les événements et de tous les maux ; ni la goutte la plus douloureuse, ni
+                        la colique la plus aiguë ne sauraient lui arracher une plainte ; le Ciel
+                        et la terre peuvent être renversés sans l'entraîner dans leur chute, et
+                        il demeurerait ferme sur les ruines de l'univers ; pendant que l'<w key="homme">homme</w>
+                        qui est en effet, sort de son sens ; crie, se désespère, étincelle des
+                        yeux, et perd la respiration pour un chien perdu, ou pour une porcelaine
+                        qui est en pièces.</p>
+                </div>
+                <div corresp="#eng_K4" type="remark" n="11.4" xml:id="fr_K4">
+                    <p>Inquiétude d'esprit, inégalité d'humeur, inconstance de coeur,
+                        incertitude de conduite. Tous vices de l'âme, mais différents, et qui
+                        avec tout le rapport qui paraît entre eux ne se supposent pas toujours
+                        l'un l'autre dans un même sujet.</p>
+                </div>
+                <div corresp="#eng_K5" type="remark" n="11.5" xml:id="fr_K5">
+                    <p>Il est difficile de décider si l'irrésolution rend l'<w key="homme">homme</w> plus
+                        malheureux que méprisable ; de même s'il y a toujours plus d'inconvénient
+                        à prendre un mauvais parti, qu'à n'en prendre aucun.</p>
+                </div>
+            </div>
+            <div corresp="#fr_K" xml:lang="english" type="chapter" n="11" xml:id="eng_K">
+                <head>Of Man</head>
+                <div corresp="#fr_K1" type="remark" n="11.1" xml:id="eng_K1">
+                   <p>Let us not be angry with <w key="man">Men</w>, when we see them stubborn, ungrateful, 
+                      unjust, proud, Lovers of themselves and forgetful of others; they are made so, it is 
+                      their nature, it is quarreling with the Stone for falling to the Ground, or with the 
+                      Fire for flying upwards.
+                   </p>
+                </div>
+                <div corresp="#fr_K2" type="remark" n="11.2" xml:id="eng_K2">
+                   <p>In one sense <w key="man">Men</w>
+                      are not Light, or but in little things: They change their Habits, Language, Fashions, 
+                      Decorums, and sometimes their Taste; but they always preserve their bad Manners; 
+                      are firm and constant to what is ill, and to an indifference for Virtue.
+                   </p>
+                </div>
+                <div corresp="#fr_K3" type="remark" n="11.3" xml:id="eng_K3">
+                   <p><emph rend="italic">Stoicism</emph> is a mere Fancy, an Idea, something like 
+                       <emph rend="italic">Pluto</emph>'s Republic.  The <emph rend="italic">Stoics</emph> 
+                       feign that a <w key="man">Man</w> may laugh at his poverty; be insensible of Injuries, 
+                       Ingratitude, or the loss of his Estate, Parents, and Friends; look coolly on Death, 
+                       and regard it as an indifferent thing, which ought not to make him merry or melancholy; 
+                       may never let Pleasure or Pain master him; may undergo the torments of Fire or Sword 
+                       without the least sigh or a single tear; and this phantom of Virtue, and imaginary 
+                       Constancy they are pleased to call a Wise <w key="man">Man</w>.  They have left 
+                       <w key="man">Man</w> kind as full of the same defects as they found them, and 
+                       not cured them of the least weakness.  Instead of painting Vice in its most 
+                       frightful and ridiculous forms, to correct their Minds, they have formed an Idea of 
+                       Perfection and Heroism, of which they are not capable, and exhorted them to what is impossible.  
+                       Thus this Wise <w key="man">Man</w> that is to be, or will never be, but in Imagination, 
+                       finds himself naturally above all Ills and Events; the most painful Fit of the Gout, 
+                       or the most sharp Fit of the Cholick, can’t extort him from the least complaint; 
+                       Heaven and Earth may be turned upside down without concerning him in their fall; 
+                       he would stand firm on the Ruins of the Universe, while another <w key="man">Man</w> 
+                       grows almost distracted, cries, despairs, looks fiery, and is out of breath, 
+                       for a Dog lost, or a <emph rend="italic">China</emph> Dish broke in pieces.</p>
+                </div>
+                <div corresp="#fr_K4" type="remark" n="11.4" xml:id="eng_K4">
+                   <p>Restlessness of Mind, and inequality of Humor, an inconstancy of Heart, and uncertainty of 
+                       Conduct, are all Vices of the Soul, but different, and as like as they appear, are 
+                       not always found in one Subject.
+                   </p>
+                </div>
+                <div corresp="#fr_K5" type="remark" n="11.5" xml:id="eng_K5">
+                   <p>It is difficult to decide, whether irresolution makes a <w key="man">Man</w> more 
+                       unfortunate than contemptible, or even, if there is not ways more conveniency in being 
+                       of the wrong side, than of none at all.</p>
+                </div>
+            </div>
+            <div corresp="#eng_L" xml:lang="french" type="chapter" n="12" xml:id="fr_L">
+                <head>Des jugements</head>
+                <div corresp="#eng_L1" type="remark" n="12.1" xml:id="fr_L1">
+                    <p>Rien ne ressemble plus à la vive persuasion que le mauvais entêtement :
+                        de là les partis, les cabales, les hérésies.</p>
+                </div>
+                <div corresp="#eng_L2" type="remark" n="12.2" xml:id="fr_L2">
+                    <p>L'on ne pense pas toujours constamment d'un même sujet : l'entêtement et
+                        le dégoût se suivent de près.</p>
+                </div>
+                <div corresp="#eng_L3" type="remark" n="12.3" xml:id="fr_L3">
+                    <p>Les grandes choses étonnent, et les petites rebutent ; nous nous
+                        apprivoisons avec les unes et les autres par l'habitude.</p>
+                </div>
+                <div corresp="#eng_L4" type="remark" n="12.4" xml:id="fr_L4">
+                    <p>Deux choses toutes contraires nous préviennent également, l'habitude et
+                        la nouveauté.</p>
+                </div>
+                <div corresp="#eng_L5" type="remark" n="12.5" xml:id="fr_L5">
+                    <p>Il n'y a rien de plus bas, et qui convienne mieux au peuple, que de
+                        parler en des termes magnifiques de ceux mêmes dont l'on pensait très
+                        modestement avant leur élévation.</p>
+                </div>
+            </div>
+            <div corresp="#fr_L" xml:lang="english" type="chapter" n="12" xml:id="eng_L">
+                <head>Of Judgment</head>
+                <div corresp="#fr_L1" type="remark" n="12.1" xml:id="eng_L1">
+                   <p>Nothing more nearly resembles a lively conviction than an obstinate Conceit; whence 
+                       proceed Parties, Cabals, and Heresies.  </p>
+                </div>
+                <div corresp="#fr_L2" type="remark" n="12.2" xml:id="eng_L2">
+                   <p>We think not always constantly on the same subject: Conceit and Disgust follow one 
+                       another very closely.</p>
+                </div>
+                <div corresp="#fr_L3" type="remark" n="12.3" xml:id="eng_L3">
+                   <p>Great things astonish us, and small dishearten: Custom makes both familiar.
+                   </p>
+                </div>
+                <div corresp="#fr_L4" type="remark" n="12.4" xml:id="eng_L4">
+                   <p>Two contrarieties equally affect us, Custom, and Novelty.</p>
+                </div>
+                <div corresp="#fr_L5" type="remark" n="12.5" xml:id="eng_L5">
+                   <p>There’s nothing so mean, and so like the Vulgar, as to talk much in the praise of 
+                       those very persons, of whom we thought indifferently before their promotion. </p>
+                </div>
+            </div>
+            <div corresp="#eng_M" xml:lang="french" type="chapter" n="13" xml:id="fr_M">
+                <head>De la mode</head>
+                <div corresp="#eng_M1" type="remark" n="13.1" xml:id="fr_M1">
+                    <p>Une chose folle et qui découvre bien notre petitesse, c'est
+                        l'assujettissement aux modes, quand on l'étend à ce qui concerne le goût,
+                        le vivre, la santé et la conscience. La viande noire est hors de mode,
+                        et par cette raison insipide : ce serait pécher contre la mode que de
+                        guérir de la fièvre par la saignée : de même l'on ne mourait plus depuis
+                        longtemps par <emph rend="italic">Théotime</emph> ; ses tendres exhortations 
+                        ne sauvaient plus que le peuple, et Théotime a vu son successeur.</p>
+                </div>
+                <div corresp="#eng_M2" type="remark" n="13.2" xml:id="fr_M2">
+                    <p>La curiosité n'est pas un goût pour ce qui est bon ou ce qui est beau,
+                        mais pour ce qui est rare, unique, pour ce qu'on a, et ce que les autres
+                        n'ont point. Ce n'est pas un attachement à ce qui est parfait, mais à ce
+                        qui est couru, à ce qui est à la mode. Ce n'est pas un amusement, mais
+                        une passion, et souvent si violente, qu'elle ne cède à l'amour et à
+                        l'ambition que par la petitesse de son objet. Ce n'est pas une passion
+                        qu'on a généralement pour les choses rares et qui ont cours ; mais qu'on
+                        a seulement pour une certaine chose, qui est rare, et pourtant à la
+                        mode.</p>
+                    <p>Le fleuriste a un jardin dans un Faubourg, il y court au lever du
+                        Soleil, et il en revient à son coucher ; vous le voyez planté, et qui a
+                        pris racine au milieu de ses tulipes et devant la <emph rend="italic">solitaire</emph> : 
+                        il ouvre de grands yeux, il frotte ses mains, il se baisse, il la voit de plus près,
+                        il ne l'a jamais vue si belle, il a le coeur épanoui de joie ; il la
+                        quitte pour l'<emph rend="italic">orientale</emph>, de là il va à la 
+                        <emph rend="italic">veuve</emph>, il passe au <emph rend="italic">drap d'or</emph>,
+                        de celle-ci à l'<emph rend="italic">agathe</emph>, d'où il revient enfin à la 
+                        <emph rend="italic">solitaire</emph>, où il se
+                        fixe, où il se lasse, où il s'assit, où il oublie de dîner ; aussi
+                        est-elle nuancée, bordée, huilée, à pièces emportées ; elle a un beau
+                        vase ou un beau calice ; il la contemple, il l'admire, Dieu et la nature
+                        sont en tout cela ce qu'il n'admire point, il ne va pas plus loin que
+                        l'oignon de sa tulipe, qu'il ne livrerait pas pour mille écus, et qu'il
+                        donnera pour rien quand les tulipes seront négligées, et que les oeillets
+                        auront prévalu. Cet <w key="homme">homme</w> raisonnable, qui a une âme, 
+                        qui a un culte et
+                        une religion, revient chez soi fatigué, affamé, mais fort content de sa
+                        journée ; il a vu des tulipes.</p>
+                    <p>Parlez à cet autre de la richesse des moissons, d'une ample récolte,
+                        d'une bonne vendange, il est curieux de fruits, vous n'articulez pas,
+                        vous ne vous faites pas entendre ; parlez-lui de figues et de melons,
+                        dites que les poiriers rompent de fruit cette année, que les pêches ont
+                        donné avec abondance; c'est pour lui un idiome inconnu, il s'attache aux
+                        seuls pruniers, il ne vous répond pas ; ne l'entretenez pas même de vos
+                        pruniers, il n'a de l'amour que pour une certaine espèce, toute autre
+                        que vous lui nommez le fait sourire et se moquer ; il vous mène à
+                        l'arbre, cueille artistement cette prune exquise, il l'ouvre, vous en
+                        donne une moitié, et prend l'autre, quelle chair, dit-il, goûtez-vous
+                        cela ? cela est-il divin ? voilà ce que vous ne trouverez pas ailleurs ;
+                        et là-dessus ses narines s'enflent, il cache avec peine sa joie et sa
+                        vanité par quelques dehors de modestie. Ô l'<w key="homme">homme</w> divin en effet ! 
+                        <w key="homme">homme</w> qu'on ne peut jamais assez louer et admirer! 
+                        <w key="homme">homme</w> dont il sera parlé
+                        dans plusieurs siècles ; que je voie sa taille et son visage pendant
+                        qu'il vit, que j'observe les traits et la contenance 
+                        d'un <w key="homme">homme</w> qui seul
+                        entre les mortels possède une telle prune.</p>
+                    <p>Un troisième que vous allez voir, vous parle des curieux ses confrères,
+                        et surtout de <emph rend="italic">Diognète</emph>. 
+                        Je l'admire, dit-il, et je le comprends moins
+                        que jamais ; pensez-vous qu'il cherche à s'instruire par les médailles,
+                        et qu'il les regarde comme des preuves parlantes de certains faits, et
+                        des monuments fixes et indubitables de l'ancienne histoire, rien moins ;
+                        vous croyez peut-être que toute la peine qu'il se donne pour recouvrer
+                        une <emph rend="italic">tête</emph> vient du plaisir 
+                        qu'il se fait de ne voir pas une suite
+                        d'Empereurs interrompue, c'est encore moins : Diognète sait d'une
+                        médaille le <emph rend="italic">fruste</emph>, le <emph rend="italic">flou</emph>, 
+                        et la <emph rend="italic">fleur de coin</emph>, il a une tablette dont
+                        toutes les places sont garnies à l'exception d'une seule, ce vide lui
+                        blesse la vue, et c'est précisément et à la lettre pour le remplir, qu'il
+                        emploie son bien et sa vie.</p>
+                    <p>«Vous voulez, ajoute <emph rend="italic">Démocède</emph>, voir mes estampes, 
+                        et bientôt il les étale et vous les montre ; vous en rencontrez une qui n'est ni noire, ni
+                        nette, ni dessinée, et d'ailleurs moins propre à être gardée dans un
+                        cabinet, qu'à tapisser un jour de fête, le petit-pont ou la rue neuve ;
+                        il convient qu'elle est mal gravée, plus mal dessinée, mais il assure
+                        qu'elle est d'un Italien qui a travaillé peu, qu'elle n'a presque pas
+                        été tirée, que c'est la seule qui soit en France de ce dessin, qu'il l'a
+                        achetée très cher, et qu'il ne la changerait pas pour ce qu'il a de
+                        meilleur : j'ai, continue-t-il, une sensible affliction, et qui
+                        m'obligera de renoncer aux estampes pour le reste de mes jours ; j'ai
+                        tout <emph rend="italic">Callot</emph>, hormis une seule, 
+                        qui n'est pas à la vérité de ses bons
+                        ouvrages, au contraire c'est un des moindres, mais qui m'achèverait
+                        Callot, je travaille depuis vingt ans à recouvrer cette estampe, et je
+                        désespère enfin d'y réussir : cela est bien rude.</p>
+                    <p>Tel autre fait la satire de ces gens qui s'engagent par inquiétude ou
+                        par curiosité dans de longs voyages, qui ne font ni mémoires ni
+                        relations, qui ne portent point de tablettes, qui vont pour voir, et qui
+                        ne voient pas, ou qui oublient ce qu'ils ont vu, qui désirent seulement
+                        de connaître de nouvelles tours ou de nouveaux clochers, et de passer
+                        des rivières qu'on n'appelle ni la Seine ni la Loire; qui sortent de
+                        leur patrie pour y retourner, qui aiment à être absents, qui veulent un
+                        jour être revenus de loin : et ce satirique parle juste, et se fait
+                        écouter.</p>
+                    <p>Mais quand il ajoute que les livres en apprennent plus que les voyages,
+                        et qu'il m'a fait comprendre par ses discours qu'il a une bibliothèque,
+                        je souhaite de la voir, je vais trouver cet 
+                        <w key="homme">homme</w> qui me reçoit dans
+                        une maison, où dès l'escalier je tombe en faiblesse d'une odeur de
+                        maroquin noir dont ses livres sont tous couverts ; il a beau me crier aux
+                        oreilles pour me ranimer, qu'ils sont dorés sur tranche, ornés de
+                        filets d'or, et de la bonne édition, me nommer les meilleurs l'un après
+                        l'autre, dire que sa galerie est remplie, à quelques endroits près, qui
+                        sont peints de manière, qu'on les prend pour de vrais livres arrangés sur
+                        des tablettes, et que l'oeil s'y trompe ; ajouter qu'il ne lit jamais,
+                        qu'il ne met pas le pied dans cette galerie, qu'il y viendra pour me
+                        faire plaisir ; je le remercie de sa complaisance, et ne veux non plus
+                        que lui, voir sa tannerie, qu'il appelle bibliothèque.</p>
+                    <p>Quelques-uns par une intempérance de savoir, et par ne pouvoir se
+                        résoudre à renoncer à aucune sorte de connaissance, les embrassent
+                        toutes et n'en possèdent aucune ; ils aiment mieux savoir beaucoup, que de
+                        savoir bien, et être faibles et superficiels dans diverses sciences, que
+                        d'être sûrs et profonds dans une seule ; ils trouvent en toutes
+                        rencontres celui qui est leur maître et qui les redresse, ils sont les
+                        dupes de leur curiosité, et ne peuvent au plus, par de longs et pénibles
+                        efforts, que se tirer d'une ignorance crasse.</p>
+                    <p>D'autres ont la clef des sciences, où ils n'entrent jamais ; ils passent
+                        leur vie à déchiffrer les langues Orientales et les langues du Nord,
+                        celles des deux Indes, celles des deux pôles, et celle qui se parle dans
+                        la lune ; les idiomes les plus inutiles avec les caractères les plus
+                        bizarres et les plus magiques sont précisément ce qui réveille leur
+                        passion et qui excite leur travail ; ils plaignent ceux qui se bornent
+                        ingénument à savoir leur langue, ou tout au plus la Grecque et la
+                        Latine : ces gens lisent toutes les histoires et ignorent l'histoire, ils
+                        parcourent tous les livres, et ne profitent d'aucun ; c'est en eux une
+                        stérilité de faits et de principes qui ne peut être grande ; mais à la
+                        vérité la meilleur récolte et la richesse la plus abondante de mots et
+                        de paroles qui puisse s'imaginer, ils plient sous le faix, leur mémoire
+                        en est accablée, pendant que leur esprit demeure vide.</p>
+                    <p>Un Bourgeois aime les bâtiments, il se fait bâtir un Hôtel si beau, si
+                        riche et si orné, qu'il est inhabitable : le maître, honteux de s'y
+                        loger, ne pouvant peut-être se résoudre à le louer à un Prince ou à un
+                        <w key="homme">homme</w> d'affaires se retire au galetas, où il achève sa vie, pendant que
+                        l'enfilade et les planchers de rapport sont en proie aux Anglais et aux
+                        Allemands qui voyagent, et qui viennent là du Palais-Royal, du palais L...
+                        G... et du Luxembourg : on heurte sans fin à cette porte ; tous demandent à
+                        voir la maison, et personne à voir Monsieur.</p>
+                    <p>On en sait d'autres qui ont des filles devant leurs yeux, à qui ils ne
+                        peuvent pas donner une dot, que dis-je, elles ne sont pas vêtues, à
+                        peine nourries ; qui se refusent un tour de lit et du linge blanc ; qui
+                        sont pauvres, et la source de leur misère n'est pas fort loin ; c'est un
+                        garde-meuble chargé et embarrassé de bustes rares, déjà poudreux et
+                        couverts d'ordures, dont la vente les mettrait au large, mais qu'ils ne
+                        peuvent se résoudre à mettre en vente.</p>
+                    <p><emph rend="italic">Diphile</emph> commence 
+                        par un oiseau et finit par mille ; sa maison n'en est
+                        pas égayée, mais empestée : la cour, la salle, l'escalier, le vestibule,
+                        les chambres, le cabinet, tout est volière ; ce n'est plus un ramage,
+                        c'est un vacarme, les vents d'Automne et les eaux dans leurs plus
+                        grandes crues ne font pas un bruit si perçant et si aigu, on ne s'entend
+                        non plus parler les uns les autres que dans ces chambres où il faut
+                        attendre, pour faire le compliment d'entrée, que les petits chiens aient
+                        aboyé : ce n'est plus pour Diphile un agréable amusement, c'est une
+                        affaire laborieuse, et à laquelle à peine il peut suffire ; il passe les
+                        jours, ces jours qui échappent et qui ne reviennent plus, à verser du
+                        grain et à nettoyer des ordures ; il donne pension 
+                        à un <w key="homme">homme</w> qui n'a
+                        point d'autre ministère que de siffler des serins au flageolet, et de
+                        faire couver des <emph rend="italic">Canaries</emph> ; 
+                        il est vrai que ce qu'il dépense d'un côté, il
+                        l'épargne de l'autre, car ses enfants sont sans maîtres et sans
+                        éducation ; il se renferme le soir fatigué de son propre plaisir, sans
+                        pouvoir jouir du moindre repos, que ses oiseaux ne reposent, et que ce
+                        petit peuple, qu'il n'aime que parce qu'il chante, ne cesse de chanter ;
+                        il retrouve ses oiseaux dans son sommeil, lui-même il est oiseau, il est
+                        huppé, il gazouille, il perche ; il rêve la nuit qu'il mue, ou qu'il
+                        couve.</p>
+                    <p>Qui pourrait épuiser tous les différents genres de curieux ;
+                        devineriez-vous à entendre parler celui-ci de son 
+                        <emph rend="italic">Léopard</emph>, de sa <emph rend="italic">plume</emph>,
+                        de sa <emph rend="italic">musique</emph>, les vanter comme ce qu'il y a sur la terre de plus
+                        singulier et de plus merveilleux, qu'il veut vendre ses coquilles ?
+                        Pourquoi non ? s'il les achète au poids de l'or.</p>
+                    <p>Cet autre aime les insectes, il en fait tous les jours de nouvelles
+                        emplettes ; c'est surtout le premier <w key="homme">homme</w> de l'Europe pour les
+                        papillons, il en a de toutes les tailles et de toutes les couleurs. Quel
+                        temps prenez-vous pour lui rendre visite ? il est plongé dans une amère
+                        douleur, il a l'humeur noire, chagrine, et dont toute la famille
+                        souffre, aussi a-t-il fait une perte irréparable ; approchez, regardez ce
+                        qu'il vous montre sur son doigt, qui n'a plus de vie, et qui vient
+                        d'expirer, c'est une chenille, et quelle chenille !</p>
+                </div>
+                <div corresp="#eng_M3" type="remark" n="13.3" xml:id="fr_M3">
+                    <p>Le duel est le triomphe de la mode, et l'endroit où elle a exercé sa
+                        tyrannie avec plus d'éclat ; cet usage n'a pas laissé au poltron la
+                        liberté de vivre, il l'a mené se faire tuer par un plus brave que soi,
+                        et l'a confondu avec un <w key="homme">homme</w> de coeur ; il a attaché de l'honneur et de
+                        la gloire à une action folle et extravagante ; il a été approuvé par la
+                        présence des Rois, il y a eu quelquefois une espèce de Religion à le
+                        pratiquer ; il a décidé de l'innocence des <w key="homme">hommes</w>, des accusations
+                        fausses ou véritables sur des crimes capitaux ; il s'était enfin si
+                        profondément enraciné dans l'opinion de peuples, et s'était si fort
+                        saisi de leur coeur et de leur esprit, qu'un des plus beaux endroits de
+                        la vie d'un très grand Roi, a été de les guérir de cette folie.</p>
+                </div>
+                <div corresp="#eng_M4" type="remark" n="13.4" xml:id="fr_M4">
+                    <p>Tel a été à la mode, ou pour le commandement des armées et la
+                        négociation ou pour l'éloquence de la Chaire, ou pour les vers, qui n'y
+                        est plus. Y a-t-il des <w key="homme">hommes</w> qui dégénèrent de ce qu'ils furent
+                        autrefois ? est-ce leur mérite qui est usé, ou le goût que l'on avait
+                        pour eux ?</p>
+                </div>
+                <div corresp="#eng_M5" type="remark" n="13.5" xml:id="fr_M5">
+                    <p>Un <w key="homme">homme</w> à la mode dure peu, car les modes passent ; s'il est par
+                        hasard <w key="homme">homme</w> de mérite, il n'est pas anéanti, et il subsiste encore par
+                        quelque endroit ; également estimable, il est seulement moins estimé.</p>
+                    <p>La vertu a cela d'heureux, qu'elle se suffit à elle-même, et
+                        qu'elle sait se passer d'admirateurs, de partisans et de protecteurs ; le
+                        manque d'appui et d'approbation non seulement ne lui nuit pas, mais il
+                        la conserve, l'épure et la rend parfaite ; qu'elle soit à la mode,
+                        qu'elle n'y soit plus, elle demeure vertu.</p>
+                </div>
+            </div>
+            <div corresp="#fr_M" xml:lang="english" type="chapter" n="13" xml:id="eng_M">
+                <head>Of the Fashion</head>
+                <div corresp="#fr_M1" type="remark" n="13.1" xml:id="eng_M1">
+                   <p>It is a very foolish thing, and which very much betrays our weakness, to be subject to 
+                       the Fashion in our Diet, way of Living, Health and Conscience. Brown Meat is out of Fashion, 
+                       and therefore insipid: It would be an offense against Fashion to cure a Fever by bleeding.  
+                       It has been out of Fashion this great while to die by the hands of 
+                       <emph rend="italic">Theotymus</emph>; none now but the Populace are saved by his Pious Exhortations; 
+                       he has outlived himself.</p>
+                </div>
+                <div corresp="#fr_M2" type="remark" n="13.2" xml:id="eng_M2">
+                   <p>
+                      Curiosity is not an inclination to what is good and beautiful, 
+                      but to what is rare and singular, for those things which another can’t match.  
+                      This is not an affection for those things which are best, 
+                      but for those which are most in the Fashion.  
+                      This is not an amusement, but a passion, and often so violent, that it 
+                      yields to Love and Ambition, only in the meanness of its object.  
+                      This is not a passion for every thing that is scarce and in vogue, 
+                      but only for some particular, that is rare, and yet in Fashion.  
+                   </p> 
+                   <p>
+                      The Florist has a Garden at his Country house, where he spends 
+                      his time from the Sun-rising to Sun-setting; you’d think him planted there, 
+                      that he had taken root in the midst of his Tulips, and before his 
+                      <emph rend="italic">Solitaire</emph>; he rubs his hands, stares, stoops down, 
+                      and looks nearer at it, he never saw it look so fine before, he’s in an ecstasy of Joy; 
+                      he leaves that for the <emph rend="italic">Orientale</emph>, then goes to the
+                      <emph rend="italic">Vieue</emph>, from thence to the <emph rend="italic">Drap d'or</emph>, 
+                      so to the <emph rend="italic">Agath</emph> and at last returns to his 
+                      <emph rend="italic">Solitaire</emph>, where he fixes himself, is weary, 
+                      sits down and forgets his Dinner; observes all its particular excellencies, 
+                      its fine pod, delicate top; he contemplates and admires it; 
+                      God and Nature are in all that the things which he does not admire; 
+                      he goes no farther than the Root of his Tulip, which he won’t part with for a 
+                      thousand Crowns, though he’ll give it to you for nothing when the Tulips are out, 
+                      and the Carnations come in.  This reasonable Creature, that has a Soul, 
+                      a divine Worship and Religion, returns tired and famished, 
+                      but indefinitely pleased with his day’s labor; he has seen some Tulips. 
+                   </p>
+                   <p>
+                      Talk to another of the Farmer’s Wealth, of a plentiful Harvest, 
+                      or a good Vintage, he is only nice in Fruit, he understands not a word you say;
+                      discourse him of Figs and Melons, tell him that the Pear Trees break with their 
+                      weight of Fruit this tear, that there are abundance of Peaches, this is all out of his way;
+                      he is curious in nothing but Plumb-Trees: Talk to him of them, he makes you no answer; 
+                      he is only fond of certain species of them, and laughs at all others; he leads you to the 
+                      Trees, and artificially gathers this exquisite Plumb, divides it, gives you one half, 
+                      and keeps the other himself, How delicious is this! says he, Taste it, is it not divine? 
+                      the whole World can’t match it, as his Nose swells and it is with a great deal of pains 
+                      that he veils his joy and vanity under an appearance of modesty.  Oh! 
+                      exquisite <w key="man">Man</w> indeed! 
+                      never enough to be praised and admired! a <w key="man">Man</w> 
+                      to be talked of in all ages! 
+                      Methinks I see his main and shape, while he lived, and remember the 
+                      features of this great <w key="man">Man</w>, 
+                      who only amongst Mortals was the happy possessor of such a Plumb.
+                   </p>
+                   <p>
+                      Visit the third, and he talks of the curious persons of his Acquaintance, 
+                      but especially of <emph rend="italic">Diognetes</emph>: I admire him, says he, 
+                      and understand him less than ever; you imagine that he endeavors to instruct 
+                      himself by Medals, that he Estelle them the speaking evidences of past Transactions,
+                      and fixed unquestionable monuments of Ancient History, nothing less; perhaps you guess
+                      that all the pains he takes to recover a head, proceeds from the pleasure he enjoys in seeing 
+                      an uninterrupted series of the Emperors, it is yet less: <emph rend="italic">Diognetes</emph> 
+                      knows nicely all the parts of a Medal, he has a Case full of Medals, except one place, and it is this
+                      vacuity that makes him so uneasy, that truly and literally to fill this, he spends his Estate and 
+                      Life. 
+                   </p>
+                   <p>
+                      Will you see my Prints, adds <emph rend="italic">Democedes</emph>? and presently he draws them out, 
+                      'and shows them you; there you find one that is neither finely Printed, neatly engraved, nor well 
+                      Designed, and therefore more fit to hang the Walks of the most public spaces on Holidays, than to be
+                      preserved in a Closet; he allows it to be ill engraved and worse Designed, but he assures you it was
+                      done but an <emph rend="italic">Italian</emph>, of whom there’s little extant, that is the only one
+                      in <emph rend="italic">France</emph> of his hand, he bought it very dear, and would not part with 
+                      it for a much better: I labor under a sensible affliction, continues he, which will oblige me to 
+                      leave off troubling myself with Prints the rest of my Life; I have all 
+                      <emph rend="italic">Calot</emph>, except one Print, indeed it is so far from being the best, 
+                      that it is the worst that ever he did, but how shall 
+                      I complete my <emph rend="italic">Calot</emph>? I have hunted after this Print 
+                      these twenty years, and now I despair of ever getting it: This is very hard!
+                   </p>
+                   <p>
+                      Another satirizes those who make long Voyages, either through uneasiness or curiosity, 
+                      who keep no Journal, or furnish us with no Relations or Memoirs, who god to see, and see 
+                      not any thing, or at best forget what they have seen, who desire only to remember new 
+                      Towers, and new Steeples, and to pass Rivers only because they are unknown; who go out of 
+                      their own Country purely to return again, who love to be absent, that they may one day come 
+                      from afar; and this Satirist talks well, and forces attention.  
+                   </p>
+                   <p>
+                      But when he adds, that Books are more interactive than Travelling, and gives me 
+                      to understand that he has a Library, I desire to see it; 
+                      I visit this Gentle <w key="man">man</w>, 
+                      he receives me at his House, where at the foot of the Stairs, I am struck down with 
+                      the scent of the <emph rend="italic">Ruffia</emph> Leather, that covers all his Books; 
+                      in vain he encourages me, by telling me that are gilt on the Backs and Leaves, of the best 
+                      Editions, and by naming some of the best of them; in vain he tells me, his Galley is full 
+                      of them, except one place that is painted so like Books, the fallacy is not to be discerned; 
+                      and adds, that he never reads, sets foot in this Gallery, and that he did it now to oblige me; 
+                      I thank him for his Complaisance, but who’ll as soon visit a Tan-pit as his Library.
+                   </p>
+                   <p>
+                      Some people by an intemperate desire of knowledge, and an unwillingness to be ignorant of 
+                      anything, are greedy of all sorts of Learning, and matters of none; they are fonder of knowing much, 
+                      than knowing well, and rather be superficial smatterers in several Sciences, than to dive 
+                      propounding into any one alone; they everywhere meet with Matters to reclaim them; they are
+                      bubbles to their own vain curiosity, and often by very painful efforts cannot extricate themselves
+                      from their gross Ignorance.
+                   </p>
+                   <p>
+                      Others have the key of the Sciences, but never enter themselves; 
+                      they spend their lives in learning the <emph rend="italic">Eastern</emph> and 
+                      <emph rend="italic">Northern</emph> Languages, those of both <emph rend="italic">Indies</emph>, 
+                      those of the two Poles, nay, that of the World in the Moon itself; the most useless Idioms, 
+                      the most Ridiculous and Magical Characters, employ their Minds and excite their Industry; 
+                      they are very angry with those who content themselves with their own Language, or 
+                      at most with <emph rend="italic">Greek</emph> and <emph rend="italic">Latin</emph>.  
+                      These <w key="man">men</w> read all the Historians, and know nothing of History; run through all Books, 
+                      but are not wiser for any; their defect is a barren Ignorance of things and principles; and 
+                      indeed their best Collection, their greatest Riches, consist in abundance of words and phrases, 
+                      which they huddle together, and load their Memory withal, whilst their Understandings are empty.
+                   </p>
+                         <p>
+                            A Citizen loves Building, he builds him a House so fine and so noble, that he’s ashamed 
+                            to live in it, and yet is unwilling to let it to a Noble <w key="man">man</w> 
+                            or States <w key="man">man</w>; he retires 
+                            to the Garret, where he spends his Life, whilst the Floors are worn out with shewing the 
+                            Rooms to Travellers; there’s a continual knocking at the Gate, all desire to see the House, 
+                            but none the Master.
+                         </p>
+                         <p>There are others, who have Daughters, and are not able to give them a Groat, nay, 
+                            which is less, can hardly clothe and feed them they are so poor, that they are forced 
+                            to deny themselves a Bed and clean Linen; the source of their misery is very obvious; 
+                            it is a Repository of rare Statues, covered with dust and filth, which indeed would 
+                            sell at a great rate; but they cannot prevail with themselves to part with them.
+                         </p>
+                         <p>
+                            <emph rend="italic">Dyphilius</emph> is a lover of Birds; he began with one 
+                            and ends with a thousand; his House is so far from being the more pleasant, that 
+                            it is pestered with them; the Hall, the Parlor, the Staircase, the Porch, the Chamber 
+                            and Closets are so many Aviaries; nothing is heard but discord and wild notes; the 
+                            Autumnal Winds, and most rapid Cataracts do not make a noise so shrill and piercing; 
+                            you can’t hear one another speak, but in those Chambers that are set apart for 
+                            receiving visits, where you are also played with his little yelping Curse; 
+                            this is no longer an agreeable amusement to <emph rend="italic">Dyphilius</emph>, 
+                            but a toilsome fatigue, which his Body can hardly undergo, he spends his days, 
+                            those days that pass away and never do return, in feeding his Birds and cleaning 
+                            them; he gives a <w key="man">man</w> 
+                            a Salary for no other service, but to teach them with a Flagellate, 
+                            and to take care that his Canary-birds tread one another; it is true, 
+                            what he spends in one hand, he spares on the other, for his Children have 
+                            neither Tutors nor Education; in the evening, tired with his own pleasure, 
+                            he shuts himself up without being able to enjoy the least repose till his 
+                            Birds are at roost, and these little Creatures that he only dotes on for their Song, 
+                            cease their Notes; he dreams of them in his sleep, he is himself 
+                            metamorphosed into a Bird, he is copple-crowned, he he chirrups, he perches, 
+                            he fancies in the night that he molts, that he is brooding.
+                         </p>
+                         <p>
+                            Who can describe all the different kinds of trivial curiosity; could you 
+                            imagine when you hear such one talk of his <emph rend="italic">Leopard</emph>, 
+                            of his <emph rend="italic">Plume</emph>, of his <emph rend="italic">Music</emph>, 
+                            and brag that they are the choicest and rarest Shells inn the World: could you 
+                            imagine that he intends to sell them? why not, if he bought them by their weight 
+                            in Gold.
+                         </p>
+                         <p>
+                            There’s another an admirer of Insects, he  augments his Collection every day; 
+                            he is the great Critic in <emph rend="italic">Europe</emph> at a Butterfly; 
+                            he has them of all sizes and colors.  What an unlucky time do you take to pay him 
+                            a Visit in? he's afflicted with bitter sorrow, is in a sour Chagrin temper, 
+                            to the plague of his whole Family; he has had an irreplaceable loss, go near him, 
+                            observe what he shows you on his finger, it is dead, just departed this Life, 
+                            it is a Caterpillar and such a Caterpillar! 
+                         </p>
+                         
+                </div>
+                <div corresp="#fr_M3" type="remark" n="13.3" xml:id="eng_M3">
+                   <p>Dueling is the triumph of the Fashion, and the thing in which she 
+                      as exercised her greatest Tyranny; this custom does not give the Coward 
+                      the liberty to live, it obliges him to go to be killed by a 
+                      <w key="man">man</w> of more bravery 
+                      than himself, and so makes him to fall undistinguished from a 
+                      <w key="man">man</w> of Courage; 
+                      it has entailed honor and renown on an action full of folly and extravagance; 
+                      it has obtained reputation by the presence of Kings, and sometimes has had 
+                      a sort of Religion to countenance its practice; it decided the innocence of
+                      <w key="man">Men</w>, 
+                      and whether Accusations in capital Crimes were true of false; it was so deeply 
+                      rooted in the opinion of the World, and got such an entire possession of the 
+                      minds of <w key="man">Men</w>,
+                      that it has been one of the most glorious actions of the Life of a most potent 
+                      Monarch to cure them of this folly.
+                   </p>
+                </div>
+                <div corresp="#fr_M4" type="remark" n="13.4" xml:id="eng_M4">
+                   <p>Such an one who was formerly in vogue either for commanding Armies, 
+                      for Negotiations, for the Eloquence of the Pulpit, or for Poetry, 
+                      is now obsolete and out of Fashion.  
+                      What, do <w key="man">men</w> degenerate form what they formerly were? 
+                      is it their Merit 
+                      which is out of date, or have we lost the Tate we had of them? </p>
+                </div>
+                <div corresp="#fr_M5" type="remark" n="13.5" xml:id="eng_M5">
+                   <p>
+                      A <w key="man">man</w> of Mode is not log so, for Fashions are very transitory; 
+                      if perchance he is a <w key="man">man</w> of Merit, he cannot suffer annihilation, 
+                      but by something or other will still subsist; equally worthy of estimation, 
+                      though he is less esteemed.
+                   </p>
+                   <p>
+                      Virtue has that happiness in her, that she can subsist of herself, 
+                      and that she knows how to exist without Admirers, Partisans, and Protectors; 
+                      the want of assistance and approbation does not only not affect her, but preserves, 
+                      purifies, and renders her more perfect; whether she be in Fashion, or out of Fashion, 
+                      she is still Virtue.
+                   </p>
+                </div>
+            </div>
+            <div corresp="#eng_N" xml:lang="french" type="chapter" n="14" xml:id="fr_N">
+                <head>De quelques usages</head>
+                <div corresp="#eng_N1" type="remark" n="14.1" xml:id="fr_N1">
+                    <p>Il y a des gens qui n'ont pas le moyen d'être nobles.</p> 
+                    <p>Il y en a de tels, que s'ils eussent obtenu six mois de délai de leurs créanciers, ils
+                        étaient nobles.</p>
+                    <p>Quelques autres se couchent roturiers et se lèvent nobles.</p>
+                    <p>Combien de nobles dont le père et les aînés sont roturiers ?</p>
+                </div>
+                <div corresp="#eng_N2" type="remark" n="14.2" xml:id="fr_N2">
+                    <p>Tel abandonne son père qui est connu, et dont l'on cite le Greffe et la
+                        boutique, pour se retrancher sur son aïeul, qui mort depuis longtemps
+                        est inconnu et hors de prise ; il montre ensuite un gros revenu, une
+                        grande charge, de belles alliances, et pour être noble, il ne lui manque
+                        que des titres.</p>
+                </div>
+                <div corresp="#eng_N3" type="remark" n="14.3" xml:id="fr_N3">
+                    <p>Réhabilitations, mot en usage dans les Tribunaux, qui a fait vieillir et
+                        rendu gothique celui de lettres de noblesse, autrefois si Français et si
+                        usité : se faire réhabiliter suppose qu'un <w key="homme">homme</w> devenu riche,
+                        originairement est noble, qu'il est d'une nécessité plus que morale
+                        qu'il le soit ; qu'à la vérité son père a pu déroger ou par la charrue, ou
+                        par la houe, ou par la malle, ou par les livrées ; mais qu'il ne s'agit
+                        pour lui que de rentrer dans les premiers droits de ses ancêtres, et de
+                        continuer les armes de sa maison, les mêmes pourtant qu'il a fabriquées,
+                        et tout autres que celles de sa vaisselle d'étain : qu'en un mot les
+                        lettres de noblesse ne lui conviennent plus ; qu'elles n'honorent que le
+                        roturier, c'est-à-dire celui qui cherche encore le secret de devenir
+                        riche.</p>
+                </div>
+                <div corresp="#eng_N4" type="remark" n="14.4" xml:id="fr_N4">
+                    <p>Un <w key="homme">homme</w> du peuple à force d'assurer qu'il a vu un prodige, se persuade
+                        faussement qu'il a vu un prodige : celui qui continue de cacher son âge,
+                        pense enfin lui-même être aussi jeune qu'il veut le faire croire aux
+                        autres : de même le roturier qui dit par habitude qu'il tire son origine
+                        de quelque ancien Baron ou de quelque Châtelain dont il est vrai qu'il
+                        ne descend pas, a le plaisir de croire qu'il en descend.</p>
+                </div>
+                <div corresp="#eng_N5" type="remark" n="14.5" xml:id="fr_N5">
+                    <p>Quelle est la roture un peu heureuse et établie, à qui il manque des
+                        armes, et dans ces armes une pièce honorable, des suppôts, un cimier,
+                        une devise, et peut-être le cri de guerre ; qu'est devenue la distinction
+                        des Casques et des <emph rend="italic">Heaumes</emph> ? 
+                        le nom et l'usage en sont abolis, il ne
+                        s'agit plus de les porter de front ou de côté, ouverts ou fermés, et
+                        ceux-ci de tant ou de tant de grilles ; on n'aime pas les minuties, on
+                        passe droit aux Couronnes, cela est plus simple, on s'en croit digne, on
+                        se les adjuge : il reste encore aux meilleurs Bourgeois une certaine
+                        pudeur qui les empêche de se parer d'une Couronne de Marquis, trop
+                        satisfaits de la Comtale ; quelques-uns même ne vont pas la chercher fort
+                        loin, et la font passer de leur enseigne à leur carrosse.</p>
+                </div>
+            </div>
+            <div corresp="#fr_N" xml:lang="english" type="chapter" n="14" xml:id="eng_N">
+               <head>Of Certain Customs</head>
+                <div corresp="#fr_N1" type="remark" n="14.1" xml:id="eng_N1">
+                   <p>
+                      There are some <w key="man">Men</w>, who want an Estate to make them 
+                      Gentle <w key="man">men</w>.
+                   </p>
+                   <p>
+                      There are others, who, if they could have put off their Creditors but one half year longer, 
+                      had been Gentle <w key="man">men</w>.
+                   </p>
+                   <p>
+                      Others again rise up Gentle <w key="man">men</w>, who were Plebeians 
+                      when they lay down. 
+                   </p>
+                   <p>
+                      How many Gentle <w key="man">men</w> are there, whose 
+                      Fathers and elder Brothers never pretended to the Title?
+                   </p>
+                </div>
+                <div corresp="#fr_N2" type="remark" n="14.2" xml:id="eng_N2">
+                   <p>WSuch a one disowns his Father, that is known to keep such a Farm, or such a Shop, 
+                      and brags of his Grandfather, who has been dead this long time, is unknown and forgotten; 
+                      he has a large Estate, a great place, and a Lord for his Son-in-law, 
+                      and was nothing but a Title to make him a Gentle <w key="man">man</w>.
+                   </p>
+                </div>
+                <div corresp="#fr_N3" type="remark" n="14.3" xml:id="eng_N3">
+                   <p>The King formerly was said to grant the Title of Gentle <w key="man">man</w>; the term of grant was then a 
+                      very proper and common expression but now it is old and obsolete: 
+                      That of rehabilitation is the only one in use; a <w key="man">man</w> who has got an Estate, 
+                      is rehabilitates in his Gentility; this intimates that he was originally a 
+                      Gentle <w key="man">man</w>; 
+                      that it is absolutely requisite he should be so; that his Father indeed may have forfeited 
+                      the Title by Ploughing, Digging, Peddling, or wearing a Livery, 
+                      but that he Son is now restored to the right of his Ancestors, and is only 
+                      continued in the possession of that same Coat of Arms they always had, 
+                      though perhaps one of his own Invention, and quite different from that on his Pewter: 
+                      In a word, it implies that a new Grant would not suit him, being proper only for the Plebeian, 
+                      that is, the <w key="man">Man</w> who still labors to be rich. </p>
+                </div>
+                <div corresp="#fr_N4" type="remark" n="14.4" xml:id="eng_N4">
+                   <p>A <w key="man">man</w> by often affirming he has seen some Prodigy, persuades 
+                      himself that he really has seen it: Another by concealing his Age, 
+                      comes to believe it at last, he is as young as he would be thought: 
+                      So the <w key="man">Man</w>, who meanly borne, has got a habit of talking of his being 
+                      descended from that Ancient Baron, or that great Lord, has the pleasure to 
+                      believe he is so descended, though the thing is false.</p>
+                </div>
+                <div corresp="#fr_N5" type="remark" n="14.5" xml:id="eng_N5">
+                   <p>What <w key="man">Man</w> is there that’s never so meanly born, who having got an Estate, 
+                      can want a Coat of Arms, and to this Coat a Crest, Supporters and Motto? 
+                      What is become of the Distinction of Casks and Helmets? the name and use of them are abolished, 
+                      it is no longer in dispute whether they should be born in front or sideways,
+                      close or open, with more or less Bars; such niceties are out of doors, 
+                      we are come to downright Coronets, we thing we are worthy of them, and bestow upon ourselves.  
+                      There are some of the better sort of Citizens that have a little modesty still left, 
+                      and use not the Ducal Coronet, being content with an Earls; some of them go not far for it, 
+                      but take it form their Signs to clap it upon their Coaches.</p>
+                </div>
+            </div>
+            <div corresp="#eng_O" xml:lang="french" type="chapter" n="15" xml:id="fr_O">
+                <head>De la chaire</head>
+                <div corresp="#eng_O1" type="remark" n="15.1" xml:id="fr_O1">
+                    <p>Le discours Chrétien est devenu un spectacle ; cette tristesse
+                        évangélique qui en est l'âme ne s'y remarque plus ; elle est suppléée par
+                        les avantages de la mine, par les inflexions de la voix, par la
+                        régularité du geste, par le choix des mots, et par les longues
+                        énumérations : on n'écoute plus sérieusement la parole sainte ; c'est une
+                        sorte d'amusement entre mille autres, c'est un jeu où il y a de
+                        l'émulation et des parieurs.</p>
+                </div>
+                <div corresp="#eng_O2" type="remark" n="15.2" xml:id="fr_O2">
+                    <p>L'éloquence profane est transposée, pour ainsi dire, du Barreau, où
+                        Le Maître, Pucelle, et Fourcroy l'ont fait régner, et où elle n'est plus
+                        d'usage, à la Chaire où elle ne doit pas être.</p>
+                    <p>L'on fait assaut d'éloquence jusqu'au pied de l'Autel, et en la
+                        présence des Mystères : celui qui écoute s'établit Juge de celui qui
+                        prêche, pour condamner ou pour applaudir ; et n'est pas plus converti par
+                        le discours qu'il favorise, que par celui auquel il est contraire.
+                        L'Orateur plaît aux uns, déplaît aux autres, et convient avec tous en
+                        une chose ; que comme il ne cherche point à les rendre meilleurs, ils ne
+                        pensent pas aussi à le devenir.</p>
+                    <p>Un apprenti est docile, il écoute son maître, il profite de ses
+                        leçons, et il devient maître : l'<w key="homme">homme</w> 
+                        indocile critique le discours du
+                        Prédicateur, comme le livre du Philosophe, et il ne devient ni Chrétien
+                        ni raisonnable.</p>
+                </div>
+                <div corresp="#eng_O3" type="remark" n="15.3" xml:id="fr_O3">
+                    <p>Jusqu'à ce qu'il revienne un <w key="homme">homme</w>, qui avec un style nourri des saintes
+                        Écritures, explique au peuple la parole divine uniment et familièrement,
+                        les Orateurs et les Déclamateurs seront suivis.</p>
+                </div>
+                <div corresp="#eng_O4" type="remark" n="15.4" xml:id="fr_O4">
+                    <p>Les citations profanes, les froides allusions, le mauvais pathétique,
+                        les antithèses, les figures outrées ont fini : les portraits finiront, et
+                        feront place à une simple explication de l'Évangile, jointe aux
+                        mouvements qui inspirent la conversion.</p>
+                </div>
+                <div corresp="#eng_O5" type="remark" n="15.5" xml:id="fr_O5">
+                    <p>Cet <w key="homme">homme</w> que je souhaitais impatiemment, et que je ne daignais pas
+                        espérer de notre siècle, est enfin venu ; les Courtisans à force de goût
+                        et de connaître les bienséances, lui ont applaudi, ils ont, chose
+                        incroyable ! abandonné la Chapelle du Roi, pour venir entendre avec le
+                        peuple la parole de Dieu annoncée par cet 
+                        <w key="homme">homme</w> Apostolique : la ville
+                        n'a pas été de l'avis de la Cour ; où il a prêché, les Paroissiens ont
+                        déserté, jusqu'aux Marguilliers ont disparu, les Pasteurs ont tenu
+                        ferme, mais les ouailles se sont dispersées, et les Orateurs voisins en
+                        ont grossi leur auditoire. Je devais le prévoir, et ne pas dire qu'un
+                        tel <w key="homme">homme</w> n'avait qu'à se montrer 
+                        pour être suivi, et qu'à parler pour être écouté : 
+                        ne savais-je pas quelle est dans les <w key="homme">hommes</w>, et en toutes
+                        choses, la force indomptable de l'habitude : depuis trente années on
+                        prête l'oreille aux Rhéteurs, aux Déclamateurs, aux <emph rend="italic">Enumérateurs</emph>, on
+                        court ceux qui peignent en grand, ou en miniature ; il n'y a pas longtemps
+                        qu'ils avaient des chutes ou des transitions ingénieuses, quelquefois
+                        même si vives et si aiguës qu'elles pouvaient passer pour épigrammes ;
+                        ils les ont adoucies, je l'avoue, et ce ne sont plus que des madrigaux :
+                        ils ont toujours, d'une nécessité indispensable et géométrique trois
+                        sujets admirables de vos attentions ; ils prouveront une telle chose dans
+                        la première partie de leur discours, cette autre dans la seconde partie,
+                        et cette autre encore dans la troisième ; ainsi vous serez convaincu
+                        d'abord d'une certaine vérité et c'est leur premier point, d'une autre
+                        vérité et c'est leur second point, et puis d'une troisième vérité, et
+                        c'est leur troisième point ; de sorte que la première réflexion vous
+                        instruira d'un principe des plus fondamentaux de votre Religion, la
+                        seconde d'un autre principe qui ne l'est pas moins, et la dernière
+                        réflexion, d'un troisième et dernier principe, le plus important de
+                        tous, qui est remis pourtant faute de loisir, à une autre fois : enfin,
+                        pour reprendre et abréger cette division, et former un plan... encore,
+                        dites-vous, et quelles préparations pour un discours de trois quarts
+                        d'heure qui leur reste à faire ! plus ils cherchent à le digérer et à
+                        l'éclaircir, plus ils m'embrouillent : je vous crois sans peine, et
+                        c'est l'effet le plus naturel de tout cet amas d'idées qui reviennent à
+                        la même, dont ils chargent sans pitié la mémoire de leurs auditeurs ; il
+                        semble, à les voir s'opiniâtrer à cet usage, que la grâce de la
+                        conversion soit attachée à ces énormes partitions : comment néanmoins
+                        serait-on converti par de tels Apôtres, si l'on ne peut qu'à peine les
+                        entendre articuler, les suivre et ne les pas perdre de vue ? Je leur
+                        demanderais volontiers qu'au milieu de leur course impétueuse ils
+                        voulussent plusieurs fois reprendre haleine, souffler un peu, et laisser
+                        souffler leurs auditeurs. Vains discours, paroles perdues ! le temps des
+                        Homélies n'est plus, les Basiles, les Chrysostomes ne le ramèneraient
+                        pas ; on passerait en d'autres Diocèses pour être hors de la portée de
+                        leur voix, et de leurs familières instructions ; 
+                        le commun des <w key="homme">hommes</w> aime
+                        les phrases et les périodes, admire ce qu'il n'entend pas, se suppose
+                        instruit, content de décider entre un premier et un second point, ou
+                        entre le dernier sermon et le pénultième.</p>
+                </div>
+            </div>
+            <div corresp="#fr_O" xml:lang="english" type="chapter" n="15" xml:id="eng_O">
+                <head>Of the Pulpit</head>
+                <div corresp="#fr_O1" type="remark" n="15.1" xml:id="eng_O1">
+                   <p>Preaching is nowadays become a mere show; that Evangelic Gravity, 
+                      which is so much the life of Preaching, is absolutely laid aside; 
+                      and an advantageous main, a pretty tone of the voice, an exactness of gesture, 
+                      choice of expression, and long enumerations, are thought to supply its place very well: 
+                      To attend seriously on the dispensation of the Holy Word is no longer customary: 
+                      Going to Church is an amusement, among a thousand others, and Preaching a diversion: 
+                      The Preachers play the Prize, and the Hearers bet upon their heads. 
+                   </p>
+                </div>
+                <div corresp="#fr_O2" type="remark" n="15.2" xml:id="eng_O2">
+                   <p>
+                      Profane Eloquence is transferred from the Bar, there it formerly reigned, to the Pulpit, 
+                      where it never ought to come.
+                   </p>
+                   <p>
+                      The Prize of Eloquence is fought even at the Altar,
+                      and before the Holy Mysteries: Every Hearer things himself a Judge of the Preacher, 
+                      to censure or applaud him; and is no more converted by the <w key="man">man</w> he favors, 
+                      than by him whom he condemns.  
+                      The Orator pleases some and offends others, but agrees with all in this; 
+                      That as he does not endeavor to render them better, 
+                      so they never trouble their heads about becoming so.
+                   </p>
+                   <p>
+                      The Apprentice that’s ducible, is attentive to his Master, profits by 
+                      his instructions, and becomes himself a Master of his profession: 
+                      the inducible person only censures the Preacher’s discourses, and the Philosopher works,
+                      and so improves himself neither in Religion nor Sense.
+                   </p>
+                </div>
+                <div corresp="#fr_O3" type="remark" n="15.3" xml:id="eng_O3">
+                   <p>Until such time as there arises a <w key="man">man</w>, who in a style formed on the Holy Scriptures, 
+                      but long study and converse with them, shall explain to the People the world of 
+                      God genuinely and familiarly; till then, I say, it is to be expected, that Orators and 
+                      Declaimers will be followed.</p>
+                </div>
+                <div corresp="#fr_O4" type="remark" n="15.4" xml:id="eng_O4">
+                   <p>Quotations from Profane Authors, cold Similes, the false Pathetic, Antitheses and Hyperboles, are out of doors; 
+                      Elaborate descriptions will one day follow them, and make way for the plain exposition of the Gospel,
+                      joined to the other means that effect Conversion.</p>
+                </div>
+                <div corresp="#fr_O5" type="remark" n="15.5" xml:id="eng_O5">
+                   <p>The <w key="man">man</w> for whom I have so impatiently wished, 
+                      but whom I durst not hope for in our Age, 
+                      is come at last; the Courtiers, whose good taste and knowledge in 
+                      Decencies could best distinguish him, have applauded him up to the Skies; 
+                      and what is a thing almost incredible, have left the King’s Chapel 
+                      to mix themselves with the Crowd, and hear the word of God 
+                      preached by this truly Apostolic <w key="man">man</w>: 
+                      The City was not of the same 
+                      opinion with the Court; in whatever Church he preached there, 
+                      not one of the Parishioners were to be found, the very Clerk and Sexton deserted: 
+                      the Pastors indeed stuck to him, but the Flocks were all dispersed, 
+                      while the Congregations of the neighboring Preachers were the fuller for them.  
+                      This is no more than what I ought to have foreseen, 
+                      who knowing the invincible power of Custom, ought to have said that 
+                      such a <w key="man">man</w> had no more to do but to show himself and to be followed, 
+                      to speak and to be heard: It is for these thirty years your Rhetoricians, 
+                      Declaimers, <emph rend="italics">Enumerators</emph>, 
+                      have been the only <w key="man">Men</w> in request,
+                      and such especially, who, 
+                      like Painters, can at pleasure draw in great or little; 
+                      it is not long since the Points and Witticisms that were used in 
+                      Sermons, were so smart and so ingenious, that they might have served for Epigrams; 
+                      now I confess, they are something softened, and may pass for Madrigals: 
+                      There are three things which these <w key="man">men</w> never fail to cry are absolutely necessary, 
+                      and infinitely worthy your attention; one thing they prove in the 
+                      first part of their discourse, another in the second, and another in the third; 
+                      so that you are to be convinced of one Truth, and that’s their first point of 
+                      Doctrine, of another Truth, and that’s the second point, 
+                      and then of a third Truth, and that’s their third point; in this manner, 
+                      the first reflection will instruct you in one of the fundamental 
+                      principles of your Religion, the second in another principle, 
+                      which is not less fundamental, and the last reflection in a third and last principle, 
+                      which is the most important of them all, but which for want of leisure 
+                      is reserved for another opportunity: In fine, to recollect 
+                      what has been said, to abridge this division, and to form a Scheme of
+                      What still, cry you, new matter, new preparations for a discourse of an hour longer? 
+                      It is in vain, the more these Gentle <w key="man">men</w> strive to digest and to clear it to me, 
+                      the less I shall understand it: I believe you indeed very easily, 
+                      for it is the most natural effect of such a mass and confusion of Ideas, 
+                      which come all to one and the same thing, but with which they unmercifully 
+                      burthen the memories of their Hearers; to see them though affect, and persist 
+                      in this custom, one would almost thing that the grace of Conversion was tied 
+                      up to such enormous divisions: But how is it possible we should be converted by 
+                      such Apostles, whom we can hardly him in fight? For my part, 
+                      I would beg them in the midst of their impetuous course to stop, 
+                      to give their audience and themselves a little time to breathe.  
+                      Oh the vain unprofitable Sermons nowadays! The time of the 
+                      <emph rend="italics">Homilies</emph> is now more, the <emph rend="italics">Basils</emph> , 
+                      the <emph rend="italics">Chrysostoms </emph>
+                      could not restore it; we should fly into other Dioceses, 
+                      to get out of the reach of their familiar discourses; 
+                      the generality of <w key="man">men</w> love fine phrases and handsome periods, 
+                      admire what they do not understand, suppose themselves to be instructed, 
+                      and content themselves with deciding between the first and second Doctrine, 
+                      or between the last Sermon, and the last but one..</p>
+                </div>
+            </div>
+            <div corresp="#eng_P" xml:lang="french" type="chapter" n="16" xml:id="fr_P">
+                <head>Des esprits forts</head>
+                <div corresp="#eng_P1" type="remark" n="16.1" xml:id="fr_P1">
+                    <p>Les Esprits forts savent-ils qu'on les appelle ainsi par ironie ! quelle
+                        plus grande faiblesse que d'être incertains quel est le principe de son
+                        être, de sa vie, de ses sens, de ses connaissances, et quelle en doit
+                        être la fin ? Quel découragement plus grand que de douter si son âme
+                        n'est point matière comme la pierre et le reptile, et si elle n'est
+                        point corruptible comme ces viles créatures ? N'y a-t-il pas plus de
+                        force et de grandeur à recevoir dans notre esprit l'idée d'un être
+                        supérieur à tous les êtres, qui les a tous faits, et à qui tous se
+                        doivent rapporter ; d'un être souverainement parfait, qui est pur, qui
+                        n'a point commencé et qui ne peut finir, dont notre âme est l'image, et
+                        si j'ose dire, une portion comme esprit, et comme immortelle ?</p>
+                </div>
+                <div corresp="#eng_P2" type="remark" n="16.2" xml:id="fr_P2">
+                    <p>Le docile et le faible sont susceptibles d'impressions, l'un en reçoit
+                        de bonnes, l'autre de mauvaises, c'est-à-dire que le premier est
+                        persuadé et fidèle, et que le second est entêté et corrompu ; ainsi
+                        l'esprit docile admet la vraie religion, et l'esprit faible, ou n'en
+                        admet aucune, ou en admet une fausse : or l'esprit fort ou n'a point de
+                        religion ou se fait une religion, donc l'esprit fort, c'est l'esprit
+                        faible.</p>
+                </div>
+                <div corresp="#eng_P3" type="remark" n="16.3" xml:id="fr_P3">
+                    <p>J'appelle mondains, terrestres ou grossiers, ceux dont l'esprit et le
+                        coeur sont attachés à une petite portion de ce monde qu'ils habitent, qui
+                        est la terre ; qui n'estiment rien, qui n'aiment rien au delà, gens aussi
+                        limités que ce qu'ils appellent leurs possessions ou leur domaine que
+                        l'on mesure, dont on compte les arpents, et dont on montre les bornes.
+                        Je ne m'étonne pas que des <w key="homme">hommes</w> qui s'appuient sur un atome,
+                        chancellent dans les moindres efforts qu'ils font pour sonder la vérité ;
+                        si avec des vues si courtes ils ne percent point à travers le Ciel et
+                        les Astres, jusques à Dieu même ; si ne s'apercevant point ou de
+                        l'excellence de ce qui est esprit, ou de la dignité de l'âme, ils
+                        ressentent encore moins combien elle est difficile à assouvir, combien
+                        la terre entière est au-dessous d'elle, de quelle nécessité lui devient
+                        un être souverainement parfait qui est Dieu, et quel besoin
+                        indispensable elle a d'une religion qui le lui indique, et qui lui en
+                        est une caution sûre. Je comprends au contraire fort aisément qu'il est
+                        naturel à de tels esprits de tomber dans l'incrédulité ou
+                        l'indifférence ; et de faire servir Dieu et la religion à la politique ;
+                        c'est-à-dire, à l'ordre et à la décoration de ce monde, la seule chose
+                        selon eux qui mérite qu'on y pense.</p>
+                </div>
+                <div corresp="#eng_P4" type="remark" n="16.4" xml:id="fr_P4">
+                    <p>Quelques-uns achèvent de se corrompre par de longs voyages, et perdent
+                        le peu de religion qui leur restait ; ils voient de jour à autre un
+                        nouveau culte, diverses moeurs, diverses cérémonies ; ils ressemblent à
+                        ceux qui entrent dans les magasins indéterminés sur le choix des
+                        étoffes qu'ils veulent acheter, le grand nombre de celles qu'on leur
+                        montre les rend plus indifférents, elles ont chacune leur agrément et
+                        leur bienséance ; ils ne se fixent point, ils sortent sans emplette.</p>
+                </div>
+                <div corresp="#eng_P5" type="remark" n="16.5" xml:id="fr_P5">
+                    <p>Il y a des <w key="homme">hommes</w> qui attendent à être dévots et religieux, que tout le
+                        monde se déclare impie et libertin ; ce sera alors le parti du vulgaire,
+                        ils sauront s'en dégager ; la singularité leur plaît dans une matière si
+                        sérieuse et si profonde; ils ne suivent la mode et le train commun que
+                        dans les choses de rien et de nulle suite : qui sait même s'ils n'ont pas
+                        déjà mis une sorte de bravoure et d'intrépidité à courir tout le risque
+                        de l'avenir ; il ne faut pas d'ailleurs que dans une certaine condition,
+                        avec une certaine étendue d'esprit, et de certaines vues, l'on songe à
+                        croire comme les savants et le peuple.</p>
+                </div>
+            </div>
+            <div corresp="#fr_P" xml:lang="english" type="chapter" n="16" xml:id="eng_P">
+               <head>Of the Wits, or Libertines</head>
+                <div corresp="#fr_P1" type="remark" n="16.1" xml:id="eng_P1">
+                   <p>Have the Libertines, who value themselves so much upon the title of Wits, have they, 
+                      I say, Wit enough to perceive that they are only called so by Irony? 
+                      What greater want of Wit can there be, 
+                      than to be doubtful of the principle of one’s being, 
+                      life, sense, knowledge, and of what ought to be the end of them? 
+                      What can more lessen any <w key="man">Man</w> than his questioning whether his 
+                      Soul is not material, like the Stone or Worm, or subject to corruption, 
+                      like the vilest Creatures? And is it not a much more real and nobler 
+                      sort of Wit that raises our Minds to the Idea of a Being superior 
+                      to all other Beings, by whom and for whom all things were made; 
+                      a Being who is sovereignly perfect and pure, who never had a beginning, 
+                      nor will ever have an end, of whom our Soul is the Image, of whom, 
+                      if I may so speak, it is a part, as it is Spiritual and Immortal?
+                   </p>
+                </div>
+                <div corresp="#fr_P2" type="remark" n="16.2" xml:id="eng_P2">
+                   <p>I call those <w key="man">Men</w> worldly, earthly, or brutish, whose hearts and minds are wholly 
+                      fixed on this small part of the Universe they are placed ins the Earth; 
+                      who set a value upon nothing, nor love anything beyond it; 
+                      whose Souls are as much confined, as that narrow spot of ground they call their Estate,
+                      the extend of which is measured, the Acres numbered, and the utmost bounds limited.  
+                      It is no wonder that such, who lean as it were on an Atom, should stumble 
+                      at the first step in their search after Truth; that with so short a fight they 
+                      should not reach beyond the Heavens and the Stars, to behold God himself; 
+                      that not being able to perceive the excellency of what is Spiritual, 
+                      or the dignity of the Soul, they should feel as little how difficult it is to falsify it, 
+                      how ,much the while Wold is inferior to it, how great a want it has of an all-perfect Being, 
+                      which is God, and to be assured of his reality.  On the contrary, 
+                      any one may soon perceive that incredulity and indifference are but natural to such 
+                      <w key="man">Men</w>; 
+                      that they make use of God and Religion as a piece of Policy only; that is, 
+                      as far as it may serve for the order and decoration of the World, 
+                      the only thing in their opinion, which deserves to be thought on.
+                      </p>
+                </div>
+                <div corresp="#fr_P3" type="remark" n="16.3" xml:id="eng_P3">
+                   <p>Some <w key="man">men</w>, by long traveling, give the finishing stroke to the corrupting their Judgment, 
+                      their Manners, and completely lose the little Religion they had left; they meet nail with 
+                      new Ways of Worship, new Manners, new Rites and Ceremonies: they imitate those who wander 
+                      about the Shops before they have resolved what kind of Stuff to buy, the variety of 
+                      choice disables them from choosing, each piece has something which pleases their fancy; 
+                      but unable to fix upon any they come away without purchasing. 
+                   </p>
+                </div>
+                <div corresp="#fr_P4" type="remark" n="16.4" xml:id="eng_P4">
+                   <p>There are some <w key="man">men</w> who defer the practice of Religion and Devotion 
+                      till such time as Lewdness and Impiety are professed by all; 
+                      which being then vulgar, they will avoid following the Crowd; 
+                      Singularity pleases them in so serious and so important a matter; 
+                      they only follow the Mode in things of no moment, and no consequence; 
+                      they have for ought I know, already placed a fort of bravery and undauntedness 
+                      in running all the risk of a future state.
+                   </p>
+                </div>
+                <div corresp="#fr_P5" type="remark" n="16.5" xml:id="eng_P5">
+                   <p>A <w key="man">man</w> in health questions where there is a God, as he does whether 
+                      Fornication be a sin: When he’s sick, and given over, 
+                      his Miss is laid aside, and he believes in God. 
+                   </p>
+                </div>
+            </div>
+        </body>
+     </text>
+</TEI>
+
+
+
+
