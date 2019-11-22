@@ -245,18 +245,18 @@
         Serges, Shags, Serge de Nisms, Calamaneoes, and all other Goods fit for Mens Apparel. The
         Persons who now keep the Shop designing to have off the Trade, and the House and Shop to ne
         Lett at Michaelmas next. </p>
-      <p>A convenient House to be Lett at <placeName>East-Acton in Middlesex</placeName>, four Rooms
+      <p><ref target="#F_S_9">A convenient House to be Lett</ref> at <placeName>East-Acton in Middlesex</placeName>, four Rooms
         on a Floor, wall'd in, with Caoch-house, Stabling, Orchard, Garden, and all Conveniencies
         belonging to it, in very good Repair. Whosoever takes it may into it as soon as they please.
         Inquire at <persName>Mr. Lumley</persName>'s, or at the House, both in
           <placeName>East-Acton</placeName> aforesaid.</p>
-      <p>All sorts of Silk Gowns, being in fresh Parcel of rich Brocades, Venetians, Tissues,
+      <p><ref target="#F_S_9">All sorts of Silk Gowns</ref>, being in fresh Parcel of rich Brocades, Venetians, Tissues,
         Tabbies, Damasks, and Sattins, bought up the last Sale, and made into Gowns, with gentile
         and suitable Linings, to be Sold very cheap at <persName>Mrs. Attaway</persName>'s in
           <placeName>Deveroux Court in the Passage from the Temple to the Essex
           Buildings</placeName>, the lowest Price being writ upon each Gown. Note, there is a fresh
         Parcel of thread Sattin Gowns lined with thread Sattins.</p>
-      <p>A most Incomparable Paste for the Hands, far exeeding anything ever yet in Print. It makes
+      <p>A most <ref target="#F_S_9">Incomparable Paste for the Hands</ref>, far exeeding anything ever yet in Print. It makes
         them Delicately white, sleeke and plump; fortifies them against the Scortching heat of the
         Fire or Sun, and Sharpness of the Wind, A Hand cannot be spiol'd but the use o' it will
         recover them. Sold only at <persName>Mr. Aller<gap reason="illegible"/> </persName>shop, over against
@@ -579,17 +579,19 @@
           <bibl>McGeary, Thomas. "Thomas Clayton and the Introduction of Italian Opera to England." Philological Quarterly, vol. 77, no. 2, 1998, p. 171.</bibl></note>
         <note xml:id="F_S_5" type="annotation"> Thomas Clayton was a minor composer of light opera in the period. 
           The illegible text likely reads, "Author of Arsinoe," his best known work.</note>
-        <note xml:id="F_S_6" type="editorial"> Dryden is also the source for a musical adaption in the adverstisments.
+        <note xml:id="F_S_6" type="editorial"> Dryden is also the source for a musical adaption in the adverstisements.
         As a preeminent poet and quotation generator in the peroid, Dryden's name attracts the reader's attention. 
         Here, the quotation of the literary heavyweight seems to provide comedic contrast.</note>
         <note xml:id="F_S_7" type="editorial"> Here, the puppet show, refering likely to the low-comedy of the Punch and Judy
         shows popular in the peroid, and Shakespearean plays are presented as the two poles of theater tastes.
-        The play mentioned in the advertisments, Susanna Centlivre's The Gamester, might be seen as operating somewhere in the middle. As a
+        The play mentioned in the advertisements, Susanna Centlivre's The Gamester, might be seen as operating somewhere in the middle. As a
         popular peroid work offering tragicomic entertainment about the perils of gambling, it is neither the slapstick of the puppet show
         nor the ontology of Hamlet or Othello.</note>
         <note xml:id="F_S_8" type="editorial"> Although Will Honeycombe is ficitional and not correlated  with 
         a singlular person but instead serves the varied purposes of The Spectator's authors, unlike Bruyère's Melanque, Moll Hinton was a real-life 17th C prostitute who worked in courtly circles.
         The nested narratives of this piece are mimicked in Honeycombe's offering of an unnarrativized character sketch of her.</note>
+        <note xml:id="F_S_9" type="editorial"> Despite the coffeeshop culture which The Spectator interacts with being a place
+        of social circulation, the advertisements offer a more accute depiction of the target audience as wealthier consumers like Will Honeycombe. </note>
       </div>
     </back>
   </text>
