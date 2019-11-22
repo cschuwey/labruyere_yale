@@ -56,7 +56,7 @@
                 </div>
                 <div corresp="#eng_A3" type="remark" n="1.3" xml:id="fr_A3">
                     <p>C’est un métier que de faire un livre comme de faire une pendule ; il faut plus que de l’esprit pour être auteur. 
-                        Un Magistrat allait par son mérite à la première dignité, il était <w key="homme">homme</w> délié 
+                        Un Magistrat allait par son <w key="merit">mérite</w> à la première dignité, il était <w key="homme">homme</w> délié 
                         et pratique dans les affaires ; il a fait imprimer un ouvrage moral qui est rare par le ridicule ?</p>
                 </div>
                 <div corresp="#eng_A4" type="remark" n="1.4" xml:id="fr_A4">
@@ -69,7 +69,7 @@
                 </div>
                 <div corresp="#eng_A6" type="remark" n="1.6" xml:id="fr_A6">
                     <p>Si l’on ôte de beaucoup d’ouvrages de Morale l’Avertissement au Lecteur, l’Epître Dédicatoire, la Préface, 
-                        la Table, les Approbations, il reste à peine assez de pages pour mériter le nom de livre.</p>
+                        la Table, les Approbations, il reste à peine assez de pages pour <w key="merit">mériter</w> le nom de livre.</p>
                 </div>
                 <div corresp="#eng_A7" type="remark" n="1.7" xml:id="fr_A7">
                     <p>Il y a de certaines choses dont la médiocrité est insupportable, la Poésie, la Musique, la Peinture, 
@@ -118,7 +118,7 @@
                     <p>This as much a Trade to make a Book, as to
                         make a Clock; there’s something more than Wit
                         necessary to make an Author. A certain Magistrate
-                        was advancing his Merits to the first Dignities of
+                        was advancing his <w key="merit">Merits</w> to the first Dignities of
                         the Gown, a <w key="man">Man</w> Subtle and Practiced in Business;
                         he printed a Treatise of Morality, 
                         that was extraordinary for its Ridiculousness.</p>
@@ -186,7 +186,7 @@
             <div corresp="#eng_B" xml:lang="french" type="chapter" n="2" xml:id="fr_B">
                 <head>Du mérite personnel</head>
                 <div corresp="#eng_B1" type="remark" n="2.1" xml:id="fr_B1">
-                    <p>Qui peut, avec les plus rares talents et le plus excellent mérite n'être pas convaincu de son inutilité ; 
+                    <p>Qui peut, avec les plus rares talents et le plus excellent <w key="merit">mérite</w> n'être pas convaincu de son inutilité ; 
                         quand il considère qu'il laisse, en mourant, un monde qui ne se sent pas de sa perte, et où tant de gens 
                         se trouvent pour le remplacer ?</p>
                 </div>
@@ -205,13 +205,13 @@
                 </div>
                 <div corresp="#eng_B4" type="remark" n="2.4" xml:id="fr_B4">
                     <p>Quelle horrible peine a un <w key="homme">homme</w> qui est sans prôneurs et sans cabale, qui n'est 
-                        engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de mérite pour toute recommandation, 
+                        engagé dans aucun corps, mais qui est seul, et qui n'a que beaucoup de <w key="merit">mérite</w> pour toute recommandation, 
                         de se faire jour à travers l'obscurité où il se trouve, et de venir au niveau d'un fat qui est en crédit.</p>
                 </div>
                 <div corresp="#eng_B5" type="remark" n="2.5" xml:id="fr_B5">
-                    <p>Personne presque ne s'avise de lui-même du mérite d'un autre.</p>
+                    <p>Personne presque ne s'avise de lui-même du <w key="merit">mérite</w> d'un autre.</p>
                     <p>Les <w key="homme">hommes</w> sont trop occupés d'eux-mêmes pour avoir le loisir de pénétrer ou 
-                        de discerner les autres : de là vient qu'avec un grand mérite et une plus grande modestie l'on peut être 
+                        de discerner les autres : de là vient qu'avec un grand <w key="merit">mérite</w> et une plus grande modestie l'on peut être 
                         longtemps ignoré.</p>
                 </div>
             </div>
@@ -219,12 +219,12 @@
                 <head>Of Personal Merit</head>
                 <div corresp="#fr_B1" type="remark" n="2.1" xml:id="eng_B1">
                    <p>Who is there that is not convinced, he is but a useless Person, though he has never so many good Qualities, 
-                       and never such an extraordinary Merit; when he considers that at his Death, he leaves  a World which is not 
+                       and never such an extraordinary <w key="merit">Merit</w>; when he considers that at his Death, he leaves  a World which is not 
                        like to miss him, and where there are such numbers to supply his Place.</p>
                 </div>
                 <div corresp="#fr_B2" type="remark" n="2.2" xml:id="eng_B2">
                    <p>All the worth of some People lies in their mighty Names; look but near them, and that which we took for 
-                       Merit disappears.  That was only the distance which imposed on us before.</p>
+                       <w key="merit">Merit</w> disappears.  That was only the distance which imposed on us before.</p>
                 </div>
                 <div corresp="#fr_B3" type="remark" n="2.3" xml:id="eng_B3">
                    <p>Though I am very well persuaded that those persons, who are chose for different Employments, every 
@@ -241,16 +241,16 @@
                 </div>
                 <div corresp="#fr_B4" type="remark" n="2.4" xml:id="eng_B4">
                    <p>How difficult is it for a <w key="man">Man</w>, without Cabal or Party, who is engaged with no Society, 
-                       or Body of Men, but who stands alone, and has nothing but a great deal of Merit for his Recommendation; 
+                       or Body of Men, but who stands alone, and has nothing but a great deal of <w key="merit">Merit</w> for his Recommendation; 
                        how difficult, I say, will it be for him to make his way though his Obscurity, and come to stand upon a 
                        Level with a Coxcomb in great Reputation!</p>
                 </div>
                 <div corresp="#fr_B5" type="remark" n="2.5" xml:id="eng_B5">
-                   <p>It is seldom that one <w key="man">Man</w>, of himself, find out the Merit of another.
+                   <p>It is seldom that one <w key="man">Man</w>, of himself, find out the <w key="merit">Merit</w> of another.
                    </p>
                       <p> 
                          <w key="man">Men</w> are so employed about themselves, that they have not the leisure to distinguish 
-                          and penetrate into others; which is the Cause that a great Merit, jointed to a great Modesty, may be a 
+                          and penetrate into others; which is the Cause that a great <w key="merit">Merit</w>, jointed to a great Modesty, may be a 
                           long time before it is discovered.
                       </p>
                 </div>
@@ -258,7 +258,7 @@
             <div corresp="#eng_C" xml:lang="french" type="chapter" n="3" xml:id="fr_C">
                 <head>Des femmes</head>
                 <div corresp="#eng_C1" type="remark" n="3.1" xml:id="fr_C1">
-                    <p>Les <w key="homme">hommes</w> et les <w key="femme">femmes</w> conviennent rarement sur le mérite 
+                    <p>Les <w key="homme">hommes</w> et les <w key="femme">femmes</w> conviennent rarement sur le <w key="merit">mérite</w> 
                         d'une <w key="femme">femme</w> ; leurs intérêts sont trop différents : les <w key="femme">femmes</w> 
                         ne se plaisent point les unes aux autres par les mêmes agréments qu'elles plaisent aux 
                         <w key="homme">hommes</w> ; mille manières qui allument dans ceux-ci les grandes passions, forment entre 
@@ -269,7 +269,7 @@
                         à un air de tête, aux façons de marcher, et qui ne va pas plus loin ; un esprit éblouissant qui impose, et que 
                         l'on n'estime que parce qu'il n'est pas approfondi. Il y a dans quelques autres une grandeur simple, naturelle, 
                         indépendante du geste et de la démarche, qui a sa source dans le coeur, et qui est comme une suite de leur 
-                        haute naissance ; un mérite paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir 
+                        haute naissance ; un <w key="merit">mérite</w> paisible, mais solide, accompagné de mille vertus qu'elles ne peuvent couvrir 
                         de toute leur modestie, qui échappent, et qui se montrent à ceux qui ont des yeux.</p>
                 </div>
                 <div corresp="#eng_C3" type="remark" n="3.3" xml:id="fr_C3">
@@ -295,7 +295,7 @@
             <div corresp="#fr_C" xml:lang="english" type="chapter" n="3" xml:id="eng_C">
                 <head>Of Women</head>
                 <div corresp="#fr_C1" type="remark" n="3.1" xml:id="eng_C1">
-                   <p>It is seldom that the Merit of a <w key="woman">Woman</w> is universally agreed on by both Sexes; their 
+                   <p>It is seldom that the <w key="merit">Merit</w> of a <w key="woman">Woman</w> is universally agreed on by both Sexes; their 
                        Interests are too different. The <w key="woman">Women</w> are displeased with those very same Beauties 
                        in another, which render them agreeable to the <w key="man">Men</w>.  A thousand Charms which inflame us 
                        with the most violent and tender Love, move in them quite contrary Passions, Aversion, and Malice.</p>
@@ -304,7 +304,7 @@
                    <p>The Greatness of some <w key="woman">Women</w> is all artificial: It consists in the Motions of their Eyes, 
                        the Toss of their Head, a Stately Mien, and a Superficial Wit, that passes on those who understand no better.  
                        There is in others an easy, natural Greatness, nothing beholden to Motions, Looks or Gesture, but springs 
-                       from the Heart, and is the happy Consequence of their noble Extraction: A Merit, not Noisy or Ostentatious, 
+                       from the Heart, and is the happy Consequence of their noble Extraction: A <w key="merit">Merit</w>, not Noisy or Ostentatious, 
                        but Solid, accompanied with a thousand Virtues, which, in spite of all their modesty, break out and shine 
                        to all who have Eyes to discern them.
                    </p>
@@ -470,11 +470,11 @@
                         d'autres de vivre contents.</p>
                 </div>
                 <div corresp="#eng_F2" type="remark" n="6.2" xml:id="fr_F2">
-                    <p>Une grande naissance, ou une grande fortune annonce le mérite et le fait plus tôt remarquer.</p>
+                    <p>Une grande naissance, ou une grande fortune annonce le <w key="merit">mérite</w> et le fait plus tôt remarquer.</p>
                 </div>
                 <div corresp="#eng_F3" type="remark" n="6.3" xml:id="fr_F3">
                     <p>Ce qui disculpe le fat ambitieux de son ambition, est le soin que l'on prend, s'il a fait une grande fortune, 
-                        de lui trouver un mérite qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
+                        de lui trouver un <w key="merit">mérite</w> qu'il n'a jamais eu, et aussi grand qu'il croit l'avoir.</p>
                 </div>
                 <div corresp="#eng_F4" type="remark" n="6.4" xml:id="fr_F4">
                     <p>À mesure que la faveur et les grands biens se retirent d'un <w key="homme">homme</w>, ils laissent voir 
@@ -495,12 +495,12 @@
                       belongs to other <w key="man">Men</w> perhaps to live content.</p>
                 </div>
                 <div corresp="#fr_F2" type="remark" n="6.2" xml:id="eng_F2">
-                   <p>A high Birth, or a great Fortune set off Merit, and makes it sooner to be distinguished.
+                   <p>A high Birth, or a great Fortune set off <w key="merit">Merit</w>, and makes it sooner to be distinguished.
                    </p>
                 </div>
                 <div corresp="#fr_F3" type="remark" n="6.3" xml:id="eng_F3">
                    <p>Some Excuse to an ambitious Coxcomb for his Ambition, is the Care he takes after his has raised his Fortune, 
-                       to find out some Merit which he never had before, to render him as worthy in our Opinions, as he is in his own.
+                       to find out some <w key="merit">Merit</w> which he never had before, to render him as worthy in our Opinions, as he is in his own.
                    </p>
                 </div>
                 <div corresp="#fr_F4" type="remark" n="6.4" xml:id="eng_F4">
@@ -576,7 +576,7 @@
                         un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier ; 
                         il ne se rend pas néanmoins, il cherche au contraire par la gravité et par la dépense 
                         à s'égaler à la magistrature, ou ne lui cède qu'avec peine : on l'entend dire que la noblesse 
-                        de son emploi, l'indépendance de sa profession, le talent de la parole, et le mérite personnel 
+                        de son emploi, l'indépendance de sa profession, le talent de la parole, et le <w key="merit">mérite</w> personnel 
                         balancent au moins les sacs de mille francs que le fils du Partisan ou du Banquier a su payer 
                         pour son Office.</p>
                 </div>
@@ -645,7 +645,7 @@
                        give place to the other: On the contrary, hey endeavor by their Gravity and Expense to equal them 
                        in Magistracy, and will not yield them without difficulty: They are often heard to say, that the 
                        Nobleness of their Employment, the Independency of their Profession, their Talent at Speaking, 
-                       and their Personal Merit, balance at least the Bags of Money, which the Sons of 
+                       and their Personal <w key="merit">Merit</w>, balance at least the Bags of Money, which the Sons of 
                        <emph rend="italic">Partisans</emph> or Bankers, paid for their Offices.
                    </p>
                 </div>
@@ -1235,12 +1235,12 @@
                     <p>Tel a été à la mode, ou pour le commandement des armées et la
                         négociation ou pour l'éloquence de la Chaire, ou pour les vers, qui n'y
                         est plus. Y a-t-il des <w key="homme">hommes</w> qui dégénèrent de ce qu'ils furent
-                        autrefois ? est-ce leur mérite qui est usé, ou le goût que l'on avait
+                        autrefois ? est-ce leur <w key="merit">mérite</w> qui est usé, ou le goût que l'on avait
                         pour eux ?</p>
                 </div>
                 <div corresp="#eng_M5" type="remark" n="13.5" xml:id="fr_M5">
                     <p>Un <w key="homme">homme</w> à la mode dure peu, car les modes passent ; s'il est par
-                        hasard <w key="homme">homme</w> de mérite, il n'est pas anéanti, et il subsiste encore par
+                        hasard <w key="homme">homme</w> de <w key="merit">mérite</w>, il n'est pas anéanti, et il subsiste encore par
                         quelque endroit ; également estimable, il est seulement moins estimé.</p>
                     <p>La vertu a cela d'heureux, qu'elle se suffit à elle-même, et
                         qu'elle sait se passer d'admirateurs, de partisans et de protecteurs ; le
@@ -1452,13 +1452,13 @@
                       for Negotiations, for the Eloquence of the Pulpit, or for Poetry, 
                       is now obsolete and out of Fashion.  
                       What, do <w key="man">men</w> degenerate form what they formerly were? 
-                      is it their Merit 
+                      is it their <w key="merit">Merit</w> 
                       which is out of date, or have we lost the Tate we had of them? </p>
                 </div>
                 <div corresp="#fr_M5" type="remark" n="13.5" xml:id="eng_M5">
                    <p>
                       A <w key="man">man</w> of Mode is not log so, for Fashions are very transitory; 
-                      if perchance he is a <w key="man">man</w> of Merit, he cannot suffer annihilation, 
+                      if perchance he is a <w key="man">man</w> of <w key="merit">Merit</w>, he cannot suffer annihilation, 
                       but by something or other will still subsist; equally worthy of estimation, 
                       though he is less esteemed.
                    </p>
@@ -1822,7 +1822,7 @@
                         naturel à de tels esprits de tomber dans l'incrédulité ou
                         l'indifférence ; et de faire servir Dieu et la religion à la politique ;
                         c'est-à-dire, à l'ordre et à la décoration de ce monde, la seule chose
-                        selon eux qui mérite qu'on y pense.</p>
+                        selon eux qui <w key="merit">mérite</w> qu'on y pense.</p>
                 </div>
                 <div corresp="#eng_P4" type="remark" n="16.4" xml:id="fr_P4">
                     <p>Quelques-uns achèvent de se corrompre par de longs voyages, et perdent
