@@ -357,14 +357,16 @@
                <sp who="#land">
                   <speaker>Land</speaker> 
                   <p>But the doctor waits-what excuse will
-                     you make him?</p></sp>
-                  <sp who="#frank">
+                     you make him?</p>
+               </sp>
+               <sp who="#frank">
                      <speaker>Frank</speaker> 
                      <p>Why none-I remember it was a maxim
                      with an attorney I once served, always to tell the 
                      truth-when a lie <!--lye--> could not serve his purpose better
                      -and I think we must e'en follow his example, at
-                     present.</p></sp>
+                     present.</p>
+                  </sp>
                   <sp who="#land">
                      <speaker>Land</speaker> 
                      <p>Then I'll run down again, tho' I make a 
@@ -374,6 +376,7 @@
                      <speaker>Frank</speaker> 
                      <p>I will but rub my eyes, and follow you.</p></sp>
             </div>
+             
             <div type="scene" n="2">
                <head>Scene II</head>
                <sp who="#frank"><speaker>Frank</speaker> <stage><hi rend="italics">standing silent for some time, falls into an immoderate 
@@ -403,6 +406,7 @@
                a physical reason for this.</p> 
                </sp>
             </div>
+             
             <div type="scene" n="3">
                <head>Scene III</head>
                <stage>Frank, Doctor Gruel, Landlady.</stage>
@@ -651,6 +655,7 @@
                   call it throwing herself away, to marry a young
                   fellow not worth a groat.</p></sp>
             </div>
+             
             <div type="scene" n="4">
                <head>Scene IV</head>
                <stage rend="smallcaps">Doctor Gruel, Landlady, Frank <hi rend="italics">out of breath.</hi></stage>
@@ -688,6 +693,7 @@
                      hear now what this whimsical gentleman will have to 
                      say for himself</p></sp>
             </div>
+             
             <div type="scene" n="5">
                   <head>Scene V</head>
                   <stage rend="smallcaps">Doctor Gruel, Frank, Shatterbrain.</stage>
@@ -799,6 +805,7 @@
                      and believe me, when I assure you, I long to see you 
                      one of my family.</p></sp>
                </div>
+             
              <div type="scene" n="6">
                  <head>Scene VI</head>
                  <stage rend="smallcaps">Shatterbrain, Frank.</stage>
@@ -907,6 +914,7 @@
                      <speaker rend="italics">Frank</speaker>
                      <p>I will, Sir, I will.</p></sp>
              </div>
+             
              <div type="scene" n="7">
                  <head>Scene VII</head>
                  <stage rend="smallcaps">Shatterbrain, Frank, Welldon.</stage>
@@ -995,10 +1003,117 @@
                          liberty.</p>
                  </sp>
              </div>
+             
              <div type="scene" n="8">
                  <head>Scene VIII</head>
-                 <stage rend="smallcaps">Welldon and afterwards Frank.</stage>
+                 <stage rend="smallcaps">Welldon <hi rend="italics">and afterwards</hi> Frank.</stage>
+                 <sp who="#welldon">
+                 <speaker rend="italics">Welldon</speaker>
+                     <p>Pray make no apologies&emdash;Unkind Flavia&emdash;but
+                         why do I upbraid her with unkindess, who may possibly 
+                         be in equal distress with myself?&emdash;If I can't
+                         prevent the match, it were better almost that I had got
+                         no intelligence of it&emdash;Yet he seems to be ignorant that
+                         I am his rival, and I will ﬂatter myself that my good
+                         genius has brought me here thus critically, to sound 
+                         the whole truth of the aﬀair; and by some unforeseen 
+                         means or other, make me instrumental to the 
+                         advancement of my own happiness.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Mr. Welldon! what's the matter.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker><!--Should we stick with the Well abbraviation?-->
+                     <p>But I deserve it all&emdash;Oh Frank, how shall
+                     I tell you!</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Out with it.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Your master is going to be married to the 
+                         only woman upon earth that can make me happy.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p><stage rend="italics">(Looking very gravely in his face)</stage>What a
+                         strange and unaccountable thing is love&emdash;which, like
+                         an inundation, turns every thing that stands in its way 
+                         topsy turvy&emdash;Misleads the judgment&emdash;blinds the 
+                         understanding&emdash;and, from reasonable creatures, leaves 
+                         us little better than whimpering idiots-The strongest 
+                         it overpowers&emdash;the most wary it circumvents&emdash;it
+                         smarts the wise man&emdash;and it tickles the fool.</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>What nonsense is this!&emdash;Do you laugh at me?</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>'Fore Cupid not I, Sir&emdash;But how, in 
+                         the name of common sense, can you imagine that I should
+                         be able to assist you?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Well, I don't know&emdash;I'm almost mad.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>So one would think&emdash;But if this young
+                         lady makes such tearing work in your heart, 'tis seven
+                         or eight days since her father oﬀered her to my 
+                         master&emdash;what have you been doing all this time?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Nothing&emdash;In daily expectation of receiving
+                        a letter from her, I never dreamt of any thing of this 
+                        kind, till a friend writ me word he heard such a report; 
+                        upon which, I immediately took horse, and
+                        judging that all access would be denied me at Doctor
+                        Gruel's, came here the moment I got my foot out of 
+                        the stirrup.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>And to what purpose?&emdash;You did not suppose 
+                         that my master would give her up to you?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>I supposed she should; nay, and I swear he 
+                     shall give her up to me&emdash;</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Fair and softly, good Sir&emdash;What would 
+                         you say now if I should tell you, that this match is 
+                         made up with the young lady's own consent; and that
+                         she likes Mr. Shatterbrain better than you?</p>
+                 </sp>
+                 <sp who="#welldon">
+                     <speaker rend="italics">Well</speaker>
+                     <p>Impossible!&emdash;If there be any such thing as
+                        faith or constancy, in woman. But I'll know the truth
+                        of that presently&emdash;I'll go to her father's house; by
+                        some means or other get admittance; and, if I ﬁnd
+                         her false&emdash;</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>You'll go hang yourself in your garters; a
+                         very heroic revenge truly&emdash;Well I shall not mention 
+                         a word to my master of what you have told me&emdash;
+                         but mum.</p>
+                 </sp>
              </div>
+             
              <div type="scene" n="9">
                  <head>Scene IX</head>
                  <stage rend="smallcaps">Welldon, Frank, Shatterbrain.</stage>
@@ -1057,6 +1172,79 @@
              <div type="scene" n="10">
                  <head>Scene X</head>
                  <stage rend="smallcaps">Frank, Shatterbrain.</stage>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Come, for Heaven's sake, Sir, get yourself
+                     away; the Doctor will imagine you have forgot 
+                     again.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Is there a chair at the door?</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>There's always half a score standing at the
+                     next coffee-house.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Well, the boy below will get me one.
+                        Do you take care of the things in the next room: 
+                        and, d'ye hear&emdash;what was I going to say?&emdash;Bring 
+                        my night-gown and slippers to Doctor Gruel's 
+                        precisely at ten.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>I'll take care, Sir.</p>
+                 </sp>
+                 <stage rend="italics">Frank goes out, and Shatterbrain takes his hat
+                    from the table as if going out too, but suddenly 
+                    stops at the door.</stage>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Frank, Frank.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p><stage rend="italics">Within</stage>Here, Sir, coming, Sir</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Frank, why don't you make haste, Frank?</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p><stage rend="italics">Entering</stage>What do you want, Sir?</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Nothing.<stage rend="italics">Exit with his hat over his night cap.</stage></p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>would think the absent Devil had possessed me, as
+                         <note type="text">There appears to be a missing line from the previous 
+                         page here.</note>
+                        well as him&emdash;Ho, sir!</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p><stage rend="italics">Returning</stage>What ails the fellow? What
+                     do you bawl so for?</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Your wig, Sir.</p>
+                 </sp>
+                 <sp who="#shatter">
+                     <speaker rend="italics">Shatter</speaker>
+                     <p>Well, Sir, and could not you say so,
+                        without making a noise as if the house was on ﬁre?
+                        Give it me.</p>
+                 </sp>
+             
              </div>
              <div type="scene" n="11">
                  <head>Scene XI</head>
