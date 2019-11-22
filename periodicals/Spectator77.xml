@@ -133,7 +133,7 @@
           were somewhat <foreign xml:lang="fr">mal a propos</foreign>, and undesigned.</p>
 
         <p>I chanced the other Day to go into a Coffee-house, where <persName ref="#Honeycombe"
-            rend="sc">WILL.</persName> was standing in the midst of several Auditors whom he had
+            rend="sc">Will</persName> was standing in the midst of several Auditors whom he had
           gathered around him, and was giving them<ref target="#F_S_6"> an Account of the Person and
             Character of <persName rend="italics">Moll Hinton</persName></ref>. My Appearance before
           him just put him in mind of me, without making him reflect that I was actually present. So
@@ -235,7 +235,7 @@
 
           <p><ref target="#F_S_4">The Entertainment of Musick</ref>, consisting of a Poets ca'led,
             The Passion of Sappho, Written by <persName>Mr. Harison</persName>, and <ref
-              target="#F_S_1" type="annotation">The F <gap reason="illegible"/> of Alexander</ref>,
+              target="#F_S_1">The F <gap reason="illegible"/> of Alexander</ref>,
             Written by <persName>Mr. Dryden</persName>, as they are Set to Musick by <ref
               target="#F_S_5"><persName>Mr. Thomas Clayton</persName> (Author of <gap
                 reason="illegible"/> ) </ref>will be Preformed at his <gap reason="illegible"/> in
@@ -547,25 +547,24 @@
           on their own, the character keys confirm that the sketches are true to life and offer
           historical and social context. </note>
         
-     
       </div>
-      <div type="AdvertismentNotes">
-        <note xml:id="F_S_1" type="note">Likely Alexander's Feast.</note>
-        <note xml:id="F_S_2" type="note"> This is a revival of Susanna Centlivre's 1705 The
+      <div type="AdvertismentAnnotations">
+        <note xml:id="F_S_1" type="annotation">Likely Alexander's Feast.</note>
+        <note xml:id="F_S_2" type="annotation"> This is a revival of Susanna Centlivre's 1705 The
           Gamester. Centlivre was an English playwright whose comedies were often preformed at the
           Theatre Royal at Drury Lane, with The Gamester having been performed every year since its
           premiere. For more information, see The Celebrated Mrs. Centlivre by John Wilson
           Bowyer.</note>
-        <note xml:id="F_S_3" type="note"> This section of advertisment has a large quantity of
+        <note xml:id="F_S_3" type="annotation"> This section of advertisment has a large quantity of
           smudges. However, it is possible to create a more complete (though not comprehensive)
           version can be found by examining the character list from Centlivre play.</note>
-        <note xml:id="F_S_4" type="note"> This was the second of three concerts, the others taking
+        <note xml:id="F_S_4" type="annotation"> This was the second of three concerts, the others taking
           place on May 24 and July 16, which had been organized at the behest of Richard Steele in
           which the poet John Hughes' reworking of Dryden's Alexander's Feast and William Harrison's
           The Passion of Sappho were adapted for music by Thomas Clayton. For more information, see
           Thomas McGeary's article "Thomas Clayton and the Introduction of Italian Opera to
           England." </note>
-        <note xml:id="F_S_5" type="note"> Thomas Clayton was a minor composer of light opera in the
+        <note xml:id="F_S_5" type="annotation"> Thomas Clayton was a minor composer of light opera in the
           period. The illegible text likely reads "Author of Arsinoe," his best known work.</note>
       </div>
     </back>
