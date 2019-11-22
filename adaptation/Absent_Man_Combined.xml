@@ -298,69 +298,69 @@
             <head>Act 1</head>
             <div type="scene" n="1">
                <head>Scene I</head>
-               <stage><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
+               <stage rend="italics"><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
                Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
                enters in a hurry.</stage>
                <sp who="#land"> 
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Mr. Frank-Mr. Frank!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>What's the matter?</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Rouse, rouse, man!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Is my master come home?</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Your master come home? no, he's not-
                but there's the Doctor below in his chariot, come to 
                carry him to his bride.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Yaw-have I slept long?</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>You are asleep still, one would think-I 
                tell you there is your master's father-in-law that is to
                be, come to fetch him away!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>My master's father-in-law that is to be, 
                come to fetch him away!</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Ay.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>Well-what shall we do?</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Nay, I don't know-I come to ask you.</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>If I was not acquainted with my master
                now, I should naturally conclude that the had either
                hanged, or drown'd himself in order to aviod being
                married.</p></sp>
                <sp who="#land">
-                  <speaker>Land</speaker>
+                  <speaker rend="italics">Land</speaker>
                   <p>Oh, he's a sad gentleman!</p></sp>
                <sp who="#frank">
-                  <speaker>Frank</speaker>
+                  <speaker rend="italics">Frank</speaker>
                   <p>He is a little out of the way sometimes, 
                indeed.</p></sp>
                <!--<fw type="footer" place="bottom-center">B</fw>
                <fw type="footer" place="bottom-right">Land.</fw> -->
                <sp who="#land">
-                  <speaker>Land</speaker> 
+                  <speaker rend="italics">Land</speaker> 
                   <p>But the doctor waits-what excuse will
                      you make him?</p>
                </sp>
                <sp who="#frank">
-                     <speaker>Frank</speaker> 
+                     <speaker rend="italics">Frank</speaker> 
                      <p>Why none-I remember it was a maxim
                      with an attorney I once served, always to tell the 
                      truth-when a lie <!--lye--> could not serve his purpose better
@@ -368,24 +368,24 @@
                      present.</p>
                   </sp>
                   <sp who="#land">
-                     <speaker>Land</speaker> 
+                     <speaker rend="italics">Land</speaker> 
                      <p>Then I'll run down again, tho' I make a 
                      strange dirty figure. <stage><hi rend="italic">(Looking at herself in the Glass.)</hi></stage>
                      Lord! How I'm alter'd withiin these twelve years.</p></sp>
                   <sp who="#frank">
-                     <speaker>Frank</speaker> 
+                     <speaker rend="italics">Frank</speaker> 
                      <p>I will but rub my eyes, and follow you.</p></sp>
             </div>
              
             <div type="scene" n="2">
                <head>Scene II</head>
-               <sp who="#frank"><speaker>Frank</speaker> <stage><hi rend="italics">standing silent for some time, falls into an immoderate 
+               <sp who="#frank"><speaker rend="italics">Frank</speaker> <stage><hi rend="italics">standing silent for some time, falls into an immoderate 
                   fit of Laughter.</hi></stage>
-               <p>Well, if ever I (laughs again.) If ever I heard the 
+                   <p>Well, if ever I <stage rend="italics">(laughs again.)</stage>If ever I heard the 
                likes of this since I was born, I wish I may be married
                to a woman of three-score, with the constitution 
                of a girl of sixteen&emdash;Why it will be the general hoke 
-               of the whole town&emdash;that a man, (Laughs again) that 
+               of the whole town&emdash;that a man, <stage rend="italics">(Laughs again)</stage> that 
                a man should be such a&emdash;but stay&emdash;I'll tell the story
                to myself, and try how it will be found&emdash;Doctor Gruel, 
                a physicial of noted worth and eminence, comes to 
@@ -409,7 +409,7 @@
              
             <div type="scene" n="3">
                <head>Scene III</head>
-               <stage>Frank, Doctor Gruel, Landlady.</stage>
+               <stage rend="smallcaps">Frank, Doctor Gruel, Landlady.</stage>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker> 
                   <p>So young man, where's your master?</p></sp>
@@ -844,9 +844,9 @@
                      <speaker rend="italics">Shatter</speaker>
                      <p>If he should, let him know I shall be glad
                          to see him at Doctor Gruel's, which will be my
-                         place of reﬁdence henceforward. <stage rend="italics">After picking his teeth, 
+                         place of reﬁdence henceforward. <stage rend="italics">(After picking his teeth, 
                          in a negligent manner, while Frank seems to put
-                         his things in order.</stage>Well! upon my soul, Mrs.
+                         his things in order.)</stage>Well! upon my soul, Mrs.
                          Junket is a very agreeable woman, and so is her
                          friend, Miss Frolick. I have not spend a day more 
                          pleasantly a great while&emdash;</p></sp>
@@ -875,9 +875,9 @@
                      <p>Now, if you'll sit down, Sir, and let me
                         put this cloth about you, I'll make your chin 
                         as smooth as the surface of a bowling green in a 
-                        twinkling&emdash; <stage rend="italics">Shatterbrain sits down to be shaved;
+                        twinkling&emdash; <stage rend="italics">(Shatterbrain sits down to be shaved;
                         Frank puts on the shaving cloth. Shatterbrain talking 
-                        while the servant lathers him</stage></p></sp>
+                        while the servant lathers him)</stage></p></sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
                      <p>Apropos, Frank, cou'd you ever learn 
@@ -894,7 +894,7 @@
                          it from me, as I was getting oﬀ the horse&emdash;</p></sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">aside</stage>It's well your legs are not loose, we should 
+                     <p><stage rend="italics">(aside)</stage>It's well your legs are not loose, we should 
                          soon have you reduced to your stumps</p></sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
@@ -921,9 +921,9 @@
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
                      <p>My dear Welldon, ten thousand welcomes.</p>
-                     <stage type="setting">Shatterbrain,<hi rend="italic"> forgetting the condition he is in,
-                     rises with the cloth about him, and runs and salutes</hi> 
-                     Welldon<hi rend="italic"> on both sides of the face</hi></stage>
+                     <stage rend="italics">(Shatterbrain, forgetting the condition he is in,
+                     rises with the cloth about him, and runs and salutes 
+                     Welldon on both sides of the face)</stage>
                      <p>My fellow tells me you have designed me this favour 
                         two or three times to day.</p>
                  </sp>
@@ -1208,7 +1208,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">Within</stage>Here, Sir, coming, Sir</p>
+                     <p><stage rend="italics">(Within)</stage>Here, Sir, coming, Sir</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
@@ -1216,7 +1216,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">Entering</stage>What do you want, Sir?</p>
+                     <p><stage rend="italics">(Entering)</stage>What do you want, Sir?</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
@@ -1231,7 +1231,7 @@
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
-                     <p><stage rend="italics">Returning</stage>What ails the fellow? What
+                     <p><stage rend="italics">(Returning)</stage>What ails the fellow? What
                      do you bawl so for?</p>
                  </sp>
                  <sp who="#frank">
@@ -1254,7 +1254,7 @@
                      <p>Thanks to Providence, he's gone at last.</p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>At last, indeed!</p>
                  </sp>
                  <stage type="business"><hi rend="italics">(A violent knocking at the door.)</hi></stage>
@@ -1264,7 +1264,7 @@
                      </p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>Lord be merciful to me, I'm sure no such
                          visitors come to me. <stage type="business"><hi rend="italics">(Knocking again.)</hi></stage>Again&emdash;
                          why, Sally, Susan! Are you all deaf? One had 
@@ -1278,7 +1278,7 @@
                      </p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>L<stage type="business"><hi rend="italics">(Having gone to the door.)</hi></stage> I can't tell; there's
                          a whole coach full enquiring for your master.
                      </p>
@@ -1288,7 +1288,7 @@
                      <p>My master!</p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>See if they are not coming out!</p>
                  </sp>
                  <sp who="#frank">
@@ -1297,13 +1297,212 @@
                          at Richmond, by the mackins.</p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>What do they want here, I wonder!</p>
                  </sp>
              </div>
              <div type="scene" n="12">
                  <head>Scene XII</head>
                  <stage rend="smallcaps">Mrs. Junket, Miss Frolick, Slang, Coxcomb, the Company enter laughing.</stage>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>But where's Shatterbrain?&emdash;I want him
+                         to pay me my two and twenty shillings:
+                         Shatterbrain, you poor brute, where are you?</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>Mr. Shatterbrain</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>Mr Shatterbrian.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Suppose, Sir, you were to imform your 
+                         master that we are here.</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>My master is not at home, Madam.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Not at home!</p>
+                 </sp>
+                 <sp who="#slang"> 
+                     <speaker rend="italics">Slang</speaker>
+                     <p>What will you do now?</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>Why he left us as soon as he eat his
+                         dinner, with an intent of coming home directly. If 
+                         he is no better a walker, he might as well have stay'd 
+                         for the coach.</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>And yet I thought he set out a good round
+                     pace too.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>I take my death this is very pretty; I
+                        wonder we did not pass him on the road!&emdash;But he is 
+                        such a strange creature! I'll be hang'd if he has not 
+                        gone some round-about way.&emdash;I wish now we had not
+                        been in such a hurry to leave Richmond, for ten to
+                        one whether he'll be in this half hour.</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>And all this time we shall have 
+                     nothing to do.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Here's four of us ; what if we sat down
+                        to a game at cards? 'twill serve to amuse us a little,
+                         and I want to win some money&emdash;Your master has 
+                         invited us to supper, Sir, so since he is not come in yet,
+                         if you'll set the card-table, and get a couple of packs
+                         of cards, we'll play a game or two till he does&emdash;
+                         Heigh ho!</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>Madam!&emdash;Invited them to supper!</p>
+                 </sp>
+                 <sp who="#land">
+                     <speaker rend="italics">Land</speaker>
+                     <p>Oh crimine!</p>
+                 </sp>
+                 <sp who="#frank">
+                     <speaker rend="italics">Frank</speaker>
+                     <p>My master has been at home, Madam,
+                         and is gone out again for the remainder of the night.</p>
+                 </sp>
+                 <sp who="#slang"> 
+                     <speaker rend="italics">Slang</speaker>
+                     <p>A fair hum, by the Lord.</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>Is this not high?</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>I am at a loss what to make on't.&emdash;You 
+                     know where he is gone, I presume?</p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker rend="italics">Land</speaker>
+                     <p>Yes, Madam, he's gone to be married.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>How!</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>This is better and better.</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>'Tis something funny, faith.</p>
+                 </sp>
+                 <sp who="#slang"> 
+                     <speaker rend="italics">Slang</speaker>
+                     <p>I wish, however, he had omitted the jest of
+                     <note type="text">Remainder of page missing. The
+                     words "ommitted the jest of" are half cut off.</note></p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker rend="italics">Land</speaker>
+                     <p>Nay, Sir, don't be angry with him, I'll 
+                         be sworn he did not think of it then&emdash;The Doctor 
+                         came for him himself&emdash;He has but just leſt the house.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Hist&emdash;What Doctor came here for him?</p>
+                 </sp>
+                 <sp who="#land"> 
+                     <speaker rend="italics">Land</speaker>
+                     <p>Dr. Gruel Madam&emdash;</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Whose daughter he is gone to be married 
+                        to, depend upon't. I heard something of this 
+                        before&emdash;Frolick, do you remember a letter I read 
+                        you, somse time ago concerning a certain relation of 
+                        mine and Flavia Gruel? Perhaps one of you may
+                         know him, Billy Welldon.</p>
+                 </sp>
+                 <sp who="#slang"> 
+                     <speaker rend="italics">Slang</speaker>
+                     <p>Yes, I have seen him about the Garden.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>'Tis scarce a month since he was within 
+                         a kiss of snapping up this girl&emdash;Poor fellow, I wish 
+                         he had got her&emdash;But her old father is such a&emdash;</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>Oh, and old huncks! and loves money by all accounts.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                 <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>By the way, I could put you in a 
+                         method of playing a charming trick&emdash;What if we were 
+                         to follow Shatterbrain to Doctor Gruel's?</p>
+                     </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>An admirable project.</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>But of your own proposing, ladies, remember that.</p>
+                 </sp>
+                 <sp who="#slang"> 
+                     <speaker rend="italics">Slang</speaker>
+                     <p>Damn me, I'll do anything.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>Give me your hand, then&emdash;This will be 
+                        serving Shatterbrain right for the manner he has 
+                        treated us. Besides, I owe the Doctor a grudge on 
+                        my cousin's account, and I know it will fret his guts 
+                        to fiddle-strings. Frolick, what do you think of this?</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>It diverts me of all things.</p>
+                 </sp>
+                 <sp who="#junket"> 
+                     <speaker rend="italics">Mrs. Jun</speaker>
+                     <p>She and I are very intimate there&emdash;
+                     But what do we stay for?&emdash;follow your leader.</p>
+                 </sp>
+                 <sp who="#coxcomb"> 
+                     <speaker rend="italics">Cox</speaker>
+                     <p>Madam will you do me the honor of your
+                     little finger?</p>
+                 </sp>
+                 <sp who="#frolick"> 
+                     <speaker rend="italics">Miss Frolick</speaker>
+                     <p>Heavens! Don't hurry one so&emdash;
+                     <stage rend="italics">(Treading on her toes, as they go our she pushes him.)</stage>
+                     Oh, you devil, you have kill'd my corns.</p>
+                 </sp>
+                 
              </div>
              <div type="scene" n="13">
                  <head>Scene XIII</head>
@@ -1317,7 +1516,7 @@
                      </p>
                  </sp>
                  <sp who="#land"> 
-                     <speaker>Land</speaker>
+                     <speaker rend="italics">Land</speaker>
                      <p>No, no; if there be any words about it, I'll
                          take the fault upon myself. Will you step into the
                          parlour, and drink a dish of tea? And afterwards
@@ -1335,9 +1534,7 @@
                      </p>
                  </sp>
              </div>
-         </div> <!--Act 1 div-->
-
-               
+         </div> <!--Act 1 div-->    
       </body>
     </text>  
 </TEI>
