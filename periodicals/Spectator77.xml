@@ -155,13 +155,13 @@
           to an agreeable Extravagance; with the Heads of it I shall conclude my present Paper.</p>
 
         <quote type="paraphrase">
-          <p><ref target="#F_MK_2">
-              <persName ref="#Menalque" rend="italics">Menalcas</persName></ref> (says that
+          <p>
+              <persName ref="#Menalque" rend="italics">Menalcas</persName> (says that
             excellent author) comes down in a Morning, opens his Door to go out, but shuts it again,
             because he perceives that he has his Night-cap on; and, examining himself further finds
             that he is but half shaved, that he has stuck his Sword on his right side, that his
             Stockings are about his Heels, and that his Shirt is over his Breeches. <ref
-              target="#F_MK_1">When he is dress'd, he goes to Court, comes into the Drawing-room,
+              target="#F_B_7">When he is dress'd, he goes to Court, comes into the Drawing-room,
               and walking bolt upright under a branch of Candlesticks his Wigg is caught up by one
               of them, and hangs dangling in the Air.</ref> All the Courtiers fall a laughing, but
               <persName ref="#Menalque" rend="italics">Menalcas</persName> laughs louder than any of
@@ -313,12 +313,12 @@
           lui faire place. Il cherche , il broüille , il crie , il s’échauffe , il appelle ses
           valets l’un après l’autre , <said rend="italics">on lui perd sous , on lui égare tout
             ,</said> il demande ses gants qui’il a dans ses mains ; semblable à cette femme qui
-          prenoit le temps de demander son masque , lors qu’elle l’avoit sur son visage. Il entre à
+          prenoit le temps de demander son masque , lors qu’elle l’avoit sur son visage. <ref target="#F_B_7">Il entre à
           l’appartement , &amp; passé sous un lustre où sa perruque s’accroche &amp; demeure
           suspenduë , tous les Courtisans regardent &amp; rient <persName ref="#Menalque"
             >Menalque</persName> regarde aussi , &amp; rit plus haut que les autres , il cherche des
           yeux dans toute l’assemblée où est celui qui montre ses oreilles , &amp; à qui il manque
-          une perruque. S'il va par la <pb n="281"/> Ville , aprés avoir faire quelque chemin , il
+          une perruque.</ref> S'il va par la <pb n="281"/> Ville , aprés avoir faire quelque chemin , il
           se croit égaré , il s'ément , &amp; il demande où il est à des passans , qui lui disent
           précisément le nom de sa ruë ; il entre ensuire dans sa maison, d'où il fort
           précipitamment, croiant qu'il s'est trompé. Il descend du Palais, &amp; trouvant au bas du
@@ -539,37 +539,15 @@
           circles. Just as La Bruyère based the fictional Menalque on the historical Monsieur de
           Brancas, Budgell nests this historical figure in Honeycombe's portrait, creating a
           metanarrative. </note>
-
-        <note xml:id="F_MK_1" type="editorial"> The keys to Les Caractères note that this incident
-          is inspired by a real life incident that occurred to Monsieur de Brancas at a reception
-          held by the Queen Mother. La Bruyère's inclusion of this humorous anecdote, which seems
-          the sort of thing to make the gossip rounds, would likely have made his fictionalization
-          of de Brancas more transparent. This incident seems to particularly tread a thin line
-          between the keys validating the character sketches as true to life and in maintianing
-          enough readerly distance that the reader does not merely examine the portraits in an
-          effort to decode the character identities.</note>
-        <note xml:id="F_MK_2" type="annotation"> Keys to the Characters decipher this person to be
-          M. de Brancas <p n="fr">266. <hi rend="italics">Menelaque</hi>. Feu <persName>M. de
-              Brancas</persName>, Chevalier d’honneur de la Reine-mere, frere de <persName>M. le Duc
-              de Villars</persName>. L’on conte de lui différentes fortes d’absence d’esprit.
-            L’aventure de la perruque , dont il est parlé ici, lui arriva chez la Reine. L'on veut
-            qu’il oublia le jour de ses nôces , qu’il étoit marié avec <persName>Mademoiselle
-              Garnier</persName> , fille du Partisan : &amp; que le soir, retournant chez lui à son
-            ordinaire , il sut surpris de n’y point trouver ses Valets de chambre , qu’il apprit
-            être allés mettre la toilette chez fa nouvelle femme : ce qui le fit ressouvenir de la
-            cérémonie du matin. <bibl>Clef des Characteres dde La Bruyere. 1765.</bibl>
-          </p>
-          <p n="en"> Charactères, Chap. xi. de l'Homme.<persName> La Bruyère</persName>'s
-              <persName>Menalque</persName> was identified with a <persName>M. de
-            Brancas</persName>, brother of the <persName>Duke de Villars</persName>. The adventure
-            of the wig is said really to have happened to him at a reception by the Queen-Mother. He
-            was said also on his wedding-day to have forgotten that he had been married. He went
-            abroad as usual, and only remembered the ceremony of the moming upon finding the changed
-            state of his household when, as usual, he came home in the evening, <bibl>The Spectator
-              Project: A Hypermedia Research Archive of Eighteenth-Century Periodicals. Rutgers
-              University Libraries, 2006.
-              http://www2.scc.rutgers.edu/spectator/complete.html.</bibl>
-          </p></note>
+        <note xml:id="F_B_7" type="editorial"> A character key included in the Clef des Caractères
+          de La Bruyère (1765) notes that this is inspired by a real incident involving Monsieur de
+          Brancas at a reception held by the Queen Mother. La Bruyère's inclusion of this humorous
+          anecdote, which seems the sort of thing to make the gossip rounds, would likely have made
+          his fictionalization of de Brancas more transparent. Although La Bruyère's portraits stand
+          on their own, the character keys confirm that the sketches are true to life and offer
+          historical and social context. </note>
+        
+     
       </div>
       <div type="AdvertismentNotes">
         <note xml:id="F_S_1" type="note">Likely Alexander's Feast.</note>
