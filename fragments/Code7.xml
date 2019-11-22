@@ -571,7 +571,7 @@
                 </div>
                 <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
                     <p>Il y a dans la ville la grande et la petite robe ; et la première se venge sur l'autre des dédains 
-                        de la Cour, et des petites humiliations qu'elle y essuie ; de savoir quelles sont leurs limites, 
+                        de la <w key="court">Cour</w>, et des petites humiliations qu'elle y essuie ; de savoir quelles sont leurs limites, 
                         où la grande finit, et où la petite commence, ce n'est pas une chose facile : il se trouve même 
                         un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier ; 
                         il ne se rend pas néanmoins, il cherche au contraire par la gravité et par la dépense 
@@ -639,7 +639,7 @@
                 </div>
                 <div corresp="#fr_G5" type="remark" n="7.5" xml:id="eng_G5">
                    <p>In the City there is the greater Robe and the less: The first of these revenge themselves on the other, 
-                       for the Contempt and the Mortifications they meet with at the Court: It is not easily known where 
+                       for the Contempt and the Mortifications they meet with at the <w key="court">Court</w>: It is not easily known where 
                        the greater ends, or where the less begins, there being a considerable body of those who refused 
                        to be of the second Order, and who are not yet allowed to the of the first: They will not however 
                        give place to the other: On the contrary, hey endeavor by their Gravity and Expense to equal them 
@@ -654,26 +654,26 @@
                 <head>De la cour</head>
                 <div corresp="#eng_H1" type="remark" n="8.1" xml:id="fr_H1">
                     <p>Le reproche en un sens le plus honorable que l'on puisse faire à un <w key="homme">homme</w>, 
-                        c'est de lui dire qu'il ne sait pas la Cour ; il n'y a sorte de vertus qu'on ne rassemble en 
+                        c'est de lui dire qu'il ne sait pas la <w key="court">Cour</w> ; il n'y a sorte de vertus qu'on ne rassemble en 
                         lui par ce seul mot.</p>
                 </div>
                 <div corresp="#eng_H2" type="remark" n="8.2" xml:id="fr_H2">
-                    <p>Un <w key="homme">homme</w> qui sait la Cour, est maître de son geste, de ses yeux, et de son 
+                    <p>Un <w key="homme">homme</w> qui sait la <w key="court">Cour</w>, est maître de son geste, de ses yeux, et de son 
                         visage ; il est profond, impénétrable ; il dissimule les mauvais Offices, sourit à ses ennemis, 
                         contraint son humeur, déguise ses passions, dément son coeur, parle, agit contre ses sentiments : 
                         tout ce grand raffinement n'est qu'un vice, que l'on appelle fausseté, quelquefois aussi inutile 
-                        au Courtisan pour sa fortune, que la franchise, la sincérité, et la vertu.</p>
+                        au <w key="court">Courtisan</w> pour sa fortune, que la franchise, la sincérité, et la vertu.</p>
                 </div>
                 <div corresp="#eng_H3" type="remark" n="8.3" xml:id="fr_H3">
                     <p>Qui peut nommer de certaines couleurs changeantes, et qui sont diverses selon les divers jours dont 
-                        on les regarde ; de même, qui peut définir la Cour ?</p>
+                        on les regarde ; de même, qui peut définir la <w key="court">Cour</w> ?</p>
                 </div>
                 <div corresp="#eng_H4" type="remark" n="8.4" xml:id="fr_H4">
-                    <p>Se dérober à la Cour un seul moment, c'est y renoncer : le Courtisan qui l'a vue le matin, la voit 
+                    <p>Se dérober à la <w key="court">Cour</w> un seul moment, c'est y renoncer : le <w key="court">Courtisan</w> qui l'a vue le matin, la voit 
                         le soir, pour la reconnaître le lendemain ; ou afin que lui-même y soit connu.</p>
                 </div>
                 <div corresp="#eng_H5" type="remark" n="8.5" xml:id="fr_H5">
-                    <p>L'on est petit à la Cour, et quelque vanité que l'on ait, on s'y trouve tel ; mais le mal est commun, 
+                    <p>L'on est petit à la <w key="court">Cour</w>, et quelque vanité que l'on ait, on s'y trouve tel ; mais le mal est commun, 
                         et les Grands mêmes y sont petits.</p>
                 </div>
             </div>
@@ -681,32 +681,32 @@
                 <head>Of the Court</head>
                 <div corresp="#fr_H1" type="remark" n="8.1" xml:id="eng_H1">
                    <p>It is in one Sense that the most honorable Reproach we can lay on any 
-                      <w key="man">Man</w>, to say he knows not the Court; there is scarce 
+                      <w key="man">Man</w>, to say he knows not the <w key="court">Court</w>; there is scarce 
                          Virtue which we do not imply by giving him that Character.</p>
                 </div>
                 <div corresp="#fr_H2" type="remark" n="8.2" xml:id="eng_H2">
-                   <p>A <w key="man">Man</w> who knows the Court, is Master of his Gestures,
+                   <p>A <w key="man">Man</w> who knows the <w key="court">Court</w>, is Master of his Gestures,
                       his Eyes and his Face; he is profound and impenetrable; he dissembles when he 
                       does ill Offices, smiles on his Enemies, puts a constraint on his Natural Disposition,
                       disguises his Passions, acts against his Inclinations, speaks against his Opinion: 
                       all this great Refinement is nothing but the Vice we call Falsehood, and 
-                      is sometimes as unserviceable to the Fortune of a Courtier, as Openness, 
+                      is sometimes as unserviceable to the Fortune of a <w key="court">Courtier</w>, as Openness, 
                       Sincerity, and Virtue.
                    </p>
                 </div>
                 <div corresp="#fr_H3" type="remark" n="8.3" xml:id="eng_H3">
-                   <p>The Court is like certain changeable colors, which vary according according 
+                   <p>The <w key="court">Court</w> is like certain changeable colors, which vary according according 
                       to the Lights they are exposed in; he who can define those colors may define 
-                      the Court.</p>
+                      the <w key="court">Court</w>.</p>
                 </div>
                 <div corresp="#fr_H4" type="remark" n="8.4" xml:id="eng_H4">
-                   <p>The <w key="man">Man</w> who leaves the Court for a minute, 
-                      renounces it forever: The Courtier who saw it in the Morning must 
+                   <p>The <w key="man">Man</w> who leaves the <w key="court">Court</w> for a minute, 
+                      renounces it forever: The <w key="court">Courtier</w> who saw it in the Morning must 
                       see it at Night, to know it again the next Day; or that he may be 
                       known himself there.</p>
                 </div>
                 <div corresp="#fr_H5" type="remark" n="8.5" xml:id="eng_H5">
-                   <p>A <w key="man">Man</w> must be content to be little at Court; 
+                   <p>A <w key="man">Man</w> must be content to be little at <w key="court">Court</w>; 
                       and let him be never so vain; it is impossible to prevent it; but his Comfort 
                       is, the evil is common, and the great ones are but little when they are there. 
                    </p>
@@ -1182,7 +1182,7 @@
                         peuvent se résoudre à mettre en vente.</p>
                     <p><emph rend="italic">Diphile</emph> commence 
                         par un oiseau et finit par mille ; sa maison n'en est
-                        pas égayée, mais empestée : la cour, la salle, l'escalier, le vestibule,
+                        pas égayée, mais empestée : la <w key="court">cour</w>, la salle, l'escalier, le vestibule,
                         les chambres, le cabinet, tout est volière ; ce n'est plus un ramage,
                         c'est un vacarme, les vents d'Automne et les eaux dans leurs plus
                         grandes crues ne font pas un bruit si perçant et si aigu, on ne s'entend
@@ -1626,12 +1626,12 @@
                 </div>
                 <div corresp="#eng_O5" type="remark" n="15.5" xml:id="fr_O5">
                     <p>Cet <w key="homme">homme</w> que je souhaitais impatiemment, et que je ne daignais pas
-                        espérer de notre siècle, est enfin venu ; les Courtisans à force de goût
+                        espérer de notre siècle, est enfin venu ; les <w key="court">Courtisans</w> à force de goût
                         et de connaître les bienséances, lui ont applaudi, ils ont, chose
                         incroyable ! abandonné la Chapelle du Roi, pour venir entendre avec le
                         peuple la parole de Dieu annoncée par cet 
                         <w key="homme">homme</w> Apostolique : la ville
-                        n'a pas été de l'avis de la Cour ; où il a prêché, les Paroissiens ont
+                        n'a pas été de l'avis de la <w key="court">Cour</w> ; où il a prêché, les Paroissiens ont
                         déserté, jusqu'aux Marguilliers ont disparu, les Pasteurs ont tenu
                         ferme, mais les ouailles se sont dispersées, et les Orateurs voisins en
                         ont grossi leur auditoire. Je devais le prévoir, et ne pas dire qu'un
@@ -1724,13 +1724,13 @@
                 <div corresp="#fr_O5" type="remark" n="15.5" xml:id="eng_O5">
                    <p>The <w key="man">man</w> for whom I have so impatiently wished, 
                       but whom I durst not hope for in our Age, 
-                      is come at last; the Courtiers, whose good taste and knowledge in 
+                      is come at last; the <w key="court">Courtiers</w>, whose good taste and knowledge in 
                       Decencies could best distinguish him, have applauded him up to the Skies; 
                       and what is a thing almost incredible, have left the King’s Chapel 
                       to mix themselves with the Crowd, and hear the word of God 
                       preached by this truly Apostolic <w key="man">man</w>: 
                       The City was not of the same 
-                      opinion with the Court; in whatever Church he preached there, 
+                      opinion with the <w key="court">Court</w>; in whatever Church he preached there, 
                       not one of the Parishioners were to be found, the very Clerk and Sexton deserted: 
                       the Pastors indeed stuck to him, but the Flocks were all dispersed, 
                       while the Congregations of the neighboring Preachers were the fuller for them.  
