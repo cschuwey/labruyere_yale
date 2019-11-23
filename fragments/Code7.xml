@@ -80,7 +80,7 @@
                 <div corresp="#eng_A8" type="remark" n="1.8" xml:id="fr_A8">
                     <p>Certains Poètes sont sujets dans le Dramatique à de longues suites de vers pompeux, qui semblent forts, élevés, 
                         et remplis de grands sentiments ; le peuple écoute avidement les yeux élevés et la bouche ouverte, croit 
-                        que cela lui plaît, et à mesure qu’il y comprend moins, l’admire davantage, il n’a pas le temps de respirer, 
+                        que cela lui plaît, et à mesure qu’il y comprend moins, l’admire davantage, il n’a pas le <w key="time">temps</w> de respirer, 
                         il a à peine celui de se récrier et d’applaudir : j’ai cru autrefois et dans ma première jeunesse que 
                         ces endroits étaient clairs et intelligibles pour les Acteurs, pour le Parterre et l’Amphithéâtre ; que leurs 
                         Auteurs s’entendaient eux-mêmes ; et qu’avec toute l’attention que je donnais à leur récit, j’avais tort 
@@ -104,7 +104,7 @@
                         and <w key="man">Men</w> have thought, to say any thing which
                         has not been said already.  The finest and most
                         beautiful Thoughts concerning Manners have been
-                        carried away before our times, and we can do nothing now, but glean after the 
+                        carried away before our <w key="time">times</w>, and we can do nothing now, but glean after the 
                         Ancients, and the most ingenious of the 
                         Moderns.</p>
                 </div>
@@ -158,7 +158,7 @@
                         gape, and hear them greedily; they are transported
                         at what they fancy is rare, and where they understand least, 
                         are sure to admire most; they scarce
-                        allow themselves time to breathe, and are loth to
+                        allow themselves <w key="time">time</w> to breathe, and are loth to
                         be interrupted by Claps or Applauses: 
                         When I was young, I imagined these passages were clear and
                         intelligible to the Actors, the Pit,
@@ -353,13 +353,13 @@
                 </div>
                 <div corresp="#eng_D3" type="remark" n="4.3" xml:id="fr_D3">
                     <p>L'amour naît brusquement sans autre réflexion, par tempérament ou par faiblesse ; un trait de beauté 
-                        nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le temps, par la pratique, 
+                        nous fixe, nous détermine. L'amitié au contraire se forme peu à peu, avec le <w key="time">temps</w>, par la pratique, 
                         par un long commerce. Combien d'esprit, de bonté de coeur, d'attachement, de services et de complaisance 
                         dans les amis, pour faire en plusieurs années bien moins que ne fait quelquefois en un moment un beau visage 
                         ou une belle main !</p>
                 </div>
                 <div corresp="#eng_D4" type="remark" n="4.4" xml:id="fr_D4">
-                    <p>Le temps qui fortifie les amitiés affaiblit l'amour.</p>
+                    <p>Le <w key="time">temps</w> qui fortifie les amitiés affaiblit l'amour.</p>
                 </div>
                 <div corresp="#eng_D5" type="remark" n="4.5" xml:id="fr_D5">
                     <p>Tant que l'amour dure il subsiste de soi-même, et quelquefois par les choses qui semblent le devoir éteindre, 
@@ -380,14 +380,14 @@
                    </p>
                 </div>
                 <div corresp="#fr_D3" type="remark" n="4.3" xml:id="eng_D3">
-                   <p>Love seizes on us suddenly, without giving us time to consider, and our Disposition or our Weakness favors our surprise; 
+                   <p>Love seizes on us suddenly, without giving us <w key="time">time</w> to consider, and our Disposition or our Weakness favors our surprise; 
                        one Look, one Glance from the Fair, fixes and determines us.  Friendship, on the contrary, is a long time in forming, 
                        and that by degrees, by a long Acquaintance and Familiarity.  How much Wit, good Nature, Affection, how many good 
                        Offices and Civilities are there among Friends to do in many years, which sometimes a find Face, or a find Hand does 
                        in a minute.</p>
                 </div>
                 <div corresp="#fr_D4" type="remark" n="4.4" xml:id="eng_D4">
-                   <p>Time that strengthens Friendship, weakens Love, as long as it does last, subsists of itself, and sometimes by those 
+                   <p><w key="time">Time</w> that strengthens Friendship, weakens Love, as long as it does last, subsists of itself, and sometimes by those 
                        very means, which should seems rather to extinguish it, Severity, Cruelty, Absence, and Jealousy.  Friendship, 
                        on the contrary, stands in need of al helps, Care, Confidence, and Complaisance; if not supplied with these, 
                        it expires. </p>
@@ -566,7 +566,7 @@
                         des semences de division pour rompre dans celle qui doit suivre : l'intérêt de la beauté, 
                         les incidents du jeu, l'extravagance des repas, qui <w key="modesty">modestes</w> au commencement 
                         dégénèrent bientôt en pyramides de viandes et en banquets 
-                        somptueux, dérangent la République, et lui portent enfin le coup mortel : il n'est en fort peu de temps 
+                        somptueux, dérangent la République, et lui portent enfin le coup mortel : il n'est en fort peu de <w key="time">temps</w> 
                         non plus parlé de cette nation que des mouches de l'année passée.</p>
                 </div>
                 <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
@@ -625,7 +625,7 @@
                        order, or get himself heard.  Here is always some forward Coxcomb, who with insipid Jests, and 
                        wretched Buffoonery, makes himself the Hero of Society: This <w key="man">Man</w> is the 
                        Director of the others Merriment, and they always laugh at his Jests before he speaks.  
-                       If at any time a <w key="woman">Woman</w> comes amongst them, who is not a Companion 
+                       If at any <w key="time">time</w> a <w key="woman">Woman</w> comes amongst them, who is not a Companion 
                        in their pleasures, the jolly Club wonders she should not laugh at those pretty things 
                        she does understand, and appear insensible at the Trifles which they would not be pleased with, 
                        if they were not their own; they will neither forgive her, her Speech, her Silence, her Shape, 
@@ -846,7 +846,7 @@
                 </div>
                 <div corresp="#eng_J5" type="remark" n="10.5" xml:id="fr_J5">
                     <p>Quand on veut changer et innover dans une République, c'est moins les
-                        choses que le temps que l'on considère : il y a des conjonctures où l'on
+                        choses que le <w key="time">temps</w> que l'on considère : il y a des conjonctures où l'on
                         sent bien qu'on ne saurait trop attenter contre le peuple ; et il y en a
                         d'autres où il est clair qu'on ne peut trop le ménager. Vous pouvez
                         aujourd'hui ôter à cette <w key="city">Ville</w> ses franchises, ses droits, ses
@@ -879,7 +879,7 @@
                        of natural affection to our Country. </p>
                 </div>
                 <div corresp="#fr_J5" type="remark" n="10.5" xml:id="eng_J5">
-                   <p>To innovate, or introduce any alterations in a State, the time is rather to be considered than 
+                   <p>To innovate, or introduce any alterations in a State, the <w key="time">time</w> is rather to be considered than 
                        the action itself; there are some conjunctures when nothing is to be attempted on the people, 
                        and there are others when nothing is too gross to pass upon them: Today you many subvert the Rights, 
                        Franchises, and Privileges of such a Town; but tomorrow you must not so much as think of altering 
@@ -1212,7 +1212,7 @@
                     <p>Cet autre aime les insectes, il en fait tous les jours de nouvelles
                         emplettes ; c'est surtout le premier <w key="homme">homme</w> de l'Europe pour les
                         papillons, il en a de toutes les tailles et de toutes les couleurs. Quel
-                        temps prenez-vous pour lui rendre visite ? il est plongé dans une amère
+                        <w key="time">temps</w> prenez-vous pour lui rendre visite ? il est plongé dans une amère
                         douleur, il a l'humeur noire, chagrine, et dont toute la famille
                         souffre, aussi a-t-il fait une perte irréparable ; approchez, regardez ce
                         qu'il vous montre sur son doigt, qui n'a plus de vie, et qui vient
@@ -1272,7 +1272,7 @@
                    </p> 
                    <p>
                       The Florist has a Garden at his Country house, where he spends 
-                      his time from the Sun-rising to Sun-setting; you’d think him planted there, 
+                      his <w key="time">time</w> from the Sun-rising to Sun-setting; you’d think him planted there, 
                       that he had taken root in the midst of his Tulips, and before his 
                       <emph rend="italic">Solitaire</emph>; he rubs his hands, stares, stoops down, 
                       and looks nearer at it, he never saw it look so fine before, he’s in an ecstasy of Joy; 
@@ -1421,7 +1421,7 @@
                          <p>
                             There’s another an admirer of Insects, he  augments his Collection every day; 
                             he is the great Critic in <emph rend="italic">Europe</emph> at a Butterfly; 
-                            he has them of all sizes and colors.  What an unlucky time do you take to pay him 
+                            he has them of all sizes and colors.  What an unlucky <w key="time">time</w> do you take to pay him 
                             a Visit in? he's afflicted with bitter sorrow, is in a sour Chagrin temper, 
                             to the plague of his whole Family; he has had an irreplaceable loss, go near him, 
                             observe what he shows you on his finger, it is dead, just departed this Life, 
@@ -1667,7 +1667,7 @@
                         entendre articuler, les suivre et ne les pas perdre de vue ? Je leur
                         demanderais volontiers qu'au milieu de leur course impétueuse ils
                         voulussent plusieurs fois reprendre haleine, souffler un peu, et laisser
-                        souffler leurs auditeurs. Vains <w key="discourse">discours</w>, paroles perdues ! le temps des
+                        souffler leurs auditeurs. Vains <w key="discourse">discours</w>, paroles perdues ! le <w key="time">temps</w> des
                         Homélies n'est plus, les Basiles, les Chrysostomes ne le ramèneraient
                         pas ; on passerait en d'autres Diocèses pour être hors de la portée de
                         leur voix, et de leurs familières instructions ; 
@@ -1711,7 +1711,7 @@
                    </p>
                 </div>
                 <div corresp="#fr_O3" type="remark" n="15.3" xml:id="eng_O3">
-                   <p>Until such time as there arises a <w key="man">man</w>, who in a style formed on the Holy Scriptures, 
+                   <p>Until such <w key="time">time</w> as there arises a <w key="man">man</w>, who in a style formed on the Holy Scriptures, 
                       but long study and converse with them, shall explain to the People the world of 
                       God genuinely and familiarly; till then, I say, it is to be expected, that Orators and 
                       Declaimers will be followed.</p>
@@ -1767,8 +1767,8 @@
                       up to such enormous divisions: But how is it possible we should be converted by 
                       such Apostles, whom we can hardly him in fight? For my part, 
                       I would beg them in the midst of their impetuous course to stop, 
-                      to give their audience and themselves a little time to breathe.  
-                      Oh the vain unprofitable Sermons nowadays! The time of the 
+                      to give their audience and themselves a little <w key="time">time</w> to breathe.  
+                      Oh the vain unprofitable Sermons nowadays! The <w key="time">time</w> of the 
                       <emph rend="italics">Homilies</emph> is now more, the <emph rend="italics">Basils</emph> , 
                       the <emph rend="italics">Chrysostoms </emph>
                       could not restore it; we should fly into other Dioceses, 
@@ -1894,7 +1894,7 @@
                 </div>
                 <div corresp="#fr_P4" type="remark" n="16.4" xml:id="eng_P4">
                    <p>There are some <w key="man">men</w> who defer the practice of Religion and Devotion 
-                      till such time as Lewdness and Impiety are professed by all; 
+                      till such <w key="time">time</w> as Lewdness and Impiety are professed by all; 
                       which being then vulgar, they will avoid following the Crowd; 
                       Singularity pleases them in so serious and so important a matter; 
                       they only follow the Mode in things of no moment, and no consequence; 
@@ -1912,7 +1912,3 @@
         </body>
      </text>
 </TEI>
-
-
-
-
