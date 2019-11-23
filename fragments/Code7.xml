@@ -73,8 +73,8 @@
                 </div>
                 <div corresp="#eng_A7" type="remark" n="1.7" xml:id="fr_A7">
                     <p>Il y a de certaines choses dont la médiocrité est insupportable, la Poésie, la Musique, la Peinture, 
-                        le Discours public.</p>
-                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid discours, ou prononcer de médiocres vers 
+                        le <w key="discourse">Discours</w> public.</p>
+                    <p>Quel supplice que celui d’entendre déclamer pompeusement un froid <w key="discourse">discours</w>, ou prononcer de médiocres vers 
                         avec toute l’emphase d’un mauvais Poète !</p>
                 </div>
                 <div corresp="#eng_A8" type="remark" n="1.8" xml:id="fr_A8">
@@ -136,7 +136,7 @@
                 </div>
                 <div corresp="#fr_A6" type="remark" n="1.6" xml:id="eng_A6">
                     <p>Take away from most of our Moral
-                        Discourses, the Advertisement to the Reader,
+                        <w key="discourse">Discourses</w>, the Advertisement to the Reader,
                         the Epistle Dedicatory, 
                         the Preface,the Table 
                         and the Commendatory Verses, 
@@ -419,7 +419,7 @@
                 <div corresp="#eng_E5" type="remark" n="5.5" xml:id="fr_E5">
                     <p>Si l'on faisait une sérieuse attention à tout ce qui se dit de froid, de vain de puéril dans les entretiens 
                         ordinaires, l'on aurait honte de parler ou d'écouter, et l'on se condamnerait peut-être à un silence perpétuel, 
-                        qui serait une chose pire dans le commerce que les discours inutiles. Il faut donc s'accommoder à tous les 
+                        qui serait une chose pire dans le commerce que les <w key="discourse">discours</w> inutiles. Il faut donc s'accommoder à tous les 
                         esprits ; permettre comme un mal nécessaire le récit des fausses nouvelles, les vagues réflexions sur le 
                         gouvernement présent, ou sur l'intérêt des Princes, le débit des beaux sentiments, et qui reviennent 
                         toujours les mêmes : il faut laisser <emph rend="italic">Aronce</emph> parler proverbe, et 
@@ -452,7 +452,7 @@
                 <div corresp="#fr_E5" type="remark" n="5.5" xml:id="eng_E5">
                    <p>If we were to listen with attention to everything that is said in common Conversation, we should be 
                        ashamed to speak, or to hear; we should perhaps condemn our selves to a perpetual silence, which 
-                       is more injurious to Converse than unprofitable Discourses: we must therefore accommodate ourselves 
+                       is more injurious to Converse than unprofitable <w key="discourse">Discourses</w>s: we must therefore accommodate ourselves 
                        to every <w key="man">Man</w>’s capacity, we must suffer as necessary evils, false News, 
                        rambling reflections on the present Government, or on the Interest of Princes: 
                       We must hear with Patience the fine Notions some <w key="man">men</w> are continually repeating; 
@@ -1131,7 +1131,7 @@
                         jour être revenus de loin : et ce satirique parle juste, et se fait
                         écouter.</p>
                     <p>Mais quand il ajoute que les livres en apprennent plus que les voyages,
-                        et qu'il m'a fait comprendre par ses discours qu'il a une bibliothèque,
+                        et qu'il m'a fait comprendre par ses <w key="discourse">discours</w> qu'il a une bibliothèque,
                         je souhaite de la voir, je vais trouver cet 
                         <w key="homme">homme</w> qui me reçoit dans
                         une maison, où dès l'escalier je tombe en faiblesse d'une odeur de
@@ -1292,7 +1292,7 @@
                    <p>
                       Talk to another of the Farmer’s Wealth, of a plentiful Harvest, 
                       or a good Vintage, he is only nice in Fruit, he understands not a word you say;
-                      discourse him of Figs and Melons, tell him that the Pear Trees break with their 
+                      <w key="discourse">discourse</w> him of Figs and Melons, tell him that the Pear Trees break with their 
                       weight of Fruit this tear, that there are abundance of Peaches, this is all out of his way;
                       he is curious in nothing but Plumb-Trees: Talk to him of them, he makes you no answer; 
                       he is only fond of certain species of them, and laughs at all others; he leads you to the 
@@ -1588,7 +1588,7 @@
             <div corresp="#eng_O" xml:lang="french" type="chapter" n="15" xml:id="fr_O">
                 <head>De la chaire</head>
                 <div corresp="#eng_O1" type="remark" n="15.1" xml:id="fr_O1">
-                    <p>Le discours Chrétien est devenu un spectacle ; cette tristesse
+                    <p>Le <w key="discourse">discours</w> Chrétien est devenu un spectacle ; cette tristesse
                         évangélique qui en est l'âme ne s'y remarque plus ; elle est suppléée par
                         les avantages de la mine, par les inflexions de la voix, par la
                         régularité du geste, par le choix des mots, et par les longues
@@ -1603,13 +1603,13 @@
                     <p>L'on fait assaut d'éloquence jusqu'au pied de l'Autel, et en la
                         présence des Mystères : celui qui écoute s'établit Juge de celui qui
                         prêche, pour condamner ou pour applaudir ; et n'est pas plus converti par
-                        le discours qu'il favorise, que par celui auquel il est contraire.
+                        le <w key="discourse">discours</w> qu'il favorise, que par celui auquel il est contraire.
                         L'Orateur plaît aux uns, déplaît aux autres, et convient avec tous en
                         une chose ; que comme il ne cherche point à les rendre meilleurs, ils ne
                         pensent pas aussi à le devenir.</p>
                     <p>Un apprenti est docile, il écoute son maître, il profite de ses
                         leçons, et il devient maître : l'<w key="homme">homme</w> 
-                        indocile critique le discours du
+                        indocile critique le <w key="discourse">discours</w> du
                         Prédicateur, comme le livre du Philosophe, et il ne devient ni Chrétien
                         ni raisonnable.</p>
                 </div>
@@ -1646,7 +1646,7 @@
                         ils les ont adoucies, je l'avoue, et ce ne sont plus que des madrigaux :
                         ils ont toujours, d'une nécessité indispensable et géométrique trois
                         sujets admirables de vos attentions ; ils prouveront une telle chose dans
-                        la première partie de leur discours, cette autre dans la seconde partie,
+                        la première partie de leur <w key="discourse">discours</w>, cette autre dans la seconde partie,
                         et cette autre encore dans la troisième ; ainsi vous serez convaincu
                         d'abord d'une certaine vérité et c'est leur premier point, d'une autre
                         vérité et c'est leur second point, et puis d'une troisième vérité, et
@@ -1656,7 +1656,7 @@
                         réflexion, d'un troisième et dernier principe, le plus important de
                         tous, qui est remis pourtant faute de loisir, à une autre fois : enfin,
                         pour reprendre et abréger cette division, et former un plan... encore,
-                        dites-vous, et quelles préparations pour un discours de trois quarts
+                        dites-vous, et quelles préparations pour un <w key="discourse">discours</w> de trois quarts
                         d'heure qui leur reste à faire ! plus ils cherchent à le digérer et à
                         l'éclaircir, plus ils m'embrouillent : je vous crois sans peine, et
                         c'est l'effet le plus naturel de tout cet amas d'idées qui reviennent à
@@ -1667,7 +1667,7 @@
                         entendre articuler, les suivre et ne les pas perdre de vue ? Je leur
                         demanderais volontiers qu'au milieu de leur course impétueuse ils
                         voulussent plusieurs fois reprendre haleine, souffler un peu, et laisser
-                        souffler leurs auditeurs. Vains discours, paroles perdues ! le temps des
+                        souffler leurs auditeurs. Vains <w key="discourse">discours</w>, paroles perdues ! le temps des
                         Homélies n'est plus, les Basiles, les Chrysostomes ne le ramèneraient
                         pas ; on passerait en d'autres Diocèses pour être hors de la portée de
                         leur voix, et de leurs familières instructions ; 
@@ -1706,7 +1706,7 @@
                    <p>
                       The Apprentice that’s ducible, is attentive to his Master, profits by 
                       his instructions, and becomes himself a Master of his profession: 
-                      the inducible person only censures the Preacher’s discourses, and the Philosopher works,
+                      the inducible person only censures the Preacher’s <w key="discourse">Discourses</w>, and the Philosopher works,
                       and so improves himself neither in Religion nor Sense.
                    </p>
                 </div>
@@ -1747,7 +1747,7 @@
                       now I confess, they are something softened, and may pass for Madrigals: 
                       There are three things which these <w key="man">men</w> never fail to cry are absolutely necessary, 
                       and infinitely worthy your attention; one thing they prove in the 
-                      first part of their discourse, another in the second, and another in the third; 
+                      first part of their <w key="discourse">discourse</w>, another in the second, and another in the third; 
                       so that you are to be convinced of one Truth, and that’s their first point of 
                       Doctrine, of another Truth, and that’s the second point, 
                       and then of a third Truth, and that’s their third point; in this manner, 
@@ -1757,7 +1757,7 @@
                       which is the most important of them all, but which for want of leisure 
                       is reserved for another opportunity: In fine, to recollect 
                       what has been said, to abridge this division, and to form a Scheme of
-                      What still, cry you, new matter, new preparations for a discourse of an hour longer? 
+                      What still, cry you, new matter, new preparations for a <w key="discourse">discourse</w> of an hour longer? 
                       It is in vain, the more these Gentle <w key="man">men</w> strive to digest and to clear it to me, 
                       the less I shall understand it: I believe you indeed very easily, 
                       for it is the most natural effect of such a mass and confusion of Ideas, 
@@ -1772,7 +1772,7 @@
                       <emph rend="italics">Homilies</emph> is now more, the <emph rend="italics">Basils</emph> , 
                       the <emph rend="italics">Chrysostoms </emph>
                       could not restore it; we should fly into other Dioceses, 
-                      to get out of the reach of their familiar discourses; 
+                      to get out of the reach of their familiar <w key="discourse">discourses</w> ; 
                       the generality of <w key="man">men</w> love fine phrases and handsome periods, 
                       admire what they do not understand, suppose themselves to be instructed, 
                       and content themselves with deciding between the first and second Doctrine, 
