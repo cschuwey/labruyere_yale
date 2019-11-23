@@ -48,7 +48,7 @@
                 <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
                     <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <w key="homme">hommes</w>, et qui pensent. 
                         Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; l’on ne fait que glaner après les anciens 
-                        et les habiles d’entre les modernes.</p>
+                        et les habiles d’entre les <w key="modern">modernes</w>.</p>
                 </div>
                 <div corresp="#eng_A2" type="remark" n="1.2" xml:id="fr_A2">
                     <p>Il faut chercher seulement à penser et à parler juste, sans vouloir amener les autres à notre goût et à nos 
@@ -106,7 +106,7 @@
                         beautiful Thoughts concerning Manners have been
                         carried away before our <w key="time">times</w>, and we can do nothing now, but glean after the 
                         Ancients, and the most ingenious of the 
-                        Moderns.</p>
+                        <w key="modern">Moderns</w>.</p>
                 </div>
                 <div corresp="#fr_A2" type="remark" n="1.2" xml:id="eng_A2">
                     <p>We must only endeavor to think and speak
