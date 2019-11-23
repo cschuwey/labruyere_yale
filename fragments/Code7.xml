@@ -47,7 +47,7 @@
                 <head>Des ouvrages de l'esprit</head>
                 <div corresp="#eng_A1" type="remark" n="1.1" xml:id="fr_A1">
                     <p>Tout est dit, et l’on vient trop tard depuis plus de sept mille ans qu’il y a des <w key="homme">hommes</w>, et qui pensent. 
-                        Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; l’on ne fait que glaner après les anciens 
+                        Sur ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ; l’on ne fait que glaner après les <w key="ancient">anciens</w> 
                         et les habiles d’entre les <w key="modern">modernes</w>.</p>
                 </div>
                 <div corresp="#eng_A2" type="remark" n="1.2" xml:id="fr_A2">
@@ -105,7 +105,7 @@
                         has not been said already.  The finest and most
                         beautiful Thoughts concerning Manners have been
                         carried away before our <w key="time">times</w>, and we can do nothing now, but glean after the 
-                        Ancients, and the most ingenious of the 
+                        <w key="ancient">Ancients</w>, and the most ingenious of the 
                         <w key="modern">Moderns</w>.</p>
                 </div>
                 <div corresp="#fr_A2" type="remark" n="1.2" xml:id="eng_A2">
@@ -833,7 +833,7 @@
                         la plus horrible et la plus grossière de se maintenir, ou de s'agrandir.</p>
                 </div>
                 <div corresp="#eng_J3" type="remark" n="10.3" xml:id="fr_J3">
-                    <p>C'est une politique sûre et ancienne dans les Républiques, que d'y
+                    <p>C'est une politique sûre et <w key="ancient">ancienne</w> dans les Républiques, que d'y
                         laisser le peuple s'endormir dans les fêtes, dans les spectacles, dans
                         le luxe, dans le faste, dans les plaisirs, dans la vanité et la
                         mollesse ; le laisser se remplir du vide, et savourer la bagatelle :
@@ -869,7 +869,7 @@
                    </p>
                 </div>
                 <div corresp="#fr_J3" type="remark" n="10.3" xml:id="eng_J3">
-                   <p>It is a certain and ancient maxim in Politics, that to suffer the people to stupefy themselves                      
+                   <p>It is a certain and <w key="ancient">ancient</w> maxim in Politics, that to suffer the people to stupefy themselves                      
                      with Pleasures and Feats, Shows and Luxury, with Vanity and Delicacy, to dispossess them of all 
                        things solid and valuable, and leave them fond of ridiculous trifles, is to make the greatest 
                        advances to a Despotic Power.</p>
@@ -1096,7 +1096,7 @@
                         Je l'admire, dit-il, et je le comprends moins
                         que jamais ; pensez-vous qu'il cherche à s'instruire par les médailles,
                         et qu'il les regarde comme des preuves parlantes de certains faits, et
-                        des monuments fixes et indubitables de l'ancienne histoire, rien moins ;
+                        des monuments fixes et indubitables de l'<w key="ancient">ancienne</w> histoire, rien moins ;
                         vous croyez peut-être que toute la peine qu'il se donne pour recouvrer
                         une <emph rend="italic">tête</emph> vient du plaisir 
                         qu'il se fait de ne voir pas une suite
@@ -1312,7 +1312,7 @@
                       but especially of <emph rend="italic">Diognetes</emph>: I admire him, says he, 
                       and understand him less than ever; you imagine that he endeavors to instruct 
                       himself by Medals, that he Estelle them the speaking evidences of past Transactions,
-                      and fixed unquestionable monuments of Ancient History, nothing less; perhaps you guess
+                      and fixed unquestionable monuments of <w key="ancient">Ancient</w> History, nothing less; perhaps you guess
                       that all the pains he takes to recover a head, proceeds from the pleasure he enjoys in seeing 
                       an uninterrupted series of the Emperors, it is yet less: <emph rend="italic">Diognetes</emph> 
                       knows nicely all the parts of a Medal, he has a Case full of Medals, except one place, and it is this
@@ -1506,7 +1506,7 @@
                         faussement qu'il a vu un prodige : celui qui continue de cacher son âge,
                         pense enfin lui-même être aussi jeune qu'il veut le faire croire aux
                         autres : de même le roturier qui dit par habitude qu'il tire son origine
-                        de quelque ancien Baron ou de quelque Châtelain dont il est vrai qu'il
+                        de quelque <w key="ancient">ancien</w> Baron ou de quelque Châtelain dont il est vrai qu'il
                         ne descend pas, a le plaisir de croire qu'il en descend.</p>
                 </div>
                 <div corresp="#eng_N5" type="remark" n="14.5" xml:id="fr_N5">
@@ -1570,7 +1570,7 @@
                       himself that he really has seen it: Another by concealing his Age, 
                       comes to believe it at last, he is as young as he would be thought: 
                       So the <w key="man">Man</w>, who meanly borne, has got a habit of talking of his being 
-                      descended from that Ancient Baron, or that great Lord, has the pleasure to 
+                      descended from that <w key="ancient">Ancient</w> Baron, or that great Lord, has the pleasure to 
                       believe he is so descended, though the thing is false.</p>
                 </div>
                 <div corresp="#fr_N5" type="remark" n="14.5" xml:id="eng_N5">
