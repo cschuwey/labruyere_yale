@@ -465,7 +465,7 @@
                 <head>Des biens de fortune</head>
                 <div corresp="#eng_F1" type="remark" n="6.1" xml:id="fr_F1">
                     <p>Un <w key="homme">homme</w> fort riche peut manger des entremets, faire peindre ses lambris et ses alcôves,
-                        jouir d'un Palais à la campagne, et d'un autre à la ville, avoir un grand équipage, mettre un Duc dans sa famille, 
+                        jouir d'un Palais à la campagne, et d'un autre à la <w key="city">ville</w>, avoir un grand équipage, mettre un Duc dans sa famille, 
                         et faire de son fils un grand Seigneur ; cela est juste et de son ressort : mais il appartient peut-être à
                         d'autres de vivre contents.</p>
                 </div>
@@ -534,7 +534,7 @@
                         entre à Paris avec la Marne qu'elle vient de recevoir ; les <w key="homme">hommes</w> s'y 
                         baignent au pied pendant les chaleurs de la canicule, on les voit de fort près se jeter dans l'eau, 
                         on les en voit sortir, c'est un amusement : quand cette saison n'est pas venue, les <w key="femme">femmes</w> 
-                        de la ville ne s'y promènent pas encore ; et quand elle est passée, elles ne s'y promènent plus.</p>
+                        de la <w key="city">ville</w> ne s'y promènent pas encore ; et quand elle est passée, elles ne s'y promènent plus.</p>
                 </div>
                 <div corresp="#eng_G3" type="remark" n="7.3" xml:id="fr_G3">
                     <p>Dans ces lieux d'un concours général, où les <w key="femme">femmes</w> se rassemblent pour montrer 
@@ -546,7 +546,7 @@
                         et l'on repasse.</p>
                 </div>
                 <div corresp="#eng_G4" type="remark" n="7.4" xml:id="fr_G4">
-                    <p>La ville est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont 
+                    <p>La <w key="city">ville</w> est partagée en diverses sociétés, qui sont comme autant de petites républiques, qui ont 
                         leurs lois, leurs usages, leur jargon, et leurs mots pour rire : tant que cet assemblage est dans 
                         sa force, et que l'entêtement subsiste, l'on ne trouve rien de bien dit ou de bien fait, que ce qui                        
                         part des siens, et l'on est incapable de goûter ce qui vient d'ailleurs ; cela va jusques au mépris 
@@ -570,7 +570,7 @@
                         non plus parlé de cette nation que des mouches de l'année passée.</p>
                 </div>
                 <div corresp="#eng_G5" type="remark" n="7.5" xml:id="fr_G5">
-                    <p>Il y a dans la ville la grande et la petite robe ; et la première se venge sur l'autre des dédains 
+                    <p>Il y a dans la <w key="city">ville</w> la grande et la petite robe ; et la première se venge sur l'autre des dédains 
                         de la <w key="court">Cour</w>, et des petites humiliations qu'elle y essuie ; de savoir quelles sont leurs limites, 
                         où la grande finit, et où la petite commence, ce n'est pas une chose facile : il se trouve même 
                         un corps considérable qui refuse d'être du second ordre, et à qui l'on conteste le premier ; 
@@ -602,7 +602,7 @@
                        where it receives the <emph rend="italic">Marne</emph> at its entry into <emph rend="italic">Paris</emph>.  
                        At the foot of the Bank the <w key="man">Men</w> delight to bath themselves, during the heats 
                        of the Dog-days, we can see them at little distance throw themselves into the Water, and return: 
-                       And it is observable, that the City-<w key="woman">Women</w> never walk that way till this Season 
+                       And it is observable, that the <w key="city">City</w>-<w key="woman">Women</w> never walk that way till this Season 
                        comes, and when it is past, walk there no longer.
                    </p>
   
@@ -638,7 +638,7 @@
                    </p>
                 </div>
                 <div corresp="#fr_G5" type="remark" n="7.5" xml:id="eng_G5">
-                   <p>In the City there is the greater Robe and the less: The first of these revenge themselves on the other, 
+                   <p>In the <w key="city">City</w> there is the greater Robe and the less: The first of these revenge themselves on the other, 
                        for the Contempt and the Mortifications they meet with at the <w key="court">Court</w>: It is not easily known where 
                        the greater ends, or where the less begins, there being a considerable body of those who refused 
                        to be of the second Order, and who are not yet allowed to the of the first: They will not however 
@@ -849,7 +849,7 @@
                         choses que le temps que l'on considère : il y a des conjonctures où l'on
                         sent bien qu'on ne saurait trop attenter contre le peuple ; et il y en a
                         d'autres où il est clair qu'on ne peut trop le ménager. Vous pouvez
-                        aujourd'hui ôter à cette Ville ses franchises, ses droits, ses
+                        aujourd'hui ôter à cette <w key="city">Ville</w> ses franchises, ses droits, ses
                         privilèges ; mais demain ne songez pas même à réformer ses enseignes.</p>
                 </div>
             </div>
@@ -1630,7 +1630,7 @@
                         et de connaître les bienséances, lui ont applaudi, ils ont, chose
                         incroyable ! abandonné la Chapelle du Roi, pour venir entendre avec le
                         peuple la parole de Dieu annoncée par cet 
-                        <w key="homme">homme</w> Apostolique : la ville
+                        <w key="homme">homme</w> Apostolique : la <w key="city">ville</w>
                         n'a pas été de l'avis de la <w key="court">Cour</w> ; où il a prêché, les Paroissiens ont
                         déserté, jusqu'aux Marguilliers ont disparu, les Pasteurs ont tenu
                         ferme, mais les ouailles se sont dispersées, et les Orateurs voisins en
@@ -1729,7 +1729,7 @@
                       and what is a thing almost incredible, have left the King’s Chapel 
                       to mix themselves with the Crowd, and hear the word of God 
                       preached by this truly Apostolic <w key="man">man</w>: 
-                      The City was not of the same 
+                      The <w key="city">City</w> was not of the same 
                       opinion with the <w key="court">Court</w>; in whatever Church he preached there, 
                       not one of the Parishioners were to be found, the very Clerk and Sexton deserted: 
                       the Pastors indeed stuck to him, but the Flocks were all dispersed, 
