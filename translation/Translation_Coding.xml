@@ -177,50 +177,53 @@
                   <seg xml:id="FSC_7_03" corresp="#ESC_7_03"> j'y suis encore moins; je devine
                      enfin:</seg>
                   <seg xml:id="FSC_7_04" corresp="#ESC_7_04"> vous voulez, <hi rend="italic"
-                        >Acis</hi>, me dire qu'il fait froid</seg>
-                  <seg xml:id="FSC_7_05" corresp="#ESC_7_06"> que ne disiez-vous, il fait
+                        >Acis</hi>, me dire </seg>
+                  <seg xml:id="FSC_7_05" corresp="#ESC_7_05">qu'il fait froid</seg>
+                  <seg xml:id="FSC_7_06" corresp="#ESC_7_07"> que ne disiez-vous, il fait
                      froid;</seg>
-                  <seg xml:id="FSC_7_06" corresp="#ESC_7_05"> vous voulez m'apprendre qu'il pleut ou
+                  <seg xml:id="FSC_7_07" corresp="#ESC_7_06"> vous voulez m'apprendre qu'il pleut ou
                      qu'il neige; </seg>
-                  <seg xml:id="FSC_7_07" corresp="#ESC_7_07"> dites, il pleut, il neige:</seg>
-                  <seg xml:id="FSC_7_08" corresp="#ESC_7_08"> vous me trouvez bon visage, et vous
-                     desirez me feliciter, </seg>
-                  <seg xml:id="FSC_7_09" corresp="#ESC_7_09"> dites, je vous trouve bon
-                     visage;</seg>
-                  <seg xml:id="FSC_7_10" corresp="#ESC_7_10"> mais, répondez-vous, cela est bien uni
+                  <seg xml:id="FSC_7_08" corresp="#ESC_7_08"> dites, il pleut, il neige:</seg>
+                  <seg xml:id="FSC_7_09" corresp="#ESC_7_09"> vous me trouvez </seg>
+                  <seg xml:id="FSC_7_10" corresp="#ESC_7_10"> bon visage</seg>
+                  <seg xml:id="FSC_7_11" corresp="#ESC_7_11">, et vous desirez me feliciter,</seg>
+                  <seg xml:id="FSC_7_12" corresp="#ESC_7_12"> dites, je vous trouve bon visage </seg>
+                  <seg xml:id="FSC_7_13" corresp="#ESC_7_13"> mais, répondez-vous, cela est bien uni
                      &amp; clair, et d'ailleurs qui ne pourroit pas en dire autant:</seg>
-                  <seg xml:id="FSC_7_11" corresp="#ESC_7_11"> qu'importe, Acis, est-ce un si grand
+                  <seg xml:id="FSC_7_14" corresp="#ESC_7_14"> qu'importe, Acis, est-ce un si grand
                      mal d'être entendu quand on parle, &amp; de parler comme tout le monde ?</seg>
-                  <seg xml:id="FSC_7_12" corresp="#ESC_7_12"> Une chose vous manque, Acis, à vous
-                     &amp; à vos semblables diseurs de <hi rend="italic">Phoebus</hi><note
-                        type="editorial"> A "Phoebus" is a histrionic, overcomplicated style,
+                  <seg xml:id="FSC_7_15" corresp="#ESC_7_12 #ESC_7_15"> Une chose vous manque, Acis, à vous
+                     &amp; à vos semblables diseurs de </seg>
+                     <seg xml:id="FSC_7_16" corresp="#ESC_7_16">
+                        <hi rend="italic">Phoebus</hi>
+                        <note type="editorial"> A "Phoebus" is a histrionic, overcomplicated style,
                         derived from "Phébus", a periphrasis for the Sun and Apollo which was a
                         widespread imagery during the reign of Louis XIV – a topical language
                         dismissed by the English translation.</note>,</seg>
-                  <seg xml:id="FSC_7_13" corresp="#ESC_7_13">
+                  <seg xml:id="FSC_7_17" corresp="#ESC_7_17">
                      <seg ana="omit">vous ne vous en défiez point, &amp;</seg> je vais vous jeter
                      dans l'étonnement;</seg>
-                  <seg xml:id="FSC_7_14" corresp="#ESC_7_14"> une chose vous manque, c'est
+                  <seg xml:id="FSC_7_18" corresp="#ESC_7_18"> une chose vous manque, c'est
                      l'esprit;</seg>
-                  <seg xml:id="FSC_7_15" corresp="#ESC_7_15"> ce n'est pas tout, il y a en vous une
+                  <seg xml:id="FSC_7_19" corresp="#ESC_7_19"> ce n'est pas tout, il y a en vous une
                      chose de trop, qui est l'opinion d'en avoir plus que les autres;</seg>
-                  <seg xml:id="FSC_7_16" corresp="#ESC_7_15"> voilà la force de votre pompeux
+                  <seg xml:id="FSC_7_20" corresp="#ESC_7_20"> voilà la force de votre pompeux
                      galimathias, </seg>
-                  <seg xml:id="FSC_7_17" corresp="#ESC_7_18"> de vos phrases embroüillées,</seg>
-                  <seg xml:id="FSC_7_18" corresp="#ESC_7_17"> &amp; de vos grands mots qui ne
-                     signifient rien.</seg>
-                  <seg xml:id="FSC_7_19" corresp="#ESC_7_19"> Vous abordez cet homme, <seg
+                  <seg xml:id="FSC_7_21" corresp="#ESC_7_22"> de vos phrases embroüillées,</seg>
+                  <seg xml:id="FSC_7_22" corresp="#ESC_7_21"> &amp; de vos grands mots 
+                     <seg ana="omit">qui ne signifient rien.</seg></seg>
+                  <seg xml:id="FSC_7_23" corresp="#ESC_7_23"> Vous abordez cet homme, <seg
                         ana="omit"> ou vous entrez dans cette chambre,</seg></seg>
-                  <seg xml:id="FSC_7_20" corresp="#ESC_7_20"> je vous tire par votre habit et vous
+                  <seg xml:id="FSC_7_24" corresp="#ESC_7_24"> je vous tire par votre habit et vous
                      dis à l'oreille,</seg>
-                  <seg xml:id="FSC_7_21" corresp="#ESC_7_21"> ne songez point à avoir de l'esprit,
+                  <seg xml:id="FSC_7_25" corresp="#ESC_7_25"> ne songez point à avoir de l'esprit,
                      n'en ayez point</seg>
-                  <seg xml:id="FSC_7_22" corresp="#ESC_7_22"> c'est votre role;</seg>
-                  <seg xml:id="FSC_7_23" corresp="#ESC_7_23"> ayez, si vous pouvez, un langage
+                  <seg xml:id="FSC_7_26" corresp="#ESC_7_26"> c'est votre role;</seg>
+                  <seg xml:id="FSC_7_27" corresp="#ESC_7_27"> ayez, si vous pouvez, un langage
                      simple,</seg>
-                  <seg xml:id="FSC_7_24" corresp="#ESC_7_24"> &amp; tel que l'ont ceux en qui vous
+                  <seg xml:id="FSC_7_28" corresp="#ESC_7_28"> &amp; tel que l'ont ceux en qui vous
                      ne trouvez aucun esprit:</seg>
-                  <seg xml:id="FSC_7_25" corresp="#ESC_7_25"> peut-être alors croira-t-on que vous
+                  <seg xml:id="FSC_7_29" corresp="#ESC_7_29"> peut-être alors croira-t-on que vous
                      en avez.</seg>
                </p>
             </div>
@@ -280,31 +283,33 @@
                   <seg xml:id="FVL_12_02" corresp="#ECY_12_02"> il a ses heures de toilette comme
                      une femme ;</seg>
                   <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort
-                     régulièrement à la belle messe aux Feuillants ou aux Minimes ;</seg>
-                  <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> il est homme d’un bon commerce,
+                     régulièrement à la belle messe</seg>
+                     <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> aux Feuillants ou aux Minimes ;</seg>
+                  <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> il est homme d’un bon commerce,
                      &amp; <seg ana="omit"> l’on compte sur lui au quartier de **</seg> pour un
-                     tiers ou pour un cinquième à l’ombre <seg ana="omit">ou au reversi</seg>
+                     tiers ou pour un cinquième à </seg>
+                  <seg xml:id="FVL_12_06" corresp="#ECY_12_06">l’ombre <seg ana="omit">ou au reversi</seg>
                      <note type="context">"Ombre" and 'reversi" were seventeenth-century card games
                         imported from Spain. Ombre seems to have been fairly popular in England,
                         reversi less so: this might explain why the translator only indicated the
                         former.</note></seg>
-                  <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> Là il tient le fauteuil quatre
+                  <seg xml:id="FVL_12_07" corresp="#ECY_12_07"> Là il tient le fauteuil quatre
                      heures de suite chez <hi rend="italic">Aricie</hi>, où il risque chaque soir
                      cinq pistoles d’or.</seg>
-                  <seg xml:id="FVL_12_06" corresp="#ECY_12_06"> Il lit exactement la Gazette de
+                  <seg xml:id="FVL_12_08" corresp="#ECY_12_08"> Il lit exactement la Gazette de
                      Hollande </seg>
-                  <seg xml:id="FVL_12_07" corresp="#ECY_12_08"> et le Mercure Galant ; </seg>
-                  <seg xml:id="FVL_12_08" corresp="#ECY_12_09"> il a lu Bergerac, des Marets,
+                  <seg xml:id="FVL_12_09" corresp="#ECY_12_10"> et le Mercure Galant ; </seg>
+                  <seg xml:id="FVL_12_10" corresp="#ECY_12_11"> il a lu Bergerac, des Marets,
                      Lesclache, </seg>
-                  <seg xml:id="FVL_12_09" corresp="#ECY_12_07"> les Historiettes de Barbin, </seg>
-                  <seg xml:id="FVL_12_10" corresp="#ECY_12_10">&amp; quelques recüeils de
+                  <seg xml:id="FVL_12_11" corresp="#ECY_12_09"> les Historiettes de Barbin, </seg>
+                  <seg xml:id="FVL_12_12" corresp="#ECY_12_12">&amp; quelques recüeils de
                      poësies.</seg>
-                  <seg xml:id="FVL_12_11" corresp="#ECY_12_07"> Il se promène avec des femmes à la
+                  <seg xml:id="FVL_12_13" corresp="#ECY_12_13"> Il se promène avec des femmes à la
                      Plaine ou au Cours, &amp; il est d’une ponctualité religieuse sur les
                      visites.</seg>
-                  <seg xml:id="FVL_12_12" corresp="#ECY_12_08"> Il fera demain ce qu’il fait
+                  <seg xml:id="FVL_12_14" corresp="#ECY_12_14"> Il fera demain ce qu’il fait
                      aujourd’huy &amp; ce qu’il fit hier ;</seg>
-                  <seg xml:id="FVL_12_13" corresp="#ECY_12_09"> &amp; il meurt ainsi après avoir
+                  <seg xml:id="FVL_12_15" corresp="#ECY_12_15"> &amp; il meurt ainsi après avoir
                      vécu.</seg>
                </p>
             </div>
@@ -383,13 +388,25 @@
             <div type="remark" n="118" ana="omit">
                <head>118</head>
                <p>
-                  <seg xml:id="FJG_118_01"> Vous avez surtout un homme pâle et livide qui n’a pas
-                     sur soi dix onces de chair, et que l’on croirait jeter à terre du moindre
-                     souffle. Il fait néanmoins plus de bruit que quatre autres, et met tout en
-                     combustion : il vient de pêcher en eau trouble une île tout entière ; ailleurs
-                     à la vérité, il est battu et poursuivi, mais il se sauve par les marais, et ne
-                     veut écouter ni paix ni trêve. Il a montré de bonne heure ce qu’il savait faire
-                     : il a mordu le sein de sa nourrice ; elle en est morte, la pauvre femme : je
+                  <seg xml:id="FJG_118_01"> Vous avez surtout </seg>
+                  <seg xml:id="FJG_118_02"> un homme pâle et livide 
+                     <note type="context">La Bruyere adds this derogatory remark on William III
+                     (William of Orange) and his reign in the 6th edition published in 1692, that
+                     is, not long after the Glorious Revolution of 1688 and more specifically the
+                     1690 Battle of the Boyne which annihilated Louis XIV's hopes to see James II
+                     access the throne: William III had become the champion of the coalition
+                     against France. The 4th English edition overlooks this passage, even though
+                     the rest of the chapter includes remarks that only appeared in the French
+                     8th edition, meaning that this removal was voluntary. Rowe's 1713 edition
+                     translates the passage on William III in a "Supplement to Chapter XII"
+                     rather than including it in the main body of the text.</note></seg>
+                  <seg xml:id="FJG_118_03"> 
+                     qui n’a pas sur soi dix onces de chair, et que l’on croirait jeter à terre
+                     du moindre  souffle. Il fait néanmoins plus de bruit que quatre autres, et 
+                     met tout en combustion : il vient de pêcher en eau trouble une île tout entière ;
+                     ailleursà la vérité, il est battu et poursuivi, mais il se sauve par les marais,
+                     et ne veut écouter ni paix ni trêve. Il a montré de bonne heure ce qu’il savait
+                     faire: il a mordu le sein de sa nourrice ; elle en est morte, la pauvre femme : je
                      m’entends, il suffit. En un mot il était né sujet, et il ne l’est plus ;au
                      contraire il est le maître, et ceux qu’il a domptés et mis sous le joug vont à
                      la charrue et labourent de bon courage : ils semblent même appréhender, les
@@ -403,16 +420,7 @@
                      rendre à eux tous de jour en jour plus redoutable : les Pictes et les Saxons
                      imposent silence aux Bataves, et ceux-ci aux Pictes et aux Saxons ;tous se
                      peuvent vanter d’être ses humbles esclaves, et autant qu’ils le souhaitent.
-                        <note type="context">La Bruyere adds this derogatory passage on William III
-                        (William of Orange) and his reign in the 6th edition published in 1692, that
-                        is, not long after the Glorious Revolution of 1688 and more specifically the
-                        1690 Battle of the Boyne which annihilated Louis XIV's hopes to see James II
-                        access the throne: William III had become the champion of the coalition
-                        against France. The 4th English edition overlooks this passage, even though
-                        the rest of the chapter includes remarks that only appeared in the French
-                        8th edition, meaning that this removal was voluntary. Rowe's 1713 edition
-                        translates the passage on William III in a "Supplement to Chapter XII"
-                        rather than including it in the main body of the text.</note></seg>
+                      </seg>
                </p>
             </div>
          </div>
@@ -700,50 +708,55 @@
                      understand you,</seg>
                   <seg xml:id="ESC_7_03" corresp="#FSC_7_03"> for my part I do but guess at your
                      meaning: </seg>
-                  <seg xml:id="ESC_7_04" corresp="#FSC_7_04"> if you would tell'em, 'tis Cold <note
-                        type="editorial"> Throughout remark 7, the translator resorts to many
+                  <seg xml:id="ESC_7_04" corresp="#FSC_7_04">
+                     <seg ana="abridg">if you would tell 
+                     <interp type="sense">'em</interp>, </seg></seg>
+                   <seg xml:id="ESC_7_05" corresp="#FSC_7_05">'tis Cold 
+                      <note type="editorial"> Throughout remark 7, the translator resorts to many
                         contractions, probably in order to convey the conversational flavor of the
                         original</note></seg>
-                  <seg xml:id="ESC_7_05" corresp="#FSC_7_06"> that it Rains, and it Snows;</seg>
-                  <seg xml:id="ESC_7_06" corresp="#FSC_7_05"> say 'tis Cold,</seg>
-                  <seg xml:id="ESC_7_07" corresp="#FSC_7_07"> it Rains, and it Snows;</seg>
-                  <seg xml:id="ESC_7_08" corresp="#FSC_7_08"> if you see them <interp type="tone">in
-                        good health</interp>
+                  <seg xml:id="ESC_7_06" corresp="#FSC_7_07"> that it Rains, and it Snows;</seg>
+                  <seg xml:id="ESC_7_07" corresp="#FSC_7_06"> say 'tis Cold,</seg>
+                  <seg xml:id="ESC_7_08" corresp="#FSC_7_08"> it Rains, and it Snows;</seg>
+                  <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> if you see <interp type="sense">them</interp> </seg>
+                  <seg xml:id="ESC_7_10" corresp="#FSC_7_10"><interp type="tone">in good health</interp>
                      <note type="editorial">the English phrase is less wordly than "bon visage",
-                        there again mitigating La Bruyère subtly sophisticated, ironic lexicon
-                     </note>, and would congratulate 'em upon it </seg>
-                  <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> 'tell 'em they look well: </seg>
-                  <seg xml:id="ESC_7_10" corresp="#FSC_7_10"> Oh! but, say you, that is so plain,
+                        there again mitigating La Bruyère subtly sophisticated, ironic lexicon.
+                     </note>,</seg> 
+                  <seg xml:id="ESC_7_11" corresp="FSC_7_11"> and would congratulate 'em upon it </seg>
+                  <seg xml:id="ESC_7_12" corresp="#FSC_7_12"> 'tell 'em they look well: </seg>
+                  <seg xml:id="ESC_7_13" corresp="#FSC_7_13"> Oh! but, say you, that is so plain,
                      and so conspicuous, any one might have said as much.</seg>
-                  <seg xml:id="ESC_7_11" corresp="#FSC_7_11">
+                  <seg xml:id="ESC_7_14" corresp="#FSC_7_14">
                      <seg ana="add"> 'Tis true, and what does that signifie?</seg> besides, what
                      harm is there, <hi rend="italic">Acis</hi>, in being intelligible, or speaking
                      like your Neighbours?</seg>
-                  <seg xml:id="ESC_7_12" corresp="#FSC_7_12"> There is one thing, <hi rend="italic"
-                        >Acis</hi>, which you and some <interp type="sense">Gentlemen of your
+                  <seg xml:id="ESC_7_15" corresp="#FSC_7_15"> There is one thing, <hi rend="italic"
+                        >Acis</hi>, which you and some </seg>
+                     <seg xml:id="ESC_7_16" corresp="#FSC_7_16"><interp type="sense">Gentlemen of your
                         Complexion</interp> want very much,</seg>
-                  <seg xml:id="ESC_7_13" corresp="#FSC_7_13"> I know I shall surprise you,</seg>
-                  <seg xml:id="ESC_7_14" corresp="#FSC_7_14"> but there's certainly one thing
+                  <seg xml:id="ESC_7_17" corresp="#FSC_7_17"> I know I shall surprise you,</seg>
+                  <seg xml:id="ESC_7_18" corresp="#FSC_7_18"> but there's certainly one thing
                      wanting in you, which is Wit;</seg>
-                  <seg xml:id="ESC_7_15" corresp="#FSC_7_15"> tho this is not all, there is
+                  <seg xml:id="ESC_7_19" corresp="#FSC_7_19"> tho this is not all, there is
                      something too abounding in you, and that is, The opinion that you have more
                      than other Men.</seg>
-                  <seg xml:id="ESC_7_16" corresp="#FSC_7_16"> This is the Fountain of all your
+                  <seg xml:id="ESC_7_20" corresp="#FSC_7_20"> This is the Fountain of all your
                      pompous Fustian,</seg>
-                  <seg xml:id="ESC_7_17" corresp="#FSC_7_18"> your big words,</seg>
-                  <seg xml:id="ESC_7_18" corresp="#FSC_7_17"> and your perplext Phrases.</seg>
-                  <seg xml:id="ESC_7_19" corresp="#FSC_7_19"> The next time I find you accosting any
+                  <seg xml:id="ESC_7_21" corresp="#FSC_7_22"> your big words,</seg>
+                  <seg xml:id="ESC_7_22" corresp="#FSC_7_21"> and your perplext Phrases.</seg>
+                  <seg xml:id="ESC_7_23" corresp="#FSC_7_23"> The next time I find you accosting any
                      body,</seg>
-                  <seg xml:id="ESC_7_20" corresp="#FSC_7_20"> I shall pluck you by your Sleeve, and
+                  <seg xml:id="ESC_7_24" corresp="#FSC_7_24"> I shall pluck you by your Sleeve, and
                      tell you in your Ear,</seg>
-                  <seg xml:id="ESC_7_21" corresp="#ESC_7_21"> Dont affect to have Wit; don't pretend
+                  <seg xml:id="ESC_7_25" corresp="#ESC_7_25"> Dont affect to have Wit; don't pretend
                      to't,</seg>
-                  <seg xml:id="ESC_7_22" corresp="#ESC_7_22"> Let that be your part;</seg>
-                  <seg xml:id="ESC_7_23" corresp="#ESC_7_23"> but if you can, learn some plain
+                  <seg xml:id="ESC_7_26" corresp="#ESC_7_26"> Let that be your part;</seg>
+                  <seg xml:id="ESC_7_27" corresp="#ESC_7_27"> but if you can, learn some plain
                      unaffected Language</seg>
-                  <seg xml:id="ESC_7_24" corresp="#ESC_7_24"> such as those speak, who you fancy
+                  <seg xml:id="ESC_7_28" corresp="#ESC_7_28"> such as those speak, who you fancy
                      have no Wit:</seg>
-                  <seg xml:id="ESC_7_25" corresp="#ESC_7_25"> then perhaps we may think you have
+                  <seg xml:id="ESC_7_29" corresp="#ESC_7_29"> then perhaps we may think you have
                      some your self.</seg>
                </p>
             </div>
@@ -808,36 +821,37 @@
                      rises in the Morning to lye down at Night,</seg>
                   <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as
                      regularly as a Woman,</seg>
-                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to <interp
-                        type="sense"> Morning and Evening Prayer;</interp>
+                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to</seg> 
+                  <seg xml:id="ECY_12_04" corresp="#FVL_12_04">
+                     <interp type="sense"> Morning and Evening Prayer;</interp>
                      <note type="editorial"> "Feuillants" and 'Minimes" refer to the congregations
                         celebrating the mass, not the time of the day when it takes place.
                      </note></seg>
-                  <seg xml:id="ECY_12_04" corresp="#FVL_12_04"> he is good Company, and serves to
-                     make a third Man at Ombre;</seg>
-                  <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he fits four hours together at <hi
-                        rend="italic"><choice>
-                           <sic>Aracia's</sic>
-                           <corr>Aricia's</corr>
-                        </choice></hi>, where he ventures his 5 <seg ana="add">or 6</seg> pistoles
-                     e'ry night;</seg>
-                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> he reads exactly the Dutch
+                  <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he is good Company, and serves to
+                     make a third Man at </seg>
+                    <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> Ombre;</seg>
+                  <seg xml:id="ECY_12_07" corresp="#FVL_12_07"> he fits four hours together at <hi
+                        rend="italic">
+                     <choice><sic>Aracia's</sic>
+                           <corr>Aricia's</corr></choice></hi>,
+                     where he ventures his 5 <seg ana="add">or 6</seg> pistoles e'ry night;</seg>
+                  <seg xml:id="ECY_12_08" corresp="#FVL_12_08"> he reads exactly the Dutch
                      Gazette,</seg>
-                  <seg xml:id="ECY_12_07" corresp="#FVL_12_09"><hi rend="italic">Barbins</hi> News,
+                  <seg xml:id="ECY_12_09" corresp="#FVL_12_11"><hi rend="italic">Barbins</hi> News,
                         <note type="editorial">This loose translation of "historiette" seems to
                         indicate that the literary genre didn't know the same popularity in England
                         at the time.</note></seg>
-                  <seg xml:id="ECY_12_08" corresp="#FVL_12_07"> and the <hi rend="italic">Mercure
+                  <seg xml:id="ECY_12_10" corresp="#FVL_12_09"> and the <hi rend="italic">Mercure
                         Gallant</hi>;</seg>
-                  <seg xml:id="ECY_12_09" corresp="#FVL_12_08"> he has read <hi rend="italic"
-                        >Bergerac, Du Marets, Lesclache,</hi></seg>
-                  <seg xml:id="ECY_12_10" corresp="#FVL_12_10"> and some Collections of
+                  <seg xml:id="ECY_12_11" corresp="#FVL_12_10"> he has read <hi rend="italic">
+                     Bergerac, Du Marets, Lesclache,</hi></seg>
+                  <seg xml:id="ECY_12_12" corresp="#FVL_12_12"> and some Collections of
                      Poetry;</seg>
-                  <seg xml:id="ECY_12_11" corresp="#FVL_12_07"> he walks with the Ladies in the Park
+                  <seg xml:id="ECY_12_13" corresp="#FVL_12_13"> he walks with the Ladies in the Park
                      or Meadows, and is religiously punctual in his Visits:</seg>
-                  <seg xml:id="ECY_12_12" corresp="#FVL_12_08"> he will do the same tomorrow, which
+                  <seg xml:id="ECY_12_14" corresp="#FVL_12_14"> he will do the same tomorrow, which
                      he has done today, and did yesterday.</seg>
-                  <seg xml:id="ECY_12_13" corresp="#FVL_12_09"> Thus he lives, and in this manner he
+                  <seg xml:id="ECY_12_15" corresp="#FVL_12_15"> Thus he lives, and in this manner he
                      will die.</seg>
                </p>
             </div>
