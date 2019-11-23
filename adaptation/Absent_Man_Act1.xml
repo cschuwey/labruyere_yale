@@ -15,13 +15,17 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
+                <title>The Absent Man: A Farce. A digital edition of the 1768 theatrical adaption of Jean de le Bruyère’s Caractères </title>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Published as a collaborative effort between Andread Basset and Sarah Moore, under the direction of Dr. Geoff Turnovsky and the 
+                    ENGL 501 Textual Studies and Digital Editing course during the Autumn 2019 quarter at the University of Washington. 
+                    Our project is an online critical edition of The Absent Man: A Farce, a 1768 theatrical adaption of Jean de la Bruyère’s Caractères. 
+                    Our project is designed to meet the needs of general readers, students, and researchers interested in engaging an obscure work influenced by La Bruyère’s Caractères.</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <p>The Absent Man: A Farce. Published in 1768 for William Griffin, in Catherine-Street, the Strand.
+                Scanned by Google Books.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
