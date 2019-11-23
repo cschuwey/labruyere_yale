@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Excerpts from <hi rend="ital">Caractères</hi> French and English Compared</title>
+            <title><hi rend="ital">Caractères</hi> by Jean de La Bruyère: French and English Parallel Texts</title>
             <respStmt>
                <resp>Transcribed by</resp>
                <name>Jeanne Sauvage and Julee Tanner</name>
@@ -1050,10 +1050,10 @@
          </div>
       </body>
       <interpGrp>
-         <interp xml:id="sense">English alters meaning of original French</interp>
-         <interp xml:id="tone">English alters tone of original French</interp>
-         <interp xml:id="omit">English omits text from original French</interp>
-         <interp xml:id="add">English adds text to original French</interp>
+         <interp xml:id="sense">English alters meaning of French</interp>
+         <interp xml:id="tone">English alters tone French</interp>
+         <interp xml:id="omit">Text in French omitted from translation</interp>
+         <interp xml:id="add">Text added to English translation</interp>
          <interp xml:id="expan">English uses more words to convey same idea</interp>
          <interp xml:id="abridg">English uses fewer words to convey same idea</interp>
       </interpGrp>
