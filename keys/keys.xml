@@ -902,9 +902,13 @@
                      </list>
                  </note>
     </listPerson>
-</div1>
-<div1 type="editornote">
+  </div1>
+  <div1 type="editornote">
     <head>Un mot sur les clés</head>
+    <p></p>
+  </div1>
+ </back>
+</TEI>
     
 
 
