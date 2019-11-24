@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
      <fileDesc>
@@ -16,14 +17,14 @@
       <sourceDesc>
        <listBibl>
         <biblStruct>
-         <monogr>
+         <monogr xml:id="Caractères">
           <author>
             <name>
                 <forename>Jean</forename>
                 <surname>de la Bruyère</surname>
             </name>
         </author>
-          <title type="main">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+          <title type="mono">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
           <edition>Tenth edition</edition>
           <imprint>
             <publisher>Le Livre de Poche</publisher>
@@ -40,7 +41,7 @@
                 <surname>de Villiers</surname>
             </name>
         </author>
-          <title type="main">Œuvres en Vers de M. L'Abbé de Villiers (1717)</title>
+          <title type="mono">Œuvres en Vers de M. L'Abbé de Villiers (1717)</title>
           <edition>Reprint</edition>
           <imprint>
             <publisher>Kessinger</publisher>
@@ -49,46 +50,57 @@
           </imprint>
          </monogr>
         </biblStruct>
-        <bibl xml:id="KeyC">
-         <title>Clé de Cochin</title>
-           <date when="fill in"></date>
-             <author>
-              <persName>
-                <forename>fill in</forename>
-                <surname>fill in</surname>
-              </persName>
-             </author>
-        </bibl>
-        <bibl xml:id="Key1697">
-          <title>Clé de 167</title>
-          <date when="1697"></date>
-          <author>
-            <persName>
-              <forename>fill in</forename>
-              <surname>fill in</surname>
-            </persName>
-          </author>
-        </bibl>
-        <bibl xml:id="Key1720">
-           <title>Clé de 1720</title>
-           <date when="fill in"></date>
-           <author>
-             <persName>
-              <forename>fill in</forename>
-              <surname>fill in</surname>
-             </persName>
-           </author>
-       </bibl>          
-       <bibl xml:id="KeyS">
-         <title>Clé de Servois</title>
-         <date when="fill in"></date>
-         <author>
-           <persName>
-             <forename>fill in</forename>
-             <surname>fill in</surname>
-           </persName>
-         </author>
-       </bibl>
+        <biblStruct>
+            <monogr xml:id="Escola">
+                <author>
+                    <name>
+                        <forename>Jean</forename>
+                        <surname>de la Bruyère</surname>
+                    </name>
+                </author>
+                <title type="mono">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+                <edition>Reprint</edition>
+                <imprint>
+                    <publisher>Honoré Champion</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1999</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+        <biblStruct>
+            <monogr xml:id="Fumaroli">
+                <author>
+                    <name>
+                        <forename>Marc</forename>
+                        <surname>Fumaroli</surname>
+                    </name>
+                </author>
+                <title level="a">Les Abeilles et les Araignées</title>
+                <respStmt>in</respStmt>
+                    <title type="mono" level="m">La Querelle des Anciens et des Modernes</title>
+                <imprint>
+                    <publisher>Folio Classique</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>2001</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+        <biblStruct>
+          <monogr xml:id="Dictionary">
+              <editor>
+                 <name>
+                    <forename>Noretta</forename>
+                    <surname>Koertge</surname>
+                 </name>Folio
+              </editor>
+              <title type="mono">The New Dictionary of Scientific Biography</title>
+              <imprint>
+                 <publisher>Charles Scribner's Sons</publisher>
+                 <pubPlace>New York</pubPlace>
+                 <date>2008</date>
+              </imprint>
+         </monogr>
+        </biblStruct>
        </listBibl>
      </sourceDesc>
    </fileDesc>
@@ -111,9 +123,30 @@
             </ref>
            </p>
            <p>
-              <milestone unit="section" xml:id="Esprit15d"/>
+             <milestone unit="section"/>
              <app>
-               <lem rend="bold">Un auteur moderne</lem>
+             <lem rend="bold" xml:id="Esprit15d">Un auteur moderne</lem>
+               <rdg source="Key1693">
+                      <ptr target="#Perrault"></ptr>
+                      <name rend="bold">Perrault</name>
+               </rdg>
+               <rdg source="KeyC">
+                      <ptr target="#Perrault"></ptr>
+                      <name rend="bold">Perrault</name>
+               </rdg>
+               <rdg source="#Key1697">
+                    <ptr target="#Perrault"></ptr>
+                    <name rend="bold">Perrault</name>
+               </rdg>
+               <rdg source="#Key1720">
+                    <ptr target="#Perrault"></ptr>
+                        <name rend="bold">Perrault</name>
+               </rdg>
+               <rdg source="#KeyS">
+                    <ptr target="#Fontenelle"></ptr>
+                    <name rend="bold">Fontenelle</name>
+               </rdg>
+           </app><lem rend="bold">Un auteur moderne</lem>
                <rdg source="#KeyC">
                    <persName>
                       <ptr target="#Perrault"></ptr>
@@ -264,6 +297,135 @@
      </div1>
    </body>
    <back>
+     <div1 type="key" xml:id="Key1693">
+        <bibl>
+            <title>Clé de 1693</title>
+            <date when="1693">1693</date>
+            <imprint>
+                <publisher>Bibliothèque de l'Arsenal</publisher>
+                <pubPlace>Paris</pubPlace>
+            </imprint>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="1693-Perrault" target="#Esprit15d">
+                 <name>
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                </name>
+                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+              </person>
+            </listpers>
+        </div2>
+    </div1>
+    <div1 type="key" xml:id="KeyC">
+        <bibl>
+            <title>Clé de Cochin</title>
+            <date when="Entre 1693 et 1697"></date>
+            <author>
+                <name>
+                    <surname>Cochin</surname>
+                </name>
+            </author>
+            <imprint>
+                <publisher>Bibliothèque de l'Arsenal</publisher>
+                <pubPlace>Paris</pubPlace>
+            </imprint>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="C—Perrault">
+                 <name>
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                </name>
+                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+              </person>
+            </listpers>
+        
+    <div1 type="key" xml:id="Key1697">
+        <bibl>
+            <title>Clé de 1697</title>
+            <date when="">1697</date>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="1697—Perrault">
+                 <name>
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                </name>
+                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+              </person>
+            </listpers>
+        </div2>
+    </div1>
+    <div1 type="key" xml:id="Key1720">
+        <bibl>
+            <title>Clé de 1720</title>
+            <date when="1720">1720</date>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="1720—Perrault">
+                 <name>
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                </name>
+                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+              </person>
+            </listpers>
+        </div2>
+    </div1>
+    <div1 type="key" xml:id="KeyCo">
+        <bibl>
+            <title>Clé Coste</title>
+            <date when="À partir de 1739"></date>
+            <imprint>
+                <publisher>Éditions de Coste</publisher>
+                <pubPlace>Paris</pubPlace>
+            </imprint>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="C—Perrault">
+                 <name>
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                </name>
+                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+              </person>
+            </listpers>
+        </div2>
+    </div1>
+    <div1 type="key" xml:id="KeyS">
+        <bibl>
+            <title>Commentaire de Servois</title>
+            <date when="1882"></date>
+            <author>
+                <name>
+                    <forename>M. G.</forename>
+                    <surname>Servois</surname>
+                </name>
+            </author>
+            <imprint>
+                <publisher>Librairie Hachette & Co.</publisher>
+                <pubPlace>Paris</pubPlace>
+            </imprint>
+        </bibl>
+        <div2 type ="prosopography">
+            <listpers type="prosopography">
+                <person xml:id="S—Fontenelle">
+                 <name>
+                     <forename>Bernard le Bovier</forename>
+                     <surname>de Fontenelle</surname>
+                </name>
+                <note type="editor">Servois pense surtout à la <title>Digression sur les anciens et les modernes</title> de Fontenelle.</note>
+              </person>
+            </listpers>
+        </div2>
+    </div1>
+    < <div
      <div1 type="prosopography">
          <head type="sub">Qui est qui dans 
             <title>Les Caractères</title>
@@ -274,16 +436,21 @@
                      <graphic scale="1" url="https://www.computerhope.com/people/pictures/claude_perrault.jpg"></graphic>
                  </figure>
                  <name>
-                 <forename>Claude</forename>
+                 <forename>Charles</forename>
                  <surname>Perrault</surname>
                 </name>
-                <note type="descrip">
+                <note type="desc">
                     <title type="category">À Propos</title>
-                    <p>blah blah blah</p>
+                    <p>Charles Perrault était un écrivain français et un membre de l'Académie Française. Aujourd'hui, il est surtout connu pour ses contes de fées, dont les plus célèbres sont <title type="mono">Le Petit Chaperon Rouge</title> et <title type="mono">La Beauté au Bois Dormant</title>. En 1687, il a lu son poème <title type="mono">Le Siècle de Louis le Grand</title>, ce qui est largement considéré le début de la Querelle des Anciens et des Modernes.
+                        <note type="editory">
+                            <ref source="Fumaroli">Comment nous montre Marc Fumarolli, les racines de la Querelle remontent à beaucoup plus tôt au dix-septième siècle.</ref>
+                        </note>
+                        Perrault être un des "chefs" du camp Moderne dans la Querelle.
+                    </p>
                 </note>
                 <note type="relation">
                     <title type="category">Rapport avec La Bruyère</title>
-                    <p>blah blah blah</p>
+                    <p>En tant que Moderne, Perraut était opposé à La Bruyère, qui faisait parti lui-même du camp Ancien.</p>
                 </note>
                 <note type="reference">
                     <title type="category">Caractères</title>
@@ -301,16 +468,18 @@
                 <graphic scale="1" url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fontenelle.jpg/250px-Fontenelle.jpg"></graphic>
             </figure>
             <name>
-                <forename>Jean Le Bovier</forename>
+                <forename>Bernard Le Bovier</forename>
                 <surname>de Fontenelle</surname>
             </name>
             <note type="descrip">
                 <title type="category">À Propos</title>
-                <p>blah blah blah</p>
+                <p>Bernard le Bovier de Fontenelle était un esprit universel du dix-septième siècle. Outre sa production littéraire, il était membre de trois Académies à l'Institut de France (l'Académie Française, l'Académie des Sciences, et l'Académie des Inscriptions et Belles-Lettres). Il participait à la Querelle des Anciens et des Modernes, en se raillant aux Modernes. Effectivement, il a écrit <title type="mono">Digression sur les anciens et les modernes</title>. <ref source="#Dictionary">Il a également publié de nombreux ouvrages scientifique, et est connu surtout pour l'accessibilité (voire, qualité littéraire) de son écriture scientifique.</ref></p>
             </note>
             <note type="relation">
                 <title type="category">Rapport avec La Bruyère</title>
-                <p>blah blah blah</p>
+                <p>
+                    <ref source="Caractères">Fontenelle était particulièrement hostile envers La Bruyère quand le dernier a essayé d'être élu à l'Académie Française. Il est bien possible que Fontenelle, qui menait cette oppostiion farouche, empechait l'élection de La Bruyère. Quand La Bruyère avait enfin réussi à se faire élire à l'Académie, son discours de reception a compris une attaque de Fontenelle.</ref>
+                </p>
             </note>
             <note type="reference">
                 <title type="category">Caractères</title>
@@ -507,6 +676,5 @@
                  </note>
              </person>
     </listPerson>
-
 
 
