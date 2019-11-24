@@ -24,7 +24,7 @@
                 <surname>de la Bruyère</surname>
             </name>
         </author>
-          <title type="mono">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+          <title type="mono" rend="ital">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
           <edition>Tenth edition</edition>
           <imprint>
             <publisher>Le Livre de Poche</publisher>
@@ -41,7 +41,7 @@
                 <surname>de Villiers</surname>
             </name>
         </author>
-          <title type="mono">Œuvres en Vers de M. L'Abbé de Villiers (1717)</title>
+          <title type="mono" rend="ital">Œuvres en Vers de M. L'Abbé de Villiers (1717)</title>
           <edition>Reprint</edition>
           <imprint>
             <publisher>Kessinger</publisher>
@@ -58,7 +58,7 @@
                         <surname>de la Bruyère</surname>
                     </name>
                 </author>
-                <title type="mono">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
+                <title type="mono" rend="ital">Les Caractères de Theophraste traduits du grec avec les Caractères ou les moeurs de ce siècle</title>
                 <edition>Reprint</edition>
                 <imprint>
                     <publisher>Honoré Champion</publisher>
@@ -77,7 +77,7 @@
                 </author>
                 <title level="a">Les Abeilles et les Araignées</title>
                 <respStmt>in</respStmt>
-                    <title type="mono" level="m">La Querelle des Anciens et des Modernes</title>
+                    <title type="mono" level="m" rend="ital">La Querelle des Anciens et des Modernes</title>
                 <imprint>
                     <publisher>Folio Classique</publisher>
                     <pubPlace>Paris</pubPlace>
@@ -93,7 +93,7 @@
                     <surname>Koertge</surname>
                  </name>Folio
               </editor>
-              <title type="mono">The New Dictionary of Scientific Biography</title>
+              <title type="mono" rend="ital">The New Dictionary of Scientific Biography</title>
               <imprint>
                  <publisher>Charles Scribner's Sons</publisher>
                  <pubPlace>New York</pubPlace>
@@ -330,7 +330,7 @@
                      <surname>Perrault</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                   
-                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+                <note type="editor">La clef fait référence surtout aux <title type="mono" rend="ital">Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
               <person xml:id="1693-Racine" target="#Esprit15e">
                  <name>
@@ -371,7 +371,7 @@
                      <surname>Perrault</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                   
-                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+                <note type="editor">La clef fait référence surtout aux <title type="mono" rend="ital">Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
               <person xml:id="C—Racine" target="Esprit 15e">
                  <name>
@@ -413,7 +413,7 @@
                      <surname>Perrault</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                                 
-                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+                <note type="editor">La clef fait référence surtout aux <title type="mono" rend="ital">Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
               <person xml:id="1697—Racine" target="#Esprit15e">
                 <name>
@@ -459,7 +459,7 @@
                      <surname>Perrault</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                                  
-                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+                <note type="editor">La clef fait référence surtout aux <title type="mono" rend="ital">Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
               <person xml:id="1720—Racine" target="#Esprit15e">
                 <name>
@@ -489,7 +489,7 @@
                  </name>
                  <pseudoname>un auteur né copiste</pseudoname>                                              
                  <note type="author">« L’abbé de Villiers, qui a été autrefois chez les Jésuites ».
-                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
+                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono" rend="ital">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono" rend="ital">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
               </person>  
               <person xml:id="1720—Guénéngaud" target="#Fortune17">
                 <name>
@@ -525,7 +525,7 @@
                      <surname>Perrault</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                                
-                <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
+                <note type="editor">La clef fait référence surtout aux <title type="mono" rend="ital">Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
               <person xml:id="Co—Racine" target="#Esprit15e">
                 <name>
@@ -555,7 +555,7 @@
                  </name>
                  <pseudoname>un auteur né copiste</pseudoname>                                           
                  <note type="author">« L’abbé de Viliers, qui a été autrefois chez les Jésuites ».
-                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
+                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono" rend="ital">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono" rend="ital">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
               </person>                           
             </listpers>
         </div2>
@@ -583,7 +583,7 @@
                      <surname>de Fontenelle</surname>
                 </name>
                 <pseudoname>Un auteur moderne</pseudoname>                                                 
-                <note type="editor">Servois pense surtout à la <title>Digression sur les anciens et les modernes</title> de Fontenelle.</note>
+                <note type="editor">Servois pense surtout à la <title type="mono" rend="ital">Digression sur les anciens et les modernes</title> de Fontenelle.</note>
               </person>
               <person xml:id="S—Racine" target="#Esprit15e">
                 <name>
@@ -611,7 +611,7 @@
     </div1>
     <div1 type="prosopography">
          <head type="sub">Qui est qui dans 
-            <title>Les Caractères</title>
+            <title type="mono" rend="ital">Les Caractères</title>
          ?</head>
          <listPerson>
              <person xml:id="Perrault">
@@ -623,8 +623,8 @@
                  <surname>Perrault</surname>
                 </name>
                 <note type="desc">
-                    <title type="category">À Propos</title>
-                    <p>Charles Perrault était un écrivain français et un membre de l'Académie Française. Aujourd'hui, il est surtout connu pour ses contes de fées, dont les plus célèbres sont <title type="mono">Le Petit Chaperon Rouge</title> et <title type="mono">La Beauté au Bois Dormant</title>. En 1687, il a lu son poème <title type="mono">Le Siècle de Louis le Grand</title>, ce qui est largement considéré le début de la Querelle des Anciens et des Modernes.
+                    <title type="category" rend="bold">À Propos</title>
+                    <p>Charles Perrault était un écrivain français et un membre de l'Académie Française. Aujourd'hui, il est surtout connu pour ses contes de fées, dont les plus célèbres sont <title type="mono" rend="ital">Le Petit Chaperon Rouge</title> et <title type="mono" rend="ital">La Beauté au Bois Dormant</title>. En 1687, il a lu son poème <title type="mono" rend="ital">Le Siècle de Louis le Grand</title>, ce qui est largement considéré le début de la Querelle des Anciens et des Modernes.
                         <note type="editory">
                             <ref source="Fumaroli">Comment nous montre Marc Fumarolli, les racines de la Querelle remontent à beaucoup plus tôt au dix-septième siècle.</ref>
                         </note>
@@ -632,11 +632,11 @@
                     </p>
                 </note>
                 <note type="relation">
-                    <title type="category">Rapport avec La Bruyère</title>
+                    <title type="category" rend="bold">Rapport avec La Bruyère</title>
                     <p>En tant que Moderne, Perraut était opposé à La Bruyère, qui faisait parti lui-même du camp Ancien.</p>
                 </note>
                 <note type="reference">
-                    <title type="category">Caractères</title>
+                    <title type="category" rend="bold">Caractères</title>
                     <list type="index">
                         <item>
                             <ptr target="#Esprit15d">
@@ -655,17 +655,17 @@
                 <surname>de Fontenelle</surname>
             </name>
             <note type="descrip">
-                <title type="category">À Propos</title>
-                <p>Bernard le Bovier de Fontenelle était un esprit universel du dix-septième siècle. Outre sa production littéraire, il était membre de trois Académies à l'Institut de France (l'Académie Française, l'Académie des Sciences, et l'Académie des Inscriptions et Belles-Lettres). Il participait à la Querelle des Anciens et des Modernes, en se raillant aux Modernes. Effectivement, il a écrit <title type="mono">Digression sur les anciens et les modernes</title>. <ref source="#Dictionary">Il a également publié de nombreux ouvrages scientifique, et est connu surtout pour l'accessibilité (voire, qualité littéraire) de son écriture scientifique.</ref></p>
+                <title type="category" rend="bold">À Propos</title>
+                <p>Bernard le Bovier de Fontenelle était un esprit universel du dix-septième siècle. Outre sa production littéraire, il était membre de trois Académies à l'Institut de France (l'Académie Française, l'Académie des Sciences, et l'Académie des Inscriptions et Belles-Lettres). Il participait à la Querelle des Anciens et des Modernes, en se raillant aux Modernes. Effectivement, il a écrit <title type="mono" rend="ital">Digression sur les anciens et les modernes</title>. <ref source="#Dictionary">Il a également publié de nombreux ouvrages scientifique, et est connu surtout pour l'accessibilité (voire, qualité littéraire) de son écriture scientifique.</ref></p>
             </note>
             <note type="relation">
-                <title type="category">Rapport avec La Bruyère</title>
+                <title type="category" rend="bold">Rapport avec La Bruyère</title>
                 <p>
                     <ref source="Caractères">Fontenelle était particulièrement hostile envers La Bruyère quand le dernier a essayé d'être élu à l'Académie Française. Il est bien possible que Fontenelle, qui menait cette oppostiion farouche, empechait l'élection de La Bruyère. Quand La Bruyère avait enfin réussi à se faire élire à l'Académie, son discours de reception a compris une attaque de Fontenelle.</ref>
                 </p>
             </note>
             <note type="reference">
-                <title type="category">Caractères</title>
+                <title type="category" rend="bold">Caractères</title>
                 <list type="index">
                     <item>
                         <ptr target="#Esprit15d">
@@ -684,8 +684,8 @@
                 <surname>Racine</surname>
             </name>
             <note type="desc">
-                <title type="category">À Propos</title>
-                <p>Jean Racine, né Jean-Baptiste Racine, était un dramaturge et poète français. Il est connu pour ses tragédies, dont les plus célèbres sont <title type="mono">Phèdre</title> et <title type="mono">Bérénice</title>. Racine, avec Nicolas Boileau-Despréaux, était 
+                <title type="category" rend="bold">À Propos</title>
+                <p>Jean Racine, né Jean-Baptiste Racine, était un dramaturge et poète français. Il est connu pour ses tragédies, dont les plus célèbres sont <title type="mono" rend="ital">Phèdre</title> et <title type="mono" rend="ital">Bérénice</title>. Racine, avec Nicolas Boileau-Despréaux, était 
                     <ref>
                     Historien du Roi.
                         <note type="gloss"> Il s'agit ici d'une poste créé par Louis XIV et son ministre, Jean-Baptiste Colbert. L'Historien du Roi devait documenter la vie et les ouvrage et les actes de Louis XIV, afin d'assurer la postérité du roi.</note>
@@ -697,15 +697,15 @@
                 </p>
             </note>
             <note type="relation">
-                <title type="category">Rapport avec La Bruyère</title>
+                <title type="category" rend="bold">Rapport avec La Bruyère</title>
                 <p>Racine, comme La Bruyère, faisait partie du camp Ancien dans la Querelle des Anciens et des Modernes. Dans son discours de réception à l'Académie Française, La Bruyère compare le travail de Racine à celui de Corneille, en insinuant que Racine était plus doué. Racine a certainement voté en faveur de l'élection de La Bruyère à l'Académie Française.</p>
             </note>
             <note type="reference">
-                <title type="category">Caractères</title>
+                <title type="category" rend="bold">Caractères</title>
                 <list type="index">
                     <item>
                         <ptr target="#Esprit15e">
-                            <title type="chapter">Des Ouvrages de l'Esprit</title>, XV
+                            <title type="chapter" >Des Ouvrages de l'Esprit</title>, XV
                         </ptr>
                     </item>
                 </list>
@@ -719,20 +719,20 @@
                 <forename>Nicolas</forename>
                 <surname>Boileau-Despréaux</surname>
             </name>
-            <note type="descrip">
+            <note type="descrip"> rend="bold"
                 <title type="category">À Propos</title>
-                <p>Nicolas Boileau-Despréaux, appelé souvent simplement Boileau, était un poète et savant français. Ses ouvrages critiques sur la poésie française, comme <title type="mono">L'Art Poétique</title>, nous fournissent une critique des poètes contemporains, ainsi qu'anciens. En 1677, Boileau et devenu, avec Jean Racine, 
+                <p>Nicolas Boileau-Despréaux, appelé souvent simplement Boileau, était un poète et savant français. Ses ouvrages critiques sur la poésie française, comme <title type="mono" rend="ital">L'Art Poétique</title>, nous fournissent une critique des poètes contemporains, ainsi qu'anciens. En 1677, Boileau et devenu, avec Jean Racine, 
                     <ref>Historien du Roi.
                         <note type="gloss"> Il s'agit ici d'une poste créé par Louis XIV et son ministre, Jean-Baptiste Colbert. L'Historien du Roi devait documenter la vie et les ouvrage et les actes de Louis XIV, afin d'assurer la postérité du roi.</note>
                     </ref>     
                 </p>
             </note>
             <note type="relation">
-                <title type="category">Rapport avec La Bruyère</title>
+                <title type="category" rend="bold">Rapport avec La Bruyère</title>
                 <p>Boileau était un membre de l'Académie Français et le "chef" du camp Ancien dans la Querelle des Anciens et des Modernes. Le discours de réception de La Bruyère à l'Académie Française inclut un éloge de Boileau. Boileau a certainement voté en faveur de l'élection de La Bruyère à l'Académie Française. </p>
             </note>
             <note type="reference">
-                <title type="category">Caractères</title>
+                <title type="category" rend="bold">Caractères</title>
                 <list type="index">
                     <item>
                         <ptr target="#Esprit15e">
@@ -751,7 +751,7 @@
                 <surname>de Villiers</surname>
             </name>
             <note type="descrip">
-                <title type="category">À Propos</title>
+                <title type="category" rend="bold">À Propos</title>
                 <p>Pierre de Villiers (connu comme l'abbé de Villiers) est un abbé jésuite et écrivain français. Il entre en 
                     <ref type="note"> l'Ordre de Cluny
                         <note type="gloss">Ordre monastique de l'Église catholique, créé au Xe siècle est supprimé à la fin du XIIIe siècle.</note>
@@ -759,15 +759,15 @@
                     <ref source="Villiersbib">Plusieurs œuvres historiques et biographiques du dix-septième siècle sont lui attribués.</ref></p>
             </note>
             <note type="relation">
-                <title type="category">Rapport avec La Bruyère</title>
+                <title type="category" rend="bold">Rapport avec La Bruyère</title>
                 <p>De Villiers publie en 1682 
-                    <title type="book">L'Art de prêcher</title>
+                    <title type="mono" rend="ital">L'Art de prêcher</title>
                     , ce qui a été conçu comme une imitation
-                    <title type="book">L'Art poétique</title> de Boileau. Outre, en 1690 il écrivit des 
-                    <title type="book">Réflexions sur les défauts d'autrui</title>, ce qui ont étee vu comme une imitation de l'œuvre de La Bruyère. De Villiers a également écrit <title type="mono">Sentiments critiques sur les Caractères de La Bruyère</title>.</p>
+                    <title type="mono" rend="ital">L'Art poétique</title> de Boileau. Outre, en 1690 il écrivit des 
+                    <title type="mono" rend="ital">Réflexions sur les défauts d'autrui</title>, ce qui ont étee vu comme une imitation de l'œuvre de La Bruyère. De Villiers a également écrit <title type="mono" rend="ital">Sentiments critiques sur les Caractères de La Bruyère</title>.</p>
             </note>
             <note type="reference">
-                <title type="category">Caractères</title>
+                <title type="category" rend="bold">Caractères</title>
                 <list type="index">
                     <item>
                         <ptr target="#Esprit64">
@@ -786,17 +786,17 @@
                 <surname>Brillon</surname>
              </name>
              <note type="descrip">
-                 <title type="category">À Propos</title>
-                 <p>Jacques Brillon, également appelé Pierre-Jacques Brillon, était un copiste et un écrivain français. Il semble qu'il a écrit plusieurs dictionnaires légaux, ainsi que des textes critiques sur les <title type="mono">Caractères</title> de Théophraste, et des <title type="mono">Caractères</title> de La Bruyère lui-même.</p>
+                 <title type="category" rend="bold">À Propos</title>
+                 <p>Jacques Brillon, également appelé Pierre-Jacques Brillon, était un copiste et un écrivain français. Il semble qu'il a écrit plusieurs dictionnaires légaux, ainsi que des textes critiques sur les <title type="mono" rend="ital">Caractères</title> de Théophraste, et des <title type="mono" rend="ital">Caractères</title> de La Bruyère lui-même.</p>
              </note>
              <note type="relation">
-                 <title type="category">Rapport avec La Bruyère</title>
+                 <title type="category" rend="bold">Rapport avec La Bruyère</title>
                  <p>Brillon a écrit des textes critiques sur le travail de La Bruyère, y compris un <title type="mono">Apologie de Monsieur de La Bruyere, ou Réponse à la critique des Caracteres de Theophraste</title>. 
                      <ref source="#Escola>L'on peut supposé qu'il avait envoyé ses premiers essais à La Bruyère.</ref
                  </p>
              </note>
              <note type="reference">
-                 <title type="category">Caractères</title>
+                 <title type="category" rend="bold">Caractères</title>
                  <list type="index">
                      <item>
                         <ptr target="#Esprit64">
@@ -815,7 +815,7 @@
                      <roleName>Partisan</roleName>
                  </name>
                  <note type="descrip">
-                     <title type="category">À Propos</title>
+                     <title type="category" rend="bold">À Propos</title>
                      <p>
                          <ref type="source" source="#KeyC">«Aubert, fameux partisan du temps de M. Fouquet, que l'on tenait riche de plus de trois millions. Il a été taxé à la chambre de justice en 1666, et enfin est mort malheureux dans un grenier. Il avait bâti 
                              <ref type="note">l'<hi rend="ital">Hôtel salé</hi> au Marais,
@@ -824,11 +824,11 @@
                      </p>
                  </note>
                  <note type="relation">
-                     <title type="category">Rapport avec La Bruyère</title>
+                     <title type="category" rend="bold">Rapport avec La Bruyère</title>
                      <p></p>
                  </note>
                  <note type="reference">
-                     <title type="category">Caractères</title>
+                     <title type="category" rend="bold">Caractères</title>
                      <list type="index">
                          <item>
                              <ptr target="#Fortune17">
@@ -853,17 +853,17 @@
                      <roleName>Partisan</roleName>
                  </name>
                  <note type="descrip">
-                     <title type="category">À Propos</title>
+                     <title type="category" rend="bold">À Propos</title>
                      <p>
                         <ref source="#Escola">François Rémond, qu'on appellait <emph rend="ital">le Diable</emph> </ref>
                      </p>
                  </note>
                  <note type="relation">
-                     <title type="category">Rapport avec La Bruyère</title>
+                     <title type="category" rend="bold">Rapport avec La Bruyère</title>
                      <p></p>
                  </note>
                  <note type="reference">
-                     <title type="category">Caractères</title>
+                     <title type="category" rend="bold">Caractères</title>
                      <list type="index">
                          <item>
                              <ptr target="#Fortune17">
@@ -882,17 +882,17 @@
                      <surname>du Plessis-Guénégaud</surname>
                  </name>
                  <note type="descrip">
-                     <title type="category">À Propos</title>
+                     <title type="category" rend="bold">À Propos</title>
                      <p>
                          <ref source="#Escola">« Claude du Plessis-Guénégaud était trésorier de l'Epargne. Son frère, Henri du Plessis-Guénégaud était le sécrétaire de l'Etat.</ref>
                      </p>
                  </note>
                  <note type="relation">
-                     <title type="category">Rapport avec La Bruyère</title>
+                     <title type="category" rend="bold">Rapport avec La Bruyère</title>
                      <p></p>
                  </note>
                  <note type="reference">
-                     <title type="category">Caractères</title>
+                     <title type="category" rend="bold">Caractères</title>
                      <list type="index">
                          <item>
                              <ptr target="#Fortune17">
