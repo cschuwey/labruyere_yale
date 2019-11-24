@@ -126,11 +126,11 @@
              <milestone unit="section"/>
              <app>
              <lem rend="bold" xml:id="Esprit15d">Un auteur moderne</lem>
-               <rdg source="Key1693">
+               <rdg source="#Key1693">
                       <ptr target="#Perrault"></ptr>
                       <name rend="bold">Perrault</name>
                </rdg>
-               <rdg source="KeyC">
+               <rdg source="#KeyC">
                       <ptr target="#Perrault"></ptr>
                       <name rend="bold">Perrault</name>
                </rdg>
@@ -142,32 +142,15 @@
                     <ptr target="#Perrault"></ptr>
                         <name rend="bold">Perrault</name>
                </rdg>
+                 <rdg source="#KeyCo">
+                    <ptr target="#Perrault"></ptr>
+                        <name rend="bold">Perrault</name>
+               </rdg>
                <rdg source="#KeyS">
                     <ptr target="#Fontenelle"></ptr>
                     <name rend="bold">Fontenelle</name>
                </rdg>
-           </app><lem rend="bold">Un auteur moderne</lem>
-               <rdg source="#KeyC">
-                   <persName>
-                      <ptr target="#Perrault"></ptr>
-                        <name rend="bold">Perrault</name>
-                     </persName></rdg>
-               <rdg source="#Key1697">Perrault
-                 <persName>
-                     <ptr target="#Perrault" ></ptr>
-                     <name rend="bold">Perrault</name>
-                 </persName></rdg>
-               <rdg source="#Key1720">Perrault
-                   <persName>
-                       <ptr target="Perrault" ></ptr>
-                       <name rend="bold">Perrault</name>
-                   </persName></rdg>
-               <rdg source="#KeyS">Fontenelle
-                   <persName>
-                       <ptr target="#Fontenelle" ></ptr>
-                       <name rend="bold">Fontenelle</name>
-                   </persName></rdg>
-             </app>
+           </app
            prouve ordinairement qu les Anciens nous sont inférieurs en deux manières, par  raison et par exemple ; il tire la raison de son goût particulier, et l’exemple de ses ouvrages.
           </p>
           <p>Il avoue que les Anciens, quelque inégaux et peu corrects qu’ils soient, on de beaux traits, il les cite, et ils sont si beaux qu’ils font lire sa critique. 
@@ -175,8 +158,19 @@
           <p>
               <milestone unit="section" xml:id="Esprit15e"/>
            <app>
-             <lem rend="bold" xml:id="1-15e">Quelques habiles</lem>
-               <rdg source="KeyC">
+             <lem rend="bold" xml:id="Esprit15e">Quelques habiles</lem>
+               <rdg source="#Key1693">
+                   <persName>
+                      <ptr target="#Racine"></ptr>
+                      <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
+               <rdg source="#KeyC">
                    <persName>
                       <ptr target="#Racine"></ptr>
                       <name rend="bold">Racine</name>
@@ -209,6 +203,17 @@
                        <name rend="bold">Boileau</name>
                    </persName>
                </rdg>
+                <rdg source="#KeyCo">
+                   <persName>
+                       <ptr target="#Racine" ></ptr>
+                       <name rend="bold">Racine</name>
+                   </persName>
+                   et
+                   <persName>
+                       <ptr target="#Boileau"/>
+                       <name rend="bold">Boileau</name>
+                   </persName>
+               </rdg>
                <rdg source="#KeyS">
                    <persName>
                        <ptr target="#Racine" ></ptr>
@@ -221,16 +226,27 @@
                    </persName>
                </rdg>
            </app>
-          Prononcent en faveur des Anciens contre les Modernes, mais ils sont suspects et semblent juger en leur propre cause, tant leurs ouvrages sont faits sur le goût de l’antiquité : on les récuse. 
+          prononcent en faveur des Anciens contre les Modernes, mais ils sont suspects et semblent juger en leur propre cause, tant leurs ouvrages sont faits sur le goût de l’antiquité : on les récuse. 
          </p> 
         </div2>
-        <div2 type="section" n="64" xml:id="Esprit64">
+        <div2 type="section" n="64">
          <head>LXIV</head>
          <p> Je conseille à
-           <ref type="key">un auteur né copiste
-                <ptr target="#Villiers" source="#Key1720"/>
-                <ptr target="#Brillon" source="#KeyS"/>
-           </ref>
+           <app>
+             <lem rend="bold" xml:id="Esprit64">un auteur né copiste</lem>
+               <rdg source="#Key1720">
+                    <ptr target="#Villiers"></ptr>
+                        <name rend="bold">l'abbé de Villiers</name>
+               </rdg>
+                 <rdg source="#KeyCo">
+                    <ptr target="#Villiers"></ptr>
+                        <name rend="bold">l'abbé de Villiers</name>
+               </rdg>
+               <rdg source="#KeyS">
+                    <ptr target="#Brillon"></ptr>
+                    <name rend="bold">Jacques Brillon</name>
+               </rdg>
+           </app
           , et qui a l’extrême modestie de travailler d’après quelqu’un, de ne se choisir pour exemplaires que ces sortes d’ouvrages où il entre de l’esprit, de l’imagination, ou même de l’érudition : S’il n’atteint pas ses originaux, du moins il en approche et il se fait lire. Il doit au contraire éviter comme un écueil de vouloir imiter ceux qui écrivent par humeur, que le cœur fait parler, à qui il inspire les termes et les figures, et qui tirent, pour ainsi dire, de leurs entrailles tout ce qu’ils expriment sur le papier ; dangereux modèles et tout propres à faire tomber dans le froid, dans le bas, et dans le ridicule ceux qui s’ingèrent de les suivre : en effet je rirais d’un homme qui voudrait sérieusement parler mon ton de voix, ou me ressembler de visage. 
          </p>
         </div2> 
@@ -256,32 +272,32 @@
                <lem rend="bold">
                  <emph rend="ital">Crésus</emph></lem>
                  <rdg source="#KeyC">
-                     <persName>
-                         <ptr target="#Aubert"/>
-                         <name rend="bold">
-                             <emph rend="ital">Aubert</emph></name>
-                     </persName>
-                 </rdg>
+                    <ptr target="#Aubert"></ptr>
+                    <name rend="bold">
+                        <emph rend="ital">Aubert</emph>
+                     </name>
+                  </rdg>
                  <rdg source="#Key1697">
-                     <persName>
-                         <ptr target="#Raymond"/>
-                         <name rend="bold">
-                             <emph rend="ital">Raymond</emph></name>
-                     </persName>
-                 </rdg>
+                    <ptr target="#Raymond"></ptr>
+                    <name rend="bold">
+                        <emph rend="ital">Raymond</emph>
+                     </name>
+                  </rdg>
                  <rdg source="#Key1720">
-                     <persName>
-                         <ptr target="#Guénégaud"/>
-                         <name rend="bold">
-                             <emph rend="ital">Guénégaud</emph></name>
-                     </persName>
-                     ou
                     <persName>
-                             <ptr target="#Aubert"/>
-                             <name rend="bold">
-                                 <emph rend="ital">Aubert</emph></name>
-                         </persName>
-                     </rdg>
+                        <ptr target="#Guénégaud"/>
+                        <name rend="bold">
+                            <emph rend="ital">Guénégaud</emph>
+                        </name>
+                    </persName>
+                    ou
+                    <persName>
+                        <ptr target="#Aubert"/>
+                        <name rend="bold">
+                            <emph rend="ital">Aubert</emph>
+                        </name>
+                    </persName>
+                   </rdg>
              </app> 
           au cimetière : de toutes ses immenses richesses que le vol et la concussion lui avaient acquises, et qu'il a épuisées par le luxe et par la bonne chère, il ne lui est pas demeuré de quoi se faire enterrer ; il est mort insolvable, sans biens, et ainsi privé de tous les secours : l'on n'a vu chez lui ni
             <ref>julep
@@ -308,13 +324,28 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="1693-Perrault" target="#Esprit15d">
+                <person xml:id="C—Perrault" target="#Esprit15d>
                  <name>
                      <forename>Charles</forename>
                      <surname>Perrault</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                   
                 <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
+              <person xml:id="1693-Racine" target="#Esprit15e">
+                 <name>
+                     <forename>Jean</forename>
+                     <surname>Racine</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                             
+              </person>
+              <person xml:id="1693-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicola</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                              
+              </person>                                                 
             </listpers>
         </div2>
     </div1>
@@ -334,15 +365,41 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="C—Perrault">
+                <person xml:id="C—Perrault" target="#Esprit15d">
                  <name>
                      <forename>Charles</forename>
                      <surname>Perrault</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                   
                 <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
+              <person xml:id="C—Racine" target="Esprit 15e">
+                 <name>
+                     <forename>Jean</forename>
+                     <surname>Racine</surname>
+                </name>
+                <pseudoname>Quelques habiles</pseudoname>                                           
+                <note type="author">« M. Racine, qui a fait des comédies et qui travaille actuellement à l'histoire du Roi. — Racine a été gentilhomme ordinaire de la chambre du Roi, et depuis 1696 secrétaire du Roi, qui lui donna dans ce temps ta survivance de sa charge (<emph rend="ital">de gentilhomme ordinaire de la chambre<emph>) pour son fils (Jean-Baptiste). Il est de la Ferté-Milon, fils d'un contrôleur au grenier à sel de cette ville, qui est sa patrie et celle de ses ancêtres. »</note>
+              </person>
+              <person xml:id="C-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicolas</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                           
+                 <note type="author">« M. Boileau Despréaux, satirique, aussi historien du Roi. »</note>                                            
+              </person> 
+              <person xml:id="C-Aubert" target="#Fortune17">
+                 <name>
+                     <surname>Boileau-Despréaux</surname>
+                     <roleName>Partisan</roleName>
+                 </name>                                           
+                 <pseudoname>Crésus<pseudoname>
+                 <note type="author">« Aubert, fameux partisan du temps de M. Fouquet, que l’on tenait riche de plus de trois millions. Il a été taxé à la chambre de justice en 1666, et enfin est mort malheureux dans un grenier. Il avait bâti <emph rend="ital">l’Hôtel salé</emph> au Marais où a logé l’ambassadeur de Venise et où est aujourd’hui M. le maréchal de Vileroy. »</note>                                            
+              </person>                                          
             </listpers>
-        
+        </div2>
+    </div1>
     <div1 type="key" xml:id="Key1697">
         <bibl>
             <title>Clé de 1697</title>
@@ -350,14 +407,43 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="1697—Perrault">
+                <person xml:id="1697—Perrault" target="Esprit15d">
                  <name>
                      <forename>Charles</forename>
                      <surname>Perrault</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                                 
                 <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
-            </listpers>
+              <person xml:id="1697—Racine" target="#Esprit15e">
+                <name>
+                   <forename>Jean</forename>
+                   <surname>Racine</surname>
+                </name>
+                <note type="author" source="#KeyC">
+                    <note type="editor">La note sur Racine qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note>
+                    « M. Racine, qui a fait des comédies et qui travaille actuellement à l'histoire du Roi. — Racine a été gentilhomme ordinaire de la chambre du Roi, et depuis 1696 secrétaire du Roi, qui lui donna dans ce temps ta survivance de sa charge (<emph rend="ital">de gentilhomme ordinaire de la chambre<emph>) pour son fils (Jean-Baptiste). Il est de la Ferté-Milon, fils d'un contrôleur au grenier à sel de cette ville, qui est sa patrie et celle de ses ancêtres. »</note>
+                </note>
+                <pseudoname>Quelques habiles</pseudoname>
+              </person>
+              <person xml:id="1697-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicola</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                           
+                 <note type="author" source="#KeyC">
+                     <note type="editor">La note sur Boileau qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note> 
+                     « M. Boileau Despréaux, satirique, aussi historien du Roi. »</note>                                            
+              </person> 
+              <person xml:id="1697—Raymond" target="#Fortune17">
+                <name>
+                   <surname>Raymond</surname>
+                   <roleName>Partisan</roleName>                                           
+                </name>
+                <pseudoname<Crésus</pseudoname>
+              </person>                          
+          </listpers>
         </div2>
     </div1>
     <div1 type="key" xml:id="Key1720">
@@ -367,13 +453,58 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="1720—Perrault">
+                <person xml:id="1720—Perrault" target="#Esprit15d">
                  <name>
                      <forename>Charles</forename>
                      <surname>Perrault</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                                  
                 <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
+              <person xml:id="1720—Racine" target="#Esprit15e">
+                <name>
+                   <forename>Jean</forename>
+                   <surname>Racine</surname>
+                </name>
+                <pseudoname>Quelques habiles</pseudoname>                                              
+                <note type="author" source="#KeyC">
+                    <note type="editor">La note sur Racine qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note>
+                    « M. Racine, qui a fait des comédies et qui travaille actuellement à l'histoire du Roi. — Racine a été gentilhomme ordinaire de la chambre du Roi, et depuis 1696 secrétaire du Roi, qui lui donna dans ce temps ta survivance de sa charge (<emph rend="ital">de gentilhomme ordinaire de la chambre<emph>) pour son fils (Jean-Baptiste). Il est de la Ferté-Milon, fils d'un contrôleur au grenier à sel de cette ville, qui est sa patrie et celle de ses ancêtres. »</note>
+                </note>
+              </person>
+              <person xml:id="1720-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicolas</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                              
+                 <note type="author" source="#KeyC">
+                     <note type="editor">La note sur Boileau qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note> 
+                     « M. Boileau Despréaux, satirique, aussi historien du Roi. »</note>                                            
+              </person> 
+              <person xml:id="1720-Villiers" target="#Esprit64">
+                 <name>
+                     <forename>Pierre</forename>
+                     <surname>de Villiers</surname>
+                 </name>
+                 <pseudoname>un auteur né copiste</pseudoname>                                              
+                 <note type="author">« L’abbé de Villiers, qui a été autrefois chez les Jésuites ».
+                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
+              </person>  
+              <person xml:id="1720—Guénéngaud" target="#Fortune17">
+                <name>
+                   <forename>Claude</forename>                                              
+                   <surname>du Plessis Guénégaud</surname>
+                </name>
+                <pseudoname>Crésus</pseudoname>
+              </person> 
+              <person xml:id="1720—Aubert" target="#Fortune17">
+                <name>
+                   <surname>Aubert</surname>
+                   <roleName>Partisan</roleName>                                           
+                </name>
+                <pseudoname>Crésus</pseudoname>
+              </person>                                                     
             </listpers>
         </div2>
     </div1>
@@ -388,13 +519,44 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="C—Perrault">
+                <person xml:id="Co—Perrault" target="#Esprit15d">
                  <name>
                      <forename>Charles</forename>
                      <surname>Perrault</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                                
                 <note type="editor">La clef fait référence surtout aux <title>Parallèles des anciens et des modernes</title> de Perrault.</note>
               </person>
+              <person xml:id="Co—Racine" target="#Esprit15e">
+                <name>
+                   <forename>Jean</forename>
+                   <surname>Racine</surname>
+                </name>
+                <pseudoname>Quelques habiles</pseudoname>                                            
+                <note type="author" source="#KeyC">
+                    <note type="editor">La note sur Racine qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note>
+                    « M. Racine, qui a fait des comédies et qui travaille actuellement à l'histoire du Roi. — Racine a été gentilhomme ordinaire de la chambre du Roi, et depuis 1696 secrétaire du Roi, qui lui donna dans ce temps ta survivance de sa charge (<emph rend="ital">de gentilhomme ordinaire de la chambre<emph>) pour son fils (Jean-Baptiste). Il est de la Ferté-Milon, fils d'un contrôleur au grenier à sel de cette ville, qui est sa patrie et celle de ses ancêtres. »</note>
+                </note>
+              </person>
+              <person xml:id="Co-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicola</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+                 <pseudoname>Quelques habiles</pseudoname>                                            
+                 <note type="author" source="#KeyC">
+                     <note type="editor">La note sur Boileau qui se trouve dans la Clé Cochin est répétée dans les clés subséquentes.</note> 
+                     « M. Boileau Despréaux, satirique, aussi historien du Roi. »</note>                                            
+              </person> 
+              <person xml:id="Co-Viliers" target="#Esprit64">
+                 <name>
+                     <forename>Pierre</forename>
+                     <surname>de Villiers</surname>
+                 </name>
+                 <pseudoname>un auteur né copiste</pseudoname>                                           
+                 <note type="author">« L’abbé de Viliers, qui a été autrefois chez les Jésuites ».
+                 <note type="editor" source="Escola">« Il avait publié en 1682 un long poème, <title type="mono">L’Art de prêcher</title>, conçu comme une imitation de l’Art poétique de Boileau. Il fit paraître en 1690 des <title type="mono">Réflexions sur les défauts d’autrui</title> dans lesqueles Vigneul-Marvile. »</note>                                              
+              </person>                           
             </listpers>
         </div2>
     </div1>
@@ -415,18 +577,39 @@
         </bibl>
         <div2 type ="prosopography">
             <listpers type="prosopography">
-                <person xml:id="S—Fontenelle">
+                <person xml:id="S—Fontenelle" target="#Esprit15d">
                  <name>
                      <forename>Bernard le Bovier</forename>
                      <surname>de Fontenelle</surname>
                 </name>
+                <pseudoname>Un auteur moderne</pseudoname>                                                 
                 <note type="editor">Servois pense surtout à la <title>Digression sur les anciens et les modernes</title> de Fontenelle.</note>
               </person>
+              <person xml:id="S—Racine" target="#Esprit15e">
+                <name>
+                   <forename>Jean</forename>
+                   <surname>Racine</surname>
+                </name>
+                <pseudoname>Quelques habiles</pseudoname>                                           
+              </person>
+              <person xml:id="S-Boileau" target="#Esprit15e">
+                 <name>
+                     <forename>Nicola</forename>
+                     <surname>Boileau-Despréaux</surname>
+                 </name>
+              </person> 
+              <person xml:id="S-Brillon" target="#Esprit64">
+                 <name>
+                     <forename>Jacques</forename>
+                     <surname>Brillon</surname>
+                 </name>
+                 <pseudoname>un auteur né copiste</pseudoname>                                          
+                 <pseudoname>Quelques habiles</pseudoname>                                          
+              </person>                                               
             </listpers>
         </div2>
     </div1>
-    < <div
-     <div1 type="prosopography">
+    <div1 type="prosopography">
          <head type="sub">Qui est qui dans 
             <title>Les Caractères</title>
          ?</head>
@@ -500,13 +683,22 @@
                 <forename>Jean</forename>
                 <surname>Racine</surname>
             </name>
-            <note type="descrip">
+            <note type="desc">
                 <title type="category">À Propos</title>
-                <p>blah blah blah</p>
+                <p>Jean Racine, né Jean-Baptiste Racine, était un dramaturge et poète français. Il est connu pour ses tragédies, dont les plus célèbres sont <title type="mono">Phèdre</title> et <title type="mono">Bérénice</title>. Racine, avec Nicolas Boileau-Despréaux, était 
+                    <ref>
+                    Historien du Roi.
+                        <note type="gloss"> Il s'agit ici d'une poste créé par Louis XIV et son ministre, Jean-Baptiste Colbert. L'Historien du Roi devait documenter la vie et les ouvrage et les actes de Louis XIV, afin d'assurer la postérité du roi.</note>
+                    </ref>
+                    Racine était un membre de l'Académie Française, et un 
+                   <ref>Janséniste actif. 
+                       <note type="gloss">Le Jansénisme était un secte réligieux suivant les croyances de Cornelius Jansen, théologien hollandais. Les Jansénistes étaient fortement opposés aux Jésuites (secte Catholique) en France au dix-septième siècle.</note>                      
+                   </ref>
+                </p>
             </note>
             <note type="relation">
                 <title type="category">Rapport avec La Bruyère</title>
-                <p>blah blah blah</p>
+                <p>Racine, comme La Bruyère, faisait partie du camp Ancien dans la Querelle des Anciens et des Modernes. Dans son discours de réception à l'Académie Française, La Bruyère compare le travail de Racine à celui de Corneille, en insinuant que Racine était plus doué. Racine a certainement voté en faveur de l'élection de La Bruyère à l'Académie Française.</p>
             </note>
             <note type="reference">
                 <title type="category">Caractères</title>
@@ -529,11 +721,15 @@
             </name>
             <note type="descrip">
                 <title type="category">À Propos</title>
-                <p>blah blah blah</p>
+                <p>Nicolas Boileau-Despréaux, appelé souvent simplement Boileau, était un poète et savant français. Ses ouvrages critiques sur la poésie française, comme <title type="mono">L'Art Poétique</title>, nous fournissent une critique des poètes contemporains, ainsi qu'anciens. En 1677, Boileau et devenu, avec Jean Racine, 
+                    <ref>Historien du Roi.
+                        <note type="gloss"> Il s'agit ici d'une poste créé par Louis XIV et son ministre, Jean-Baptiste Colbert. L'Historien du Roi devait documenter la vie et les ouvrage et les actes de Louis XIV, afin d'assurer la postérité du roi.</note>
+                    </ref>     
+                </p>
             </note>
             <note type="relation">
                 <title type="category">Rapport avec La Bruyère</title>
-                <p>blah blah blah</p>
+                <p>Boileau était un membre de l'Académie Français et le "chef" du camp Ancien dans la Querelle des Anciens et des Modernes. Le discours de réception de La Bruyère à l'Académie Française inclut un éloge de Boileau. Boileau a certainement voté en faveur de l'élection de La Bruyère à l'Académie Française. </p>
             </note>
             <note type="reference">
                 <title type="category">Caractères</title>
@@ -560,7 +756,7 @@
                     <ref type="note"> l'Ordre de Cluny
                         <note type="gloss">Ordre monastique de l'Église catholique, créé au Xe siècle est supprimé à la fin du XIIIe siècle.</note>
                     </ref> en 1689. 
-                    <ref type="source" source="Villiersbib">Plusieurs œuvres historiques et biographiques du dix-septième siècle sont lui attribués.</ref></p>
+                    <ref source="Villiersbib">Plusieurs œuvres historiques et biographiques du dix-septième siècle sont lui attribués.</ref></p>
             </note>
             <note type="relation">
                 <title type="category">Rapport avec La Bruyère</title>
@@ -568,7 +764,7 @@
                     <title type="book">L'Art de prêcher</title>
                     , ce qui a été conçu comme une imitation
                     <title type="book">L'Art poétique</title> de Boileau. Outre, en 1690 il écrivit des 
-                    <title type="book">Réflexions sur les défauts d'autrui</title>, ce qui ont étee vu comme une imitation de l'œuvre de La Bruyère.</p>
+                    <title type="book">Réflexions sur les défauts d'autrui</title>, ce qui ont étee vu comme une imitation de l'œuvre de La Bruyère. De Villiers a également écrit <title type="mono">Sentiments critiques sur les Caractères de La Bruyère</title>.</p>
             </note>
             <note type="reference">
                 <title type="category">Caractères</title>
@@ -591,11 +787,13 @@
              </name>
              <note type="descrip">
                  <title type="category">À Propos</title>
-                 <p>blah blah blah</p>
+                 <p>Jacques Brillon, également appelé Pierre-Jacques Brillon, était un copiste et un écrivain français. Il semble qu'il a écrit plusieurs dictionnaires légaux, ainsi que des textes critiques sur les <title type="mono">Caractères</title> de Théophraste, et des <title type="mono">Caractères</title> de La Bruyère lui-même.</p>
              </note>
              <note type="relation">
                  <title type="category">Rapport avec La Bruyère</title>
-                 <p>blah blah blah</p>
+                 <p>Brillon a écrit des textes critiques sur le travail de La Bruyère, y compris un <title type="mono">Apologie de Monsieur de La Bruyere, ou Réponse à la critique des Caracteres de Theophraste</title>. 
+                     <ref source="#Escola>L'on peut supposé qu'il avait envoyé ses premiers essais à La Bruyère.</ref
+                 </p>
              </note>
              <note type="reference">
                  <title type="category">Caractères</title>
@@ -627,7 +825,7 @@
                  </note>
                  <note type="relation">
                      <title type="category">Rapport avec La Bruyère</title>
-                     <p>blah blah blah</p>
+                     <p></p>
                  </note>
                  <note type="reference">
                      <title type="category">Caractères</title>
@@ -662,7 +860,7 @@
                  </note>
                  <note type="relation">
                      <title type="category">Rapport avec La Bruyère</title>
-                     <p>blah blah blah</p>
+                     <p></p>
                  </note>
                  <note type="reference">
                      <title type="category">Caractères</title>
@@ -675,6 +873,38 @@
                      </list>
                  </note>
              </person>
+             <person xml:id="Guénégaud">
+                 <figure>
+                     <graphic scale=".25" url="https://sms-skladtehnika.com/wp-content/uploads/2018/10/cool-facebook-profile-picture-silhouette-10.jpg"></graphic>
+                 </figure>
+                 <name>
+                     <forename>Claude</forename>
+                     <surname>du Plessis-Guénégaud</surname>
+                 </name>
+                 <note type="descrip">
+                     <title type="category">À Propos</title>
+                     <p>
+                         <ref source="#Escola">« Claude du Plessis-Guénégaud était trésorier de l'Epargne. Son frère, Henri du Plessis-Guénégaud était le sécrétaire de l'Etat.</ref>
+                     </p>
+                 </note>
+                 <note type="relation">
+                     <title type="category">Rapport avec La Bruyère</title>
+                     <p></p>
+                 </note>
+                 <note type="reference">
+                     <title type="category">Caractères</title>
+                     <list type="index">
+                         <item>
+                             <ptr target="#Fortune17">
+                                 <title type="chapter">Des Biens de Fortune</title>, XVII
+                             </ptr>
+                         </item>
+                     </list>
+                 </note>
     </listPerson>
+</div1>
+<div1 type="editornote">
+    <head>Un mot sur les clés</head>
+    
 
 
