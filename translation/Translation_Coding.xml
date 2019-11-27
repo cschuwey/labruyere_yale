@@ -79,9 +79,9 @@
             <div type="remark" n="44">
                <head>44</head>
                <p>
-                  <seg xml:id="FOE_44_01" corresp="#EPL_43_01">Le M***G***<note type="editorial">The
-                           <hi rend="ital">Mercure Galant,</hi> a popular and fashionable French
-                        gazette.</note></seg>
+                  <seg xml:id="FOE_44_01" corresp="#EPL_43_01"><ref rend="underline">Le
+                        M***G***</ref><note type="editorial">The <hi rend="ital">Mercure
+                           Galant,</hi> a popular and fashionable French gazette.</note></seg>
                   <seg xml:id="FOE_44_02" corresp="#EPL_43_02"> est immediatement au dessous du
                      rien;</seg>
                   <seg xml:id="FOE_44_03" corresp="#EPL_43_03"> il y a bien d'autres ouvrages qui
@@ -196,7 +196,7 @@
                   <seg xml:id="FSC_7_15" corresp="#ESC_7_12 #ESC_7_15"> Une chose vous manque, Acis,
                      à vous &amp; à vos semblables diseurs de </seg>
                   <seg xml:id="FSC_7_16" corresp="#ESC_7_16">
-                     <hi rend="italic">Phoebus</hi>
+                     <ref rend="underline"><hi rend="italic">Phoebus</hi></ref>
                      <note type="editorial"> A "Phoebus" is a histrionic, overcomplicated style,
                         derived from "Phébus", a periphrasis for the Sun and Apollo which was a
                         widespread imagery during the reign of Louis XIV – a topical language
@@ -290,8 +290,8 @@
                   <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> il est homme d’un bon commerce,
                      &amp; <seg ana="omit"> l’on compte sur lui au quartier de **</seg> pour un
                      tiers ou pour un cinquième à </seg>
-                  <seg xml:id="FVL_12_06" corresp="#ECY_12_06">l’ombre <seg ana="omit">ou au
-                        reversi</seg>
+                  <seg xml:id="FVL_12_06" corresp="#ECY_12_06"><ref rend="underline">l’ombre<seg
+                           ana="omit"> ou au reversi</seg></ref>
                      <note type="context">"Ombre" and 'reversi" were seventeenth-century card games
                         imported from Spain. Ombre seems to have been fairly popular in England,
                         reversi less so: this might explain why the translator only indicated the
@@ -350,16 +350,18 @@
                   <seg xml:id="FJG_28_08" corresp="#EJG_28_08"> &amp; indépendamment de tous les
                      dehors dont il voudroit s'aider pour rendre sa personne plus grave, &amp; sa
                      vertu plus specieuse :</seg>
-                  <seg xml:id="FJG_28_09" ana="omit"> un air reformé,<note type="context">This
-                        cynical portrait of a Protestant who assumes a "reformed air" to conceal a
-                        lack of virtue was omitted from the English translation.</note></seg>
+                  <seg xml:id="FJG_28_09" ana="omit">
+                     <ref rend="underline">un air reformé,</ref><note type="context">This cynical
+                        portrait of a Protestant who assumes a "reformed air" to conceal a lack of
+                        virtue was omitted from the English translation.</note></seg>
                   <seg xml:id="FJG_28_10" corresp="#EJG_28_09"> une modestie outrée, la singularité
                      de l'habit,</seg>
                   <seg xml:id="FJG_28_11" corresp="#EJG_28_10">
-                     <interp type="sense">une ample calotte,</interp><note type="context">A calotte,
-                        or zucchetto, is the small skullcap worn by Roman Catholic clergy. The
-                        "ample calotte" here may refer to the larger skullcap worn by Anglican
-                        clergy <hi rend="ital">(Wikipedia,</hi> "Zucchetto").</note></seg>
+                     <ref rend="underline"><interp type="sense">une ample
+                        calotte,</interp></ref><note type="context">A calotte, or zucchetto, is the
+                        small skullcap worn by Roman Catholic clergy. The "ample calotte" here
+                        refers to the larger skullcap worn by Anglican clergy <hi rend="ital"
+                           >(Wikipedia,</hi> "Zucchetto").</note></seg>
                   <seg xml:id="FJG_28_12" corresp="#EJG_28_11"> n'ajoûtent rien à la probité, ne
                      relevent pas le merite,</seg>
                   <seg xml:id="FJG_28_13" corresp="#EJG_28_12"> ils le <interp type="sense"
@@ -392,17 +394,18 @@
                <head>118</head>
                <p>
                   <seg xml:id="FJG_118_01"> Vous avez surtout </seg>
-                  <seg xml:id="FJG_118_02"> un homme pâle et livide <note type="context">La Bruyere
-                        adds this derogatory remark on William III (William of Orange) and his reign
-                        in the 6th edition published in 1692, that is, not long after the Glorious
-                        Revolution of 1688 and more specifically the 1690 Battle of the Boyne which
-                        annihilated Louis XIV's hopes to see James II access the throne: William III
-                        had become the champion of the coalition against France. The 4th English
-                        edition overlooks this passage, even though the rest of the chapter includes
-                        remarks that only appeared in the French 8th edition, meaning that this
-                        removal was voluntary. Rowe's 1713 edition translates the passage on William
-                        III in a "Supplement to Chapter XII" rather than including it in the main
-                        body of the text.</note></seg>
+                  <seg xml:id="FJG_118_02">
+                     <ref rend="underline">un homme pâle et livide</ref>
+                     <note type="context">La Bruyere adds this derogatory remark on William III
+                        (William of Orange) and his reign in the 6th edition published in 1692, that
+                        is, not long after the Glorious Revolution of 1688 and more specifically the
+                        1690 Battle of the Boyne which annihilated Louis XIV's hopes to see James II
+                        access the throne: William III had become the champion of the coalition
+                        against France. The 4th English edition overlooks this passage, even though
+                        the rest of the chapter includes remarks that only appeared in the French
+                        8th edition, meaning that this removal was voluntary. Rowe's 1713 edition
+                        translates the passage on William III in a "Supplement to Chapter XII"
+                        rather than including it in the main body of the text.</note></seg>
                   <seg xml:id="FJG_118_03"> qui n’a pas sur soi dix onces de chair, et que l’on
                      croirait jeter à terre du moindre souffle. Il fait néanmoins plus de bruit que
                      quatre autres, et met tout en combustion : il vient de pêcher en eau trouble
@@ -480,15 +483,16 @@
             <div type="remark" n="20" ana="omit">
                <head>20</head>
                <p>
-                  <seg xml:id="FQU_20_01">Dans ces jours qu'on appelle saints<note type="context"
-                        >The second remark from "De quelques Usages" was not included in the English
-                        translation, possibly because it calls on the Catholic Church to use its
-                        power to end religious dissention. Since 1534 the Church of England had been
-                        independent of Rome.</note></seg>
-                  <seg xml:id="FQU_20_02">le Moine confesse,<note type="editorial">As in modern
-                        French, in the 17th century <hi rend="ital">confesser</hi> meant to speak or
-                        to hear a confession, <hi rend="ital">(Dictionnaire de l'Académie française,
-                           1694)</hi> in this case probably the latter.</note></seg>
+                  <seg xml:id="FQU_20_01"><ref rend="underline">Dans ces jours qu'on appelle
+                        saints</ref><note type="context">The second remark from "De quelques Usages"
+                        was not included in the English translation, possibly because it calls on
+                        the Catholic Church to use its power to end religious dissention. Since 1534
+                        the Church of England had been independent of Rome.</note></seg>
+                  <seg xml:id="FQU_20_02"><ref rend="underline">le Moine confesse,</ref><note
+                        type="editorial">As in modern French, in the 17th century <hi rend="ital"
+                           >confesser</hi> meant to speak or to hear a confession, <hi rend="ital"
+                           >(Dictionnaire de l'Académie française, 1694)</hi> in this case probably
+                        the latter.</note></seg>
                   <seg xml:id="FQU_20_03"> pendant que le Curé tonne en chaire contre le Moine &amp;
                      ses adherans :</seg>
                   <seg xml:id="FQU_20_04"> telle femme pieuse sort de l'Autel, qui entend au Prône
@@ -560,13 +564,14 @@
             <div type="remark" n="2" ana="omit">
                <head>2</head>
                <p>
-                  <seg xml:id="FEF_02_01">Le docile &amp; le foible<note type="context">The second
-                        remark from "Des Esprits Forts" was not included in the English translation,
-                        possibly because it associates the failure to recognize "la vraye
-                        religion"--by implication Catholicism--with stubbornness and corruption.
-                        Since 1534 the Church of England had been independent of Rome, and Catholics
-                        were intentionally excluded from the 1688 the Act of Toleration, which
-                        extended freedom of worship to other dissenters.</note></seg>
+                  <seg xml:id="FEF_02_01"><ref rend="underline">Le docile &amp; le foible</ref><note
+                        type="context">The second remark from "Des Esprits Forts" was not included
+                        in the English translation, possibly because it associates the failure to
+                        recognize "la vraye religion"--by implication Catholicism--with stubbornness
+                        and corruption. Since 1534 the Church of England had been independent of
+                        Rome, and Catholics were intentionally excluded from the 1688 the Act of
+                        Toleration, which extended freedom of worship to other
+                     dissenters.</note></seg>
                   <seg xml:id="FEF_02_02"> sont susceptibles d'impressions, l'un en recoit de
                      bonnes, l'autre de mauvaises,</seg>
                   <seg xml:id="FEF_02_03"> c'est à dire que le premier est persuadé &amp; fidele,
@@ -602,13 +607,13 @@
             <div type="remark" n="43">
                <head>43</head>
                <p>
-                  <seg xml:id="EPL_43_01" corresp="#FOE_44_01">The <hi rend="ital">Mercure
-                        Gallant</hi><note type="context">The <hi rend="ital">Mercure Galant</hi> was
-                        a periodical that the brought news, gossip, intellectual debate, and fashion
-                        trends from the court of Louis XIV to elegant society in the provinces. In
-                        the quarrel between the Ancients and Moderns, the <hi rend="ital"
-                           >Mercure</hi> represented the Moderns <hi rend="ital">(Wikipedia,
-                           "Mercure de France").</hi></note></seg>
+                  <seg xml:id="EPL_43_01" corresp="#FOE_44_01"><ref rend="underline">The <hi
+                           rend="ital">Mercure Gallant</hi></ref><note type="context">The <hi
+                           rend="ital">Mercure Galant</hi> was a periodical that the brought news,
+                        gossip, intellectual debate, and fashion trends from the court of Louis XIV
+                        to elegant society in the provinces. In the quarrel between the Ancients and
+                        Moderns, the <hi rend="ital">Mercure</hi> represented the Moderns <hi
+                           rend="ital">(Wikipedia, "Mercure de France").</hi></note></seg>
                   <seg xml:id="EPL_43_02">is a trifle below nothing,</seg>
                   <seg xml:id="EPL_43_03" corresp="#FOE_44_03"> and there are many Works of the same
                      importance;</seg>
@@ -649,11 +654,11 @@
                      Figure above his Fortune <seg ana="add">or Quality</seg>.</seg>
                   <seg xml:id="EPM_24_03" corresp="#FMP_24_04"> Which is not so easily done, if he's
                         <interp type="tone">confin'd</interp>.</seg>
-                  <seg xml:id="EPM_24_04" corresp="#FMP_24_05"> Marriage seems to <interp
-                        type="tone">range</interp><note type="editorial">In the 17th century, "to
-                        range" was to sift, literally or figuratively. <hi rend="ital">Oxford
-                           English Dictionary, s.v.</hi> "range, v., 2."</note> every Body in their
-                     proper Rank and Degree.</seg>
+                  <seg xml:id="EPM_24_04" corresp="#FMP_24_05"> Marriage seems to <ref
+                        rend="underline"><interp type="tone">range</interp></ref><note
+                        type="editorial">In the 17th century, "to range" was to sift, literally or
+                        figuratively. <hi rend="ital">Oxford English Dictionary, s.v.</hi> "range,
+                        v., 2."</note> every Body in their proper Rank and Degree.</seg>
                </p>
             </div>
          </div>
@@ -702,10 +707,11 @@
                <head>7</head>
                <p>
                   <seg xml:id="ESC_7_01" corresp="#FSC_7_01">
-                     <interp type="tone">Prithee, </interp><hi rend="italic">Acis</hi>, for the
-                     satisfaction of your Friends, <note type="editorial"> The 1705 translation is
-                        less caustic, toning down the strong French authorial voice and the irony of
-                        the original dialogism.</note></seg>
+                     <ref rend="underline"><interp type="tone">Prithee, </interp><hi rend="italic"
+                           >Acis</hi>, for the satisfaction of your Friends,</ref><note
+                        type="editorial"> The 1705 translation is less caustic, toning down the
+                        strong French authorial voice and the irony of the original
+                        dialogism.</note></seg>
                   <seg xml:id="ESC_7_02" corresp="#FSC_7_02"> endeavour to speak as they may
                      understand you,</seg>
                   <seg xml:id="ESC_7_03" corresp="#FSC_7_03"> for my part I do but guess at your
@@ -713,17 +719,18 @@
                   <seg xml:id="ESC_7_04" corresp="#FSC_7_04">
                      <seg ana="abridg">if you would tell <interp type="sense">'em</interp>,
                      </seg></seg>
-                  <seg xml:id="ESC_7_05" corresp="#FSC_7_05">'tis Cold <note type="editorial">
-                        Throughout remark 7, the translator resorts to many contractions, probably
-                        in order to convey the conversational flavor of the original</note></seg>
+                  <seg xml:id="ESC_7_05" corresp="#FSC_7_05"><ref rend="underline">'tis
+                        Cold</ref><note type="editorial"> Throughout remark 7, the translator
+                        resorts to many contractions, probably in order to convey the conversational
+                        flavor of the original</note></seg>
                   <seg xml:id="ESC_7_06" corresp="#FSC_7_07"> that it Rains, and it Snows;</seg>
                   <seg xml:id="ESC_7_07" corresp="#FSC_7_06"> say 'tis Cold,</seg>
                   <seg xml:id="ESC_7_08" corresp="#FSC_7_08"> it Rains, and it Snows;</seg>
                   <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> if you see <interp type="sense"
                         >them</interp>
                   </seg>
-                  <seg xml:id="ESC_7_10" corresp="#FSC_7_10"><interp type="tone">in good
-                        health</interp>
+                  <seg xml:id="ESC_7_10" corresp="#FSC_7_10"><ref rend="underline"><interp
+                           type="tone">in good health</interp></ref>
                      <note type="editorial">the English phrase is less wordly than "bon visage",
                         there again mitigating La Bruyère subtly sophisticated, ironic lexicon.
                      </note>,</seg>
@@ -782,9 +789,9 @@
                         were criminal</seg>;</seg>
                   <seg xml:id="ESC_69_05" corresp="#FSC_69_05"> in this much more unnatural than the
                      Court ladies, who having occasion to speak of <interp type="sense">the
-                        Market-place, the Prison,</interp> or the like, say,</seg>
-                  <seg xml:id="ESC_69_06" corresp="#FSC_69_06"><interp type="sense"> the
-                        Market-place and the Prison.</interp>
+                        Market-place, the Prison,</interp> or the like, say, </seg>
+                  <seg xml:id="ESC_69_06" corresp="#FSC_69_06"><ref rend="underline"><interp
+                           type="sense">the Market-place and the Prison.</interp></ref>
                      <note type="editorial">Ironically, by erasing the topical allusion to Parisian
                         geography – le Chatelet, les Halles – and replacing it with a generic,
                         descriptive language – the prison, the marketplace – the translation misses
@@ -825,12 +832,12 @@
                      rises in the Morning to lye down at Night,</seg>
                   <seg xml:id="ECY_12_02" corresp="#FVL_12_02"> has his hours of Dressing as
                      regularly as a Woman,</seg>
-                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to</seg>
+                  <seg xml:id="ECY_12_03" corresp="#FVL_12_03"> goes every day to </seg>
                   <seg xml:id="ECY_12_04" corresp="#FVL_12_04">
-                     <interp type="sense"> Morning and Evening Prayer;</interp>
-                     <note type="editorial"> "Feuillants" and 'Minimes" refer to the congregations
-                        celebrating the mass, not the time of the day when it takes place.
-                     </note></seg>
+                     <ref rend="underline"><interp type="sense">Morning and Evening Prayer;</interp>
+                     </ref><note type="editorial">"Feuillants" and "Minimes" refer to the
+                        congregations celebrating the Mass, not the time of the day when it takes
+                        place. </note></seg>
                   <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he is good Company, and serves to
                      make a third Man at </seg>
                   <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> Ombre;</seg>
@@ -843,10 +850,10 @@
                      e'ry night;</seg>
                   <seg xml:id="ECY_12_08" corresp="#FVL_12_08"> he reads exactly the Dutch
                      Gazette,</seg>
-                  <seg xml:id="ECY_12_09" corresp="#FVL_12_11"><hi rend="italic">Barbins</hi> News,
-                        <note type="editorial">This loose translation of "historiette" seems to
-                        indicate that the literary genre didn't know the same popularity in England
-                        at the time.</note></seg>
+                  <seg xml:id="ECY_12_09" corresp="#FVL_12_11"><ref rend="underline"><hi
+                           rend="italic">Barbins</hi> News, </ref><note type="editorial">This loose
+                        translation of "historiette" seems to indicate that the literary genre
+                        didn't know the same popularity in England at the time.</note></seg>
                   <seg xml:id="ECY_12_10" corresp="#FVL_12_09"> and the <hi rend="italic">Mercure
                         Gallant</hi>;</seg>
                   <seg xml:id="ECY_12_11" corresp="#FVL_12_10"> he has read <hi rend="italic">
@@ -899,11 +906,12 @@
                   <seg xml:id="EJG_28_09" corresp="#FJG_28_10"> Too great a modesty, a singularity
                      in habit,</seg>
                   <seg xml:id="EJG_28_10" corresp="#FJG_28_11">
-                     <interp type="sense">or the state with which some walk,</interp><note
-                        type="context">The English translator's replacement of "ample calotte"--the
-                        larger skull cap worn by Anglican clergy--with "the state with which some
-                        walk" is understandable in light of Reformation and Counter-Reformation
-                        politics.</note></seg>
+                     <ref rend="underline"><interp type="sense">or the state with which some
+                           walk,</interp></ref><note type="context">The translator replaced "une
+                        ample calotte"--the larger skull cap worn by Anglican clergy--with "the
+                        state with which some walk." This alteration, coupled with the earlier
+                        omission of "un air reformé," confirms that La Bruyere was here presenting
+                        an unfavorable portrait of an Anglican minister.</note></seg>
                   <seg xml:id="EJG_28_11" corresp="#FJG_28_12">add nothing to Probity, nor heighten
                      Merit,</seg>
                   <seg xml:id="EJG_28_12" corresp="#FJG_28_13"> but <interp type="sense"
@@ -921,26 +929,29 @@
                      them;</seg>
                   <seg xml:id="EJG_89_03" corresp="#FJG_80_03"> no Man commends or discommends him,
                      he is not thought of;</seg>
-                  <seg xml:id="EJG_89_04" corresp="#FJG_80_04"> another <interp type="sense">
-                        reclaims</interp>,<note type="editorial">In the 17th and 18th centuries,
-                        "reclaim" had an intransitive, reflexive meaning, to "improve oneslef
-                        morally or spiritually; to mend one's ways, repent, reform." <hi rend="ital"
-                           > Oxford English Dictionary, s.v.</hi> "reclaim, v., 2.e."</note> after
-                     ten years neglect of all Religious duties,</seg>
+                  <seg xml:id="EJG_89_04" corresp="#FJG_80_04"> another <ref rend="underline"
+                           ><interp type="sense">reclaims</interp>,</ref><note type="editorial">In
+                        the 17th and 18th centuries, "reclaim" had an intransitive, reflexive
+                        meaning, to "improve oneslef morally or spiritually; to mend one's ways,
+                        repent, reform." <hi rend="ital"> Oxford English Dictionary, s.v.</hi>
+                        "reclaim, v., 2.e."</note> after ten years neglect of all Religious
+                     duties,</seg>
                   <seg xml:id="EJG_89_05" corresp="#FJG_80_05"> he is cry'd up and applauded for
                      it;</seg>
                   <seg xml:id="EJG_89_06" corresp="#FJG_80_06">
                      <interp type="tone"> every man's judgement is free</interp>;</seg>
                   <seg xml:id="EJG_89_07" corresp="#FJG_80_07"> for my part, I blame his long
                      forgetfulness of his duty,</seg>
-                  <seg xml:id="EJG_89_08" corresp="#FJG_80_08"> and think him happy <interp
-                        type="sense">in his Reformation</interp>. <note type="context">In the
-                        context of the Glorious Revolution and the triumph of Protestantism in
-                        England, the translator's departures from the source text in use of the
-                        words "reclaim" (with its obsolete meaning of "repent") and "Reformation,"
-                        as well as his stronger statement on freedom of conscience, turn this remark
-                        on individual religious practice into an analogy for the revival of early
-                        Church practice in Protestantism.</note></seg>
+                  <seg xml:id="EJG_89_08" corresp="#FJG_80_08"> and think him happy <ref
+                        rend="underline"><interp type="sense">in his Reformation</interp>.</ref>
+                     <note type="context">In the context of the Glorious Revolution of 1688 and the
+                        final triumph of Protestantism in England, the translator's departures from
+                        the source text in the words "reclaims" (with its obsolete meaning of
+                        "repent") for "revient" and "Reformation" for "d'y estre rentré," as well as
+                        his stronger statement on freedom of conscience ("every man's judgement is
+                        free" for "cela est libre"), turn this remark on individual religious
+                        practice into an analogy for the revival of early Church practice in
+                        Protestantism.</note></seg>
                </p>
             </div>
          </div>
@@ -1038,13 +1049,13 @@
             <div type="remark" n="1">
                <head>1</head>
                <p>
-                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the Libertines, who
-                     value themselves so much upon the title of Wits, have they, I say, Wit enough
-                     to perceive that they are only call'd so by Irony? <note type="editorial">The
-                        humor of the "Strong minds" <hi rend="ital">(Esprits forts)</hi> not
-                        realizing they are called so by irony cannot be conveyed as succinctly in
-                        English, which requires adding the term "Wits" to "Libertines" in order to
-                        explain the joke.</note></seg>
+                  <seg xml:id="EWL_01_01" corresp="#FEF_01_01" ana="#expan">Have the <ref
+                        rend="underline">Libertines,</ref><note type="editorial">The humor of the
+                        "Strong minds" <hi rend="ital">(Esprits forts)</hi> not realizing they are
+                        called so by irony cannot be conveyed as succinctly in English, which
+                        requires adding the term "Wits" to "Libertines" in order to explain the
+                        joke.</note> who value themselves so much upon the title of Wits, have they,
+                     I say, Wit enough to perceive that they are only call'd so by Irony? </seg>
                   <seg xml:id="EWL_01_02" corresp="#FEF_01_02">What greater want of Wit can there
                      be, than to be doubtful of the principle of ones being, life, sense, knowledge,
                      and of what ought to be the end of them? </seg>
