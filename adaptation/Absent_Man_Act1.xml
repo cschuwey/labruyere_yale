@@ -15,17 +15,22 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Absent Man: A Farce. A digital edition of the 1768 theatrical adaption of Jean de le Bruyère’s Caractères </title>
+                <title>The Absent Man: A Farce. A digital edition of the 1768 theatrical adaption of Jean de le Bruyère’s Caractères</title>
+                <author>Isaac Bickerstaff</author>
+                <editor xml:id="AB">Andreas Bassett</editor>
+                <editor xml:id="SNM">Sarah Nickel Moore</editor>
+                <sponsor>Univeristy of Washington</sponsor>
             </titleStmt>
             <publicationStmt>
-                <p>Published as a collaborative effort between Andread Basset and Sarah Moore, under the direction of Dr. Geoff Turnovsky and the 
-                    ENGL 501 Textual Studies and Digital Editing course during the Autumn 2019 quarter at the University of Washington. 
-                    Our project is an online critical edition of The Absent Man: A Farce, a 1768 theatrical adaption of Jean de la Bruyère’s Caractères. 
-                    Our project is designed to meet the needs of general readers, students, and researchers interested in engaging an obscure work influenced by La Bruyère’s Caractères.</p>
+                <publisher>University of Washington</publisher>
+                <availability status="free">
+                    <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+                </availability>
+                <date>2019</date> 
             </publicationStmt>
             <sourceDesc>
-                <p>The Absent Man: A Farce. Published in 1768 for William Griffin, in Catherine-Street, the Strand.
-                Scanned by Google Books.</p>
+                <bibl><title>The Absent Man: A Farce</title> by <author>Isaac Birkerstaff</author>. <pubPlace>London</pubPlace> : 
+                    <publisher>William Grffin</publisher>, <date when="1768">1768</date>. Scanned by Google Books.</bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -1542,8 +1547,67 @@
              </div>
          </div> <!--Act 1 div-->    
       </body>
+    <back>
+        <div type="appendix">
+            <head>The Play</head>
+            <p>The 1768 play/adaptation of The Absent Man: a Farce was printed in quarto format (and 
+                presumably published) by William Griffin, and though the text’s authorship is left anonymous, 
+                the play is attributed to Isaac Bickerstaff, a pseudonym used by Jonathan Swift. The premise 
+                of the play is based on the character Menalcas that appears in Jean de La Bruyère’s Les Caractères 
+                de Théophraste traduits du grec avec Les Caractères ou les moeurs de ce siècle (English title: 
+                Characters, or the Manners of the Age: With the Moral Characters of Theophrastus). Menalcas appears 
+                in the seventh paragraph in the chapter titled “XI. Of Mankind.” The quarto in this digital edition 
+                contains a stamped title page, a dedication to the king (from William Griffin?), a preface, a 
+                prologue by the author of the play, a dramatis personae, and the two act play itself (and all of 
+                its dialogue, stage directions, and scene and act markers and changes).
+                They play was performed by His Majesty’s Servants at the Theater Royal in Drury-Lane.</p>
+        </div>
+        <div type="appendix">
+            <head>The Project</head>
+            <p>The Absent Man project was created as a collaborative effort between Andreas Bassett 
+                and Sarah Moore, under the direction of Dr. Geoff Turnovsky and the ENGL501 Textual 
+                Studies and Digital Editing course during the Autumn 2019 quarter at the University of 
+                Washington. Our project is a online critical edition of The Absent Man: A Farce, a 1768 
+                theatrical adaptation of Jean de la Bruyère’s Les Charactères. Our project is designed 
+                to meet the needs of general reader, students, and researchers interested in engaging in 
+                an obscure work influenced by La Bruyère’s Les Charactères.
+                This edition is informed by the idea of close reading and textual enfolding, that is, that 
+                meaning is created as a text reveals or obscures information. To that end, this digital 
+                project is built around the concept of curating selections of the text to interact with. 
+                Users can, for example, choose to only see dialogue spoken by specific characters, or focus 
+                on specific scenes. Users can also hide or reveal textual and critical notes. In this way, 
+                The Absent Man mimics the separate-but- related character sketches of Les Charactères.</p>
+        </div>
+        <div type="appendix">
+            <head>Development Team</head>
+            <p><persName ref="AB">Andreas Bassett</persName>is a second-year doctoral student at the University 
+                of Washington, Seattle where he studies early modern drama and medieval literature. 
+                His research interests include the Shakespeare apocrypha, print culture, bibliography, 
+                stylometry, the Matter of Britain, and some of the lesser-known dramatists of the 
+                Elizabethan era. At the moment Andreas is working on his master’s essay which traces, 
+                historicizes, and analyzes three apocryphal plays by the obscure “W. S.,” Locrine (1595), 
+                Thomas Lord Cromwell (1602), and The Puritan (1607), a tragedy, history, and comedy, 
+                respectively, as an independent and cohesive trilogy. He is also currently working on 
+                developing an authoritative digital edition of Nostradamus’ Les Prophecies.</p>
+            <p><persName ref="SNM">Sarah Nickel Moore</persName>is currently a doctorate student at 
+                the University of Washington, where she studies late medieval romance and early modern 
+                drama. She has an interest in the environmental humanities and the materiality of textual 
+                manuscripts, and as such several of her past projects have focused on the connections 
+                between animal, women, and text. Currently, Sarah is completing a certificate in textual 
+                studies, in which she is applying her knowledge of the material text to the creation of 
+                digital editions. She received her master’s degree from the University of Alabama in Huntsville, 
+                with thesis work that examined the animal and female bodies in The Avowyng of Arthur and Marie de 
+                France’s Yonec. Sarah continuously seeks to improve her pedagogy, and has repeatedly used her 
+                research as a means of sparking discussion in the classroom, where she aims to help students find 
+                their critical voices.</p>
+        </div>
+        <div type="appendix">
+            <head>Teaching Resources</head>
+            <p>Forthcoming</p>
+        </div>
+    </back>
     </text>  
 </TEI>
-<!-- seg or ref for critical notes -->
+
 
 
