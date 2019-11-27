@@ -119,15 +119,15 @@
          <div type="remark" n="24">
             <head>24</head>
             <p>
-               <seg xml:id="FMP_24_01" corresp="#EPM_24_01">Un homme libre, &amp; qui n'a point de
-                  femme,</seg>
+               <seg xml:id="FMP_24_01" corresp="#EPM_24_01">Un homme libre, &amp; qui n'a point de femme,</seg>
                <seg xml:id="FMP_24_02" corresp="#EPM_24_02"> s'il a quelque esprit peut s'élever au
-                  dessus de sa fortune</seg>
-               <seg xml:id="FMP_24_03" ana="omit"> se mêler dans le monde, &amp; aller de pair avec
+                  dessus de sa fortune,</seg> 
+               <seg xml:id="FMP_24_03" corresp="#EPM_24_03"> se mêler dans le monde, &amp;</seg>
+               <seg xml:id="FMP_24_04" corresp="#EPM_24_04"> aller de pair avec
                   les plus honnêtes gens :</seg>
-               <seg xml:id="FMP_24_04" corresp="#EPM_24_03"> cela est moins facile à celuy qui est
+               <seg xml:id="FMP_24_05" corresp="#EPM_24_05"> cela est moins facile à celuy qui est
                      <interp type="tone">engagé</interp> ;</seg>
-               <seg xml:id="FMP_24_05" corresp="#EPM_24_04"> il semble que le mariage <interp
+               <seg xml:id="FMP_24_06" corresp="#EPM_24_06"> il semble que le mariage <interp
                      type="tone">met</interp> tout le monde dans son ordre.</seg>
             </p>
          </div>
@@ -614,7 +614,7 @@
                         to elegant society in the provinces. In the quarrel between the Ancients and
                         Moderns, the <hi rend="ital">Mercure</hi> represented the Moderns <hi
                            rend="ital">(Wikipedia, "Mercure de France").</hi></note></seg>
-                  <seg xml:id="EPL_43_02">is a trifle below nothing,</seg>
+                  <seg xml:id="EPL_43_02" corresp="FOE_44_02">is a trifle below nothing,</seg>
                   <seg xml:id="EPL_43_03" corresp="#FOE_44_03"> and there are many Works of the same
                      importance;</seg>
                   <seg xml:id="EPL_43_04" corresp="#FOE_44_04"> there is as much invention in Men to
@@ -627,18 +627,18 @@
                      venture abroad a great many dull Pieces.</seg>
                </p>
             </div>
-            <div type="remark" n="63">
-               <head>63</head>
+            <div type="remark" n="59">
+               <head>59</head>
                <p>
-                  <seg xml:id="EPL_63_01" corresp="#FOE_59_01">A man born a Christian and a <hi
-                        rend="ital">Frenchman,</hi></seg>
-                  <seg xml:id="EPL_63_02" corresp="#FOE_59_02"> is confin'd in Satire:</seg>
-                  <seg xml:id="EPL_63_03" corresp="#FOE_59_03"> The great Subjects are forbidden
+                  <seg xml:id="EPL_59_01" corresp="#FOE_63_01">A man born a Christian and a <ref rend="underline"><hi
+                     rend="ital">Frenchman,</hi></ref><note type="editorial">Emphasis added by translator.</note></seg>
+                  <seg xml:id="EPL_59_02" corresp="#FOE_63_02"> is confin'd in Satire:</seg>
+                  <seg xml:id="EPL_59_03" corresp="#FOE_63_03"> The great Subjects are forbidden
                      him,</seg>
-                  <seg xml:id="EPL_63_04" corresp="#FOE_59_04"> he attempts 'em sometimes,</seg>
-                  <seg xml:id="EPL_63_05" corresp="#FOE_59_05"> and then turns off to the little
+                  <seg xml:id="EPL_59_04" corresp="#FOE_63_04"> he attempts 'em sometimes,</seg>
+                  <seg xml:id="EPL_59_05" corresp="#FOE_63_05"> and then turns off to the little
                      things</seg>
-                  <seg xml:id="EPL_63_06" corresp="#FOE_59_06"> which he raises by the beauty of his
+                  <seg xml:id="EPL_59_06" corresp="#FOE_63_06"> which he raises by the beauty of his
                      Genius and his Style.</seg>
                </p>
             </div>
@@ -648,14 +648,16 @@
             <div type="remark" n="24">
                <head>24</head>
                <p>
-                  <seg xml:id="EPM_24_01" corresp="#FMP_24_01">The Man that is single and free in
-                     the World,</seg>
-                  <seg xml:id="EPM_24_02" corresp="#FMP_24_02"> if he has Wit, may live and make a
-                     Figure above his Fortune <seg ana="add">or Quality</seg>.</seg>
-                  <seg xml:id="EPM_24_03" corresp="#FMP_24_04"> Which is not so easily done, if he's
-                        <interp type="tone">confin'd</interp>.</seg>
-                  <seg xml:id="EPM_24_04" corresp="#FMP_24_05"> Marriage seems to <ref
-                        rend="underline"><interp type="tone">range</interp></ref><note
+                  <seg xml:id="EPM_24_01" corresp="#FMP_24_01">The Man that is single 
+                     and free in the World,</seg>
+                  <seg xml:id="EPM_24_02" corresp="#FMP_24_02"> if he has Wit, may <seg xml:id="EPM_24_03" 
+                     corresp="#FMP_24_03" ana="abridg">live and</seg> make a
+                     Figure above his Fortune</seg> 
+                  <seg xml:id="EPM_24_04" corresp="#FMP_24_04" ana="abridge">or Quality.</seg>
+                  <seg xml:id="EPM_24_05" corresp="#FMP_24_05"> Which is not so easily done, if he's
+                     <interp type="tone">confin'd</interp>.</seg>
+                  <seg xml:id="EPM_24_06" corresp="#FMP_24_06"> Marriage seems to <ref
+                     rend="underline"><interp type="tone">range</interp></ref><note
                         type="editorial">In the 17th century, "to range" was to sift, literally or
                         figuratively. <hi rend="ital">Oxford English Dictionary, s.v.</hi> "range,
                         v., 2."</note> every Body in their proper Rank and Degree.</seg>
