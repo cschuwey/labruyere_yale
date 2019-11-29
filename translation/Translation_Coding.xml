@@ -67,7 +67,7 @@
                      plus de sept mille ans</seg>
                   <seg xml:id="FOE_01_03" corresp="#EPL_01_02"> qu'ily a des hommes,</seg>
                   <seg xml:id="FOE_01_04" corresp="#EPL_01_03"> &amp; qui pensent.</seg>
-                  <seg xml:id="FOE_01_05" corresp="EPL_01_05"> Sur ce qui concerne les moeurs le
+                  <seg xml:id="FOE_01_05" corresp="#EPL_01_05"> Sur ce qui concerne les moeurs le
                      plus beau &amp; le meilleur</seg>
                   <seg xml:id="FOE_01_06" corresp="#EPL_01_06"> est enlevé;</seg>
                   <seg xml:id="FOE_01_07" corresp="#EPL_01_07"> l'on ne fait que glaner aprés les
@@ -115,33 +115,101 @@
          </div>
          <div xml:lang="fr" type="chapter" n="2">
             <head>Du Merite personnel.</head>
-         </div>
-         <div type="remark" n="24">
-            <head>24</head>
-            <p>
-               <seg xml:id="FMP_24_01" corresp="#EPM_24_01">Un homme libre, &amp; qui n'a point de femme,</seg>
-               <seg xml:id="FMP_24_02" corresp="#EPM_24_02"> s'il a quelque esprit peut s'élever au
-                  dessus de sa fortune,</seg> 
-               <seg xml:id="FMP_24_03" corresp="#EPM_24_03"> se mêler dans le monde, &amp;</seg>
-               <seg xml:id="FMP_24_04" corresp="#EPM_24_04"> aller de pair avec
-                  les plus honnêtes gens :</seg>
-               <seg xml:id="FMP_24_05" corresp="#EPM_24_05"> cela est moins facile à celuy qui est
-                     <interp type="tone">engagé</interp> ;</seg>
-               <seg xml:id="FMP_24_06" corresp="#EPM_24_06"> il semble que le mariage <interp
-                     type="tone">met</interp> tout le monde dans son ordre.</seg>
-            </p>
+            <div type="remark" n="8">
+               <head>8</head>
+               <p>
+                  <seg xml:id="FMP_08_01" corresp="#EPM_08_01">Il y a plus d'outils que
+                     d'ouvriers,</seg>
+                  <seg xml:id="FMP_08_02" corresp="#EPM_08_02"> &amp; de ces derniers plus de
+                     mauvais que d'excellens</seg>
+                  <seg xml:id="FMP_08_03" corresp="#EPM_08_03"> que pensez-vous de celuy</seg>
+                  <seg xml:id="FMP_08_04" corresp="#EPM_08_04"> qui veut scier avec un rabot,</seg>
+                  <seg xml:id="FMP_08_05" corresp="#EPM_08_05"> &amp; qui prend sa scie pour raboter
+                     ?</seg>
+               </p>
+            </div>
+            <div type="remark" n="24">
+               <head>24</head>
+               <p>
+                  <seg xml:id="FMP_24_01" corresp="#EPM_24_01">Un homme libre, &amp; qui n'a point
+                     de femme,</seg>
+                  <seg xml:id="FMP_24_02" corresp="#EPM_24_02"> s'il a quelque esprit peut s'élever
+                     au dessus de sa fortune,</seg>
+                  <seg xml:id="FMP_24_03" corresp="#EPM_24_03"> se mêler dans le monde, &amp;</seg>
+                  <seg xml:id="FMP_24_04" corresp="#EPM_24_04"> aller de pair avec les plus honnêtes
+                     gens :</seg>
+                  <seg xml:id="FMP_24_05" corresp="#EPM_24_05"> cela est moins facile à celuy qui
+                     est <interp type="tone">engagé</interp> ;</seg>
+                  <seg xml:id="FMP_24_06" corresp="#EPM_24_06"> il semble que le mariage <interp
+                        type="tone">met</interp> tout le monde dans son ordre.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="3">
             <head>Des Femmes.</head>
-         </div>
-         <div type="remark" n="65">
-            <head>65</head>
-            <p>
-               <seg xml:id="FFM_65_01" corresp="#EWM_64_01">Une femme qui n'a jamais les yeux que
-                  sur une même personne,</seg>
-               <seg xml:id="FFM_65_02" corresp="#EWM_64_02"> ou qui les en détourne toûjours,</seg>
-               <seg xml:id="FFM_65_03" corresp="#EWM_64_03"> fait penser d'elle la même chose.</seg>
-            </p>
+            <div type="remark" n="6">
+               <head>6</head>
+               <p>
+                  <seg xml:id="FFM_06_01" corresp="#EWM_05_01">Si les femmes veulent seulemet être
+                     belles à leurs propres yeux</seg>
+                  <seg xml:id="FFM_06_02" ana="omit"> &amp; se plaire à elles-mêmes,</seg>
+                  <seg xml:id="FFM_06_03" corresp="#EWM_05_02"> elles peuvent sans doute</seg>
+                  <seg xml:id="FFM_06_04" corresp="#EWM_05_03"> dans la maniere de s'embellir,</seg>
+                  <seg xml:id="FFM_06_05" corresp="#EWM_05_04"> dans le choix des ajustemens &amp;
+                     de la parure</seg>
+                  <seg xml:id="FFM_06_06" corresp="#EWM_05_05"> suivre leur goût &amp; leur caprice
+                     :</seg>
+                  <seg xml:id="FFM_06_07" corresp="#EWM_05_06"> mais si c'est aux hommes qu'elles
+                     desirent de plaire,</seg>
+                  <seg xml:id="FFM_06_08" corresp="#EWM_05_07"> si c'est pour eux qu'elles se
+                     fardent ou qu'elles s'enluminent,</seg>
+                  <seg xml:id="FFM_06_09" corresp="#EWM_05_08"> j'ay recüeilli les voix,</seg>
+                  <seg xml:id="FFM_06_10" corresp="#EWM_05_09"> &amp; je leur prononce de la part de
+                     tous les hommes,</seg>
+                  <seg xml:id="FFM_06_11" corresp="#EWM_05_10"> ou de la plus grande partie,</seg>
+                  <seg xml:id="FFM_06_12" corresp="#EWM_05_11"> que le blanc &amp; le rouge les rend
+                     affreuses &amp; dégoûtantes</seg>
+                  <seg xml:id="FFM_06_13" ana="omit"> que le rouge seul les vieillit &amp; les
+                     déguise ;</seg>
+                  <seg xml:id="FFM_06_14" corresp="#EWM_05_12"> qu'ils haïssent autant à les voir
+                     avec de la ceruse sur le visage,</seg>
+                  <seg xml:id="FFM_06_15" corresp="#EWM_05_13"> qu'avec de fausses dents en la
+                     bouche,</seg>
+                  <seg xml:id="FFM_06_16" corresp="#EWM_05_14"> &amp; des boules <seg ana="omit">de
+                        cire</seg> dans les machoires,</seg>
+                  <seg xml:id="FFM_06_17" corresp="#EWM_05_15"> qu'ils protestent serieusement
+                     contre tout l'artifice dont elles usent,</seg>
+                  <seg xml:id="FFM_06_18" corresp="#EWM_05_16"> pour se rendre laides ;</seg>
+                  <seg xml:id="FFM_06_19" ana="omit"> &amp; que bien loin d'en répondre devant Dieu,
+                     il semble au contraire</seg>
+                  <seg xml:id="FFM_06_20" corresp="#EWM_05_17">
+                     <interp type="sense">qu'il leur ait reservé</interp> ce dernier &amp;
+                     infaillible moyen de guerir des femmes.</seg>
+               </p>
+               <p>
+                  <seg xml:id="FFM_06_21" corresp="#EWM_05_18"> Si les femmes étoient telles
+                     naturellement qu'elles le deviennent par artifice,</seg>
+                  <seg xml:id="FFM_06_22" corresp="#EWM_05_19"> qu'elles perdissent en un moment
+                     toute la fraîcheur de leur teint,</seg>
+                  <seg xml:id="FFM_06_23" corresp="#EWM_05_20"> qu'elles eussent le visage aussi
+                     allumé &amp; aussi plombé qu'elles se le font par le rouge &amp; par la
+                     peinture</seg>
+                  <seg xml:id="FFM_06_24" corresp="#EWM_05_21"> dont elles se fardent</seg>
+                  <seg xml:id="FFM_06_25" corresp="#EWM_05_22">
+                     <interp type="tone">elles seroient inconsolables.</interp></seg>
+               </p>
+            </div>
+            <div type="remark" n="65">
+               <head>65</head>
+               <p>
+                  <seg xml:id="FFM_65_01" corresp="#EWM_64_01">Une femme qui n'a jamais les yeux que
+                     sur une même personne,</seg>
+                  <seg xml:id="FFM_65_02" corresp="#EWM_64_02"> ou qui les en détourne
+                     toûjours,</seg>
+                  <seg xml:id="FFM_65_03" corresp="#EWM_64_03"> fait penser d'elle la même
+                     chose.</seg>
+               </p>
+            </div>
          </div>
          <div xml:id="fr" type="chapter" n="4">
             <head>Du Coeur</head>
@@ -157,7 +225,7 @@
                   <seg xml:id="FCR_52_04" corresp="#EHT_50_04"> est un peu balancée par la petite
                      peine qu'on a de le voir au dessus de nous, ou s'égaler à nous :</seg>
                   <seg xml:id="FCR_52_05" corresp="#EHT_50_05"> ainsi l'on s'accorde mal avec
-                     soy-même ; </seg>
+                     soy-même ;</seg>
                   <seg xml:id="FCR_52_06" corresp="#EHT_50_06"> car l'on veut des dépendans, &amp;
                      qu'il n'en coûte rien ;</seg>
                   <seg xml:id="FCR_52_07" corresp="#EHT_50_07"> l'on veut aussi le bien de ses amis
@@ -172,59 +240,60 @@
             <div type="remark" n="7">
                <head>7</head>
                <p>
-                  <seg xml:id="FSC_7_01" corresp="#ESC_7_01">Que dites vous? Comment?</seg>
-                  <seg xml:id="FSC_7_02" corresp="#ESC_7_02"> Je n'y suis pas; vous plairoit-il de
+                  <seg xml:id="FSC_07_01" corresp="#ESC_07_01">Que dites vous? Comment?</seg>
+                  <seg xml:id="FSC_07_02" corresp="#ESC_07_02"> Je n'y suis pas; vous plairoit-il de
                      recommencer?</seg>
-                  <seg xml:id="FSC_7_03" corresp="#ESC_7_03"> j'y suis encore moins; je devine
+                  <seg xml:id="FSC_07_03" corresp="#ESC_07_03"> j'y suis encore moins; je devine
                      enfin:</seg>
-                  <seg xml:id="FSC_7_04" corresp="#ESC_7_04"> vous voulez, <hi rend="italic"
-                        >Acis</hi>, me dire </seg>
-                  <seg xml:id="FSC_7_05" corresp="#ESC_7_05">qu'il fait froid</seg>
-                  <seg xml:id="FSC_7_06" corresp="#ESC_7_07"> que ne disiez-vous, il fait
+                  <seg xml:id="FSC_07_04" corresp="#ESC_07_04"> vous voulez, <hi rend="italic"
+                        >Acis</hi>, me dire</seg>
+                  <seg xml:id="FSC_07_05" corresp="#ESC_07_05"> qu'il fait froid</seg>
+                  <seg xml:id="FSC_07_06" corresp="#ESC_07_07"> que ne disiez-vous, il fait
                      froid;</seg>
-                  <seg xml:id="FSC_7_07" corresp="#ESC_7_06"> vous voulez m'apprendre qu'il pleut ou
-                     qu'il neige; </seg>
-                  <seg xml:id="FSC_7_08" corresp="#ESC_7_08"> dites, il pleut, il neige:</seg>
-                  <seg xml:id="FSC_7_09" corresp="#ESC_7_09"> vous me trouvez </seg>
-                  <seg xml:id="FSC_7_10" corresp="#ESC_7_10"> bon visage</seg>
-                  <seg xml:id="FSC_7_11" corresp="#ESC_7_11">, et vous desirez me feliciter,</seg>
-                  <seg xml:id="FSC_7_12" corresp="#ESC_7_12"> dites, je vous trouve bon visage </seg>
-                  <seg xml:id="FSC_7_13" corresp="#ESC_7_13"> mais, répondez-vous, cela est bien uni
-                     &amp; clair, et d'ailleurs qui ne pourroit pas en dire autant:</seg>
-                  <seg xml:id="FSC_7_14" corresp="#ESC_7_14"> qu'importe, Acis, est-ce un si grand
+                  <seg xml:id="FSC_07_07" corresp="#ESC_07_06"> vous voulez m'apprendre qu'il pleut
+                     ou qu'il neige; </seg>
+                  <seg xml:id="FSC_07_08" corresp="#ESC_07_08"> dites, il pleut, il neige:</seg>
+                  <seg xml:id="FSC_07_09" corresp="#ESC_07_09"> vous me trouvez</seg>
+                  <seg xml:id="FSC_07_10" corresp="#ESC_07_10"> bon visage,</seg>
+                  <seg xml:id="FSC_07_11" corresp="#ESC_07_11"> et vous desirez me feliciter,</seg>
+                  <seg xml:id="FSC_07_12" corresp="#ESC_07_12"> dites, je vous trouve bon
+                     visage</seg>
+                  <seg xml:id="FSC_07_13" corresp="#ESC_07_13"> mais, répondez-vous, cela est bien
+                     uni &amp; clair, et d'ailleurs qui ne pourroit pas en dire autant:</seg>
+                  <seg xml:id="FSC_07_14" corresp="#ESC_07_14"> qu'importe, Acis, est-ce un si grand
                      mal d'être entendu quand on parle, &amp; de parler comme tout le monde ?</seg>
-                  <seg xml:id="FSC_7_15" corresp="#ESC_7_12 #ESC_7_15"> Une chose vous manque, Acis,
-                     à vous &amp; à vos semblables diseurs de </seg>
-                  <seg xml:id="FSC_7_16" corresp="#ESC_7_16">
-                     <ref rend="underline"><hi rend="italic">Phoebus</hi></ref>
-                     <note type="editorial"> A "Phoebus" is a histrionic, overcomplicated style,
+                  <seg xml:id="FSC_07_15" corresp="#ESC_07_12 #ESC_7_15"> Une chose vous manque,
+                     Acis, à vous &amp; à vos semblables diseurs de</seg>
+                  <seg xml:id="FSC_07_16" corresp="#ESC_07_16">
+                     <ref rend="underline"><hi rend="italic">Phoebus,</hi></ref>
+                     <note type="editorial">A "Phoebus" is a histrionic, overcomplicated style,
                         derived from "Phébus", a periphrasis for the Sun and Apollo which was a
                         widespread imagery during the reign of Louis XIV – a topical language
-                        dismissed by the English translation.</note>,</seg>
-                  <seg xml:id="FSC_7_17" corresp="#ESC_7_17">
-                     <seg ana="omit">vous ne vous en défiez point, &amp;</seg> je vais vous jeter
+                        dismissed by the English translation.</note></seg>
+                  <seg xml:id="FSC_07_17" corresp="#ESC_07_17">
+                     <seg ana="omit"> vous ne vous en défiez point, &amp;</seg> je vais vous jeter
                      dans l'étonnement;</seg>
-                  <seg xml:id="FSC_7_18" corresp="#ESC_7_18"> une chose vous manque, c'est
+                  <seg xml:id="FSC_07_18" corresp="#ESC_07_18"> une chose vous manque, c'est
                      l'esprit;</seg>
-                  <seg xml:id="FSC_7_19" corresp="#ESC_7_19"> ce n'est pas tout, il y a en vous une
-                     chose de trop, qui est l'opinion d'en avoir plus que les autres;</seg>
-                  <seg xml:id="FSC_7_20" corresp="#ESC_7_20"> voilà la force de votre pompeux
-                     galimathias, </seg>
-                  <seg xml:id="FSC_7_21" corresp="#ESC_7_22"> de vos phrases embroüillées,</seg>
-                  <seg xml:id="FSC_7_22" corresp="#ESC_7_21"> &amp; de vos grands mots <seg
+                  <seg xml:id="FSC_07_19" corresp="#ESC_07_19"> ce n'est pas tout, il y a en vous
+                     une chose de trop, qui est l'opinion d'en avoir plus que les autres;</seg>
+                  <seg xml:id="FSC_07_20" corresp="#ESC_07_20"> voilà la force de votre pompeux
+                     galimathias,</seg>
+                  <seg xml:id="FSC_07_21" corresp="#ESC_07_22"> de vos phrases embroüillées,</seg>
+                  <seg xml:id="FSC_07_22" corresp="#ESC_07_21"> &amp; de vos grands mots <seg
                         ana="omit">qui ne signifient rien.</seg></seg>
-                  <seg xml:id="FSC_7_23" corresp="#ESC_7_23"> Vous abordez cet homme, <seg
-                        ana="omit"> ou vous entrez dans cette chambre,</seg></seg>
-                  <seg xml:id="FSC_7_24" corresp="#ESC_7_24"> je vous tire par votre habit et vous
+                  <seg xml:id="FSC_07_23" corresp="#ESC_07_23"> Vous abordez cet homme, <seg
+                        ana="omit">ou vous entrez dans cette chambre,</seg></seg>
+                  <seg xml:id="FSC_07_24" corresp="#ESC_07_24"> je vous tire par votre habit et vous
                      dis à l'oreille,</seg>
-                  <seg xml:id="FSC_7_25" corresp="#ESC_7_25"> ne songez point à avoir de l'esprit,
+                  <seg xml:id="FSC_07_25" corresp="#ESC_07_25"> ne songez point à avoir de l'esprit,
                      n'en ayez point</seg>
-                  <seg xml:id="FSC_7_26" corresp="#ESC_7_26"> c'est votre role;</seg>
-                  <seg xml:id="FSC_7_27" corresp="#ESC_7_27"> ayez, si vous pouvez, un langage
+                  <seg xml:id="FSC_07_26" corresp="#ESC_07_26"> c'est votre role;</seg>
+                  <seg xml:id="FSC_07_27" corresp="#ESC_07_27"> ayez, si vous pouvez, un langage
                      simple,</seg>
-                  <seg xml:id="FSC_7_28" corresp="#ESC_7_28"> &amp; tel que l'ont ceux en qui vous
+                  <seg xml:id="FSC_07_28" corresp="#ESC_07_28"> &amp; tel que l'ont ceux en qui vous
                      ne trouvez aucun esprit:</seg>
-                  <seg xml:id="FSC_7_29" corresp="#ESC_7_29"> peut-être alors croira-t-on que vous
+                  <seg xml:id="FSC_07_29" corresp="#ESC_07_29"> peut-être alors croira-t-on que vous
                      en avez.</seg>
                </p>
             </div>
@@ -232,8 +301,8 @@
                <head>69</head>
                <p>
                   <seg xml:id="FSC_69_01" corresp="#ESC_69_01">Quelques femmes de la ville ont la
-                     délicatesse de <seg ana="omit">ne pas savoir ou </seg> de n’oser dire le nom
-                     des rues, des places, et de quelques endroits publics,</seg>
+                     délicatesse de <seg ana="omit">ne pas savoir ou</seg> de n’oser dire le nom des
+                     rues, des places, et de quelques endroits publics,</seg>
                   <seg xml:id="FSC_69_02" corresp="#ESC_69_02"> qu’elles ne croient pas assez nobles
                      pour être connus</seg>
                   <seg xml:id="FSC_69_03" corresp="#ESC_69_03"> Elles disent : <hi rend="ital">le
@@ -244,9 +313,9 @@
                      rassurent :</seg>
                   <seg xml:id="FSC_69_05" corresp="#ESC_69_05"> en cela moins naturelles que les
                      femmes de la cour, qui ayant besoin dans le discours <hi rend="ital">des
-                        Halles, du Châtelet,</hi> ou de choses semblables, disent : </seg>
+                        Halles, du Châtelet,</hi> ou de choses semblables, disent :</seg>
                   <seg xml:id="FSC_69_06" corresp="#ESC_69_06">
-                     <hi rend="ital">les Halles, le Châtelet.</hi></seg>
+                     <hi rend="ital"> les Halles, le Châtelet.</hi></seg>
                </p>
             </div>
          </div>
@@ -262,9 +331,9 @@
                   <seg xml:id="FBF_01_03" corresp="#EGF_01_03"> joüir d'un Palais à la
                      campagne,</seg>
                   <seg xml:id="FBF_01_04" corresp="#EGF_01_04"> &amp; d'un autre à la ville,</seg>
-                  <seg xml:id="FBF_01_05" ana="omit"> avoir un grand équipage,</seg>
+                  <seg xml:id="FBF_01_05" ana="omit"> avoir un grand équipage, </seg>
                   <seg xml:id="FBF_01_06" corresp="#EGF_01_05">
-                     <interp type="tone">mettre un Duc dans sa famille,</interp></seg>
+                     <interp type="tone">mettre un Duc dans sa famille, </interp></seg>
                   <seg xml:id="FBF_01_07" corresp="#EGF_01_06"> &amp; <interp type="tone">faire de
                         son fils un grand Seigneur</interp>;</seg>
                   <seg xml:id="FBF_01_08" corresp="#EGF_01_07"> cela est juste &amp; de son ressort
@@ -284,14 +353,14 @@
                   <seg xml:id="FVL_12_02" corresp="#ECY_12_02"> il a ses heures de toilette comme
                      une femme ;</seg>
                   <seg xml:id="FVL_12_03" corresp="#ECY_12_03"> il va tous les jours fort
-                     régulièrement à la belle messe</seg>
+                     régulièrement à la belle Messe</seg>
                   <seg xml:id="FVL_12_04" corresp="#ECY_12_04"> aux Feuillants ou aux Minimes
                      ;</seg>
                   <seg xml:id="FVL_12_05" corresp="#ECY_12_05"> il est homme d’un bon commerce,
-                     &amp; <seg ana="omit"> l’on compte sur lui au quartier de **</seg> pour un
-                     tiers ou pour un cinquième à </seg>
+                     &amp; <seg ana="omit">l’on compte sur lui au quartier de **</seg> pour un tiers
+                     ou pour un cinquième à </seg>
                   <seg xml:id="FVL_12_06" corresp="#ECY_12_06"><ref rend="underline">l’ombre<seg
-                           ana="omit"> ou au reversi</seg></ref>
+                           ana="omit">ou au reversi</seg></ref>
                      <note type="context">"Ombre" and 'reversi" were seventeenth-century card games
                         imported from Spain. Ombre seems to have been fairly popular in England,
                         reversi less so: this might explain why the translator only indicated the
@@ -300,12 +369,12 @@
                      heures de suite chez <hi rend="italic">Aricie</hi>, où il risque chaque soir
                      cinq pistoles d’or.</seg>
                   <seg xml:id="FVL_12_08" corresp="#ECY_12_08"> Il lit exactement la Gazette de
-                     Hollande </seg>
-                  <seg xml:id="FVL_12_09" corresp="#ECY_12_10"> et le Mercure Galant ; </seg>
+                     Hollande</seg>
+                  <seg xml:id="FVL_12_09" corresp="#ECY_12_10"> et le Mercure Galant ;</seg>
                   <seg xml:id="FVL_12_10" corresp="#ECY_12_11"> il a lu Bergerac, des Marets,
-                     Lesclache, </seg>
-                  <seg xml:id="FVL_12_11" corresp="#ECY_12_09"> les Historiettes de Barbin, </seg>
-                  <seg xml:id="FVL_12_12" corresp="#ECY_12_12">&amp; quelques recüeils de
+                     Lesclache,</seg>
+                  <seg xml:id="FVL_12_11" corresp="#ECY_12_09"> les Historiettes de Barbin,</seg>
+                  <seg xml:id="FVL_12_12" corresp="#ECY_12_12"> &amp; quelques recüeils de
                      poësies.</seg>
                   <seg xml:id="FVL_12_13" corresp="#ECY_12_13"> Il se promène avec des femmes à la
                      Plaine ou au Cours, &amp; il est d’une ponctualité religieuse sur les
@@ -319,15 +388,115 @@
          </div>
          <div xml:lang="fr" type="chapter" n="8">
             <head>De la Cour.</head>
+            <div type="remark" n="9">
+               <head>9</head>
+               <p>
+                  <seg xml:id="FCU_09_01" corresp="#ECT_09_01">Il faut qu'un honête homme ait tâté
+                     de la Cour ;</seg>
+                  <seg xml:id="FCU_09_02" corresp="#ECT_09_02"> il découvre en y entrant comme un
+                     nouveau monde qui lui est inconnu,</seg>
+                  <seg xml:id="FCU_09_03" corresp="#ECT_09_03"> où il voit regner également le vice
+                     &amp; la politesse,</seg>
+                  <seg xml:id="FCU_09_04" corresp="#ECT_09_04"> &amp; où tout luy est utile, le bon
+                     &amp; le mauvais.</seg>
+               </p>
+            </div>
+            <div type="remark" n="16">
+               <head>16</head>
+               <p>
+                  <seg xml:id="FCU_16_01" corresp="#ECT_16_01">Vous voyez des gens qui <interp
+                        type="tone">entrent</interp> sans salüer que legerement,</seg>
+                  <seg xml:id="FCU_16_02" corresp="#ECT_16_02"> qui marchent des épaules, &amp; se
+                     rengorgent comme une femme;</seg>
+                  <seg xml:id="FCU_16_03" corresp="#ECT_16_03"> ils vous interrogent sans vous
+                     regarder,</seg>
+                  <seg xml:id="FCU_16_04" corresp="#ECT_16_04"> parlent d'un ton élevé,</seg>
+                  <seg xml:id="FCU_16_05" corresp="#ECT_16_05"> &amp; qui marque qu'ils se sentent
+                     au dessus de ceux qui se trouvent presens ;</seg>
+                  <seg xml:id="FCU_16_06" corresp="#ECT_16_06"> ils s'arrétent, &amp; on les entoure
+                     ;</seg>
+                  <seg xml:id="FCU_16_07" corresp="#ECT_16_07"> ils ont la parole,</seg>
+                  <seg xml:id="FCU_16_08" corresp="#ECT_16_08"> président au cercle,</seg>
+                  <seg xml:id="FCU_16_09" corresp="#ECT_16_09"> &amp; persistent dans cette hauteur
+                     ridicule &amp; contrefaite,</seg>
+                  <seg xml:id="FCU_16_10" corresp="#ECT_16_10"> jusqu'à ce qu'il survienne un
+                     Grand,</seg>
+                  <seg xml:id="FCU_16_11" corresp="#ECT_16_11"> qui la faisant tomber tout d'un coup
+                     par sa presence,</seg>
+                  <seg xml:id="FCU_16_12" corresp="#ECT_16_12"> les reduise à leur naturel qui est
+                     moins mauvais.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="9">
             <head>Des Grands.</head>
+            <div type="remark" n="3">
+               <head>3</head>
+               <p>
+                  <seg xml:id="FGR_03_01" corresp="#EGR_03_01">L'avantage des Grands sur les autres
+                     hommes est immense par un entroit:</seg>
+                  <seg xml:id="FGR_03_02" corresp="#EGR_03_02"> je leur cede leur bonne chere,</seg>
+                  <seg xml:id="FGR_03_03" corresp="#EGR_03_03"> leurs riches <seg ana="omit"
+                        >ameublemens</seg>,</seg>
+                  <seg xml:id="FGR_03_04" corresp="#EGR_03_04"> leurs chiens,</seg>
+                  <seg xml:id="FGR_03_05" corresp="#EGR_03_05"> leurs chevaux,</seg>
+                  <seg xml:id="FGR_03_06"> leurs <seg ana="omit">singes</seg>,</seg>
+                  <seg xml:id="FGR_03_07"> leurs <seg ana="omit">nains</seg>,</seg>
+                  <seg xml:id="FGR_03_08" corresp="#EGR_03_07"> leurs fous</seg>
+                  <seg xml:id="FGR_03_09" corresp="#EGR_03_08"> &amp; leurs flatteurs ;</seg>
+                  <seg xml:id="FGR_03_10" corresp="#EGR_03_9"> mais je leur envie le bonheur</seg>
+                  <seg xml:id="FGR_03_11" corresp="#EGR_03_10"> d'avoir à leur service</seg>
+                  <seg xml:id="FGR_03_12" corresp="#EGR_03_11"> des gens qui les égalent par le
+                        <interp type="tone">coeur</interp> &amp; par l'esprit,</seg>
+                  <seg xml:id="FGR_03_13" corresp="#EGR_03_12"> &amp; qui les passent
+                     quelquefois.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="10">
             <head>Du Souverain, ou de la Republique.</head>
+            <div type="remark" n="1">
+               <head>1</head>
+               <p>
+                  <seg xml:id="FSV_01_01" corresp="#ESV_01_01">Quand l'on parcourt</seg>
+                  <seg xml:id="FSV_01_02" corresp="#ESV_01_03"> sans la prévention de son païs</seg>
+                  <seg xml:id="FSV_01_03" corresp="#ESV_01_02"> toutes les formes de <choice>
+                        <sic>gouvement</sic>
+                        <corr>gouvernement</corr>
+                     </choice>,</seg>
+                  <seg xml:id="FSV_01_04" corresp="#ESV_01_04"> l'on ne sçait à laquelle se tenir
+                     ;</seg>
+                  <seg xml:id="FSV_01_05" corresp="#ESV_01_05"> il y a dans toutes le moins bon,
+                     &amp; le moins mauvais.</seg>
+                  <seg xml:id="FSV_01_06" corresp="#ESV_01_06"> Ce qu'il y a de plus raisonnable
+                     &amp; de plus seur,</seg>
+                  <seg xml:id="FSV_01_07" corresp="#ESV_01_07"> c'est d'estimer celle où l'on est
+                     né,</seg>
+                  <seg xml:id="FSV_01_08" corresp="#ESV_01_08"> la meilleure de toutes,</seg>
+                  <seg xml:id="FSV_01_09" corresp="#ESV_01_09"> &amp; de s'y soûmettre.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="11">
             <head>De l'Homme.</head>
+            <div type="remark" n="64">
+               <head>64</head>
+               <p>
+                  <seg xml:id="FHM_64_01" corresp="#EMN_68_01">On veut quelquefois cacher ses
+                     foibles,</seg>
+                  <seg xml:id="FHM_64_02" corresp="#EMN_68_02"> ou en diminuer l'opinion</seg>
+                  <seg xml:id="FHM_64_03" corresp="#EMN_68_03"> par l'aveu libre que l'on en
+                     fait.</seg>
+                  <seg xml:id="FHM_64_04" corresp="#EMN_68_04"> Tel dit, je suis ignorant</seg>
+                  <seg xml:id="FHM_64_05" corresp="#EMN_68_05">
+                     <interp type="tone">qui ne sçait rien :</interp></seg>
+                  <seg xml:id="FHM_64_06" corresp="#EMN_68_06"> un homme dit, je suis vieux,</seg>
+                  <seg xml:id="FHM_64_07" corresp="#EMN_68_07"> il passe soixante ans :</seg>
+                  <seg xml:id="FHM_64_08" corresp="#EMN_68_08"> un autre encore,</seg>
+                  <seg xml:id="FHM_64_09" corresp="#EMN_68_09"> je ne suis pas riche,</seg>
+                  <seg xml:id="FHM_64_10" corresp="#EMN_68_10"> &amp; il est pauvre.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="12">
             <head>Des Jugemens.</head>
@@ -349,18 +518,18 @@
                      respectable par luy-même,</seg>
                   <seg xml:id="FJG_28_08" corresp="#EJG_28_08"> &amp; indépendamment de tous les
                      dehors dont il voudroit s'aider pour rendre sa personne plus grave, &amp; sa
-                     vertu plus specieuse :</seg>
+                     vertu plus specieuse : </seg>
                   <seg xml:id="FJG_28_09" ana="omit">
-                     <ref rend="underline">un air reformé,</ref><note type="context">This cynical
-                        portrait of a Protestant who assumes a "reformed air" to conceal a lack of
-                        virtue was omitted from the English translation.</note></seg>
+                     <ref rend="underline">un air reformé,</ref><note type="context">The English
+                        translator omits "a reformed air" from the list of attributes behind which
+                        one of suspect virtue might hide.</note></seg>
                   <seg xml:id="FJG_28_10" corresp="#EJG_28_09"> une modestie outrée, la singularité
                      de l'habit,</seg>
                   <seg xml:id="FJG_28_11" corresp="#EJG_28_10">
                      <ref rend="underline"><interp type="sense">une ample
                         calotte,</interp></ref><note type="context">A calotte, or zucchetto, is the
-                        small skullcap worn by Roman Catholic clergy. The "ample calotte" here
-                        refers to the larger skullcap worn by Anglican clergy <hi rend="ital"
+                        small skullcap worn by Roman Catholic clergy. The "ample calotte" here might
+                        refer to the larger skullcap worn by Anglican clergy<hi rend="ital"
                            >(Wikipedia,</hi> "Zucchetto").</note></seg>
                   <seg xml:id="FJG_28_12" corresp="#EJG_28_11"> n'ajoûtent rien à la probité, ne
                      relevent pas le merite,</seg>
@@ -425,12 +594,60 @@
                      mettent chacun du leur pour se le rendre à eux tous de jour en jour plus
                      redoutable : les Pictes et les Saxons imposent silence aux Bataves, et ceux-ci
                      aux Pictes et aux Saxons ;tous se peuvent vanter d’être ses humbles esclaves,
-                     et autant qu’ils le souhaitent. </seg>
+                     et autant qu’ils le souhaitent.</seg>
                </p>
             </div>
          </div>
          <div xml:lang="fr" type="chapter" n="13">
             <head>De la Mode.</head>
+            <div type="remark" n="25">
+               <head>25</head>
+               <p>
+                  <seg xml:id="FMD_25_01" corresp="#EFS_26_02">L'on a été loin depuis un
+                     siecle</seg>
+                  <seg xml:id="FMD_25_02" corresp="#EFS_26_01"> dans les arts &amp; dans
+                     sciences,</seg>
+                  <seg xml:id="FMD_25_03" corresp="#EFS_26_03"> qui toutes ont esté poussées à un
+                     grand point de raffinement,</seg>
+                  <seg xml:id="FMD_25_04" corresp="#EFS_26_04">jusques à celle du salut que l'on a
+                     reduite en regle &amp; en methode,</seg>
+                  <seg xml:id="FMD_25_05" corresp="#EFS_26_05"> &amp; augmentée de tout ce que
+                     l'esprit des hommes pouvoit inventer de plus beau &amp; de plus sublime : </seg>
+                  <seg xml:id="FMD_25_06" corresp="#EFS_26_06"><ref rend="underline">la
+                        devotion</ref><note type="editorial">A marginal note in the French edition
+                        qualifies this as <hi rend="italic">"Fausse devotion"</hi> ("false
+                        devotion").</note> &amp; la Geometrie ont leurs façons de parler,</seg>
+                  <seg xml:id="FMD_25_07" corresp="#EFS_26_07"> ou ce qu'on appelle les termes de
+                     l'art ;</seg>
+                  <seg xml:id="FMD_25_08" corresp="#EFS_26_08"> celuy qui ne les sçait pas,</seg>
+                  <seg xml:id="FMD_25_09" corresp="#EFS_26_09"> n'est ny devot ny Geometre :</seg>
+                  <seg xml:id="FMD_25_10" corresp="#EFS_26_10"> les premiers devots, ceux mêmes qui
+                     ont été dirigez par les Apôtres,</seg>
+                  <seg xml:id="FMD_25_11" corresp="#EFS_26_11"> ignoroient ces termes,</seg>
+                  <seg xml:id="FMD_25_12" corresp="#EFS_26_12"> simples gens qui n'avoient que <ref
+                        rend="underline">la foy &amp; les oeuvres,</ref><note type="context"
+                        >Possibly weary from the debates over faith and good works that defined
+                        Reformation and Counter-Reformation theology and continued to divide
+                        Jesuites and Jansenists within France, La Bruyère here seems to strike a
+                        middle ground, and to propose a simpler, less dogmatic approach to Christian
+                        belief and practice, comparable to that found in the early Church <hi
+                           rend="ital">(Wikipedia,</hi> "Justification [theology]").</note></seg>
+                  <seg xml:id="FMD_25_13" corresp="#EFS_26_13"> &amp; qui se reduisoient à croire
+                     &amp; à bien vivre.</seg>
+               </p>
+            </div>
+            <div type="remark" n="26">
+               <head>26</head>
+               <p>
+                  <seg xml:id="FMD_26_01" corresp="#EFS_30_01">Je ne doute point que la vraye
+                     devotion</seg>
+                  <seg xml:id="FMD_26_02" corresp="#EFS_30_02"> ne soit la source du repos ;</seg>
+                  <seg xml:id="FMD_26_03" corresp="#EFS_30_03"> elle fait supporter la vie</seg>
+                  <seg xml:id="FMD_26_04" corresp="#EFS_30_04"> &amp; rend la mort douce,</seg>
+                  <seg xml:id="FMD_26_05" corresp="#EFS_30_05"> on n'en tire pas tant de
+                     l'hypocrisie.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="fr" type="chapter" n="14">
             <head>De quelques Usages.</head>
@@ -484,10 +701,9 @@
                <head>20</head>
                <p>
                   <seg xml:id="FQU_20_01"><ref rend="underline">Dans ces jours qu'on appelle
-                        saints</ref><note type="context">The second remark from "De quelques Usages"
-                        was not included in the English translation, possibly because it calls on
-                        the Catholic Church to use its power to end religious dissention. Since 1534
-                        the Church of England had been independent of Rome.</note></seg>
+                        saints</ref><note type="context">This remark was omitted from the English
+                        translation, possibly because it ascribes to the Catholic Church a power
+                        to end religious dissention.</note></seg>
                   <seg xml:id="FQU_20_02"><ref rend="underline">le Moine confesse,</ref><note
                         type="editorial">As in modern French, in the 17th century <hi rend="ital"
                            >confesser</hi> meant to speak or to hear a confession, <hi rend="ital"
@@ -566,12 +782,9 @@
                <p>
                   <seg xml:id="FEF_02_01"><ref rend="underline">Le docile &amp; le foible</ref><note
                         type="context">The second remark from "Des Esprits Forts" was not included
-                        in the English translation, possibly because it associates the failure to
-                        recognize "la vraye religion"--by implication Catholicism--with stubbornness
-                        and corruption. Since 1534 the Church of England had been independent of
-                        Rome, and Catholics were intentionally excluded from the 1688 the Act of
-                        Toleration, which extended freedom of worship to other
-                     dissenters.</note></seg>
+                        in the English translation, possibly because it associates one's failure to
+                        recognize "la vraye religion"--by implication from a French author,
+                        Catholicism--with stubbornness and corruption.</note></seg>
                   <seg xml:id="FEF_02_02"> sont susceptibles d'impressions, l'un en recoit de
                      bonnes, l'autre de mauvaises,</seg>
                   <seg xml:id="FEF_02_03"> c'est à dire que le premier est persuadé &amp; fidele,
@@ -579,7 +792,7 @@
                   <seg xml:id="FEF_02_04"> ainsi l'esprit docile admet la vraye religion, &amp;
                      l'esprit foible, ou n'en admet aucune ou en admet une fausse :</seg>
                   <seg xml:id="FEF_02_05"> or l'esprit fort ou n'a point de religion ou se fait une
-                     religion, donc l'esprit fort, c'est l'esprit foible. </seg>
+                     religion, donc l'esprit fort, c'est l'esprit foible.</seg>
                </p>
             </div>
          </div>
@@ -614,7 +827,7 @@
                         to elegant society in the provinces. In the quarrel between the Ancients and
                         Moderns, the <hi rend="ital">Mercure</hi> represented the Moderns <hi
                            rend="ital">(Wikipedia, "Mercure de France").</hi></note></seg>
-                  <seg xml:id="EPL_43_02" corresp="FOE_44_02">is a trifle below nothing,</seg>
+                  <seg xml:id="EPL_43_02" corresp="FOE_44_02"> is a trifle below nothing,</seg>
                   <seg xml:id="EPL_43_03" corresp="#FOE_44_03"> and there are many Works of the same
                      importance;</seg>
                   <seg xml:id="EPL_43_04" corresp="#FOE_44_04"> there is as much invention in Men to
@@ -630,8 +843,9 @@
             <div type="remark" n="59">
                <head>59</head>
                <p>
-                  <seg xml:id="EPL_59_01" corresp="#FOE_63_01">A man born a Christian and a <ref rend="underline"><hi
-                     rend="ital">Frenchman,</hi></ref><note type="editorial">Emphasis added by translator.</note></seg>
+                  <seg xml:id="EPL_59_01" corresp="#FOE_63_01">A man born a Christian and a <ref
+                        rend="underline"><hi rend="ital">Frenchman,</hi></ref><note type="editorial"
+                        >Emphasis added by translator.</note></seg>
                   <seg xml:id="EPL_59_02" corresp="#FOE_63_02"> is confin'd in Satire:</seg>
                   <seg xml:id="EPL_59_03" corresp="#FOE_63_03"> The great Subjects are forbidden
                      him,</seg>
@@ -645,19 +859,33 @@
          </div>
          <div xml:lang="en" type="chapter" n="2">
             <head>Of Personal Merit.</head>
+            <div type="remark" n="8">
+               <head>8</head>
+               <p>
+                  <seg xml:id="EPM_08_01" corresp="#FMP_08_01">There are more Tools than
+                     Workmen,</seg>
+                  <seg xml:id="EPM_08_02" corresp="#FMP_08_02"> and of the last more bad than
+                     good:</seg>
+                  <seg xml:id="EPM_08_03" corresp="#FMP_08_03"> What think you of him</seg>
+                  <seg xml:id="EPM_08_04" corresp="#FMP_08_04"> That takes up his plane to saw with
+                     it,</seg>
+                  <seg xml:id="EPM_08_05" corresp="#FMP_08_05"> and wou'd needs Plain his Work with
+                     his Saw?</seg>
+               </p>
+            </div>
             <div type="remark" n="24">
                <head>24</head>
                <p>
-                  <seg xml:id="EPM_24_01" corresp="#FMP_24_01">The Man that is single 
-                     and free in the World,</seg>
-                  <seg xml:id="EPM_24_02" corresp="#FMP_24_02"> if he has Wit, may <seg xml:id="EPM_24_03" 
-                     corresp="#FMP_24_03" ana="abridg">live and</seg> make a
-                     Figure above his Fortune</seg> 
+                  <seg xml:id="EPM_24_01" corresp="#FMP_24_01">The Man that is single and free in
+                     the World,</seg>
+                  <seg xml:id="EPM_24_02" corresp="#FMP_24_02"> if he has Wit, may <seg
+                        xml:id="EPM_24_03" corresp="#FMP_24_03" ana="abridg">live and</seg> make a
+                     Figure above his Fortune </seg>
                   <seg xml:id="EPM_24_04" corresp="#FMP_24_04" ana="abridge">or Quality.</seg>
                   <seg xml:id="EPM_24_05" corresp="#FMP_24_05"> Which is not so easily done, if he's
-                     <interp type="tone">confin'd</interp>.</seg>
+                        <interp type="tone">confin'd</interp>.</seg>
                   <seg xml:id="EPM_24_06" corresp="#FMP_24_06"> Marriage seems to <ref
-                     rend="underline"><interp type="tone">range</interp></ref><note
+                        rend="underline"><interp type="tone">range</interp></ref><note
                         type="editorial">In the 17th century, "to range" was to sift, literally or
                         figuratively. <hi rend="ital">Oxford English Dictionary, s.v.</hi> "range,
                         v., 2."</note> every Body in their proper Rank and Degree.</seg>
@@ -666,22 +894,74 @@
          </div>
          <div xml:lang="en" type="chapter" n="3">
             <head>Of Women.</head>
-         </div>
-         <div type="remark" n="64">
-            <head>64</head>
-            <p>
-               <seg xml:id="EWM_64_01" corresp="#FFM_65_01">The Woman that has her Eyes constantly
-                  fixt on one particular Person,</seg>
-               <seg xml:id="EWM_64_02" corresp="#FFM_65_02" ana="expan"> or whose Eyes you may
-                  observe constantly to avoid him ;</seg>
-               <seg xml:id="EWM_64_03" corresp="#FFM_65_03" ana="expan"> tho they are two different
-                  motions, they make us conclude but one and the same thing of her.</seg>
-            </p>
+            <div type="remark" n="5">
+               <head>5</head>
+               <p>
+                  <seg xml:id="EWM_05_01" corresp="#FFM_06_01">If 'tis the Ambition of Women only to
+                     appear Handsome in their own Eyes,</seg>
+                  <seg xml:id="EWM_05_02" corresp="#FFM_06_03"> they are in the right without
+                     doubt,</seg>
+                  <seg xml:id="EWM_05_03" corresp="#FFM_06_04"> to take what course they please to
+                     Beautify themselves,</seg>
+                  <seg xml:id="EWM_05_04" corresp="#FFM_06_05"> and in the Choice of their Dress and
+                     Ornaments,</seg>
+                  <seg xml:id="EWM_05_05" corresp="#FFM_06_06"> to follow their own Caprice and
+                     Fancy:</seg>
+                  <seg xml:id="EWM_05_06" corresp="#FFM_06_07"> But if 'tis the Men whom they wou'd
+                     charm,</seg>
+                  <seg xml:id="EWM_05_07" corresp="#FFM_06_08"> if 'tis for them they Wath and
+                     Paint;</seg>
+                  <seg xml:id="EWM_05_08" corresp="#FFM_06_09"> I have told their Votes <seg
+                        ana="add">in that cafe,</seg></seg>
+                  <seg xml:id="EWM_05_09" corresp="#FFM_06_10"> and I do assure them from all the
+                     Men,</seg>
+                  <seg xml:id="EWM_05_10" corresp="#FFM_06_11"> or from the greatest part,</seg>
+                  <seg xml:id="EWM_05_11" corresp="#FFM_06_12"> that, the White and Red they use,
+                     makes 'em look hideous and frightful;</seg>
+                  <seg xml:id="EWM_05_12" corresp="#FFM_06_14"> that that they hate as much to see
+                     Women with Paint on their Faces,</seg>
+                  <seg xml:id="EWM_05_13" corresp="#FFM_06_15"> as with false Teeth in their
+                     Mouths,</seg>
+                  <seg xml:id="EWM_05_14" corresp="#FFM_06_16"> or Balls to plump out their
+                     Cheeks;</seg>
+                  <seg xml:id="EWM_05_15" corresp="#FFM_06_17"> that they solemnly protest against
+                     all Art,</seg>
+                  <seg xml:id="EWM_05_16" corresp="#FFM_06_18"> which indeed does but make 'em
+                     ugly,</seg>
+                  <seg xml:id="EWM_05_17" corresp="#FFM_06_20"> and is the last and infallible means
+                        <interp type="sense">that Heav'n takes</interp> to reclaim Men from their
+                     Love.</seg>
+               </p>
+               <p>
+                  <seg xml:id="EWM_05_18" corresp="#FFM_06_21"> If Women were form'd by Nature, what
+                     they make themselves by Art;</seg>
+                  <seg xml:id="EWM_05_19" corresp="#FFM_06_22"> if they were to lose in a minute all
+                     the freshness of their Complexion,</seg>
+                  <seg xml:id="EWM_05_20" corresp="#FFM_06_23"> and were to have their Faces as
+                     thick with Red and Paint,</seg>
+                  <seg xml:id="EWM_05_21" corresp="#FFM_06_24"> as they lay 'em on,</seg>
+                  <seg xml:id="EWM_05_22" corresp="#FFM_06_25">
+                     <interp type="tone">they would look on themselves as the most wretched
+                        Creatures in the World.</interp></seg>
+               </p>
+            </div>
+            <div type="remark" n="64">
+               <head>64</head>
+               <p>
+                  <seg xml:id="EWM_64_01" corresp="#FFM_65_01">The Woman that has her Eyes
+                     constantly fixt on one particular Person,</seg>
+                  <seg xml:id="EWM_64_02" corresp="#FFM_65_02" ana="expan"> or whose Eyes you may
+                     observe constantly to avoid him ;</seg>
+                  <seg xml:id="EWM_64_03" corresp="#FFM_65_03" ana="expan"> tho they are two
+                     different motions, they make us conclude but one and the same thing of
+                     her.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="4">
             <head>Of the Heart.</head>
-            <div type="remark" n="52">
-               <head>52</head>
+            <div type="remark" n="50">
+               <head>50</head>
                <p>
                   <seg xml:id="EHT_50_01" corresp="#FCR_52_01">Tho the charge of maintaining an
                      indigent Person may be very burthensome to us,</seg>
@@ -708,68 +988,69 @@
             <div type="remark" n="7">
                <head>7</head>
                <p>
-                  <seg xml:id="ESC_7_01" corresp="#FSC_7_01">
+                  <seg xml:id="ESC_07_01" corresp="#FSC_07_01">
                      <ref rend="underline"><interp type="tone">Prithee, </interp><hi rend="italic"
                            >Acis</hi>, for the satisfaction of your Friends,</ref><note
-                        type="editorial"> The 1705 translation is less caustic, toning down the
+                        type="editorial">The 1705 translation is less caustic, toning down the
                         strong French authorial voice and the irony of the original
                         dialogism.</note></seg>
-                  <seg xml:id="ESC_7_02" corresp="#FSC_7_02"> endeavour to speak as they may
+                  <seg xml:id="ESC_07_02" corresp="#FSC_07_02"> endeavour to speak as they may
                      understand you,</seg>
-                  <seg xml:id="ESC_7_03" corresp="#FSC_7_03"> for my part I do but guess at your
+                  <seg xml:id="ESC_07_03" corresp="#FSC_07_03"> for my part I do but guess at your
                      meaning: </seg>
-                  <seg xml:id="ESC_7_04" corresp="#FSC_7_04">
-                     <seg ana="abridg">if you would tell <interp type="sense">'em</interp>,
+                  <seg xml:id="ESC_07_04" corresp="#FSC_07_04">
+                     <seg ana="abridg">if you would tell<interp type="sense"> 'em</interp>,
                      </seg></seg>
-                  <seg xml:id="ESC_7_05" corresp="#FSC_7_05"><ref rend="underline">'tis
+                  <seg xml:id="ESC_07_05" corresp="#FSC_07_05"><ref rend="underline"> 'tis
                         Cold</ref><note type="editorial"> Throughout remark 7, the translator
                         resorts to many contractions, probably in order to convey the conversational
                         flavor of the original</note></seg>
-                  <seg xml:id="ESC_7_06" corresp="#FSC_7_07"> that it Rains, and it Snows;</seg>
-                  <seg xml:id="ESC_7_07" corresp="#FSC_7_06"> say 'tis Cold,</seg>
-                  <seg xml:id="ESC_7_08" corresp="#FSC_7_08"> it Rains, and it Snows;</seg>
-                  <seg xml:id="ESC_7_09" corresp="#FSC_7_09"> if you see <interp type="sense"
+                  <seg xml:id="ESC_07_06" corresp="#FSC_07_07"> that it Rains, and it Snows;</seg>
+                  <seg xml:id="ESC_07_07" corresp="#FSC_07_06"> say 'tis Cold,</seg>
+                  <seg xml:id="ESC_07_08" corresp="#FSC_07_08"> it Rains, and it Snows;</seg>
+                  <seg xml:id="ESC_07_09" corresp="#FSC_07_09"> if you see <interp type="sense"
                         >them</interp>
                   </seg>
-                  <seg xml:id="ESC_7_10" corresp="#FSC_7_10"><ref rend="underline"><interp
-                           type="tone">in good health</interp></ref>
-                     <note type="editorial">the English phrase is less wordly than "bon visage",
+                  <seg xml:id="ESC_07_10" corresp="#FSC_07_10"><ref rend="underline"><interp
+                           type="tone">in good health,</interp></ref>
+                     <note type="editorial">The English phrase is less wordly than "bon visage",
                         there again mitigating La Bruyère subtly sophisticated, ironic lexicon.
-                     </note>,</seg>
-                  <seg xml:id="ESC_7_11" corresp="FSC_7_11"> and would congratulate 'em upon it </seg>
-                  <seg xml:id="ESC_7_12" corresp="#FSC_7_12"> 'tell 'em they look well: </seg>
-                  <seg xml:id="ESC_7_13" corresp="#FSC_7_13"> Oh! but, say you, that is so plain,
+                     </note></seg>
+                  <seg xml:id="ESC_07_11" corresp="FSC_07_11"> and would congratulate 'em upon
+                     it</seg>
+                  <seg xml:id="ESC_07_12" corresp="#FSC_07_12"> 'tell 'em they look well:</seg>
+                  <seg xml:id="ESC_07_13" corresp="#FSC_07_13"> Oh! but, say you, that is so plain,
                      and so conspicuous, any one might have said as much.</seg>
-                  <seg xml:id="ESC_7_14" corresp="#FSC_7_14">
+                  <seg xml:id="ESC_07_14" corresp="#FSC_07_14">
                      <seg ana="add"> 'Tis true, and what does that signifie?</seg> besides, what
                      harm is there, <hi rend="italic">Acis</hi>, in being intelligible, or speaking
                      like your Neighbours?</seg>
-                  <seg xml:id="ESC_7_15" corresp="#FSC_7_15"> There is one thing, <hi rend="italic"
-                        >Acis</hi>, which you and some </seg>
-                  <seg xml:id="ESC_7_16" corresp="#FSC_7_16"><interp type="sense">Gentlemen of your
-                        Complexion</interp> want very much,</seg>
-                  <seg xml:id="ESC_7_17" corresp="#FSC_7_17"> I know I shall surprise you,</seg>
-                  <seg xml:id="ESC_7_18" corresp="#FSC_7_18"> but there's certainly one thing
+                  <seg xml:id="ESC_07_15" corresp="#FSC_07_15"> There is one thing, <hi
+                        rend="italic">Acis</hi>, which you and some </seg>
+                  <seg xml:id="ESC_07_16" corresp="#FSC_07_16"><interp type="sense">Gentlemen of
+                        your Complexion</interp> want very much,</seg>
+                  <seg xml:id="ESC_07_17" corresp="#FSC_07_17"> I know I shall surprise you,</seg>
+                  <seg xml:id="ESC_07_18" corresp="#FSC_07_18"> but there's certainly one thing
                      wanting in you, which is Wit;</seg>
-                  <seg xml:id="ESC_7_19" corresp="#FSC_7_19"> tho this is not all, there is
+                  <seg xml:id="ESC_07_19" corresp="#FSC_07_19"> tho this is not all, there is
                      something too abounding in you, and that is, The opinion that you have more
                      than other Men.</seg>
-                  <seg xml:id="ESC_7_20" corresp="#FSC_7_20"> This is the Fountain of all your
+                  <seg xml:id="ESC_07_20" corresp="#FSC_07_20"> This is the Fountain of all your
                      pompous Fustian,</seg>
-                  <seg xml:id="ESC_7_21" corresp="#FSC_7_22"> your big words,</seg>
-                  <seg xml:id="ESC_7_22" corresp="#FSC_7_21"> and your perplext Phrases.</seg>
-                  <seg xml:id="ESC_7_23" corresp="#FSC_7_23"> The next time I find you accosting any
-                     body,</seg>
-                  <seg xml:id="ESC_7_24" corresp="#FSC_7_24"> I shall pluck you by your Sleeve, and
-                     tell you in your Ear,</seg>
-                  <seg xml:id="ESC_7_25" corresp="#ESC_7_25"> Dont affect to have Wit; don't pretend
-                     to't,</seg>
-                  <seg xml:id="ESC_7_26" corresp="#ESC_7_26"> Let that be your part;</seg>
-                  <seg xml:id="ESC_7_27" corresp="#ESC_7_27"> but if you can, learn some plain
+                  <seg xml:id="ESC_07_21" corresp="#FSC_07_22"> your big words,</seg>
+                  <seg xml:id="ESC_07_22" corresp="#FSC_07_21"> and your perplext Phrases.</seg>
+                  <seg xml:id="ESC_07_23" corresp="#FSC_07_23"> The next time I find you accosting
+                     any body,</seg>
+                  <seg xml:id="ESC_07_24" corresp="#FSC_07_24"> I shall pluck you by your Sleeve,
+                     and tell you in your Ear,</seg>
+                  <seg xml:id="ESC_07_25" corresp="#ESC_07_25"> Dont affect to have Wit; don't
+                     pretend to't,</seg>
+                  <seg xml:id="ESC_07_26" corresp="#ESC_07_26"> Let that be your part;</seg>
+                  <seg xml:id="ESC_07_27" corresp="#ESC_07_27"> but if you can, learn some plain
                      unaffected Language</seg>
-                  <seg xml:id="ESC_7_28" corresp="#ESC_7_28"> such as those speak, who you fancy
+                  <seg xml:id="ESC_07_28" corresp="#ESC_07_28"> such as those speak, who you fancy
                      have no Wit:</seg>
-                  <seg xml:id="ESC_7_29" corresp="#ESC_7_29"> then perhaps we may think you have
+                  <seg xml:id="ESC_07_29" corresp="#ESC_07_29"> then perhaps we may think you have
                      some your self.</seg>
                </p>
             </div>
@@ -839,10 +1120,10 @@
                      <ref rend="underline"><interp type="sense">Morning and Evening Prayer;</interp>
                      </ref><note type="editorial">"Feuillants" and "Minimes" refer to the
                         congregations celebrating the Mass, not the time of the day when it takes
-                        place. </note></seg>
+                        place.</note></seg>
                   <seg xml:id="ECY_12_05" corresp="#FVL_12_05"> he is good Company, and serves to
                      make a third Man at </seg>
-                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06"> Ombre;</seg>
+                  <seg xml:id="ECY_12_06" corresp="#FVL_12_06">Ombre;</seg>
                   <seg xml:id="ECY_12_07" corresp="#FVL_12_07"> he fits four hours together at <hi
                         rend="italic">
                         <choice>
@@ -872,16 +1153,114 @@
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="8">
-            <head>8. Of the Court.</head>
+            <head>Of the Court.</head>
+            <div type="remark" n="9">
+               <head>9</head>
+               <p>
+                  <seg xml:id="ECT_09_01" corresp="#FCU_09_01">'Tis fit a Man of Honour and Honesty
+                     should make a trial of the Court;</seg>
+                  <seg xml:id="ECT_09_02" corresp="#FCU_09_02"> but he will discover as soon as he
+                     enters there that he is in a new World, which is <seg ana="add">wholly</seg>
+                     unknown to him,</seg>
+                  <seg xml:id="ECT_09_03" corresp="#FCU_09_03"> where Politeness and Vice equally
+                     reign,</seg>
+                  <seg xml:id="ECT_09_04" corresp="#FCU_09_04"> and where Good and Evil are useful
+                        <seg ana="add">for his Advancement</seg>.</seg>
+               </p>
+            </div>
+            <div type="remark" n="16">
+               <head>16</head>
+               <p>
+                  <seg xml:id="ECT_16_01" corresp="#FCU_16_01">You see some Men, who <interp
+                        type="tone">as they pass by you,</interp> give you a light Salute</seg>
+                  <seg xml:id="ECT_16_02" corresp="#FCU_16_02">stretch out their Shoulders, and
+                     thrust out their Breasts like Women;</seg>
+                  <seg xml:id="ECT_16_03" corresp="#FCU_16_03"> they ask you a Question and look
+                     another way,</seg>
+                  <seg xml:id="ECT_16_04" corresp="#FCU_16_04"> speak in a high Tone,</seg>
+                  <seg xml:id="ECT_16_05" corresp="#FCU_16_05"> and think themselves above every one
+                     in their company;</seg>
+                  <seg xml:id="ECT_16_06" corresp="#FCU_16_06"> they stop and the Company comes
+                     about them;</seg>
+                  <seg xml:id="ECT_16_07" corresp="#FCU_16_07"> they have all the Discourse,</seg>
+                  <seg xml:id="ECT_16_08" corresp="#FCU_16_08"> are the Presidents of the
+                     Circle,</seg>
+                  <seg xml:id="ECT_16_09" corresp="#FCU_16_09"> persisting in this ridiculous and
+                     counterfeit Stateliness</seg>
+                  <seg xml:id="ECT_16_10" corresp="#FCU_16_10"> till there comes by some great
+                     Man,</seg>
+                  <seg xml:id="ECT_16_11" corresp="#FCU_16_11"> whose presence throws 'em quickly
+                     down <seg ana="add">from their affected Elevation,</seg></seg>
+                  <seg xml:id="ECT_16_12" corresp="#FCU_16_12"> and reduces 'em to their Native
+                     condition, which is less wretched.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="9">
-            <head>9. Of the Great.</head>
+            <head>Of the Great.</head>
+            <div type="remark" n="3">
+               <head>3</head>
+               <p>
+                  <seg xml:id="EGR_03_01" corresp="#FGR_03_01">Great Men have in one thing a
+                     prodigious advantage over others;</seg>
+                  <seg xml:id="EGR_03_02" corresp="#FGR_03_02"> I don't envy 'em, their Good
+                     Chear,</seg>
+                  <seg xml:id="EGR_03_03" corresp="#FGR_03_03"> Riches,</seg>
+                  <seg xml:id="EGR_03_04" corresp="#FGR_03_04"> Dogs,</seg>
+                  <seg xml:id="EGR_03_05" corresp="#FGR_03_05"> Horses,</seg>
+                  <seg xml:id="EGR_03_06" ana="add"> Equipages,</seg>
+                  <seg xml:id="EGR_03_07" corresp="#FGR_03_08"> Fools</seg>
+                  <seg xml:id="EGR_03_08" corresp="#FGR_03_09"> and Flatterers;</seg>
+                  <seg xml:id="EGR_03_09" corresp="#FGR_03_10"> but I envy 'em the happiness</seg>
+                  <seg xml:id="EGR_03_10" corresp="#FGR_03_11"> of having in their service</seg>
+                  <seg xml:id="EGR_03_11" corresp="#FGR_03_12"> men of as great <interp type="tone"
+                        >Souls</interp> and Sense,</seg>
+                  <seg xml:id="EGR_03_12" corresp="#FGR_03_13"> and sometimes better than their
+                     own.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="10">
             <head>Of the Soveraign, or Commonwealth.</head>
+            <div type="remark" n="1">
+               <head>1</head>
+               <p>
+                  <seg xml:id="ESV_01_01" corresp="#FSV_01_01">When we have run through</seg>
+                  <seg xml:id="ESV_01_02" corresp="#FSV_01_03"> all forms of Government</seg>
+                  <seg xml:id="ESV_01_03" corresp="#FSV_01_02"> without partiality to that we were
+                     born under,</seg>
+                  <seg xml:id="ESV_01_04" corresp="#FSV_01_04"> we can't tell which to conclude
+                     for;</seg>
+                  <seg xml:id="ESV_01_05" corresp="#FSV_01_05"> there's good and ill in 'em
+                     all:</seg>
+                  <seg xml:id="ESV_01_06" corresp="#FSV_01_06"> 'Tis therefore most reasonable and
+                     secure</seg>
+                  <seg xml:id="ESV_01_07" corresp="#FSV_01_07"> to value that of our own Country </seg>
+                  <seg xml:id="ESV_01_08" corresp="#FSV_01_08"> above all others,</seg>
+                  <seg xml:id="ESV_01_09" corresp="#FSV_01_09"> and to submit to it.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="11">
             <head>Of Man.</head>
+            <div type="remark" n="68">
+               <head>68</head>
+               <p>
+                  <seg xml:id="EMN_68_01" corresp="#FHM_64_01">Men would sometimes hide their
+                     imperfections,</seg>
+                  <seg xml:id="EMN_68_02" corresp="#FHM_64_02"> or lessen the opinion we have of
+                     'em,</seg>
+                  <seg xml:id="EMN_68_03" corresp="#FHM_64_03"> by confessing them freely.</seg>
+                  <seg xml:id="EMN_68_04" corresp="#FHM_64_04"> I am a very ignorant fellow,</seg>
+                  <seg xml:id="EMN_68_05" corresp="#FHM_64_05">
+                     <interp type="tone">says a Blockhead that knows nothing</interp></seg>
+                  <seg xml:id="EMN_68_06" corresp="#FHM_64_06"> I am old, says a man</seg>
+                  <seg xml:id="EMN_68_07" corresp="#FHM_64_07"> above threescore:</seg>
+                  <seg xml:id="EMN_68_08" corresp="#FHM_64_08"> And another,</seg>
+                  <seg xml:id="EMN_68_09" corresp="#FHM_64_09"> I'm not Rich,</seg>
+                  <seg xml:id="EMN_68_10" corresp="#FHM_64_10"> when he is wretchedly Poor.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="12">
             <head>Of Judgement.</head>
@@ -909,12 +1288,13 @@
                      in habit,</seg>
                   <seg xml:id="EJG_28_10" corresp="#FJG_28_11">
                      <ref rend="underline"><interp type="sense">or the state with which some
-                           walk,</interp></ref><note type="context">The translator replaced "une
-                        ample calotte"--the larger skull cap worn by Anglican clergy--with "the
-                        state with which some walk." This alteration, coupled with the earlier
-                        omission of "un air reformé," confirms that La Bruyère was here presenting
-                        an unfavorable portrait of an Anglican minister.</note></seg>
-                  <seg xml:id="EJG_28_11" corresp="#FJG_28_12">add nothing to Probity, nor heighten
+                           walk,</interp></ref><note type="context">The translator changed <hi
+                           rend="italic">"une ample calotte"</hi>--possibly the larger skull cap
+                        worn by Anglican clergy--to "the state with which some walk." This change,
+                        along with the omission of "un air reformé" and in light of the subject's
+                        "singular habit," make it likely that the translator took this remark to be
+                        an unfavorable portrait of an Anglican priest.</note></seg>
+                  <seg xml:id="EJG_28_11" corresp="#FJG_28_12"> add nothing to Probity, nor heighten
                      Merit,</seg>
                   <seg xml:id="EJG_28_12" corresp="#FJG_28_13"> but <interp type="sense"
                         >hurt</interp>,</seg>
@@ -938,27 +1318,72 @@
                         repent, reform." <hi rend="ital"> Oxford English Dictionary, s.v.</hi>
                         "reclaim, v., 2.e."</note> after ten years neglect of all Religious
                      duties,</seg>
-                  <seg xml:id="EJG_89_05" corresp="#FJG_80_05"> he is cry'd up and applauded for
-                     it;</seg>
+                  <seg xml:id="EJG_89_05" corresp="#FJG_80_05"> he is cry'd up and applauded for it; </seg>
                   <seg xml:id="EJG_89_06" corresp="#FJG_80_06">
-                     <interp type="tone"> every man's judgement is free</interp>;</seg>
+                     <interp type="tone">every man's judgement is free</interp>;</seg>
                   <seg xml:id="EJG_89_07" corresp="#FJG_80_07"> for my part, I blame his long
                      forgetfulness of his duty,</seg>
                   <seg xml:id="EJG_89_08" corresp="#FJG_80_08"> and think him happy <ref
                         rend="underline"><interp type="sense">in his Reformation</interp>.</ref>
                      <note type="context">In the context of the Glorious Revolution of 1688 and the
                         final triumph of Protestantism in England, the translator's departures from
-                        the source text in the words "reclaims" (with its obsolete meaning of
-                        "repent") for "revient" and "Reformation" for "d'y estre rentré," as well as
-                        his stronger statement on freedom of conscience ("every man's judgement is
-                        free" for "cela est libre"), turn this remark on individual religious
-                        practice into an analogy for the revival of early Church practice in
-                        Protestantism.</note></seg>
+                        the source text in "reclaims" (with its obsolete meaning of "repent") for
+                           <hi rend="italic">"revient"</hi> and "Reformation" for the more neutral
+                           <hi rend="italic">"d'y estre rentré,"</hi> as well as the stronger
+                        statement on freedom of conscience in "every man's judgement is free" for
+                           <hi rend="italic">"cela est libre",</hi> turn this remark on one man's
+                        return to religious practice into an analogy for Christian renewal and
+                        toleration in post-Reformation England.</note></seg>
                </p>
             </div>
          </div>
          <div xml:lang="en" type="chapter" n="13">
             <head>Of the Fashion.</head>
+            <div type="remark" n="26">
+               <head>26</head>
+               <p>
+                  <seg xml:id="EFS_26_01" corresp="#FMD_25_02">Arts and Sciences</seg>
+                  <seg xml:id="EFS_26_02" corresp="#FMD_25_01"> have been vastly improve'd in this
+                     age</seg>
+                  <seg xml:id="EFS_26_03" corresp="#FMD_25_03"> and are all now refin'd to the
+                     highest degree,</seg>
+                  <seg xml:id="EFS_26_04" corresp="#FMD_25_04"> even that of Salvation is reduc'd to
+                     rule and method,</seg>
+                  <seg xml:id="EFS_26_05" corresp="#FMD_25_05"> and augmented with all that's fine
+                     and sublime which humane understanding could invent. </seg>
+                  <seg xml:id="EFS_26_06" corresp="#FMD_25_06"><ref rend="underline"
+                        >Devotion</ref><note type="editorial">Following the French edition, the
+                        English translator qualifies this as <hi rend="italic">"false
+                        devotion"</hi></note> and Geometry have their manners of speaking,</seg>
+                  <seg xml:id="EFS_26_07" corresp="#FMD_25_07"> or what they call terms of
+                     Art;</seg>
+                  <seg xml:id="EFS_26_08" corresp="#FMD_25_08"> and he that is ignorant of
+                     them</seg>
+                  <seg xml:id="EFS_26_09" corresp="#FMD_25_09"> is neither Devout nor a
+                     Geometrician:</seg>
+                  <seg xml:id="EFS_26_10" corresp="#FMD_25_10"> The first Devout men, even those who
+                     were directed by the Apostles,</seg>
+                  <seg xml:id="EFS_26_11" corresp="#FMD_25_11"> were ignorant of 'em ;</seg>
+                  <seg xml:id="EFS_26_12" corresp="#FMD_25_12"> those simple people had only <ref
+                        rend="underline">Faith and Good Works,</ref><note type="context">Debate over
+                        the relative importance of faith and good works characterized Reformation
+                        and Counter-Reformation theology, and was present even within the Anglican
+                        Church <hi rend="ital">(Wikipedia,</hi> "Anglicanism").</note></seg>
+                  <seg xml:id="EFS_26_13" corresp="#FMD_25_13"> and thought of nothing but of
+                     believing and living well.</seg>
+               </p>
+            </div>
+            <div type="remark" n="30">
+               <head>30</head>
+               <p>
+                  <seg xml:id="EFS_30_01" corresp="#FMD_26_01">I doubt not but true Devotion</seg>
+                  <seg xml:id="EFS_30_02" corresp="#FMD_26_02"> is the source of Repose;</seg>
+                  <seg xml:id="EFS_30_03" corresp="#FMD_26_03"> it supports us in this Life,</seg>
+                  <seg xml:id="EFS_30_04" corresp="#FMD_26_04"> and sweetens Death,</seg>
+                  <seg xml:id="EFS_30_05" corresp="#FMD_26_05"> which are advantages that cannot be
+                     drawn from Hypocrisy.</seg>
+               </p>
+            </div>
          </div>
          <div xml:lang="en" type="chapter" n="14">
             <head>Of Certain Customs.</head>
