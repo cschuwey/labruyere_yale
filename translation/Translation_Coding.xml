@@ -1496,7 +1496,7 @@
       </body>
       <interpGrp>
          <interp xml:id="sense">English alters meaning of French</interp>
-         <interp xml:id="tone">English alters tone French</interp>
+         <interp xml:id="tone">English alters tone of French</interp>
          <interp xml:id="omit">Text in French omitted from translation</interp>
          <interp xml:id="add">Text added to English translation</interp>
          <interp xml:id="expan">English uses more words to convey same idea</interp>
