@@ -529,8 +529,9 @@
                      <ref rend="underline"><interp type="sense">une ample
                         calotte,</interp></ref><note type="context">A calotte, or zucchetto, is the
                         small skullcap worn by Roman Catholic clergy. The "ample calotte" here might
-                        refer to the larger skullcap worn by Anglican clergy<hi rend="ital"
-                           >(Wikipedia,</hi> "Zucchetto").</note></seg>
+                        refer to the Canterbury cap, a large, limp biretta introduced in the 17th
+                        century to distinguish Anglican clergy from Catholic priests. <hi
+                           rend="ital">(Wikipedia,</hi> "Canterbury cap").</note></seg>
                   <seg xml:id="FJG_28_12" corresp="#EJG_28_11"> n'ajoûtent rien à la probité, ne
                      relevent pas le merite,</seg>
                   <seg xml:id="FJG_28_13" corresp="#EJG_28_12"> ils le <interp type="sense"
@@ -702,8 +703,8 @@
                <p>
                   <seg xml:id="FQU_20_01"><ref rend="underline">Dans ces jours qu'on appelle
                         saints</ref><note type="context">This remark was omitted from the English
-                        translation, possibly because it ascribes to the Catholic Church a power
-                        to end religious dissention.</note></seg>
+                        translation, possibly because it ascribes to the Catholic Church a power to
+                        end religious dissention.</note></seg>
                   <seg xml:id="FQU_20_02"><ref rend="underline">le Moine confesse,</ref><note
                         type="editorial">As in modern French, in the 17th century <hi rend="ital"
                            >confesser</hi> meant to speak or to hear a confession, <hi rend="ital"
@@ -1288,12 +1289,11 @@
                      in habit,</seg>
                   <seg xml:id="EJG_28_10" corresp="#FJG_28_11">
                      <ref rend="underline"><interp type="sense">or the state with which some
-                           walk,</interp></ref><note type="context">The translator changed <hi
-                           rend="italic">"une ample calotte"</hi>--possibly the larger skull cap
-                        worn by Anglican clergy--to "the state with which some walk." This change,
-                        along with the omission of "un air reformé" and in light of the subject's
-                        "singular habit," make it likely that the translator took this remark to be
-                        an unfavorable portrait of an Anglican priest.</note></seg>
+                           walk,</interp></ref><note type="context">"The state with which some walk"
+                        is a phrase added by the translator to replace <hi rend="italic">"une ample
+                           calotte,"</hi> possibly Bruyere's teasing reference to the Canterbury
+                        cap, a large, loose biretta introduced in the 17th century as part of the
+                        "singular habit" of Anglican clergy.</note></seg>
                   <seg xml:id="EJG_28_11" corresp="#FJG_28_12"> add nothing to Probity, nor heighten
                      Merit,</seg>
                   <seg xml:id="EJG_28_12" corresp="#FJG_28_13"> but <interp type="sense"
