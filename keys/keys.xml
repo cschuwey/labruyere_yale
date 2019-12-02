@@ -142,7 +142,7 @@
           <p>
               <milestone unit="section" xml:id="Esprit15e"/>
            <app>
-             <lem rend="bold">Quelques habiles</lem>
+             <lem rend="bold" xml:id="1-15e">Quelques habiles</lem>
                <rdg source="KeyC">
                    <persName>
                       <ptr target="#Racine"></ptr>

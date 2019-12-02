@@ -44,8 +44,9 @@
                   Moeurs de ce Siècle</title>
                <date when="1694">1694</date>
             </bibl>
-
-
+            <bibl><interp xml:id="supression4">remarque supprimée dans la quatrième édition</interp>
+               <interp xml:id="supression6">remarque supprimée dans la sixième édition</interp>
+            </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -2452,15 +2453,45 @@
                   point.</p>
             </div2>
             <div2 type="section" n="71">
-               <p source="edition5"/>
-               <p source="edition7"/>
-               <p source="edition7"/>
-               <p source="edition7"/>
-               <p source="edition7"/>
-               <p source="edition7"/>
-               <p source="edition7"/>
-               <p source="edition6"/>
-               <p source="edition7"/>
+               <p source="edition5">Il y a bien autant de paresse que de faiblesse à se laisser
+                  gouverner.</p>
+               <p source="edition7">Il ne faut pas penser à gouverner un homme tout d’un coup, et
+                  sans autre préparation, dans une affaire importante et qui serait capitale à lui
+                  ou aux siens ; il sentirait d’abord l’empire et l’ascendant qu’on veut prendre sur
+                  son esprit, et il secouerait le joug par honte ou par caprice : il faut tenter
+                  auprès de lui les petites choses, et de là le progrès jusqu’aux plus grandes est
+                  immanquable. Tel ne pouvait au plus dans les commencements qu’entreprendre de le
+                  faire partir pour la campagne ou retourner à la ville, qui finit par lui dicter un
+                  testament où il réduit son fils à la légitime.</p>
+               <p source="edition7">Pour gouverner quelqu’un longtemps et absolument, il faut avoir
+                  la main légère, et ne lui faire sentir que le moins qu’il se peut sa
+                  dépendance.</p>
+               <p source="edition7">Tels se laissent gouverner jusqu’à un certain point, qui au delà
+                  sont intraitables et ne se gouvernent plus : on perd tout à coup la route de leur
+                  cœur et de leur esprit ; ni hauteur ni souplesse, ni force ni industrie ne les
+                  peuvent dompter : avec cette différence que quelques-uns sont ainsi faits par
+                  raison et avec fondement, et quelques autres par tempérament et par humeur.</p>
+               <p source="edition7">Il se trouve des hommes qui n’écoutent ni la raison ni les bons
+                  conseils, et qui s’égarent volontairement par la crainte qu’ils ont d’être
+                  gouvernés.</p>
+               <p source="edition7">D’autres consentent d’être gouvernés par leurs amis en des
+                  choses presque indifférentes, et s’en font un droit de les gouverner à leur tour
+                  en des choses graves et de conséquence.</p>
+               <p source="edition7">Drance veut passer pour gouverner son maître, qui n’en croit
+                  rien, non plus que le public ; parler sans cesse à un grand que l’on sert, en des
+                  lieux et en des temps où il convient le moins, lui parler à l’oreille ou en des
+                  termes mystérieux, rire jusqu’à éclater en sa présence, lui couper la parole, se
+                  mettre entre lui et ceux qui lui parlent, dédaigner ceux qui viennent faire leur
+                  cour ou attendre impatiemment qu’ils se retirent, se mettre proche de lui en une
+                  posture trop libre, figurer avec lui le dos appuyé à une cheminée, le tirer par
+                  son habit, lui marcher sur les talons, faire le familier, prendre des libertés,
+                  marquent mieux un fat qu’un favori.</p>
+               <p source="edition6">Un homme sage ni ne se laisse gouverner, ni ne cherche à
+                  gouverner les autres : il veut que la raison gouverne seule et toujours.</p>
+               <p source="edition7">Je ne haïrais pas d’être livré par la confiance à une personne
+                  raisonnable, et d’en être gouverné en toutes choses, et absolument, et toujours :
+                  je serais sûr de bien faire, sans avoir le son de délibérer ; je jouirais de la
+                  tranquillité de celui qui est gouverné par la raison.</p>
             </div2>
             <div2 type="section" n="72">
                <p source="edition5">Toutes les passions sont menteuses : elles se déguisent autant
@@ -4732,6 +4763,7 @@
                   je commence à soupçonner qu’il n’ait un mérite importun qui éteigne celui des
                   autres.</p>
             </div2>
+
             <div2 type="section" n="40">
                <p source="edition1">Vous êtes homme de bien, vous ne songez ni à plaire ni à
                   déplaire aux favoris, uniquement attaché à votre maître et à votre devoir : vous
@@ -5310,6 +5342,14 @@
                   et guérit de la cour.</p>
                <p source="edition1">Un esprit sain puise à la cour le goût de la solitude et de la
                   retraite.</p>
+            </div2>
+            <div2 type="section" ana="#supression4">
+               <p source="edition1">une grande parure pour le favori disgracié, c’est la retraite :
+                  il lui est avantageux de disparaître, plutôt que de traîner dans la Ville de
+                  débris d’une faveur qu’il a perdue, et de faire un nouveau personnage si différent
+                  du premier qu’il a soutenu : il conserve au contraire le merveilleux de sa vie
+                  dans la solitude, et mourant pour ainsi dire avant la caducité, il ne laisse de
+                  soi qu’une belle idée et une mémoire agréable.</p>
             </div2>
          </div1>
          <div1 type="chapter" n="9">
@@ -6197,8 +6237,19 @@
                   liaisons ; il peut être entouré de parents et de créatures, mais il n’y tient pas
                   ; il est détaché de tout, et comme isolé. </p>
             </div2>
-            <div2 type="section" n="19">
-               <p></p>
+            <div2 type="section" n="19" ana="#supression6">
+               <p source="edition4">Une belle ressource pour celui qui est tombé dans la disgrâce du prince, c’est la
+                  retraite. Il lui est avantageux de disparaître plutôt que de traîner dans le monde
+                  le débris d’une faveur qu’il a perdue et d’y faire un nouveau personnage si
+                  différent du premier qu’il a soutenu. Il conserve au contraire le merveilleux de
+                  sa vie dans la solitude ; et, mourant pour ainsi dire avant la caducité, il ne
+                  laisse de soi qu’une brillante idée et une mémoire agréable.</p>
+               <p source="edition4">Une plus belle ressource pour le favori disgracié que de se perdre dans la
+                  solitude et ne faire plus parler de soi, c’est d’en faire parler magnifiquement et
+                  de se jeter, s’il se peut, dans quelque haute et généreuse entreprise, qui relève
+                  ou confirme du moins son caractère et rende raison de son ancienne faveur ; qu’il
+                  fasse qu’on se plaigne dans sa chute, et qu’on en rejette une partie sur son
+                  étoile.</p>
             </div2>
             <div2 type="section" n="20">
                <p source="edition6">Je ne doute point qu’un favori, s’il a quelque force et quelque

@@ -1,5 +1,3 @@
-<!--Old File, do not use-->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI [
       <!ENTITY longs "&#x015C;">
@@ -17,13 +15,22 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
+                <title>The Absent Man: A Farce. A digital edition of the 1768 theatrical adaption of Jean de le Bruyère’s Caractères</title>
+                <author>Isaac Bickerstaff</author>
+                <editor xml:id="AB">Andreas Bassett</editor>
+                <editor xml:id="SNM">Sarah Nickel Moore</editor>
+                <sponsor>Univeristy of Washington</sponsor>
             </titleStmt>
             <publicationStmt>
-                <p>This digital project was created for Professor Geoffrey Turnovsky's ENGL 501 Textual Studies and Digital Editing course during the Autumn 2019 quarter at the University of Washington. Our project is an online critical edition of The Absent Man: A Farce, a 1768 theatrical adaption of Jean de la Bruyère’s Caractères. Our project is designed to meet the needs of general readers, students, and researchers interested in engaging an obscure work influenced by La Bruyère’s Caractères.</p>
+                <publisher>University of Washington</publisher>
+                <availability status="free">
+                    <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+                </availability>
+                <date>2019</date> 
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <bibl><title>The Absent Man: A Farce</title> by <author>Isaac Birkerstaff</author>. <pubPlace>London</pubPlace> : 
+                    <publisher>William Grffin</publisher>, <date when="1768">1768</date>. Scanned by Google Books.</bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -143,7 +150,11 @@
         </p>
         <p n="9" rend="first-indent">
             And on the second night,it met with marks
-            of favour still more manifest; this engaged
+            of favour still more manifest. <note>The Absent Man play was performed earlier in 1768 and seems to have garnered mixed results from critics. 
+                Volume 25 of The Critical Review, Or, Annals of Literature (1768) by W. Simpkin and R. Marshall write: 
+                "To render the character of an Absent Man entertaining on the stage, much more is required, and might have been expected, from a writer than a transcript from a writer than a transcript from Bruyere: 
+                his Menalcas is a caricature from Theophrastus whose original draught itself is much less pleasing, natural, and dramatic, than the Parson Adams of our inimitable Fielding."  
+                Coversely, the 1768 The Monthly Review, or Literary Journal by Several Hands writes rather curtly: "A laughable entertainment enough." </note>This engaged
             the author to look over it with greater care
             than he had before done, and having heighten-
             ed some places where he thought it most de-
@@ -354,8 +365,6 @@
                   <speaker rend="italics">Frank</speaker>
                   <p>He is a little out of the way sometimes, 
                indeed.</p></sp>
-               <!--<fw type="footer" place="bottom-center">B</fw>
-               <fw type="footer" place="bottom-right">Land.</fw> -->
                <sp who="#land">
                   <speaker rend="italics">Land</speaker> 
                   <p>But the doctor waits-what excuse will
@@ -365,7 +374,7 @@
                      <speaker rend="italics">Frank</speaker> 
                      <p>Why none-I remember it was a maxim
                      with an attorney I once served, always to tell the 
-                     truth-when a lie <!--lye--> could not serve his purpose better
+                     truth-when a lie could not serve his purpose better
                      -and I think we must e'en follow his example, at
                      present.</p>
                   </sp>
@@ -392,7 +401,7 @@
                to myself, and try how it will be found&emdash;Doctor Gruel, 
                a physicial of noted worth and eminence, comes to 
                a certain gentleman, Mr. Shatterbrain by name; 
-               and on account of an <!--antient--> ancient friendship subsisting
+               and on account of an ancient friendship subsisting
                between thier families, and for some other reasons, 
                which shal be nameless, offers him his only daughter
                for a wife&emdash;Mr. Shatterbrain accepts the proposal,
@@ -522,7 +531,7 @@
                   like&emdash;</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>Lord, Sir!, I could tell you such stories of <note type="edit" place="inline" target="stories">
+                  <p>Lord, Sir!, I could tell you such stories of <note type="critical">
                       See relevant passage from Rowe, LaBruyere (1713): </note>
                   difficulry&emdash;for instance, the other day, he was sitting
                   in a coffee-house, when a fly which had buzz'd
@@ -557,7 +566,7 @@
                   forgot to put his name to the bottom on't.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                   <p>A beggar takes off his hat to him in the<note type="edit" place="inline" target="beggar">
+                   <p>A beggar takes off his hat to him in the<note type="critical">
                        See relevant passage from Rowe, LaBruyere (1713): beggar at church door</note>
                   street, in hopes of recieving an alms; Mr. Shatter-
                   brainmakes him a low bow, tells him, he's his 
@@ -565,7 +574,7 @@
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
                   <p>But the best thing I have heard of him a 
-                      goos while, was, what he did lately at a gentleman's <note type="edit" place="inline" target="gentleman">
+                      good while, was, what he did lately at a gentleman's <note type="critical">
                           See relevant passage from Rowe, LaBruyere (1713): thinking he is in his own house, plays host</note>
                   house in the city; where taking his leave with an 
                   intention to go away; in one of his absent fits, he
@@ -610,9 +619,9 @@
                   <speaker rend="italics">Doctor</speaker>
                   <p>Very well, I'll wait for you; go, and
                   make what haste you can.</p></sp>
-                <note type="text" place="inline">The 1768 play indicates here again that this is
+                <note type="text">The 1768 play indicates here again that this is
                  Scene III, most likely becuase Frank has left the scene. That designation ahs been 
-                 removed in favor of the stage directtion.</note>
+                 removed in favor of the stage direction.</note>
                <stage rend="smallcaps">Doctor Gruel, Landlady.</stage>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
@@ -634,7 +643,7 @@
                   has that care been wholly unprofitable; for I think 
                   I may say without vanity, that there is not a young
                   woman in England, of her age and station, more
-                  <!--compleatly-->completely accomplished than my Flavia.</p></sp>
+                  completely accomplished than my Flavia.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
                   <p>And yet she has no more pride, I warrant, 
@@ -714,7 +723,7 @@
                      <p>Time enough, time enough.</p></sp>
                   <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
-                      <p>I hope, Sir, your mother's very well?</p></sp><note type="edit" place="inline" target="mother's">
+                      <p>I hope, Sir, your mother's very well?</p></sp><note type="critical">
                           See relevant passage from Rowe, LaBruyere (1713): asking after widow's husband</note>
                   <sp who="#doctor">
                      <speaker rend="italics">Doctor</speaker>
@@ -758,7 +767,7 @@
                   <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
                      <p>Frank, what are you doing? my shoes
-                         and stockings, Sir? Why they are in a very beastly <note type="edit" place="inline" target="shoes and stockings">
+                         and stockings, Sir? Why they are in a very beastly <note type="critical">
                              See relevant passage from Rowe, LaBruyere (1713): leaving house in state of undress</note>
                      pickle, that's the truth on't&emdash;and now I look at 
                      them again, upon my soul I am amazed how I could 
@@ -779,7 +788,7 @@
                      Putney, before I percieved that I was in t'other 
                      side the river; where, meeting with a party of friends
                      going to dine at Richmond, I made a fifth in their 
-                     vehicle&emdash;by the way I was obliged to get one of the <note type="edit" place="inline" target="vehicle">
+                     vehicle&emdash;by the way I was obliged to get one of the <note type="critical">
                          See relevant passage from Rowe, LaBruyere (1713): getting in wrong carriage</note>
                      ladies to pay my reckoning&emdash;for when I came to put 
                      my hand in my pocket&emdash;the duce a farthing had I 
@@ -790,7 +799,7 @@
                      purse, Sir, you left it on the hall table, last night, 
                      when you were discharging the chairman&emdash;and 
                      'twas very well I went down as I did, or ten to one 
-                     but somebody might have whipped it away.</p></sp><note type="edit" place="inline" target="whipped it away">
+                     but somebody might have whipped it away.</p></sp><note type="critical">
                          See relevant passage from Rowe, LaBruyere (1713): robbed by footman</note>
                   <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
@@ -904,7 +913,7 @@
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
                      <p>Consider what I'm doing, Sir! If you 
-                     <note type="edit">Remainder of line illegible; it is mose likely 
+                     <note type="text">Remainder of line illegible; it is mose likely 
                      Frank is admonishing Shatter to remain still or he will accidentally
                      cut him.</note></p></sp>
                  <sp who="#shatter">
@@ -1538,8 +1547,67 @@
              </div>
          </div> <!--Act 1 div-->    
       </body>
+    <back>
+        <div type="appendix">
+            <head>The Play</head>
+            <p>The 1768 play/adaptation of The Absent Man: a Farce was printed in quarto format (and 
+                presumably published) by William Griffin, and though the text’s authorship is left anonymous, 
+                the play is attributed to Isaac Bickerstaff, a pseudonym used by Jonathan Swift. The premise 
+                of the play is based on the character Menalcas that appears in Jean de La Bruyère’s Les Caractères 
+                de Théophraste traduits du grec avec Les Caractères ou les moeurs de ce siècle (English title: 
+                Characters, or the Manners of the Age: With the Moral Characters of Theophrastus). Menalcas appears 
+                in the seventh paragraph in the chapter titled “XI. Of Mankind.” The quarto in this digital edition 
+                contains a stamped title page, a dedication to the king (from William Griffin?), a preface, a 
+                prologue by the author of the play, a dramatis personae, and the two act play itself (and all of 
+                its dialogue, stage directions, and scene and act markers and changes).
+                They play was performed by His Majesty’s Servants at the Theater Royal in Drury-Lane.</p>
+        </div>
+        <div type="appendix">
+            <head>The Project</head>
+            <p>The Absent Man project was created as a collaborative effort between Andreas Bassett 
+                and Sarah Moore, under the direction of Dr. Geoff Turnovsky and the ENGL501 Textual 
+                Studies and Digital Editing course during the Autumn 2019 quarter at the University of 
+                Washington. Our project is a online critical edition of The Absent Man: A Farce, a 1768 
+                theatrical adaptation of Jean de la Bruyère’s Les Charactères. Our project is designed 
+                to meet the needs of general reader, students, and researchers interested in engaging in 
+                an obscure work influenced by La Bruyère’s Les Charactères.
+                This edition is informed by the idea of close reading and textual enfolding, that is, that 
+                meaning is created as a text reveals or obscures information. To that end, this digital 
+                project is built around the concept of curating selections of the text to interact with. 
+                Users can, for example, choose to only see dialogue spoken by specific characters, or focus 
+                on specific scenes. Users can also hide or reveal textual and critical notes. In this way, 
+                The Absent Man mimics the separate-but- related character sketches of Les Charactères.</p>
+        </div>
+        <div type="appendix">
+            <head>Development Team</head>
+            <p><persName ref="AB">Andreas Bassett</persName>is a second-year doctoral student at the University 
+                of Washington, Seattle where he studies early modern drama and medieval literature. 
+                His research interests include the Shakespeare apocrypha, print culture, bibliography, 
+                stylometry, the Matter of Britain, and some of the lesser-known dramatists of the 
+                Elizabethan era. At the moment Andreas is working on his master’s essay which traces, 
+                historicizes, and analyzes three apocryphal plays by the obscure “W. S.,” Locrine (1595), 
+                Thomas Lord Cromwell (1602), and The Puritan (1607), a tragedy, history, and comedy, 
+                respectively, as an independent and cohesive trilogy. He is also currently working on 
+                developing an authoritative digital edition of Nostradamus’ Les Prophecies.</p>
+            <p><persName ref="SNM">Sarah Nickel Moore</persName>is currently a doctorate student at 
+                the University of Washington, where she studies late medieval romance and early modern 
+                drama. She has an interest in the environmental humanities and the materiality of textual 
+                manuscripts, and as such several of her past projects have focused on the connections 
+                between animal, women, and text. Currently, Sarah is completing a certificate in textual 
+                studies, in which she is applying her knowledge of the material text to the creation of 
+                digital editions. She received her master’s degree from the University of Alabama in Huntsville, 
+                with thesis work that examined the animal and female bodies in The Avowyng of Arthur and Marie de 
+                France’s Yonec. Sarah continuously seeks to improve her pedagogy, and has repeatedly used her 
+                research as a means of sparking discussion in the classroom, where she aims to help students find 
+                their critical voices.</p>
+        </div>
+        <div type="appendix">
+            <head>Teaching Resources</head>
+            <p>Forthcoming</p>
+        </div>
+    </back>
     </text>  
 </TEI>
-<!-- seg or ref for critical notes -->
-<!-- Sarah=even numbers (6,8,10,12) Andreas=odd numbers (7,9,11,13) -->
+
+
 
