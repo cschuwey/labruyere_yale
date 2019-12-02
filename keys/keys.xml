@@ -60,7 +60,7 @@
              </author>
         </bibl>
         <bibl xml:id="Key1697">
-          <title>Clé de 167</title>
+          <title>Clé de 1697</title>
           <date when="1697"></date>
           <author>
             <persName>
@@ -142,7 +142,7 @@
           <p>
               <milestone unit="section" xml:id="Esprit15e"/>
            <app>
-             <lem rend="bold" xml:id="1-15e">Quelques habiles</lem>
+             <lem rend="bold">Quelques habiles</lem>
                <rdg source="KeyC">
                    <persName>
                       <ptr target="#Racine"></ptr>
@@ -195,7 +195,7 @@
          <head>LXIV</head>
          <p> Je conseille à
            <ref type="key">un auteur né copiste
-                <ptr target="#Villiers" source="#Key1720"/>
+                <ptr target="#Villiers #Brillon" source="#Key1720"/>
                 <ptr target="#Brillon" source="#KeyS"/>
            </ref>
           , et qui a l’extrême modestie de travailler d’après quelqu’un, de ne se choisir pour exemplaires que ces sortes d’ouvrages où il entre de l’esprit, de l’imagination, ou même de l’érudition : S’il n’atteint pas ses originaux, du moins il en approche et il se fait lire. Il doit au contraire éviter comme un écueil de vouloir imiter ceux qui écrivent par humeur, que le cœur fait parler, à qui il inspire les termes et les figures, et qui tirent, pour ainsi dire, de leurs entrailles tout ce qu’ils expriment sur le papier ; dangereux modèles et tout propres à faire tomber dans le froid, dans le bas, et dans le ridicule ceux qui s’ingèrent de les suivre : en effet je rirais d’un homme qui voudrait sérieusement parler mon ton de voix, ou me ressembler de visage. 
@@ -508,5 +508,5 @@
              </person>
     </listPerson>
 
-
+     </div1></back></text></TEI>
 
