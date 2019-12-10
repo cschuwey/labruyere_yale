@@ -305,7 +305,7 @@
                shapes in a line across the top of the page, with two smaller lines 
                top and bottom.</figDesc>
             </figure>
-            <head>The Absent Man</head>
+            <head>THE ABSENT MAN</head>
             <figure>
                <figDesc>A line prefacing the start of the text.</figDesc>
             </figure>
@@ -329,15 +329,15 @@
                   <p>Is my master come home?</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>Your master come home? no, he's not-
-               but there's the Doctor below in his chariot, come to 
+                  <p>Your master come home? no, he's not&emdash;
+               but there's the doctor below in his chariot, come to 
                carry him to his bride.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>Yaw-have I slept long?</p></sp>
+                  <p>Yaw&emdash;have I slept long?</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>You are asleep still, one would think-I 
+                  <p>You are asleep still, one would think&emdash;I 
                tell you there is your master's father-in-law that is to
                be, come to fetch him away!</p></sp>
                <sp who="#frank">
@@ -349,10 +349,10 @@
                   <p>Ay.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>Well-what shall we do?</p></sp>
+                  <p>Well&emdash;what shall we do?</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>Nay, I don't know-I come to ask you.</p></sp>
+                  <p>Nay, I don't know&emdash;I come to ask you.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
                   <p>If I was not acquainted with my master
@@ -368,15 +368,15 @@
                indeed.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker> 
-                  <p>But the doctor waits-what excuse will
+                  <p>But the doctor waits&emdash;what excuse will
                      you make him?</p>
                </sp>
                <sp who="#frank">
                      <speaker rend="italics">Frank</speaker> 
-                     <p>Why none-I remember it was a maxim
+                     <p>Why none&emdash;I remember it was a maxim
                      with an attorney I once served, always to tell the 
-                     truth-when a lie could not serve his purpose better
-                     -and I think we must e'en follow his example, at
+                     truth&emdash;when a lie could not serve his purpose better
+                     &emdash;and I think we must e'en follow his example, at
                      present.</p>
                   </sp>
                   <sp who="#land">
@@ -534,10 +534,10 @@
                   <speaker rend="italics">Frank</speaker>
                   <p>Lord, sir!, I could tell you such stories of <note type="critical">
                       See relevant passage from Rowe, LaBruyere (1713): </note>
-                  difficulry&emdash;for instance, the other day, he was sitting
+                  difficulty&emdash;for instance, the other day, he was sitting
                   in a coffee-house, when a fly which had buzz'd
                   about him a good while, and he was watching an
-                  oppertunity to kill, unluckily settled upon the cheek
+                  opportunity to kill, unluckily settled upon the cheek
                   of a person who stood near him&emdash;Ha! says he, I 
                   believe I have you now; and with that, Sir, he up
                   with his hand, and hit the poor gentleman such a 
@@ -551,16 +551,16 @@
                   the whole company.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>About a fortnight ago, Sir, he looked up 
+                  <p>About a fortnight ago, sir, he looked up 
                   a lady, and a gentleman, in his bed-chamber here, 
                   in the way of a joke only; was call'd down about 
                   some business; forgot it by the time he came to the 
                   foot of the stairs, went our with the key in his 
-                  pocket, and ti was six o'clock before we could set 
+                  pocket, and it was six o'clock before we could set 
                   the pounded couple at liberty.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>His ideas are so confused sometimes, Sir,
+                  <p>His ideas are so confused sometimes, sir,
                   that I have known him write a letter to one person, 
                   direct it to another, and sent it to a third, who 
                   could not devise who it came from; because, he had 
@@ -569,8 +569,8 @@
                   <speaker rend="italics">Land</speaker>
                    <p>A beggar takes off his hat to him in the<note type="critical">
                        See relevant passage from Rowe, LaBruyere (1713): beggar at church door</note>
-                  street, in hopes of recieving an alms; Mr. Shatter-
-                  brainmakes him a low bow, tells him, he's his 
+                  street, in hopes of recieving an alms; Mr. Shatterbrain
+                  makes him a low bow, tells him, he's his 
                   most obedient humble servant, and walks on.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
@@ -600,7 +600,7 @@
                   without making us all ridiculous?</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>'Tis very true, Sir, I am sure I have been 
+                  <p>'Tis very true, sir, I am sure I have been 
                   at my wits end about it all day.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
@@ -609,13 +609,13 @@
                   peep into the Bedford coffee-house?</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>Shall I, Sir?</p></sp>
+                  <p>Shall I, sir?</p></sp>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker>
                   <p>If you think you will find him there.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
-                  <p>It can be no harm to try, Sir.</p></sp>
+                  <p>It can be no harm to try, sir.</p></sp>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker>
                   <p>Very well, I'll wait for you; go, and
@@ -636,7 +636,7 @@
                   very irksome both to herself and me.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>That's a pity, Sir.</p></sp>
+                  <p>That's a pity, sir.</p></sp>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker>
                   <p>In truth and so it is: few father have
@@ -652,14 +652,14 @@
                   <!--samplar-->sampler.</p></sp>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker>
-                  <p>That's her fault, Madam&emdash;a proper pride 
+                  <p>That's her fault, madam&emdash;a proper pride 
                   is woman's virtue&emdash;I should be sorry to see my
                   daughter give herself airs, but at the same time I 
                   would have her know her proper value; I would 
                   not have her throw herself away.</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
-                  <p>No, to be sure, Sir.</p></sp>
+                  <p>No, to be sure, sir.</p></sp>
                <sp who="#doctor">
                   <speaker rend="italics">Doctor</speaker>
                   <p>And yet, had I not interposed my parental
