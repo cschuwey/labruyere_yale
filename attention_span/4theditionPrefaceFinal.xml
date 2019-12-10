@@ -51,7 +51,7 @@
          <figure>
             <graphic url="LaBrImage.png"/>
             <head>Mix of image and Advertisment</head>
-            <figDesc>The first sentence in the Advertistment found in the the fourth edition in English, 1705,London  and the image found in the first edition in french, 1688, Lyon
+            <figDesc>The first sentence in the "Advertistment" found in the the fourth edition in English, 1705,London  and the image found in the first edition in French, 1688, Lyon
             </figDesc>
          </figure>
          <pb n="contents"/>
@@ -67,67 +67,51 @@
             <table type="contents" cols="2" rows="16">
                <row>
                   <cell>Of Polite Learning</cell>
-                  <cell>4</cell>
                </row>
                <row>
                   <cell>Of Personal Merit</cell>
-                  <cell>28</cell>
                </row>
                <row>
                   <cell>Of Women</cell>
-                  <cell>44</cell>
                </row>
                <row>
                   <cell>Of The Heart</cell>
-                  <cell>68</cell>
                </row>
                <row>
                   <cell>Of Society and Conversation</cell>
-                  <cell>81</cell>
                </row>
                <row>
                   <cell>Of the Goods of Forture</cell>
-                  <cell>104</cell>
                </row>
                <row>
                   <cell>Of the City</cell>
-                  <cell>126</cell>
                </row>
                <row>
                   <cell>Of the Court</cell>
-                  <cell>139</cell>
                </row>
                <row>
                   <cell>Of the Great</cell>
-                  <cell>151</cell>
                </row>
                <row>
                   <cell>Of the Soveraign of Commonwealth</cell>
-                  <cell>170</cell>
                </row>
                <row>
                   <cell>Of Man</cell>
-                  <cell>190</cell>
                </row>
                <row>
                   <cell>Of Judgements</cell>
-                  <cell>238</cell>
                </row>
                <row>
                   <cell>Of the Fashion</cell>
-                  <cell>271</cell>
                </row>
                <row>
                   <cell>Of Certain Customs</cell>
-                  <cell>292</cell>
                </row>
                <row>
                   <cell>Of the Pulpit</cell>
-                  <cell>316</cell>
                </row>
                <row>
                   <cell>Of the Withs or Libertines</cell>
-                  <cell>330</cell>
                </row>
             </table>
          </div>
@@ -144,8 +128,8 @@
                of this 
                <hi rend="case(mixed)">Book</hi>
                from the 
-               <hi rend="case(mixed)"><orig>Publick</orig></hi>
-               , and I
+               <hi rend="case(mixed)"><orig>Publick</orig></hi>, 
+               and I
                now restore what it lent me. 
             </p>
                <!--paragraph introduced by editor to increase attention span-->
@@ -155,27 +139,24 @@
                   <orig>finish'd</orig>
                </choice>
                the whole 
-               <hi rend="case(mixed)">Work</hi>
-               , with the utmost regard to 
+               <hi rend="case(mixed)">Work</hi>, 
+                  with the utmost regard to 
                <hi rend="case(mixed)">Truth</hi>
                that I was capable of 
                <orig>&apos;tis</orig>
                but just I should make it 
-               <hi rend="case(mixed)">Restitution</hi>
-               . The 
+               <hi rend="case(mixed)">Restitution</hi>. 
+                  The 
                <hi rend="case(mixed)">World</hi>
                may here view the 
                <hi rend="case(smallcaps)"> picture </hi> 
                I have drawn of it from 
-               <hi rend="case(mixed)">Nature</hi>
-               , and if I have hit on any defects (which it agrees with me to be such)
+               <hi rend="case(mixed)">Nature</hi>, 
+                  and if I have hit on any defects (which it agrees with me to be such)
                <!--paragraph introduced by editor to increase attention span-->
                it may at leisure correct them. This is what a 
                <hi rend="case(mixed)">Man</hi>
-               ought chiefly to propose to
-               himself in 
-               <hi rend="case(mixed)">Writing</hi>
-               , 
+               ought chiefly to propose to himself in, 
                <orig>tho</orig>
                he can&apos;t always be sure of 
                <hi rend="case(smallcaps)"> success</hi>. 
@@ -186,7 +167,7 @@
                distaste 
                <hi rend="case(mixed)">Vice</hi>
                so little as they do, we should never give
-               over reproaching them.
+               over reproaching them
                <note>
                   <term>:</term>
                   <gloss>.</gloss>
@@ -194,8 +175,8 @@
                They would perhaps be worse, were it not for 
                <hi rend="case(smallcaps)">censure</hi>
                and 
-               <hi rend="case(smallcaps)">reproof</hi>
-               , which makes 
+               <hi rend="case(smallcaps)">reproof</hi>, 
+               which makes 
                <hi rend="case(mixed)">Writing</hi>
                and
                <hi rend="case(mixed)">Preaching </hi>
@@ -205,14 +186,14 @@
                <hi rend="case(mixed)">Writer</hi> can&apos;t stifle the 
                <hi rend="case(smallcaps)">joy</hi>
                they feel when they are applauded, but they ought to blush in themselves, if they aim at nothing more than 
-               <hi rend="case(smallcaps)">praise</hi>
-               , by their 
+               <hi rend="case(smallcaps)">praise</hi>, 
+               by their 
                <hi rend="case(mixed)">Discourses</hi>
                or 
                <hi rend="case(mixed)">Writings</hi>.
                Besides, that the most certain and least equivocal 
-               <hi rend="case(smallcaps)">approbation</hi>
-               , is the change of 
+               <hi rend="case(smallcaps)">approbation</hi>, 
+               is the change of 
                <pb n="1"/>
                <hi rend="case(mixed)">Manners</hi> 
                   in their 
@@ -226,8 +207,8 @@
             </p>
                <!--paragraph introduced by editor to increase attention span-->
             <p> We should neither write nor speak but for 
-               <hi rend="case(mixed)">Instruction</hi>
-               ; yet we may lawfully 
+               <hi rend="case(mixed)">Instruction</hi>; 
+               yet we may lawfully 
                <orig>rejoyce</orig>,
                if we at the same time please those to whom we address, and by this means make the
                <hi rend="case(mixed)">Truths</hi>
@@ -239,16 +220,15 @@
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> When any thoughts or reflections slide into a 
-               <hi rend="case(mixed)">Book</hi>
-               , which have neither fire, turn, nor vivacity agreeable to the rest, 
+               <hi rend="case(mixed)">Book</hi>, 
+               which have neither fire, turn, nor vivacity agreeable to the rest, 
                <orig>tho</orig>
-               they seem at first to be admitted for
-               variety, to divert our 
-               <hi rend="case(mixed)">Minds</hi>
-               , and render them more attentive on what is to follow,
+               they seem at first to be admitted for variety, to divert our 
+               <hi rend="case(mixed)">Minds</hi>, 
+               and render them more attentive on what is to follow,
                but otherwise are not proper, sensible, or accommodated to the capacity of the
-               <hi rend="case(mixed)">People</hi>
-               , (whom we must by no means neglect) both the 
+               <hi rend="case(mixed)">People</hi>, 
+               (whom we must by no means neglect) both the 
                <hi rend="case(mixed)">Reader</hi>
                and the
                <hi rend="case(mixed)">Author</hi>
@@ -286,12 +266,12 @@
                   <orig>'em</orig>
                </choice>
                from the court of 
-               <hi rend="italics"> France</hi>
-               , and 
+               <hi rend="italics"> France</hi>, 
+               and 
                <hi rend="case(mixed)">Men</hi>
                of my own 
-               <hi rend="case(mixed)">Nation</hi>
-               , yet they cannot be 
+               <hi rend="case(mixed)">Nation</hi>, 
+               yet they cannot be 
                <choice>
                   <reg>confined</reg>
                   <orig>confin'd</orig>
@@ -299,19 +279,19 @@
                to any one 
                <hi rend="case(smallcaps)">court</hi>
                or
-               <hi rend="case(smallcaps)"> country</hi>
-               , without losing a great deal of the compass and usefulness of my
-               <hi rend="case(mixed)">Book</hi>
-               , and destroying the design of the 
-               <hi rend="case(mixed)">Work</hi>
-               , which is to paint 
+               <hi rend="case(smallcaps)">country</hi>, 
+               without losing a great deal of the compass and usefulness of my
+               <hi rend="case(mixed)">Book</hi>, 
+               and destroying the design of the 
+               <hi rend="case(mixed)">Work</hi>, 
+               which is to paint 
                <hi rend="case(mixed)">Mankind</hi>
                in general, as the order of the 
-               <hi rend="case(smallcaps)">chapters</hi>
-               , and a certain insensible 
-               <orig>connexion</orig>
-               , which the
-               <orig>reflexions</orig>>
+               <hi rend="case(smallcaps)">chapters</hi>, 
+               and a certain insensible 
+               <orig>connexion</orig>, 
+               which the
+               <orig>reflexions</orig>
                that compose them, have one with another, do plainly demonstrate. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
@@ -320,28 +300,25 @@
                enough for 
                <orig>any body</orig>
                to penetrate, I must protest against all 
-               <hi rend="case(smallcaps)">chagrin</hi>
-               ,
-               <hi rend="case(smallcaps)">complaint</hi>
-               , malicious
-               <hi rend="case(smallcaps)">interpretation</hi>
-               , false 
+               <hi rend="case(smallcaps)">chagrin</hi>,
+               <hi rend="case(smallcaps)">complaint</hi>, 
+               malicious
+               <hi rend="case(smallcaps)">interpretation</hi>, 
+               false 
                <hi rend="case(smallcaps)">application</hi>
                and 
-               <hi rend="case(smallcaps)">censure</hi>
-               ; against the insipid 
-               <hi rend="case(mixed)"><orig>Railliers</orig></hi>
-               , and the ill-meaning 
-               <hi rend="case(mixed)">Readers</hi>
-               . 
+               <hi rend="case(smallcaps)">censure</hi>; 
+               against the insipid 
+               <hi rend="case(mixed)"><orig>Railliers</orig></hi>, 
+               and the ill-meaning 
+               <hi rend="case(mixed)">Readers</hi>. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> Men ought to know how to 
-               <hi rend="case(mixed)">Read</hi>
-               , and then hold their 
-               <hi rend="case(smallcaps)">tongues</hi>
-               , or else to be
-               able to relate what they have read,
+               <hi rend="case(mixed)">Read</hi>, 
+               and then hold their 
+               <hi rend="case(smallcaps)">tongues</hi>, 
+               or else to be able to relate what they have read,
                <pb n="2"/>and nothing more or less than what they have read. 
                <note>
                   <term>;</term>
@@ -354,44 +331,43 @@
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> Without these 
-               <hi rend="case(smallcaps)">conditions</hi>
-               , which an exact and scrupulous 
+               <hi rend="case(smallcaps)">conditions</hi>, 
+               which an exact and scrupulous 
                <hi rend="case(mixed)">Author</hi>
                has a right to require of some 
-               <hi rend="case(mixed)">People</hi>
-               , as the only 
+               <hi rend="case(mixed)">People</hi>, 
+               as the only 
                <hi rend="case(smallcaps)">recompence</hi>
                of his 
-               <orig><hi rend="case(mixed)">Labour</hi></orig>
-               , I question whether he ought to continue 
+               <orig><hi rend="case(mixed)">Labour</hi></orig>, 
+               I question whether he ought to continue 
                <hi rend="case(mixed)">Writing</hi>
                , if he prefers his private 
                <hi rend="case(smallcaps)">satisfaction</hi>
                to the 
                <orig>publick</orig> 
-               <hi rend="case(smallcaps)">good</hi>
-               , and a 
+               <hi rend="case(smallcaps)">good</hi>, 
+               and a 
                <hi rend="case(smallcaps)">zeal</hi>
                for promoting 
-               <hi rend="case(mixed)">Truth</hi>
-               . 
+               <hi rend="case(mixed)">Truth</hi>. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> I confess, from the year 
                <date when="1690">1690 </date>
                and before the publishing the 5th 
-               <hi rend="case(mixed)">Edition</hi>
-               , I was divided between an 
-               <hi rend="case(smallcaps)">impatience</hi>
-               , to give my 
+               <hi rend="case(mixed)">Edition</hi>, 
+               I was divided between an 
+               <hi rend="case(smallcaps)">impatience</hi>, 
+               to give my 
                <hi rend="case(mixed)">Book</hi> 
                another 
-               <hi rend="case(smallcaps)">figure</hi>
-               , and a better 
-               <hi rend="case(smallcaps)">form</hi>
-               , by new 
-               <hi rend="case(mixed)">Characters</hi>
-               , and a fear left some 
+               <hi rend="case(smallcaps)">figure</hi>, 
+               and a better 
+               <hi rend="case(smallcaps)">form</hi>, 
+               by new 
+               <hi rend="case(mixed)">Characters</hi>, 
+               and a fear left some 
                <hi rend="case(mixed)">People</hi>
                should say
                <note>
@@ -401,12 +377,11 @@
                Will these 
                <hi rend="case(mixed)">Characters</hi>
                never be 
-               <orig>finisht</orig>
-               ? shall we never see 
+               <orig>finisht</orig>? 
+               shall we never see 
                <orig>any thing</orig>
                else from this
-               <hi rend="case(mixed)">Author</hi>
-               ? 
+               <hi rend="case(mixed)">Author</hi>? 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> On one side, several 
@@ -421,20 +396,20 @@
                of 
                <hi rend="case(mixed)">Mankind</hi>
                will every year furnish you with a 
-               <hi rend="case(mixed)">Volume</hi>
-               . While others, with a great deal of 
-               <hi rend="case(mixed)">Reason</hi>
-               , made me apprehend the capriciousness of the
-               <hi rend="case(smallcaps)"> multitude</hi>
-               , and the levity of the 
-               <hi rend="case(mixed)">People</hi>
-               , (with whom, however, I have good cause to be content.) 
+               <hi rend="case(mixed)">Volume</hi>. 
+               While others, with a great deal of 
+               <hi rend="case(mixed)">Reason</hi>, 
+               made me apprehend the capriciousness of the
+               <hi rend="case(smallcaps)"> multitude</hi>, 
+               and the levity of the 
+               <hi rend="case(mixed)">People</hi>, 
+               (with whom, however, I have good cause to be content.) 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> These were always suggesting to me, that for these thirty years past, few have read
                with any other intent, than for the sake of reading, and that to amuse the 
-               <hi rend="case(mixed)">World</hi>
-               , there ought to be new 
+               <hi rend="case(mixed)">World</hi>, 
+               there ought to be new 
                <hi rend="case(smallcaps)">chapters</hi>
                and a new 
                <hi rend="case(smallcaps)">title</hi>
@@ -450,36 +425,35 @@
                   <orig>fill'd</orig>
                </choice>
                the 
-               <hi rend="case(smallcaps)">shops</hi>
-               , and 
+               <hi rend="case(smallcaps)">shops</hi>, 
+               and 
                <orig>stockt</orig>
                the 
                <hi rend="case(smallcaps)">age</hi>
                with piles of dull and tedious 
-               <hi rend="case(mixed)">Books</hi>
-               , without 
-               <hi rend="case(smallcaps)">stile</hi>
+               <hi rend="case(mixed)">Books</hi>, 
+               without 
+               <hi rend="case(smallcaps)"><orig>stile</orig></hi>
                or 
-               <hi rend="case(smallcaps)">meaning</hi>
-               , 
+               <hi rend="case(smallcaps)">meaning</hi>, 
                <hi rend="case(smallcaps)">rules</hi>
                or 
-               <hi rend="case(smallcaps)">order</hi>
-               , contrary to 
+               <hi rend="case(smallcaps)">order</hi>, 
+               contrary to 
                <hi rend="case(mixed)">Decency</hi>
                or 
-               <hi rend="case(mixed)">Manners</hi>
-               , written in haste, read with precipitation, and only read for their 
-               <hi rend="case(smallcaps)">novelty</hi>
-               . They added farther, if I could not enlarge a sensible 
-               <hi rend="case(mixed)">Book</hi>
-               , I had best sit still, and do nothing. 
+               <hi rend="case(mixed)">Manners</hi>, 
+               written in haste, read with precipitation, and only read for their 
+               <hi rend="case(smallcaps)">novelty</hi>. 
+               They added farther, if I could not enlarge a sensible 
+               <hi rend="case(mixed)">Book</hi>, 
+               I had best sit still, and do nothing. 
             </p>
             <!--paragraph introduced by editor to increase attention span--> 
             <p> I in some measure 
                <pb n="3"/>took both their 
-               <hi rend="case(smallcaps)">advices</hi>
-               , as opposite as they 
+               <hi rend="case(smallcaps)">advices</hi>, 
+               as opposite as they 
                <choice>
                <reg>seemed</reg>
                <orig>seem’d</orig>
@@ -490,12 +464,12 @@
                   <orig>observ’d</orig>
                </choice>
                a medium which disagreed with neither. I did not scruple to add some new 
-               <hi rend="case(smallcaps)">remarks</hi>
-               , to those which already had doubled the bulk of the first 
+               <hi rend="case(smallcaps)">remarks</hi>, 
+               to those which already had doubled the bulk of the first 
                <hi rend="case(smallcaps)">edition</hi>
                of my 
-               <hi rend="case(mixed)">Book</hi>
-               , but that the 
+               <hi rend="case(mixed)">Book</hi>, 
+               but that the 
                <orig><hi rend="case(mixed)">Publick</hi></orig>
                might not be
                <choice>
@@ -505,9 +479,11 @@
                to read over what was done
                before, to come at what has been added since, and that they might immediately find
                out what they would only read, I took care to distinguish the second augmentation by
-               a greater mark, and the first by a less, as well to shew the progress of my
-               <hi rend="title">Characters</hi>
-               , as to guide the 
+               a greater mark, and the first by a less, as well to 
+               <orig>shew</orig> 
+               the progress of my
+               <hi rend="title">Characters</hi>, 
+               as to guide the 
                <hi rend="case(mixed)">Reader</hi>
                in the choice he might be willing to make. 
             </p>
@@ -518,14 +494,14 @@
                   <orig>shou'd</orig>
                </choice>
                never have done with these 
-               <hi rend="case(mixed)">Additions</hi>
-               , I added to all my exactness, the sincere promise to venture on
+               <hi rend="case(mixed)">Additions</hi>, 
+               I added to all my exactness, the sincere promise to venture on
                nothing more of this kind. If any one accuses me with breaking my word, by adding in
                the three ensuing 
                <hi rend="case(mixed)">Editions</hi>
                a great many new 
-               <hi rend="case(mixed)">Remarks</hi>
-               , I confess ingenuously I had not
+               <hi rend="case(mixed)">Remarks</hi>, 
+               I confess ingenuously I had not
                the power to suppress &apos;em. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
@@ -535,82 +511,80 @@
                to entertain the 
                <hi rend="case(mixed)">World</hi>
                with 
-               <hi rend="case(smallcaps)">novelties</hi>
-               , as to deliver down to 
-               <hi rend="case(mixed)">Posterity</hi>
-               , a 
+               <hi rend="case(smallcaps)">novelties</hi>, 
+               as to deliver down to 
+               <hi rend="case(mixed)">Posterity</hi>, 
+               a 
                <hi rend="case(mixed)">Book</hi>
                of 
-               <hi rend="case(mixed)">Manners</hi>
-               , more pure, regular and 
+               <hi rend="case(mixed)">Manners</hi>, 
+               more pure, regular and 
                <orig>compleat</orig>. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> To conclude, what I have written are not 
                <choice>
-                  <reg>designe</reg>
+                  <reg>designed</reg>
                   <orig>design'e</orig>
                </choice>
-               for maxims;
-               those are like 
+               for maxims; those are like 
                <hi rend="case(mixed)">Laws</hi>
                in 
-               <hi rend="case(mixed)">Morality</hi>
-               , and I have neither
+               <hi rend="case(mixed)">Morality</hi>, 
+               and I have neither
                <hi rend="case(mixed)">Genius</hi>
                nor 
                <hi rend="case(mixed)">Authority</hi>
                sufficient to 
                <orig>qualifie</orig>
                me for a 
-               <hi rend="case(mixed)">Legislator</hi>
-               . I know well enough, I have offended against the 
+               <hi rend="case(mixed)">Legislator</hi>. 
+               I know well enough, I have offended against the 
                <hi rend="case(smallcaps)">custom</hi>
                of writing 
-               <hi rend="case(mixed)">Maxims</hi>
-               , which are 
+               <hi rend="case(mixed)">Maxims</hi>, 
+               which are 
                <choice>
                   <reg>delivered</reg>
                   <orig>deliver'd</orig>
                </choice>
                in short and concise 
-               <hi rend="case(smallcaps)">terms</hi>
-               , like the manner of 
-               <hi rend="case(mixed)">Oracles</hi>
-               . 
+               <hi rend="case(smallcaps)">terms</hi>, 
+               like the manner of 
+               <hi rend="case(mixed)">Oracles</hi>. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> Some of my 
                <hi rend="case(mixed)">Remarks</hi>
                are of this kind, others are more extended. We think of things
                differently, and we express &apos;em in a turn altogether as different: By a 
-               <hi rend="case(smallcaps)">sentence</hi>
-               , an 
-               <hi rend="case(smallcaps)">argument</hi>
-               , a 
-               <hi rend="case(smallcaps)">metaphor</hi>
-               , or some other 
+               <hi rend="case(smallcaps)">sentence</hi>, 
+               an 
+               <hi rend="case(smallcaps)">argument</hi>, 
+               a 
+               <hi rend="case(smallcaps)">metaphor</hi>, 
+               or some other 
                <hi rend="case(smallcaps)">figure</hi>,
                <pb n="4"/>
                 a
-               <hi rend="case(smallcaps)"> parallel</hi>
-               , a simple comparison, by a story at length, or a single 
-               <hi rend="case(smallcaps)">passage</hi>
-               , by a 
+               <hi rend="case(smallcaps)"> parallel</hi>, 
+               a simple comparison, by a story at length, or a single 
+               <hi rend="case(smallcaps)">passage</hi>, 
+               by a 
                <hi rend="case(smallcaps)">description</hi>
                or a 
-               <hi rend="case(smallcaps)">picture</hi>
-               , from whence proceeds the
-               length or shortness of my 
-               <hi rend="case(mixed)">Reflections</hi>
-               . 
+               <hi rend="case(smallcaps)">picture</hi>, 
+               from 
+               <orig>whence</orig> 
+               proceeds the length or shortness of my 
+               <hi rend="case(mixed)">Reflections</hi>. 
             </p>
             <!--paragraph introduced by editor to increase attention span-->
             <p> Those who write 
-               <hi rend="case(mixed)">Maxims</hi>
-               , would be thought 
-               <orig>infaillible</orig>
-               ; on the contrary, I allow 
+               <hi rend="case(mixed)">Maxims</hi>, 
+               would be thought 
+               <orig>infaillible</orig>; 
+               on the contrary, I allow 
                <orig>any body</orig>
                to say of me, my 
                <hi rend="case(mixed)">Remarks</hi>
