@@ -961,8 +961,8 @@
                         that I cannot at present stay to enjoy the benefit of
                         it. I must leave you, my boy, and I will give you
                         half an hour to guess the occasion, which forces me
-                        to do a thing, otherwise so repugnant to my incli-
-                        nations.</p>
+                        to do a thing, otherwise so repugnant to my inclinations.
+                     </p>
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
@@ -972,7 +972,7 @@
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
                      <p>Then, without farther circumlocution, 
-                         Sir, I am going to be married.</p>
+                         sir, I am going to be married.</p>
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
@@ -1131,15 +1131,14 @@
                  <stage rend="smallcaps">Welldon, Frank, Shatterbrain.</stage>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
-                     <p>Frank, where is my sword ? I have been  
+                     <p>Frank, where is my sword? I have been  
                         looking for it all over the next room, and can't  
                         find it.</p>
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
                      <p>Your sword, sir! Your sword <stage type="modifier"><hi rend="italics">(looking  
-                         about for it.)</hi></stage> Why it hung in the next chamber,be- 
-                        hind the door.</p>
+                         about for it.)</hi></stage> why it hung in the next chamber, behind the door.</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
@@ -1171,8 +1170,8 @@
                  <sp who="#shatter">
                      <speaker rend="italics">Shatter</speaker>
                      <p>Nay if you have business&emdash;But, I hope, I 
-                        shall have the pleasure of seeing you when I can en-
-                        joy your company longer, and entertain you better.</p>
+                        shall have the pleasure of seeing you when I can enjoy
+                         your company longer, and entertain you better.</p>
                  </sp>
                  <sp who="#welldon">
                      <speaker rend="italics">Well</speaker>
@@ -1291,7 +1290,7 @@
                  </sp>
                  <sp who="#land"> 
                      <speaker rend="italics">Land</speaker>
-                     <p>L<stage type="business"><hi rend="italics">(Having gone to the door.)</hi></stage> I can't tell; there's
+                     <p><stage type="business"><hi rend="italics">(Having gone to the door.)</hi></stage> I can't tell; there's
                          a whole coach full enquiring for your master.
                      </p>
                  </sp>
@@ -1540,7 +1539,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p>Psha, rot my revengea&emdash;I shall be played
+                     <p>Psha, rot my revenge&emdash;I shall be played
                          the mischief with, and all because you could not
                          keep your tongue within your teeth.
                      </p>
