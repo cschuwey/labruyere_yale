@@ -329,6 +329,7 @@
                   <p>Is my master come home?</p></sp>
                <sp who="#land">
                   <speaker rend="italics">Land</speaker>
+                   <!--Need to figure out why the emdashes aren't rendering in the html-->
                   <p>Your master come home? no, he's not&emdash;
                but there's the doctor below in his chariot, come to 
                carry him to his bride.</p></sp>
