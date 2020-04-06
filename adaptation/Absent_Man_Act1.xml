@@ -1610,6 +1610,83 @@
                       <p>Oh, faith, I can't.
                       </p>
                   </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>Try.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>I can't, as I hope to be saved.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>What did you think I wanted to come 
+                          into the house for then?
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Nay, I did not know; I thought you only 
+                          wanted to come in.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>Psha!
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Why, 'tis true; you did not say nothing 
+                          about wanting to see Miss Flavia. Besides, she has 
+                          company with her, and I could tell you a secret, so 
+                          I could, if you'd swear you would not mention it.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>I won't, upon honour.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>She's to be married tonight, then; mas- 
+                          ter's gone for her husband and the parson.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>I'll tell you what, Robin, if you'll con- 
+                          trive to let Miss Flavia know, that I am here, and 
+                          would be glad to speak with her, I'll give you this 
+                          half-crown.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>No, but you won't.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>Take it, and put it in your pocket.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Give me your hand&emdash;odds bobs, you're a
+                          rare fellow. Stay here, I am just going to carry in 
+                          the tea; I'll give her a sly pinch, and bring her out 
+                          to you directly.
+                      </p>
+                  </sp>
+              </div>
+              <div type="scene" n="12">
+                  <head>Scene II</head>
+                  <stage rend="italics"><hi rend="sc">Weldon</hi>, then <hi rend="sc">Robin</hi>, who runs across the stage, 
+                      and <hi rend="sc">Flavia</hi>, who follows him.</stage>
               </div>
           </div> <!--Act 2 div-->
       </body>
