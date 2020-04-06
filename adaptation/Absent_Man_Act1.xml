@@ -1546,7 +1546,20 @@
                      </p>
                  </sp>
              </div>
-         </div> <!--Act 1 div-->    
+         </div> <!--Act 1 div--> 
+          <div type="act" n="2">
+              <head>THE ABSENT MAN</head>
+              <figure>
+                  <figDesc>A line prefacing the start of the text.</figDesc>
+              </figure>
+              <head>Act 1</head>
+              <div type="scene" n="1">
+                  <head>Scene I</head>
+                  <stage rend="italics"><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
+                      Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
+                      enters in a hurry.</stage> 
+              </div>
+          </div>
       </body>
     <back>
         <div type="appendix">
