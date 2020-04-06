@@ -1549,17 +1549,69 @@
          </div> <!--Act 1 div--> 
           <div type="act" n="2">
               <head>THE ABSENT MAN</head>
-              <figure>
-                  <figDesc>A line prefacing the start of the text.</figDesc>
-              </figure>
-              <head>Act 1</head>
+              <head>Act 2</head>
               <div type="scene" n="1">
                   <head>Scene I</head>
-                  <stage rend="italics"><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
-                      Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
-                      enters in a hurry.</stage> 
+                  <stage rend="italics">Changes to an antichamber in <hi rend="sc">Dr. Gruel's</hi> house. 
+                  </stage> 
+                  <stage rend="smallcaps">Welldon, Robin</stage>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Pray now, sir, walk softly; can't you 
+                         tread upon your tip-toes as I do?
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>My honest little lad, I tread as softly as 
+                          ever I can.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Did you scrape your shoes before you came 
+                          up?
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>I did.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>If the old codger should come now!&emdash;we
+                          expects him every minute&emdash;'Ecod I would not for 
+                          sixpence, so I would not&emdash;If he did, and knew I let 
+                          you in, he'd lick me to pieces.
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>Never fear&emdash;But you have done nothing,
+                          after all, without you procure me a fight of Miss
+                           Flavia.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>What!
+                      </p>
+                  </sp>
+                  <sp who="#welldon">
+                      <speaker rend="italics">Welldon</speaker>
+                      <p>Without you procure me a sight of Miss
+                          Flavia, I say, you might as well have left me stand- 
+                          ing in the street still.
+                      </p>
+                  </sp>
+                  <sp who="#robin">
+                      <speaker rend="italics">Robin</speaker>
+                      <p>Oh, faith, I can't.
+                      </p>
+                  </sp>
               </div>
-          </div>
+          </div> <!--Act 2 div-->
       </body>
     <back>
         <div type="appendix">
