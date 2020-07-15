@@ -59,7 +59,7 @@
         </docTitle>
         <docImprint rend="center">
             <lb/><name><hi rend="all-caps" style="font-size:12px; font-family:serif; font-weight:100; font-style:regular;">L O N D O N</hi></name>
-            <lb/>Printed for<name type="person"><hi rend="all-caps"> WILLIAM GRIFFIN</hi></name> in <name>Catharine-
+            <lb/>Printed for <name type="person"><hi rend="all-caps">WILLIAM GRIFFIN</hi></name> in <name>Catharine-
                 <lb/>Street</name> in, the <name>Strand.</name>
             <date type="roman-numerals" rend="center"><hi rend="all-caps">MDCCLXVIII</hi></date>
         </docImprint>
@@ -312,8 +312,8 @@
             <head>Act 1</head>
             <div type="scene" n="1">
                <head>Scene I</head>
-               <stage rend="italics"><hi rend="sc">Shatterbrain's</hi>Lodgings. A Dressing-Table, with a 
-               Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi> 
+               <stage><hi rend="sc">Shatterbrain's </hi>Lodgings. A Dressing-Table, with a 
+               Glass, &amp;c. Frank asleep in a Chair. <hi rend="sc">Landlady</hi>
                enters in a hurry.</stage>
                <sp who="#land"> 
                   <speaker rend="italics">Landlady</speaker>
@@ -330,9 +330,8 @@
                <sp who="#land">
                   <speaker rend="italics">Landlady</speaker>
                    <!--Need to figure out why the emdashes aren't rendering in the html-->
-                  <p>Your master come home? no, he's not&emdash;
-               but there's the doctor below in his chariot, come to 
-               carry him to his bride.</p></sp>
+                  <p>Your master come home? no, he's not&emdash;but there's the doctor below in his 
+                      chariot, come to carry him to his bride.</p></sp>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
                   <p>Yaw&emdash;have I slept long?</p></sp>
@@ -394,11 +393,11 @@
                <head>Scene II</head>
                <sp who="#frank"><speaker rend="italics">Frank</speaker> <stage><hi rend="italics">standing silent for some time, falls into an immoderate 
                   fit of Laughter.</hi></stage>
-                   <p>Well, if ever I <stage rend="italics">(laughs again.)</stage>If ever I heard the 
+                   <p>Well, if ever I <stage>(laughs again.)</stage>If ever I heard the 
                likes of this since I was born, I wish I may be married
                to a woman of three-score, with the constitution 
                of a girl of sixteen&emdash;Why it will be the general hoke 
-               of the whole town&emdash;that a man, <stage rend="italics">(Laughs again)</stage> that 
+               of the whole town&emdash;that a man, <stage>(Laughs again)</stage> that 
                a man should be such a&emdash;but stay&emdash;I'll tell the story
                to myself, and try how it will be found&emdash;Doctor Gruel, 
                a physicial of noted worth and eminence, comes to 
@@ -671,7 +670,7 @@
              
             <div type="scene" n="4">
                <head>Scene IV</head>
-               <stage rend="italics"><hi rend="sc">Doctor Gruel, Landlady, Frank</hi>out of breath.</stage>
+               <stage><hi rend="sc">Doctor Gruel, Landlady, Frank</hi>out of breath.</stage>
                <sp who="#frank">
                   <speaker rend="italics">Frank</speaker>
                   <p>My master's coming, Sir.</p></sp>
@@ -713,7 +712,7 @@
                   <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
                      <p>Come, my things, do dress quickly&emdash;my
-                     things to dress.&emdash; Doctor Gruel you most obedient 
+                     things to dress.&emdash;Doctor Gruel you most obedient 
                      humble servant&emdash;I beg ten thousand pardons, but
                      I'll be ready to wait on you immediately&emdash;Frank,
                      why don't you make haste?</p></sp>
@@ -857,7 +856,7 @@
                      <speaker rend="italics">Shatterbrain</speaker>
                      <p>If he should, let him know I shall be glad
                          to see him at Doctor Gruel's, which will be my
-                         place of reﬁdence henceforward. <stage rend="italics">(After picking his teeth, 
+                         place of reﬁdence henceforward. <stage>(After picking his teeth, 
                          in a negligent manner, while Frank seems to put
                          his things in order.)</stage>Well! upon my soul, Mrs.
                          Junket is a very agreeable woman, and so is her
@@ -888,7 +887,7 @@
                      <p>Now, if you'll sit down, Sir, and let me
                         put this cloth about you, I'll make your chin 
                         as smooth as the surface of a bowling green in a 
-                        twinkling&emdash; <stage rend="italics">(Shatterbrain sits down to be shaved;
+                        twinkling&emdash; <stage>(Shatterbrain sits down to be shaved;
                         Frank puts on the shaving cloth. Shatterbrain talking 
                         while the servant lathers him)</stage></p></sp>
                  <sp who="#shatter">
@@ -907,7 +906,7 @@
                          it from me, as I was getting oﬀ the horse&emdash;</p></sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">(aside)</stage>It's well your legs are not loose, we should 
+                     <p><stage>(aside)</stage>It's well your legs are not loose, we should 
                          soon have you reduced to your stumps</p></sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
@@ -934,7 +933,7 @@
                  <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
                      <p>My dear Welldon, ten thousand welcomes.</p>
-                     <stage rend="italics">(Shatterbrain, forgetting the condition he is in,
+                     <stage>(Shatterbrain, forgetting the condition he is in,
                      rises with the cloth about him, and runs and salutes 
                      Welldon on both sides of the face)</stage>
                      <p>My fellow tells me you have designed me this favour 
@@ -1053,7 +1052,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">(Looking very gravely in his face)</stage>What a
+                     <p><stage>(Looking very gravely in his face)</stage>What a
                          strange and unaccountable thing is love&emdash;which, like
                          an inundation, turns every thing that stands in its way 
                          topsy turvy&emdash;Misleads the judgment&emdash;blinds the 
@@ -1211,7 +1210,7 @@
                      <speaker rend="italics">Frank</speaker>
                      <p>I'll take care, Sir.</p>
                  </sp>
-                 <stage rend="italics">Frank goes out, and Shatterbrain takes his hat
+                 <stage>Frank goes out, and Shatterbrain takes his hat
                     from the table as if going out too, but suddenly 
                     stops at the door.</stage>
                  <sp who="#shatter">
@@ -1220,7 +1219,7 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">(Within)</stage>Here, Sir, coming, Sir</p>
+                     <p><stage>(Within)</stage>Here, Sir, coming, Sir</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
@@ -1228,11 +1227,11 @@
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
-                     <p><stage rend="italics">(Entering)</stage>What do you want, Sir?</p>
+                     <p><stage>(Entering)</stage>What do you want, Sir?</p>
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
-                     <p>Nothing.<stage rend="italics">Exit with his hat over his night cap.</stage></p>
+                     <p>Nothing.<stage>Exit with his hat over his night cap.</stage></p>
                  </sp>
                  <sp who="#frank">
                      <speaker rend="italics">Frank</speaker>
@@ -1243,7 +1242,7 @@
                  </sp>
                  <sp who="#shatter">
                      <speaker rend="italics">Shatterbrain</speaker>
-                     <p><stage rend="italics">(Returning)</stage>What ails the fellow? What
+                     <p><stage>(Returning)</stage>What ails the fellow? What
                      do you bawl so for?</p>
                  </sp>
                  <sp who="#frank">
@@ -1511,7 +1510,7 @@
                  <sp who="#frolick"> 
                      <speaker rend="italics">Frolick</speaker>
                      <p>Heavens! Don't hurry one so&emdash;
-                     <stage rend="italics">(Treading on her toes, as they go our she pushes him.)</stage>
+                     <stage>(Treading on her toes, as they go our she pushes him.)</stage>
                      Oh, you devil, you have kill'd my corns.</p>
                  </sp>
                  
@@ -1553,7 +1552,7 @@
               <div type="scene" n="1"> <!--Look to see if scene divisions need to be numbered continuously
                   through entire play or can be nested like this-->
                   <head>Scene I</head>
-                  <stage rend="italics">Changes to an antichamber in <hi rend="sc">Dr. Gruel's</hi> house. 
+                  <stage>Changes to an antichamber in <hi rend="sc">Dr. Gruel's</hi> house. 
                   </stage> 
                   <stage rend="smallcaps">Welldon, Robin</stage>
                   <sp who="#robin">
@@ -1686,7 +1685,7 @@
               </div>
               <div type="scene" n="2">
                   <head>Scene II</head>
-                  <stage rend="italics"><hi rend="sc">Weldon</hi>, then <hi rend="sc">Robin</hi>, who runs across the stage, 
+                  <stage><hi rend="sc">Weldon</hi>, then <hi rend="sc">Robin</hi>, who runs across the stage, 
                       and <hi rend="sc">Flavia</hi>, who follows him.</stage>
                   <sp who="#welldon">
                       <speaker rend="italics">Welldon</speaker>
@@ -1699,7 +1698,7 @@
                   </sp>
                   <sp who="#welldon">
                       <speaker rend="italics">Welldon</speaker>
-                      <p>You wonder to see me&emdash; Perhaps you are dislpeased.</p>
+                      <p>You wonder to see me&emdash;Perhaps you are dislpeased.</p>
                   </sp>
                   <sp who="#flavia">
                       <speaker rend="italics">Falvia</speaker>
@@ -1830,7 +1829,7 @@
               </div>
               <div type="scene" n="4">
                   <head>Scene IV</head>
-                  <stage rend="italics"><hi rend="sc">Doctor Gruel</hi>, <hi rend="sc">Flavia</hi>, and then<hi rend="sc">Robin.</hi></stage>
+                  <stage><hi rend="sc">Doctor Gruel</hi>, <hi rend="sc">Flavia</hi>, and then<hi rend="sc">Robin.</hi></stage>
                   <sp who="#doctor">
                       <speaker rend="italics">Doctor</speaker>
                       <p>Flavia, child, I hear you have got company within ; who are they?</p>
@@ -1887,7 +1886,7 @@
                   </sp>
                   <sp who="#robin">
                       <speaker rend="italics">Robin</speaker>
-                      <stage rend="italics">(turning to the door)</stage>
+                      <stage>(turning to the door)</stage>
                       <p>Pussy, pussy, pussy, pussy.</p>
                   </sp>
                   <sp who="#doctor">
@@ -1918,7 +1917,7 @@
               </div>
               <div type="scene" n="5">
                   <head>Scene V</head>
-                  <stage rend="italics"><hi rend="sc">Doctor Gruel, Flavia, Mrs. Junket, Miss Frolick, Slang, Coxcomb.</hi></stage>
+                  <stage><hi rend="sc">Doctor Gruel, Flavia, Mrs. Junket, Miss Frolick, Slang, Coxcomb.</hi></stage>
                   <sp who="#junket">
                       <speaker rend="italics">Mrs. Jun.</speaker>
                       <p>Oh, Doctor Gruel! I'm vastly glad you are come; I have been longing 
@@ -2004,7 +2003,7 @@
               <div type="scene" n="6">
                   <head>Scene V</head> <note type="textual">Although this is labeld as scene five, it is 
                   actually scene six by count. The scene numbering remains confused untiil scene eight.</note>
-                  <stage rend="italics"><hi rend="sc">Doctor Gruel, Slang, Coxcomb, Mrs. Junket, 
+                  <stage><hi rend="sc">Doctor Gruel, Slang, Coxcomb, Mrs. Junket, 
                       Miss Frolick, Flavia,</hi> and <hi rend="sc">Shatterbrain</hi> who pops in, and 
                       runs back again.</stage>
                   <sp who="#doctor">
@@ -2062,7 +2061,7 @@
                           I went up slairs, where I found a chamber very elegantly furnish'd (so like this, 
                           in every particular, egad, that l never once minded the difference) Well, Sir, 
                           there I sat, and sat, expecting every minute when I should see you come in; 
-                          till at last my patience being quite exhausted&emdash; I ventur'd to open a 
+                          till at last my patience being quite exhausted&emdash;I ventur'd to open a 
                           door behind me, which lead into another appartment.</p>
                   </sp>
                   <sp who="#junket">
@@ -2160,12 +2159,12 @@
                       <speaker rend="italics">Miss Jun.</speaker>
                       <p>Good bye, Crazy.</p>
                   </sp>
-                  <stage rend="italics">slapping Shatterbrain on the back as she goes out</stage>
+                  <stage>slapping Shatterbrain on the back as she goes out</stage>
                   </div>
               <div type="scene" n="7">
                   <head>Scene VIII</head><note type="textual">The scene numbers here skip from scene five to
                   scene eight with no noticable break in the print text.</note>
-                  <stage rend="italics"><hi rend="sc">Doctor Gruel, </hi>seeing the company to the Door, <hi rend="sc">
+                  <stage><hi rend="sc">Doctor Gruel, </hi>seeing the company to the Door, <hi rend="sc">
                       Flavis, Shattterbrain, </hi>and <hi rend="sc">Robin </hi>with a Letter.</stage>
                   <sp who="#robin">
                       <speaker rend="italics">Robin</speaker>
@@ -2173,7 +2172,7 @@
                   </sp>
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
-                      <p>A letter! give it me <stage rend="italics">(taking the letter without looking 
+                      <p>A letter! give it me <stage>(taking the letter without looking 
                           at the superscription, he opens and reads it to himself)</stage> bless my 
                           soul Doctor Gruel, here's a very odd thing; egad, I don't know well what to 
                           make of it, but I believe I must go from you for a little while, for it 
@@ -2199,7 +2198,7 @@
                   <sp who="#robin">
                       <speaker rend="italics">Robin</speaker>
                       <p>Please your worship, I said it was for you, but the gentleman took it out of 
-                          my hand. <stage rend="italics">(Here <hi rend="sc">Flavia</hi>flurting her fan, 
+                          my hand. <stage>(Here <hi rend="sc">Flavia</hi>flurting her fan, 
                           <hi rend="sc">Shatterbrain</hi>rakes ir from her, in an absent fit, and begins
                           to fiddle with it.)</stage></p>
                   </sp>
@@ -2228,7 +2227,7 @@
                   </sp>
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
-                      <p>Pray offer no excuses.&emdash;but wont you take this along with you <stage rend="italics">
+                      <p>Pray offer no excuses.&emdash;but wont you take this along with you <stage>
                          (offering him the fan)</stage></p>
                   </sp>
                   <sp who="#doctor">
@@ -2238,16 +2237,16 @@
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
                       <p>I beg ten thousand pardons&emdash;I hope Miss, I have not done it any 
-                          mischief <stage rend="italics">(giving it to her torn to pieces)</stage></p>
+                          mischief <stage>(giving it to her torn to pieces)</stage></p>
                   </sp> 
               </div>
               <div type="scene" n="8">
                   <head>Scene VIII</head>
-                  <stage rend="italics"><hi rend="sc">Shatterbrian, Flavia, Robin,</hi> who sets wine 
+                  <stage><hi rend="sc">Shatterbrian, Flavia, Robin,</hi> who sets wine 
                   upon the table, and afterwards <hi rend="sc">Welldon.</hi></stage>
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
-                      <p>Madam, won't you chuse to be seated&emdash;a chair <stage rend="italics">(Robin 
+                      <p>Madam, won't you chuse to be seated&emdash;a chair <stage>(Robin 
                           places an armed chair which Shatterbrain sits down in himself: musing and 
                           laying one leg carelesslv over the other, without taking any notice of
                           Flavia. He pulls out his snuff-box spilling his snuff; takes a letter for 
@@ -2261,7 +2260,7 @@
                   </sp>
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
-                      <p><stage rend="italics">(Not perceiving that Flavia has stolen off)</stage>I'll 
+                      <p><stage>(Not perceiving that Flavia has stolen off)</stage>I'll 
                           assure you, Madam, it is with infinite satisfaction, that I conclude this 
                           alliance with Doctor Gruel's family; and though I have not had an opportunity 
                           of paying my court to you, as much as you might expect, I am not less warm 
@@ -2269,14 +2268,14 @@
                           our being as happy when married, as if my addresses had been longer: for 
                           a man, Madam, may make a very affectionate husband, without having been a 
                           very violent lover: it indeed often happens, that the length of preliminaries 
-                          weakens the vigour of the contract, and so&emdash;<stage rend="italics">
-                          (turning about by degrees and looking all round, theroom)</stage> Miss&emdash; 
-                          MissFlavia; Hey dey, gone, left me <stage rend="italics">(taþping at the 
+                          weakens the vigour of the contract, and so&emdash;<stage>
+                          (turning about by degrees and looking all round, theroom)</stage> Miss&emdash;
+                          MissFlavia; Hey dey, gone, left me <stage>(taþping at the 
                           door where Welldon is)</stage> where are you?</p>
                   </sp>
                   <sp who="#welldon">
                       <speaker rend="italics">Welldon</speaker>
-                      <p>Here, here, <stage rend="italics"> (Welldon opens the door and Shatterbrain 
+                      <p>Here, here, <stage> (Welldon opens the door and Shatterbrain 
                       takes him by the hand without looking at him.)</stage></p>
                   </sp>
                   <sp who="#shatter">
@@ -2285,12 +2284,12 @@
                   </sp>
                   <sp who="#welldon">
                       <speaker rend="italics">Welldon</speaker>
-                      <p>Shatterbrain, theh devil <stage rend="italics">(struggling to get loose)</stage></p>
+                      <p>Shatterbrain, theh devil <stage>(struggling to get loose)</stage></p>
                   </sp>
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
                       <p>Nay, I hold you now, and you shan't escape. Come sit down here, I must have a 
-                         little serious conversation with you <stage rend="italics">(seats him in the 
+                         little serious conversation with you <stage>(seats him in the 
                          chair, and pulling another for himsef perceives his mistake)</stage> Welldon!</p>
                   </sp>
                   <sp who="#welldon">
@@ -2308,7 +2307,7 @@
               </div>
                   <div type="scene" n="9">
                       <head>Scene IX</head> 
-                      <stage rend="italics"><hi rend="sc">Shatterbrain, Welldon, Mrs. Junket, 
+                      <stage><hi rend="sc">Shatterbrain, Welldon, Mrs. Junket, 
                           Miss Frolick, Flavia.</hi></stage>
                       <sp who="#flavia">
                           <speaker rend="italics">Flavia</speaker>
@@ -2316,7 +2315,7 @@
                       </sp>
                       <sp who="#junket">
                           <speaker rend="italics">Junket</speaker>
-                          <p>Nevermind; <stage rend="italics">(to Miss Frolick) </stage>do you draw off 
+                          <p>Nevermind; <stage>(to Miss Frolick) </stage>do you draw off 
                           Shatterbrain.</p>
                       </sp>
                       <sp who="#frolick">
@@ -2327,7 +2326,7 @@
                       <sp who="#shatter">
                           <speaker rend="italics">Shatterbrain</speaker>
                           <p>I shall be proud to receive any thing from your fair hands, Madam&emdash;
-                              Welldon I'm glad to see you. <stage rend="italics">(Shatterbrain goes out
+                              Welldon I'm glad to see you. <stage>(Shatterbrain goes out
                               with <hi rend="sc">Miss Frolick, </hi>leaving <hi rend="sc">Welldon, Flavia, </hi>and 
                               <hi rend="sc">Mrs. Junket </hi>on the Stage.</stage></p>
                       </sp>
@@ -2394,7 +2393,7 @@
                       <sp who="#junket">
                           <speaker rend="italics">Junket</speaker>
                           <p>Then the business is done, if you will only take my advice, and have a 
-                             little confidence. <stage rend="italics">(A loud laugh without)</stage>
+                             little confidence. <stage>(A loud laugh without)</stage>
                              Bless me!</p>
                       </sp>
                       <sp who="#welldon">
@@ -2404,7 +2403,7 @@
                   </div>
               <div type="scene" n="10">
                   <head>Scene X</head> 
-                  <stage rend="italics"><hi rend="sc"> Mrs. Junket, Welldon, Flavia, Slang, Coxcomb.</hi></stage>
+                  <stage><hi rend="sc"> Mrs. Junket, Welldon, Flavia, Slang, Coxcomb.</hi></stage>
                   <sp who="#coxcomb">
                       <speaker rend="italics">Coxcomb</speaker>
                       <p>Ha! ha! ha! ha!</p>
@@ -2453,7 +2452,7 @@
                 </div>
               <div type="scene" n="12">
                   <head>Scene XI</head> 
-                  <stage rend="italics"><hi rend="sc">Coxcomb, Shatterbrain, Miss Frolick </hi>and then 
+                  <stage><hi rend="sc">Coxcomb, Shatterbrain, Miss Frolick </hi>and then 
                   <hi rend="sc">Mrs. Junket.</hi></stage>
                   <sp who="#coxcomb">
                       <speaker rend="italics">Coxcomb</speaker>
@@ -2516,7 +2515,7 @@
               </div>
               <div type="scene" n="12">
                   <head>Scene XII</head>
-                  <stage rend="italics"><hi rend="sc">Slang, Coxcomb, Shatterbrain<note type="text">
+                  <stage><hi rend="sc">Slang, Coxcomb, Shatterbrain<note type="text">
                       spelled "Shateerbrain"</note>, Mrs. Junket.</hi></stage>
                   <sp who="#junket">
                       <speaker rend="italics">Junket</speaker>
@@ -2533,14 +2532,14 @@
                       <speaker rend="italics">Junket</speaker>
                       <p>Thou wilt ever be a mad creature&emdash;Lord, I'm in a mighty joyous humour 
                           to-night. I wish we had fiddles here, I could dance from this, till six 
-                          o'clock to-morrow morning. Tol lol lol. <stage rend="italics">(taking Coxcomb 
+                          o'clock to-morrow morning. Tol lol lol. <stage>(taking Coxcomb 
                           by the hand, and dancing about) </stage>Coxcomb, we'll positively come 
                           to your lodgings one of these evenings, and you shall give us a dance, and 
                           a bit of supper. Tol de rol lol.</p>
                   </sp>
                   <sp who="#slang">
                       <speaker rend="italics">Slang</speaker>
-                      <p><stage rend="italics">(Taking a glass of wine) </stage>Mr. Shatterbrain 
+                      <p><stage>(Taking a glass of wine) </stage>Mr. Shatterbrain 
                           here's to you.</p>
                   </sp>
                   <sp who="#shatter">
@@ -2615,7 +2614,7 @@
               </div>
               <div type="scene" n="13">
                   <head>Scene XIII</head>
-                  <stage rend="italics"><hi rend="sc">Slang, Coxcomb, Shatterbrain, Mrs. Junket, Miss. 
+                  <stage><hi rend="sc">Slang, Coxcomb, Shatterbrain, Mrs. Junket, Miss. 
                   Frolick, </hi>and then <hi rend="sc">Doctor Gruel.</hi></stage>
                   <sp who="#junket">
                       <speaker rend="italics">Junket</speaker>
@@ -2722,7 +2721,7 @@
                </div>
               <div type="scene" n="14">
                   <head>Scene XIV</head>
-                  <stage rend="italics"><hi rend="sc">Shatterbrain, Mrs. Junket, Miss Frolick, Slang, 
+                  <stage><hi rend="sc">Shatterbrain, Mrs. Junket, Miss Frolick, Slang, 
                       Coxcomb, Doctor Gruel, Flavia, </hi>and afterwards <hi rend="sc">Welldon.</hi></stage>
                   <sp who="#doctor">
                       <speaker rend="italics">Doctor</speaker>
@@ -2838,7 +2837,7 @@
                   <sp who="#shatter">
                       <speaker rend="italics">Shatterbrain</speaker>
                       <p>Is it, why then to shew you that I don't harbour the least resentment upon 
-                          that account; here, Mr. Welldon, take this young lady <stage rend="italics">
+                          that account; here, Mr. Welldon, take this young lady <stage>
                           (giving him Doctor Gruel's hand by mistake) </stage>whatever right and title I was like to 
                           have in her, I freely resign to you.</p>
                   </sp>
@@ -2862,7 +2861,7 @@
               <div type="scene" n="15">
                   <head>Scene XIV<note type="text">Again, the scene numbering is incorrect. This should 
                       be scene fifteen.</note></head>
-                  <stage rend="italics"><hi rend="sc">Shatterbrain, Mrs. Junket, Miss Frolick, Slang, 
+                  <stage><hi rend="sc">Shatterbrain, Mrs. Junket, Miss Frolick, Slang, 
                       Coxcomn, Doctor Gruel, Flavia, Welldon, Robin.</hi></stage>
                   <sp who="#robin">
                       <speaker rend="italics">Robin</speaker>
